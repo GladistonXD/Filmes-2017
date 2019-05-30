@@ -7,10 +7,6 @@ smb://GLADISTON-XD/Filmes/7 Desejos.mkv
 smb://GLADISTON-XD/Filmes/A Baba 2017 720p.mkv
 #EXTINF:-1,A Cabana
 smb://GLADISTON-XD/Filmes/A Cabana.mkv
-#EXTINF:-1,A Camisinha Assassina
-smb://GLADISTON-XD/Filmes/A Camisinha Assassina.mp4
-#EXTINF:-1,A Casa da Mãe Joana
-smb://GLADISTON-XD/Filmes/A Casa da Mãe Joana.avi
 #EXTINF:-1,A Dama do Espelho O Ritual das trevas 2017
 smb://GLADISTON-XD/Filmes/A Dama do Espelho O Ritual das trevas 2017.mp4
 #EXTINF:-1,A Epidemia
@@ -25,14 +21,12 @@ smb://GLADISTON-XD/Filmes/A Família do Futuro.avi
 smb://GLADISTON-XD/Filmes/A Família.mp4
 #EXTINF:-1,A fera
 smb://GLADISTON-XD/Filmes/A fera.rmvb
+#EXTINF:-1,A Filha de Osiris
+smb://GLADISTON-XD/Filmes/A Filha de Osiris.mp4
 #EXTINF:-1,A Fuga das Galinhas
 smb://GLADISTON-XD/Filmes/A Fuga das Galinhas.avi
 #EXTINF:-1,A Fuga Do Planeta Terra
 smb://GLADISTON-XD/Filmes/A Fuga Do Planeta Terra.mp4
-#EXTINF:-1,A Grande Familia
-smb://GLADISTON-XD/Filmes/A Grande Familia.avi
-#EXTINF:-1,A Grande Tormenta
-smb://GLADISTON-XD/Filmes/A Grande Tormenta.rmvb
 #EXTINF:-1,A hora do rush 1
 smb://GLADISTON-XD/Filmes/A hora do rush 1.mp4
 #EXTINF:-1,A hora do rush 2
@@ -43,18 +37,14 @@ smb://GLADISTON-XD/Filmes/A hora do rush 3.mp4
 smb://GLADISTON-XD/Filmes/A hora mais escura - part 01.rmvb
 #EXTINF:-1,A hora mais escura - part 02
 smb://GLADISTON-XD/Filmes/A hora mais escura - part 02.rmvb
-#EXTINF:-1,A isca
-smb://GLADISTON-XD/Filmes/A isca.rmvb
+#EXTINF:-1,A Justiceira
+smb://GLADISTON-XD/Filmes/A Justiceira.mkv
 #EXTINF:-1,A Mentira
 smb://GLADISTON-XD/Filmes/A Mentira.avi
-#EXTINF:-1,A morte de da parabéns 2
-smb://GLADISTON-XD/Filmes/A morte de da parabéns 2.mkv
 #EXTINF:-1,A morte do demônio 1080p
 smb://GLADISTON-XD/Filmes/A morte do demônio 1080p.mp4
 #EXTINF:-1,A Morte Te Dá Parabéns 2017 1080p
 smb://GLADISTON-XD/Filmes/A Morte Te Dá Parabéns 2017 1080p.mkv
-#EXTINF:-1,A mulher do meu Amigo
-smb://GLADISTON-XD/Filmes/A mulher do meu Amigo.mp4
 #EXTINF:-1,A Mulher Invisivel
 smb://GLADISTON-XD/Filmes/A Mulher Invisivel.avi
 #EXTINF:-1,A Nova Onda do Imperador
@@ -67,16 +57,8 @@ smb://GLADISTON-XD/Filmes/A ultima bala.rmvb
 smb://GLADISTON-XD/Filmes/A Vigilante do Amanhã.mp4
 #EXTINF:-1,A Órfã 2009
 smb://GLADISTON-XD/Filmes/A Órfã 2009.mp4
-#EXTINF:-1,A Justiceira
-smb://GLADISTON-XD/Filmes/A.Justiceira.2018.720p.BluRay.x264.DUAL.WWW.COMANDOTORRENTS.COM.mkv
-#EXTINF:-1,A Morte te da Parabês
-smb://GLADISTON-XD/Filmes/A.Morte.Te.Da.Parabens.2.2019.720p.HDCAM.DUBLADO.WWW.COMANDOTORRENTS.COM.mkv
-#EXTINF:-1,Acordando no Inferno
-smb://GLADISTON-XD/Filmes/Acordando no Inferno.avi
 #EXTINF:-1,Afro Samurai
 smb://GLADISTON-XD/Filmes/Afro Samurai.mp4
-#EXTINF:-1,Alita
-smb://GLADISTON-XD/Filmes/Alita.Battle.Angel.2019.720p.HDCAM.DUBLADO.WWW.COMANDOTORRENTS.COM.mkv
 #EXTINF:-1,Amanhecer violento
 smb://GLADISTON-XD/Filmes/Amanhecer violento.rmvb
 #EXTINF:-1,American Pie 5
@@ -91,12 +73,8 @@ smb://GLADISTON-XD/Filmes/Annabelle 2 - A Criação do Mal 2017.mkv
 smb://GLADISTON-XD/Filmes/Antes so do que mal Casado.avi
 #EXTINF:-1,Ao Cair da Noites
 smb://GLADISTON-XD/Filmes/Ao Cair da Noites.mp4
-#EXTINF:-1,Aquaman
-smb://GLADISTON-XD/Filmes/Aquaman.2019.720p.WEBRip.x264-DUAL.WWW.COMANDOTORRENTS.COM.mkv
-#EXTINF:-1,Aquaman
-smb://GLADISTON-XD/Filmes/Aquaman.mkv
-#EXTINF:-1,Arquivos Game of Thrones em HD 7x7 - SuperFlix - Seus Filmes e Séries Online em um só lugar
-smb://GLADISTON-XD/Filmes/Arquivos Game of Thrones em HD 7x7 - SuperFlix - Seus Filmes e Séries Online em um só lugar.MP4
+#EXTINF:-1,Aquaman 2019 720p
+smb://GLADISTON-XD/Filmes/Aquaman 2019 720p.mkv
 #EXTINF:-1,As Branquelas
 smb://GLADISTON-XD/Filmes/As Branquelas.avi
 #EXTINF:-1,As Ferias de Mr Bean
@@ -115,30 +93,24 @@ smb://GLADISTON-XD/Filmes/Atlantis, O Reino Perdido.avi
 smb://GLADISTON-XD/Filmes/Atômica.mp4
 #EXTINF:-1,Barbie - Rapunzel
 smb://GLADISTON-XD/Filmes/Barbie - Rapunzel.avi
-#EXTINF:-1,Baywatch
-smb://GLADISTON-XD/Filmes/Baywatch.S.O.S.Malibu.2017.Versão.sem.Censura.720p.BluRay.6CH.x264.DUAL-WWW.BLUDV.COM.mkv
+#EXTINF:-1,Baywatch SOS Malibu
+smb://GLADISTON-XD/Filmes/Baywatch SOS Malibu.mkv
 #EXTINF:-1,Ben Caplan performs -Down to the River- in Studio Q - YouTube
 smb://GLADISTON-XD/Filmes/Ben Caplan performs -Down to the River- in Studio Q - YouTube.MP4
 #EXTINF:-1,Besouro
 smb://GLADISTON-XD/Filmes/Besouro.avi
-#EXTINF:-1,BLUDV
-smb://GLADISTON-XD/Filmes/BLUDV.mp4
 #EXTINF:-1,Bob Esponja
 smb://GLADISTON-XD/Filmes/Bob Esponja.avi
-#EXTINF:-1,Bohemian
-smb://GLADISTON-XD/Filmes/Bohemian.Rhapsody.2018.720p.BluRay.5.1.x264-DUAL.WWW.COMANDOTORRENTS.COM.mkv
 #EXTINF:-1,Bruna Surfistinha
 smb://GLADISTON-XD/Filmes/Bruna Surfistinha.avi
 #EXTINF:-1,Cadaver
 smb://GLADISTON-XD/Filmes/Cadaver.mkv
 #EXTINF:-1,Capitão América - Guerra civil
 smb://GLADISTON-XD/Filmes/Capitão América - Guerra civil.mp4
-#EXTINF:-1,Capitão America 2
-smb://GLADISTON-XD/Filmes/Capitão.América.2.O.Soldado.Invernal.2014.720p.BluRay.5.1.x264.DUAL-WWW.BLUDV.COM.mkv
-#EXTINF:-1,Capitão America 1
-smb://GLADISTON-XD/Filmes/Capitão.América.O.Primeiro.Vingador.2011.1080p.BluRay.5.1.x264.DUAL-BLUDV.mkv
-#EXTINF:-1,Captitã Marvel
-smb://GLADISTON-XD/Filmes/Captitã.Marvel.2019.720p.HDCAM.DUBLADO.WWW.COMANDOTORRENTS.COM.mkv
+#EXTINF:-1,Capitão América 1 O Primeiro Vingador
+smb://GLADISTON-XD/Filmes/Capitão América 1 O Primeiro Vingador.mkv
+#EXTINF:-1,Capitão América 2
+smb://GLADISTON-XD/Filmes/Capitão América 2.mkv
 #EXTINF:-1,Carros 3
 smb://GLADISTON-XD/Filmes/Carros 3.mkv
 #EXTINF:-1,Caçada Brutal 2017
@@ -163,12 +135,12 @@ smb://GLADISTON-XD/Filmes/Con Air.mp4
 smb://GLADISTON-XD/Filmes/Contatos de 4º Grau.mp4
 #EXTINF:-1,Cães e Gatos
 smb://GLADISTON-XD/Filmes/Cães e Gatos.rmvb
+#EXTINF:-1,De Repente uma Família
+smb://GLADISTON-XD/Filmes/De Repente uma Família.mkv
 #EXTINF:-1,De volta ao jogo
 smb://GLADISTON-XD/Filmes/De volta ao jogo.mp4
-#EXTINF:-1,De repente uma familia
-smb://GLADISTON-XD/Filmes/De.Repente.uma.Família.2018.720p.BluRay.6CH.x264.DUAL-WWW.COMANDOTORRENTS.COM.mkv
-#EXTINF:-1,Deadpool
-smb://GLADISTON-XD/Filmes/Deadpool.2.2018.720p.BluRay.6CH.x264.DUAL-WWW.BLUDV.COM.mkv
+#EXTINF:-1,Deadpool 2
+smb://GLADISTON-XD/Filmes/Deadpool 2.mkv
 #EXTINF:-1,Death Note - Light Up the New World 2016
 smb://GLADISTON-XD/Filmes/Death Note - Light Up the New World 2016.avi
 #EXTINF:-1,Death Note - O Caderno da Morte (Death Note, 2017) Dublado
@@ -185,12 +157,8 @@ smb://GLADISTON-XD/Filmes/Django.rmvb
 smb://GLADISTON-XD/Filmes/Do outro lado da porta.mp4
 #EXTINF:-1,Dragonball Z - O Retorno do guerreiro lendario
 smb://GLADISTON-XD/Filmes/Dragonball Z - O Retorno do guerreiro lendario.divx
-#EXTINF:-1,Dupla Explosiva 2017
-smb://GLADISTON-XD/Filmes/Dupla Explosiva 2017.mkv
 #EXTINF:-1,Dupla Explosiva
 smb://GLADISTON-XD/Filmes/Dupla Explosiva.mp4
-#EXTINF:-1,Dupla implacavel
-smb://GLADISTON-XD/Filmes/Dupla implacavel.mp4
 #EXTINF:-1,Dupla Implacável
 smb://GLADISTON-XD/Filmes/Dupla Implacável.mp4
 #EXTINF:-1,Duro de matar 5
@@ -199,26 +167,24 @@ smb://GLADISTON-XD/Filmes/Duro de matar 5.rmvb
 smb://GLADISTON-XD/Filmes/Eagles - HOTEL CALIFORNIA Video @ARTISTdirect.mp4
 #EXTINF:-1,Ela é Demais Pra Mim
 smb://GLADISTON-XD/Filmes/Ela é Demais Pra Mim.avi
-#EXTINF:-1,Em Ritmo de Fuga 2017
-smb://GLADISTON-XD/Filmes/Em Ritmo de Fuga 2017.avi
 #EXTINF:-1,Encontro
 smb://GLADISTON-XD/Filmes/Encontro.Marcado.2017.mkv
 #EXTINF:-1,Enrolados
 smb://GLADISTON-XD/Filmes/Enrolados.avi
 #EXTINF:-1,Entrando numa fria maior ainda
 smb://GLADISTON-XD/Filmes/Entrando numa fria maior ainda.avi
+#EXTINF:-1,Escola Da Morte 2019 720p
+smb://GLADISTON-XD/Filmes/Escola Da Morte 2019 720p.mkv
 #EXTINF:-1,Esquadrão Classe A
 smb://GLADISTON-XD/Filmes/Esquadrão Classe A.mp4
 #EXTINF:-1,Esther
 smb://GLADISTON-XD/Filmes/Esther.mp4
-#EXTINF:-1,ET SI GAME OF THRONES ÉTAIT UN ANIME  - MALEC
-smb://GLADISTON-XD/Filmes/ET SI GAME OF THRONES ÉTAIT UN ANIME  - MALEC.mp4
+#EXTINF:-1,EuroTrip Passaporte Para a Confusão
+smb://GLADISTON-XD/Filmes/EuroTrip Passaporte Para a Confusão.mkv
 #EXTINF:-1,Evocando espiritos
 smb://GLADISTON-XD/Filmes/Evocando espiritos.mp4
 #EXTINF:-1,Feito Na America 2017
 smb://GLADISTON-XD/Filmes/Feito Na America 2017.mkv
-#EXTINF:-1,Ficção
-smb://GLADISTON-XD/Filmes/Ficção.Científica.Volume.1.A.Filha.de.Osiris.2017.1080p.BluRay.x264.DUAL-WWW.BLUDV.COM.mp4
 #EXTINF:-1,Final Fantasy XV Dublado
 smb://GLADISTON-XD/Filmes/Final Fantasy XV Dublado.mp4
 #EXTINF:-1,Fingindo ser policia
@@ -235,18 +201,14 @@ smb://GLADISTON-XD/Filmes/Forsaken.mp4
 smb://GLADISTON-XD/Filmes/Força G.avi
 #EXTINF:-1,Fragmentado
 smb://GLADISTON-XD/Filmes/Fragmentado.MP4
-#EXTINF:-1,FS
-smb://GLADISTON-XD/Filmes/FS.Futurama.T07E25.Dub.mkv
-#EXTINF:-1,G.I. Joe Retaliation
+#EXTINF:-1,Fred Mercury - Bohemian Rhapsody
+smb://GLADISTON-XD/Filmes/Fred Mercury - Bohemian Rhapsody.mkv
+#EXTINF:-1,G
 smb://GLADISTON-XD/Filmes/G.I. Joe Retaliation.rmvb
-#EXTINF:-1,Game of thrones 6x10
-smb://GLADISTON-XD/Filmes/Game of thrones 6x10.mp4
 #EXTINF:-1,Garota exemplar
 smb://GLADISTON-XD/Filmes/Garota exemplar.mp4
 #EXTINF:-1,Gladiador
 smb://GLADISTON-XD/Filmes/Gladiador.avi
-#EXTINF:-1,gnash - i hate u, i love u ft
-smb://GLADISTON-XD/Filmes/gnash - i hate u, i love u ft. olivia o'brien [music video] - YouTube_2.MKV
 #EXTINF:-1,Goosebumps 2
 smb://GLADISTON-XD/Filmes/Goosebumps 2.mkv
 #EXTINF:-1,Guardiões da Galáxia 2014 720p
@@ -255,14 +217,12 @@ smb://GLADISTON-XD/Filmes/Guardiões da Galáxia 2014 720p.mkv
 smb://GLADISTON-XD/Filmes/Guardiões da Galáxia Vol 2 2017 720p.mkv
 #EXTINF:-1,Guerra Mundial Z
 smb://GLADISTON-XD/Filmes/Guerra Mundial Z.mp4
-#EXTINF:-1,HeadHunters (2011) BluRay 720p Dual 5
-smb://GLADISTON-XD/Filmes/HeadHunters (2011) BluRay 720p Dual 5.1 - TDF.mkv
-#EXTINF:-1,Headhunters
-smb://GLADISTON-XD/Filmes/Headhunters.mp4
+#EXTINF:-1,HeadHunters (2011) BluRay 720p
+smb://GLADISTON-XD/Filmes/HeadHunters (2011) BluRay 720p.mkv
 #EXTINF:-1,Hereditário
 smb://GLADISTON-XD/Filmes/Hereditário.mkv
-#EXTINF:-1,Hermanoteu na Terra de Gooda
-smb://GLADISTON-XD/Filmes/Hermanoteu na Terra de Gooda.avi
+#EXTINF:-1,Homem ao Mar
+smb://GLADISTON-XD/Filmes/Homem ao Mar.mkv
 #EXTINF:-1,Homem Aranha De volta ao lar
 smb://GLADISTON-XD/Filmes/Homem Aranha De volta ao lar.mkv
 #EXTINF:-1,Homem De Ferro 1
@@ -273,52 +233,32 @@ smb://GLADISTON-XD/Filmes/Homem De Ferro 2.avi
 smb://GLADISTON-XD/Filmes/Homem Formiga Dublado.mp4
 #EXTINF:-1,Homem-Aranha no Aranhaverso
 smb://GLADISTON-XD/Filmes/Homem-Aranha no Aranhaverso.mkv
-#EXTINF:-1,Homem
-smb://GLADISTON-XD/Filmes/Homem.ao.Mar.2018.720p.BluRay.x264.DUAL.WWW.COMANDOTORRENTS.COM.mkv
 #EXTINF:-1,Hust A morte ouve
 smb://GLADISTON-XD/Filmes/Hust A morte ouve.mp4
-#EXTINF:-1,I hate you i love you 2
-smb://GLADISTON-XD/Filmes/I hate you i love you 2.mp4
 #EXTINF:-1,Idas e Vindas do Amor
 smb://GLADISTON-XD/Filmes/Idas e Vindas do Amor.avi
 #EXTINF:-1,Independence Day - O Ressurgimento
 smb://GLADISTON-XD/Filmes/Independence Day - O Ressurgimento.mp4
-#EXTINF:-1,Infiltrado
-smb://GLADISTON-XD/Filmes/Infiltrado.na.Klan.2019.720p.BluRay.x264.DUAL.WWW.COMANDOTORRENTS.COM.mkv
-#EXTINF:-1,Interestelar
-smb://GLADISTON-XD/Filmes/Interestelar.2014.720p.BluRay.5.1.x264.DUAL-WWW.BLUDV.COM.mkv
-#EXTINF:-1,Interestellar
-smb://GLADISTON-XD/Filmes/Interestellar.mkv
+#EXTINF:-1,Infiltrado na Klan
+smb://GLADISTON-XD/Filmes/Infiltrado na Klan.mkv
+#EXTINF:-1,Interestelar 2014 720p
+smb://GLADISTON-XD/Filmes/Interestelar 2014 720p.mkv
 #EXTINF:-1,Invocacao do Mal 2
 smb://GLADISTON-XD/Filmes/Invocacao do Mal 2.mp4
-#EXTINF:-1,It a coisa
-smb://GLADISTON-XD/Filmes/It a coisa.mp4
-#EXTINF:-1,Jack Reacher
-smb://GLADISTON-XD/Filmes/Jack Reacher.mp4
 #EXTINF:-1,Jackass
 smb://GLADISTON-XD/Filmes/Jackass.avi
-#EXTINF:-1,Jerusalem
-smb://GLADISTON-XD/Filmes/Jerusalem.mp4
 #EXTINF:-1,Jogo De Amor Em Las Vegas
 smb://GLADISTON-XD/Filmes/Jogo De Amor Em Las Vegas.avi
 #EXTINF:-1,Jogos Mortais 7
 smb://GLADISTON-XD/Filmes/Jogos Mortais 7.mp4
-#EXTINF:-1,John Wick - Um novo dia para morrer
-smb://GLADISTON-XD/Filmes/John.Wick.Um.Novo.Dia.para.Matar.2017.720p.BluRay.6CH.x264.DUAL-WWW.BLUDV.COM.mkv
+#EXTINF:-1,John Wick Um Novo Dia para Matar
+smb://GLADISTON-XD/Filmes/John Wick Um Novo Dia para Matar.mkv
 #EXTINF:-1,Johnny English 3
-smb://GLADISTON-XD/Filmes/Johnny English 3.0.mkv
-#EXTINF:-1,João e maria - Caçadores de bruxas
-smb://GLADISTON-XD/Filmes/João e maria - Caçadores de bruxas.avi
+smb://GLADISTON-XD/Filmes/Johnny English 3.mkv
 #EXTINF:-1,Judas e Jesus
 smb://GLADISTON-XD/Filmes/Judas e Jesus.rmvb
-#EXTINF:-1,Jumanji Bem Vindo à Selva
-smb://GLADISTON-XD/Filmes/Jumanji Bem Vindo à Selva.MP4
-#EXTINF:-1,Jumanji
-smb://GLADISTON-XD/Filmes/Jumanji.Bem.Vindo.à.Selva.2018.720p.BluRay.6CH.x264.DUAL-WWW.BLUDV.COM.mkv
-#EXTINF:-1,Justice League 2017
-smb://GLADISTON-XD/Filmes/Justice League 2017.mkv
-#EXTINF:-1,Jão e maria
-smb://GLADISTON-XD/Filmes/Jão e maria.rmvb
+#EXTINF:-1,Jumanji Bem Vindo à Selva 2018
+smb://GLADISTON-XD/Filmes/Jumanji Bem Vindo à Selva 2018.mkv
 #EXTINF:-1,Keanu
 smb://GLADISTON-XD/Filmes/Keanu.mp4
 #EXTINF:-1,Kick Ass – Quebrando Tudo
@@ -335,8 +275,8 @@ smb://GLADISTON-XD/Filmes/Kung Fusão.mp4
 smb://GLADISTON-XD/Filmes/Legião.avi
 #EXTINF:-1,Liga da Justiça -  Ponto De Ignição - BluRay 1080p_Dual  Audio
 smb://GLADISTON-XD/Filmes/Liga da Justiça -  Ponto De Ignição - BluRay 1080p_Dual  Audio.mp4
-#EXTINF:-1,Liga
-smb://GLADISTON-XD/Filmes/Liga.da.Justiça.2018.720p.WEB-DL.x264.DUAL-WWW.BLUDV.COM.mkv
+#EXTINF:-1,Liga da Justiça 2018 720p
+smb://GLADISTON-XD/Filmes/Liga da Justiça 2018 720p.mkv
 #EXTINF:-1,Livra-nos do mal
 smb://GLADISTON-XD/Filmes/Livra-nos do mal.mp4
 #EXTINF:-1,Logan Lucky - Roubo em Família
@@ -345,12 +285,8 @@ smb://GLADISTON-XD/Filmes/Logan Lucky - Roubo em Família.mp4
 smb://GLADISTON-XD/Filmes/Looper.mkv
 #EXTINF:-1,Loucos e Perigosos 2017
 smb://GLADISTON-XD/Filmes/Loucos e Perigosos 2017.mkv
-#EXTINF:-1,Lucifer
-smb://GLADISTON-XD/Filmes/Lucifer.S03E13.720p.WEB-DL.x264.DUAL.WWW.BLUDV.COM.mkv
-#EXTINF:-1,Lucifer
-smb://GLADISTON-XD/Filmes/Lucifer.S03E14.720p.WEB-DL.x264.DUAL.WWW.BLUDV.COM.mkv
 #EXTINF:-1,Ma Conduta
-smb://GLADISTON-XD/Filmes/Ma.Conduta.2016.720p.BluRay.Dublado.mp4
+smb://GLADISTON-XD/Filmes/Ma Conduta.mp4
 #EXTINF:-1,Madagascar 1
 smb://GLADISTON-XD/Filmes/Madagascar 1.avi
 #EXTINF:-1,Madagascar 2
@@ -365,8 +301,8 @@ smb://GLADISTON-XD/Filmes/Mae 2017.mkv
 smb://GLADISTON-XD/Filmes/Maldita Sorte.avi
 #EXTINF:-1,Mandy Sede de Vingança
 smb://GLADISTON-XD/Filmes/Mandy Sede de Vingança.mkv
-#EXTINF:-1,Marcando Territorio 2016 720p Bluray Dublado - WWW
-smb://GLADISTON-XD/Filmes/Marcando Territorio 2016 720p Bluray Dublado - WWW.THEPIRATEFILMES.COM.mp4
+#EXTINF:-1,Marcando Territorio
+smb://GLADISTON-XD/Filmes/Marcando Territorio.mp4
 #EXTINF:-1,Megamente
 smb://GLADISTON-XD/Filmes/Megamente.mp4
 #EXTINF:-1,Meu ex é um espião
@@ -379,34 +315,30 @@ smb://GLADISTON-XD/Filmes/Meu namorado é um zumbi.rmvb
 smb://GLADISTON-XD/Filmes/Meu Vizinho Mafioso 1.avi
 #EXTINF:-1,Meu Vizinho Mafioso 2
 smb://GLADISTON-XD/Filmes/Meu Vizinho Mafioso 2.avi
-#EXTINF:-1,Millennium
-smb://GLADISTON-XD/Filmes/Millennium.A.Garota.na.Teia.de.Aranha.2019.720p.WEB-DL.DUBLADO.R5.WWW.COMANDOTORRENTS.COM.mkv
+#EXTINF:-1,Millennium A Garota na Teia de Aranha
+smb://GLADISTON-XD/Filmes/Millennium A Garota na Teia de Aranha.mkv
+#EXTINF:-1,Missão Impossível Efeito Fallout
+smb://GLADISTON-XD/Filmes/Missão Impossível Efeito Fallout.mkv
 #EXTINF:-1,Missão Impossível- Nação Secreta 
 smb://GLADISTON-XD/Filmes/Missão Impossível- Nação Secreta .MP4
-#EXTINF:-1,Missão
-smb://GLADISTON-XD/Filmes/Missão.Impossível.Efeito.Fallout.2018.720p.BluRay.x264.5.1-DUAL.WWW.COMANDOTORRENTS.COM.mkv
-#EXTINF:-1,mkhFnmC
-smb://GLADISTON-XD/Filmes/mkhFnmC.mp4
 #EXTINF:-1,Momentum
 smb://GLADISTON-XD/Filmes/Momentum.mp4
 #EXTINF:-1,Monstros SA
 smb://GLADISTON-XD/Filmes/Monstros SA.avi
 #EXTINF:-1,Na sombra do inimigo
 smb://GLADISTON-XD/Filmes/Na sombra do inimigo.mp4
-#EXTINF:-1,narutoPROJECT_-_Movie_07
-smb://GLADISTON-XD/Filmes/narutoPROJECT_-_Movie_07.avi
 #EXTINF:-1,No limite do amanhã
 smb://GLADISTON-XD/Filmes/No limite do amanhã.rmvb
 #EXTINF:-1,Novidades no amor
 smb://GLADISTON-XD/Filmes/Novidades no amor.mp4
-#EXTINF:-1,Nunca Diga Seu Nome 
-smb://GLADISTON-XD/Filmes/Nunca Diga Seu Nome .MP4
 #EXTINF:-1,Nunca Diga Seu Nome 2017 1080p
 smb://GLADISTON-XD/Filmes/Nunca Diga Seu Nome 2017 1080p.mkv
-#EXTINF:-1,O Agente da 
-smb://GLADISTON-XD/Filmes/O Agente da .U.N.C.L.E.mp4
+#EXTINF:-1,O Agente da UNCLE
+smb://GLADISTON-XD/Filmes/O Agente da UNCLE.mp4
 #EXTINF:-1,O Aprendiz de Feiticeiro
 smb://GLADISTON-XD/Filmes/O Aprendiz de Feiticeiro.avi
+#EXTINF:-1,O Atirador Fantasma 2016
+smb://GLADISTON-XD/Filmes/O Atirador Fantasma 2016.mp4
 #EXTINF:-1,O Bicho Vai Pegar 2
 smb://GLADISTON-XD/Filmes/O Bicho Vai Pegar 2.avi
 #EXTINF:-1,O Bicho Vai Pegar 3
@@ -425,50 +357,46 @@ smb://GLADISTON-XD/Filmes/O Espanta Tubarões.avi
 smb://GLADISTON-XD/Filmes/O espantalho.mp4
 #EXTINF:-1,O Gigante de Ferro
 smb://GLADISTON-XD/Filmes/O Gigante de Ferro.avi
+#EXTINF:-1,O Hobbit A Batalha dos Cinco Exércitos
+smb://GLADISTON-XD/Filmes/O Hobbit A Batalha dos Cinco Exércitos.mkv
+#EXTINF:-1,O Hobbit A Desolação de Smaug
+smb://GLADISTON-XD/Filmes/O Hobbit A Desolação de Smaug.mkv
+#EXTINF:-1,O Hobbit Uma Jornada Inesperada 2012
+smb://GLADISTON-XD/Filmes/O Hobbit Uma Jornada Inesperada 2012.mkv
 #EXTINF:-1,O Homem que Desafiou o Diabo
 smb://GLADISTON-XD/Filmes/O Homem que Desafiou o Diabo.mkv
 #EXTINF:-1,O Primeiro Mentiroso
 smb://GLADISTON-XD/Filmes/O Primeiro Mentiroso.avi
+#EXTINF:-1,O Protetor
+smb://GLADISTON-XD/Filmes/O Protetor.mp4
 #EXTINF:-1,O resgate
 smb://GLADISTON-XD/Filmes/O resgate.rmvb
+#EXTINF:-1,O Senhor dos Anéis A Sociedade do Anel
+smb://GLADISTON-XD/Filmes/O Senhor dos Anéis A Sociedade do Anel.mkv
+#EXTINF:-1,O Senhor dos Anéis As Duas Torres 2002
+smb://GLADISTON-XD/Filmes/O Senhor dos Anéis As Duas Torres 2002.mkv
+#EXTINF:-1,O Senhor dos Anéis O Retorno do Rei 2003 720p
+smb://GLADISTON-XD/Filmes/O Senhor dos Anéis O Retorno do Rei 2003 720p.mkv
 #EXTINF:-1,O sequestro no onibus 657
 smb://GLADISTON-XD/Filmes/O sequestro no onibus 657.mp4
 #EXTINF:-1,O voo
 smb://GLADISTON-XD/Filmes/O voo.rmvb
-#EXTINF:-1,O Atirador Fantasma 2016
-smb://GLADISTON-XD/Filmes/O+Atirador+Fantasma+2016.DVDRip.Dublado.mp4
-#EXTINF:-1,Hobbit A Batalha dos Cinco Exércitos Versão Estendida
-smb://GLADISTON-XD/Filmes/O.Hobbit.A.Batalha.dos.Cinco.Exércitos.Versão.Estendida.2014.1080p.5.1.x264.DUAL-WWW.BLUDV.COM.mkv
-#EXTINF:-1,Hobbit A Desolaçãode Smaug 2013 Versão Estendida
-smb://GLADISTON-XD/Filmes/O.Hobbit.A.Desolação.de.Smaug.2013.Versão.Estendida.1080p.BluRay.5.1.x264.DUAL-WWW.BLUDV.COM.mkv
-#EXTINF:-1,Hobbit Uma Jornada Inesperada 2012
-smb://GLADISTON-XD/Filmes/O.Hobbit.Uma.Jornada.Inesperada.2012.Versão.Estendida.1080p.BluRay.5.1.x264.DUAL-WWW.BLUDV.COM.mkv
-#EXTINF:-1,Protetor 2014 DUAL
-smb://GLADISTON-XD/Filmes/O.Protetor.2014.DUAL.720p.BluRay.x264.SPARKS-CapasFornari.mp4
-#EXTINF:-1,Senhor dos Anéis A Sociedade do Anel 2001
-smb://GLADISTON-XD/Filmes/O.Senhor.dos.Anéis.A.Sociedade.do.Anel.2001.720p.BluRay.5.1.x264.DUAL-WWW.BLUDV.COM.mkv
-#EXTINF:-1,Senhor dos Anéis As Duas Torres
-smb://GLADISTON-XD/Filmes/O.Senhor.dos.Anéis.As.Duas.Torres..2002.720p.BluRay.5.1.x264.DUAL-WWW.BLUDV.COM.mkv
-#EXTINF:-1,Senhor dos Anéis O Retorno do Rei 2003
-smb://GLADISTON-XD/Filmes/O.Senhor.dos.Anéis.O.Retorno.do.Rei.2003.720p.BluRay.5.1.x264.DUAL-WWW.BLUDV.COM.mkv
-#EXTINF:-1,Olhos
-smb://GLADISTON-XD/Filmes/Olhos.Famintos.3.2018.720p.BluRay..x264.DUAL-WWW.BLUDV.COM.mkv
 #EXTINF:-1,Os 8 odiados
 smb://GLADISTON-XD/Filmes/Os 8 odiados.mp4
 #EXTINF:-1,Os Brutamontes 2
 smb://GLADISTON-XD/Filmes/Os Brutamontes 2.mkv
+#EXTINF:-1,Os Incríveis 2
+smb://GLADISTON-XD/Filmes/Os Incríveis 2.mkv
 #EXTINF:-1,Os Sem Floresta
 smb://GLADISTON-XD/Filmes/Os Sem Floresta.avi
 #EXTINF:-1,Paixão de Cristo
 smb://GLADISTON-XD/Filmes/Paixão de Cristo.mp4
-#EXTINF:-1,Parque
-smb://GLADISTON-XD/Filmes/Parque.do.Inferno.2019.720p.BluRay.x264-DUAL.WWW.COMANDOTORRENTS.COM.mkv
+#EXTINF:-1,Parque do Inferno 2019
+smb://GLADISTON-XD/Filmes/Parque do Inferno 2019.mkv
 #EXTINF:-1,Passageiros
 smb://GLADISTON-XD/Filmes/Passageiros.mp4
 #EXTINF:-1,Perceguição implacavel 2
 smb://GLADISTON-XD/Filmes/Perceguição implacavel 2.rmvb
-#EXTINF:-1,peter pan de volta a terra do nunca infantil dublado
-smb://GLADISTON-XD/Filmes/peter pan de volta a terra do nunca infantil dublado.avi
 #EXTINF:-1,Phineas e Ferb Missão Marvel
 smb://GLADISTON-XD/Filmes/Phineas e Ferb Missão Marvel.mp4
 #EXTINF:-1,Piratas do Caribe - A Vingança de Salazar
@@ -483,8 +411,6 @@ smb://GLADISTON-XD/Filmes/Plano de fuga.rmvb
 smb://GLADISTON-XD/Filmes/Policial em apuros 2.mp4
 #EXTINF:-1,Por um corredor escuro
 smb://GLADISTON-XD/Filmes/Por um corredor escuro.mkv
-#EXTINF:-1,Precious
-smb://GLADISTON-XD/Filmes/Precious.Cargo.2016.720p.LEG.mp4
 #EXTINF:-1,Procurando Nemo
 smb://GLADISTON-XD/Filmes/Procurando Nemo.avi
 #EXTINF:-1,Protegendo o inimigo
@@ -493,20 +419,20 @@ smb://GLADISTON-XD/Filmes/Protegendo o inimigo.rmvb
 smb://GLADISTON-XD/Filmes/Quase 18.mp4
 #EXTINF:-1,Quero Matar Meu Chefe
 smb://GLADISTON-XD/Filmes/Quero Matar Meu Chefe.MP4
-#EXTINF:-1,Rampage
-smb://GLADISTON-XD/Filmes/Rampage.Destruição.Total.2018.720p.BluRay.6CH.x264.DUAL-WWW.BLUDV.COM.mkv
+#EXTINF:-1,Rampage Destruição Total
+smb://GLADISTON-XD/Filmes/Rampage Destruição Total.mkv
 #EXTINF:-1,Realityhigh
-smb://GLADISTON-XD/Filmes/Realityhigh.2017.HDRip.XViD.Dual.Audio-RLS.avi
+smb://GLADISTON-XD/Filmes/Realityhigh.avi
 #EXTINF:-1,Rebirth
-smb://GLADISTON-XD/Filmes/Rebirth.2016.720p.HD.Dublado.mp4
+smb://GLADISTON-XD/Filmes/Rebirth.mp4
 #EXTINF:-1,Regresso do mal
 smb://GLADISTON-XD/Filmes/Regresso do mal.mp4
-#EXTINF:-1,Relatos Selvagens (2015) 5
-smb://GLADISTON-XD/Filmes/Relatos Selvagens (2015) 5.1 Dublado 1080p (By-LuanHarper).mp4
+#EXTINF:-1,Relatos Selvagens
+smb://GLADISTON-XD/Filmes/Relatos Selvagens.mp4
 #EXTINF:-1,Rubber 2010
 smb://GLADISTON-XD/Filmes/Rubber 2010.mkv
-#EXTINF:-1,Scott Pilgrim Contra o Mundo 720p (2010) Dual Áudio BluRay 5
-smb://GLADISTON-XD/Filmes/Scott Pilgrim Contra o Mundo 720p (2010) Dual Áudio BluRay 5.1 -- By - Lucas Firmo.mkv
+#EXTINF:-1,Scott Pilgrim Contra o Mundo
+smb://GLADISTON-XD/Filmes/Scott Pilgrim Contra o Mundo.mkv
 #EXTINF:-1,Se beber não case parte II
 smb://GLADISTON-XD/Filmes/Se beber não case parte II.rmvb
 #EXTINF:-1,Se Beber, Não Case part I
@@ -537,6 +463,8 @@ smb://GLADISTON-XD/Filmes/Sherlock holmes 1.rmvb
 smb://GLADISTON-XD/Filmes/Sherlok holmes 2.rmvb
 #EXTINF:-1,Shrek
 smb://GLADISTON-XD/Filmes/Shrek.rmvb
+#EXTINF:-1,Sicário 2 Dia do Soldado
+smb://GLADISTON-XD/Filmes/Sicário 2 Dia do Soldado.mkv
 #EXTINF:-1,Silent hill 2
 smb://GLADISTON-XD/Filmes/Silent hill 2.mkv
 #EXTINF:-1,Simplesmente acontece
@@ -546,15 +474,15 @@ smb://GLADISTON-XD/Filmes/Sincario Terra de ninguem.mp4
 #EXTINF:-1,Spirit - O Corcel Indomável 
 smb://GLADISTON-XD/Filmes/Spirit - O Corcel Indomável .avi
 #EXTINF:-1,Sr e Sra Smith
-smb://GLADISTON-XD/Filmes/Sr. e Sra. Smith.avi
+smb://GLADISTON-XD/Filmes/Sr e Sra Smith.avi
 #EXTINF:-1,Star Wars Os Últimos Jedi 720p
 smb://GLADISTON-XD/Filmes/Star Wars Os Últimos Jedi 720p.mp4
 #EXTINF:-1,Street Fighter Alpha Generations
 smb://GLADISTON-XD/Filmes/Street Fighter Alpha Generations.rmvb
 #EXTINF:-1,Street fighter
 smb://GLADISTON-XD/Filmes/Street fighter.mp4
-#EXTINF:-1,Super
-smb://GLADISTON-XD/Filmes/Super.Tiras.2.720p.BluRay.x264-DUAL.WWW.COMANDOTORRENTS.COM.mkv
+#EXTINF:-1,Super Tiras 2
+smb://GLADISTON-XD/Filmes/Super Tiras 2.mkv
 #EXTINF:-1,Superbad
 smb://GLADISTON-XD/Filmes/Superbad.avi
 #EXTINF:-1,Ta Dando Onda
@@ -563,20 +491,12 @@ smb://GLADISTON-XD/Filmes/Ta Dando Onda.avi
 smb://GLADISTON-XD/Filmes/Tarzan.avi
 #EXTINF:-1,Tarzan
 smb://GLADISTON-XD/Filmes/Tarzan.mp4
-#EXTINF:-1,Te peguei
-smb://GLADISTON-XD/Filmes/Te.Peguei!.2018.720p.BluRay.6CH.x264.DUAL-WWW.BLUDV.COM.mkv
+#EXTINF:-1,Te Peguei!
+smb://GLADISTON-XD/Filmes/Te Peguei!.mkv
 #EXTINF:-1,The Foreigner
 smb://GLADISTON-XD/Filmes/The Foreigner.mkv
-#EXTINF:-1,The Gingerded
-smb://GLADISTON-XD/Filmes/The.Gingerdead.Man.2005.mp4
-#EXTINF:-1,The Meg
-smb://GLADISTON-XD/Filmes/The.Meg.2018.1080p.NEW.HDTC.x264.DUAL-WWW.LAPUMiAFiLMES.COM.mkv
-#EXTINF:-1,Thor Ragnarok 2017
-smb://GLADISTON-XD/Filmes/Thor Ragnarok 2017.mp4
 #EXTINF:-1,Thor Ragnarok 2018
 smb://GLADISTON-XD/Filmes/Thor Ragnarok 2018.mkv
-#EXTINF:-1,Tom Odell - Can't Pretend (at Dean Street Studios) - YouTube
-smb://GLADISTON-XD/Filmes/Tom Odell - Can't Pretend (at Dean Street Studios) - YouTube.MKV
 #EXTINF:-1,Tomates Assassinos 1
 smb://GLADISTON-XD/Filmes/Tomates Assassinos 1.avi
 #EXTINF:-1,Tomates assassinos 2
@@ -601,10 +521,10 @@ smb://GLADISTON-XD/Filmes/Um crime nada perfeito.mp4
 smb://GLADISTON-XD/Filmes/Um Dia.mp4
 #EXTINF:-1,Um espião e meio
 smb://GLADISTON-XD/Filmes/Um espião e meio.mp4
+#EXTINF:-1,Um Homem Comum
+smb://GLADISTON-XD/Filmes/Um Homem Comum.mkv
 #EXTINF:-1,Um Pistoleiro Chamado Papaco (1986)
 smb://GLADISTON-XD/Filmes/Um Pistoleiro Chamado Papaco (1986).MP4
-#EXTINF:-1,Um Homem comum
-smb://GLADISTON-XD/Filmes/Um.Homem.Comum.2019.720p.BluRay.x264.DUAL-WWW.COMANDOTORRENTS.COM.mkv
 #EXTINF:-1,Uma Festa no Ar
 smb://GLADISTON-XD/Filmes/Uma Festa no Ar.avi
 #EXTINF:-1,Vagina dentada
@@ -617,14 +537,10 @@ smb://GLADISTON-XD/Filmes/Valerian e a Cidade dos Mil Planetas.mkv
 smb://GLADISTON-XD/Filmes/Van Hellsing.mp4
 #EXTINF:-1,Venom
 smb://GLADISTON-XD/Filmes/Venom.mkv
-#EXTINF:-1,Verdade ou desafio
-smb://GLADISTON-XD/Filmes/Verdade.ou.Desafio.2018.720p.WEB-DL.DUBLADO.WWW.COMANDOTORRENTS.COM.mp4
 #EXTINF:-1,Vingadores - Guerra Infinita 1080p
 smb://GLADISTON-XD/Filmes/Vingadores - Guerra Infinita 1080p.mkv
 #EXTINF:-1,Vingadores Era de Ultron 2015
 smb://GLADISTON-XD/Filmes/Vingadores Era de Ultron 2015.mkv
-#EXTINF:-1,Vingadores Guerra Infinita 2018
-smb://GLADISTON-XD/Filmes/Vingadores Guerra Infinita 2018.mkv
 #EXTINF:-1,Visinhos 2
 smb://GLADISTON-XD/Filmes/Visinhos 2.mp4
 #EXTINF:-1,Vizinhos de 3 grau
