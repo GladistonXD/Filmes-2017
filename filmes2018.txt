@@ -130,16 +130,14 @@ smb://GLADISTON-XD/Filmes/Bohemian.Rhapsody.2018.720p.BluRay.5.1.x264-DUAL.WWW.C
 #EXTINF:-1,Bruna Surfistinha
 smb://GLADISTON-XD/Filmes/Bruna Surfistinha.avi
 #EXTINF:-1,Cadaver
-smb://GLADISTON-XD/Filmes/Cadaver.2019.DVDRip.x264.DUAL.R5.WWW.COMANDOTORRENTS.COM.mkv
-#EXTINF:-1,Cadaver
 smb://GLADISTON-XD/Filmes/Cadaver.mkv
 #EXTINF:-1,Capitão América - Guerra civil
 smb://GLADISTON-XD/Filmes/Capitão América - Guerra civil.mp4
-#EXTINF:-1,Capitão
+#EXTINF:-1,Capitão America 2
 smb://GLADISTON-XD/Filmes/Capitão.América.2.O.Soldado.Invernal.2014.720p.BluRay.5.1.x264.DUAL-WWW.BLUDV.COM.mkv
-#EXTINF:-1,Capitão
+#EXTINF:-1,Capitão America 1
 smb://GLADISTON-XD/Filmes/Capitão.América.O.Primeiro.Vingador.2011.1080p.BluRay.5.1.x264.DUAL-BLUDV.mkv
-#EXTINF:-1,Captitã
+#EXTINF:-1,Captitã Marvel
 smb://GLADISTON-XD/Filmes/Captitã.Marvel.2019.720p.HDCAM.DUBLADO.WWW.COMANDOTORRENTS.COM.mkv
 #EXTINF:-1,Carros 3
 smb://GLADISTON-XD/Filmes/Carros 3.mkv
@@ -155,8 +153,6 @@ smb://GLADISTON-XD/Filmes/Charlie Charlie 2016.avi
 smb://GLADISTON-XD/Filmes/CHiPs O Filme.mp4
 #EXTINF:-1,Coisas de Homem
 smb://GLADISTON-XD/Filmes/Coisas de Homem.avi
-#EXTINF:-1,COMANDOTORRENTS
-smb://GLADISTON-XD/Filmes/COMANDOTORRENTS.COM.mp4
 #EXTINF:-1,Como eu era antes de você
 smb://GLADISTON-XD/Filmes/Como eu era antes de você.mp4
 #EXTINF:-1,Como Treinar Seu Dragão
@@ -165,16 +161,12 @@ smb://GLADISTON-XD/Filmes/Como Treinar Seu Dragão.avi
 smb://GLADISTON-XD/Filmes/Con Air.mp4
 #EXTINF:-1,Contatos de 4º Grau
 smb://GLADISTON-XD/Filmes/Contatos de 4º Grau.mp4
-#EXTINF:-1,Cuck norris aprova
-smb://GLADISTON-XD/Filmes/Cuck norris aprova.mp4
 #EXTINF:-1,Cães e Gatos
 smb://GLADISTON-XD/Filmes/Cães e Gatos.rmvb
 #EXTINF:-1,De volta ao jogo
 smb://GLADISTON-XD/Filmes/De volta ao jogo.mp4
 #EXTINF:-1,De repente uma familia
 smb://GLADISTON-XD/Filmes/De.Repente.uma.Família.2018.720p.BluRay.6CH.x264.DUAL-WWW.COMANDOTORRENTS.COM.mkv
-#EXTINF:-1,Dead Sushi
-smb://GLADISTON-XD/Filmes/Dead Sushi.mp4
 #EXTINF:-1,Deadpool
 smb://GLADISTON-XD/Filmes/Deadpool.2.2018.720p.BluRay.6CH.x264.DUAL-WWW.BLUDV.COM.mkv
 #EXTINF:-1,Death Note - Light Up the New World 2016
