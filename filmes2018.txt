@@ -503,8 +503,6 @@ smb://GLADISTON-XD/Filmes/Rebirth.2016.720p.HD.Dublado.mp4
 smb://GLADISTON-XD/Filmes/Regresso do mal.mp4
 #EXTINF:-1,Relatos Selvagens (2015) 5
 smb://GLADISTON-XD/Filmes/Relatos Selvagens (2015) 5.1 Dublado 1080p (By-LuanHarper).mp4
-#EXTINF:-1,F5
-smb://GLADISTON-XD/Filmes/rpds.NS.F5.HD.mkv
 #EXTINF:-1,Rubber 2010
 smb://GLADISTON-XD/Filmes/Rubber 2010.mkv
 #EXTINF:-1,Scott Pilgrim Contra o Mundo 720p (2010) Dual Áudio BluRay 5
