@@ -1,19 +1,13 @@
+$ curl 'https://example.net/ipadlive/index_new.m3u8?sessionid=81893121496608402793&ipaddress=x.x.x.x&callsign=YYYY&hubid=51&zipcode='
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac",NAME="Original",DEFAULT=YES,AUTOSELECT=YES,URI="https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ew)/stream04/streamPlaylist.m3u8"
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac",LANGUAGE="en",NAME="English",DEFAULT=NO,AUTOSELECT=YES,URI="https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ew)/stream05/streamPlaylist.m3u8"
-#EXT-X-I-FRAME-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=28451,CODECS="avc1.4d400d",URI="https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ew)/stream04/streamPlaylist.m3u8"
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=577610,CODECS="mp4a.40.2, avc1.4d401e",RESOLUTION=640x360,AUDIO="bipbop_audio",SUBTITLES="subs"
-
-#EXT-X-VERSION:3
-#EXT-X-INDEPENDENT-SEGMENTS
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="program_audio",LANGUAGE="eng",NAME="audio_1",AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=2890800,AVERAGE-BANDWIDTH=2890800,CODECS="avc1.640029,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=24.000,AUDIO="program_audio"
-index2500.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1900800,AVERAGE-BANDWIDTH=1900800,CODECS="avc1.640029,mp4a.40.2",RESOLUTION=854x480,FRAME-RATE=24.000,AUDIO="program_audio"
-index1600.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1020800,AVERAGE-BANDWIDTH=1020800,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=640x360,FRAME-RATE=24.000,AUDIO="program_audio"
-index800.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=580800,AVERAGE-BANDWIDTH=580800,CODECS="avc1.42c01f,mp4a.40.2",RESOLUTION=428x240,FRAME-RATE=24.000,AUDIO="program_audio"
-index400.m3u8
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="program_audio",LANGUAGE="eng",NAME="audio_1",AUTOSELECT=YES,DEFAULT=YES,URI="indexaudio.m3u8"
+#EXT-X-VERSION:4
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="group",NAME="eng",DEFAULT=YES,AUTOSELECT=YES,LANGUAGE="en",URI="https://example.net/ipadlive/06_new.m3u8?cdnHost=da148.cdn.iptv.example.net&sessionid=81893121496608402793&ipaddress=x.x.x.x&callsign=CHAN&hubid=51&zipcode=&countycode=null&fta=null&optimumid=null&devicename=&devicetype=0&osver=&res=&fps="
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="group",NAME="spa",DEFAULT=NO,AUTOSELECT=YES,LANGUAGE="en",URI="https://example.net/ipadlive/07_new.m3u8?cdnHost=da148.cdn.iptv.example.net&sessionid=81893121496608402793&ipaddress=x.x.x.x&callsign=CHAN&hubid=51&zipcode=&countycode=null&fta=null&optimumid=null&devicename=&devicetype=0&osver=&res=&fps="
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=479776,RESOLUTION=240x180,CODECS="avc1.42c00c,mp4a.40.2",AUDIO="group"
+https://example.net/ipadlive/01_new.m3u8?cdnHost=da148.cdn.iptv.example.net&sessionid=81893121496608402793&ipaddress=x.x.x.x&callsign=CHAN&hubid=51&zipcode=&countycode=null&fta=null&optimumid=null&devicename=&devicetype=0&osver=&res=&fps=
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=780576,RESOLUTION=320x240,CODECS="avc1.42c00d,mp4a.40.2",AUDIO="group"
+https://example.net/ipadlive/02_new.m3u8?cdnHost=da148.cdn.iptv.example.net&sessionid=81893121496608402793&ipaddress=x.x.x.x&callsign=CHAN&hubid=51&zipcode=&countycode=null&fta=null&optimumid=null&devicename=&devicetype=0&osver=&res=&fps=
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1079872,RESOLUTION=480x360,CODECS="avc1.42c01e,mp4a.40.2",AUDIO="group"
+https://example.net/ipadlive/03_new.m3u8?cdnHost=da148.cdn.iptv.example.net&sessionid=81893121496608402793&ipaddress=x.x.x.x&callsign=CHAN&hubid=51&zipcode=&countycode=null&fta=null&optimumid=null&devicename=&devicetype=0&osver=&res=&fps=
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1682976,RESOLUTION=640x480,CODECS="avc1.42c01e,mp4a.40.2",AUDIO="group"
+https://example.net/ipadlive/04_new.m3u8?cdnHost=da148.cdn.iptv.example.net&sessionid=81893121496608402793&ipaddress=x.x.x.x&callsign=CHAN&hubid=51&zipcode=&countycode=null&fta=null&optimumid=null&devicename=&devicetype=0&osver=&res=&fps=
