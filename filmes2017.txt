@@ -1,5 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="VIRGIN TV ROCK",tvg-logo="https://scontent.fcdj1-1.fna.fbcdn.net/v/t1.0-9/26731628_10155347020673269_3310602110062297058_n.png?_nc_cat=111&_nc_oc=AQnwLObrN4wtYeeCnArv4PyZah9iSLo4BzgOX2Ly4ov_0WARn3DGXLrd7cWm2L6iRHo&_nc_ht=scontent.fcdj1-1.fna&oh=622fe650405d2aee63565a742bf99648&oe=5D555D0B"
 #EXT-X-VERSION:3
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac",NAME="Original",DEFAULT=YES,AUTOSELECT=YES,URI="https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ew)/stream04/streamPlaylist.m3u8"
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac",LANGUAGE="en",NAME="English",DEFAULT=NO,AUTOSELECT=YES,URI="https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ew)/stream05/streamPlaylist.m3u8"
