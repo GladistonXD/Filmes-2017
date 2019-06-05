@@ -1,4 +1,5 @@
 #EXTM3U
+#EXTINF:-1,15 Minutes
 #EXT-X-VERSION:3
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac",NAME="Original",DEFAULT=YES,AUTOSELECT=YES,URI="https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ew)/stream04/streamPlaylist.m3u8"
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac",LANGUAGE="en",NAME="English",DEFAULT=NO,AUTOSELECT=YES,URI="https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ew)/stream05/streamPlaylist.m3u8"
