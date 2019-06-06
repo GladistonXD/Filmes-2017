@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=2128000,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=1280x720
+https://playback2.akamaized.net/streams/22300522_6680139_lsikl9qhhzgkc6xpri5_1/exp=1559943572~acl=%2f*~data=hdntl~hmac=00c31e2f5cb56fad82b8d44e466fd3c37abd2a0b304ba0cde9dcc6628a7b4b8d/media/22300522_6680139_lsikl9qhhzgkc6xpri5_1@2128000bb.m3u8?dw=80&ts=1559854800
