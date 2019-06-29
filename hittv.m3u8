@@ -1,0 +1,15 @@
+#EXTM3U
+#EXT-X-TARGETDURATION:10
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:156181120
+#EXT-X-PROGRAM-DATE-TIME:2019-06-29T14:26:33.000+0200
+#EXTINF:10,
+http://kissfm-cires21-video.secure.footprint.net/hittv/0/br3/190606144615/86768/156181120.ts
+#EXTINF:10,
+http://kissfm-cires21-video.secure.footprint.net/hittv/0/br3/190606144615/86768/156181121.ts
+#EXTINF:10,
+http://kissfm-cires21-video.secure.footprint.net/hittv/0/br3/190606144615/86768/156181122.ts
+#EXTINF:10,
+http://kissfm-cires21-video.secure.footprint.net/hittv/0/br3/190606144615/86768/156181123.ts
+#EXTINF:10,
+http://kissfm-cires21-video.secure.footprint.net/hittv/0/br3/190606144615/86768/156181124.ts
