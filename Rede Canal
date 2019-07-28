@@ -8,9 +8,8 @@
 <item>
 <title>[B][COLOR white]BAND[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]band.m3u8|Referer=$doregex[BP0]</link>
-<expres>source: "(.*?)",</expres><page>https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/ServerRC</page>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?).m3u8</expres><page>https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/ServerRC</page></regex>
+<regex><name>BP1</name><expres>source: "(.*?).m3u8</expres><page>https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/ServerRC</page></regex>
 <regex><name>BP2</name><expres>(.*?)",</expres><page>https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/ServerRC</page></regex>
 <expres>source: "(.*?)",</expres><page>https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/ServerRC</page>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/band.png</thumbnail>
