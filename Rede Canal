@@ -187,6 +187,7 @@
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/espn.png</thumbnail>
 </item>
 
+
 <item>
 <title>[B][COLOR white]ESPN BRASIL[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]espnbrasil.m3u8|Referer=$doregex[BP0]</link>
