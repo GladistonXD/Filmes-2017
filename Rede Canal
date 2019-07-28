@@ -8,8 +8,8 @@
 <title>[B][COLOR white]BAND[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]band.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/band.png</thumbnail>
 </item>
 
@@ -17,17 +17,26 @@
 <title>[B][COLOR white]GLOBO NORDESTE[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]bobonordeste.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/globo.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]GLOBO RJ[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<link>$doregex[BP1]boborj.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/globo_rj.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]GLOBO SP[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]bobosp.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/globo_sp.png</thumbnail>
 </item>
 
@@ -35,8 +44,8 @@
 <title>[B][COLOR white]SBT[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]sbt.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/sbt.png</thumbnail>
 </item>
 
@@ -44,8 +53,8 @@
 <title>[B][COLOR white]RECORD[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]recordsp.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/sbt.png</thumbnail>
 </item>
 
@@ -59,8 +68,8 @@
 <title>[B][COLOR white]ANIMAL PLANET[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]animalplanet.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/animal_planet.png</thumbnail>
 </item>
 
@@ -68,8 +77,8 @@
 <title>[B][COLOR white]DISCOVERY CHANNEL[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]discovery.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/discovery_channel.png</thumbnail>
 </item>
 
@@ -77,8 +86,8 @@
 <title>[B][COLOR white]DISCOVERY CIVILIZATION[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]discoverycivilization.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/discovery_civilization.png</thumbnail>
 </item>
 
@@ -86,8 +95,8 @@
 <title>[B][COLOR white]DISCOVERY SCIENCE[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]discoverysience.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/discovery_science.png</thumbnail>
 </item>
 
@@ -95,8 +104,8 @@
 <title>[B][COLOR white]DISCOVERY THEATER[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]discoverytheater.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/discovery_theater.png</thumbnail>
 </item>
 
@@ -104,8 +113,8 @@
 <title>[B][COLOR white]HISTORY[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]history.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/history.png</thumbnail>
 </item>
 
@@ -113,8 +122,8 @@
 <title>[B][COLOR white]H2[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]history2.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/h2.png</thumbnail>
 </item>
 
@@ -122,8 +131,8 @@
 <title>[B][COLOR white]NAT GEO[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]natgeo.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/natgeo.png</thumbnail>
 </item>
 
@@ -131,8 +140,8 @@
 <title>[B][COLOR white]NAT GEO WILD[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]natgeowild.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/natgeo_wild.png</thumbnail>
 </item>
 
@@ -146,8 +155,8 @@
 <title>[B][COLOR white]BAND SPORTS[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]bandsports.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/bandsports.png</thumbnail>
 </item>
 
@@ -155,8 +164,8 @@
 <title>[B][COLOR white]COMBATE[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]combate.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/combate.png</thumbnail>
 </item>
 
@@ -164,8 +173,8 @@
 <title>[B][COLOR white]DISCOVERY TURBO[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]discoveryturbo.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/discovery_turbo.png</thumbnail>
 </item>
 
@@ -173,8 +182,8 @@
 <title>[B][COLOR white]ESPN[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]espn.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/espn.png</thumbnail>
 </item>
 
@@ -182,8 +191,8 @@
 <title>[B][COLOR white]ESPN 2[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]espn2.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/espn.png</thumbnail>
 </item>
 
@@ -191,8 +200,8 @@
 <title>[B][COLOR white]ESPN BRASIL[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]espnbrasil.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/espn_brasil.png</thumbnail>
 </item>
 
@@ -200,8 +209,8 @@
 <title>[B][COLOR white]FOX SPORTS[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]foxsports1.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/foxsports.png</thumbnail>
 </item>
 
@@ -209,8 +218,8 @@
 <title>[B][COLOR white]FOX SPORTS 2[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]foxsports2.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/foxsports2.png</thumbnail>
 </item>
 
@@ -218,8 +227,8 @@
 <title>[B][COLOR white]PREMIERE CLUBE[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]premiereclubes.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/premiere.png</thumbnail>
 </item>
 
@@ -227,8 +236,8 @@
 <title>[B][COLOR white]PREMIERE 2[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]premiere2.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/premiere.png</thumbnail>
 </item>
 
@@ -236,8 +245,8 @@
 <title>[B][COLOR white]PREMIERE 3[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]premiere3.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/premiere.png</thumbnail>
 </item>
 
@@ -245,8 +254,8 @@
 <title>[B][COLOR white]PREMIERE 4[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]premiere4.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/premiere.png</thumbnail>
 </item>
 
@@ -254,8 +263,8 @@
 <title>[B][COLOR white]PREMIERE 5[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]premiere5.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/premiere.png</thumbnail>
 </item>
 
@@ -263,8 +272,8 @@
 <title>[B][COLOR white]PREMIERE 6[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]premiere6.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/premiere.png</thumbnail>
 </item>
 
@@ -272,8 +281,8 @@
 <title>[B][COLOR white]PREMIERE 7[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]premiere7.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/premiere.png</thumbnail>
 </item>
 
@@ -281,8 +290,8 @@
 <title>[B][COLOR white]PREMIERE 8[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]premiere8.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/premiere.png</thumbnail>
 </item>
 
@@ -290,8 +299,8 @@
 <title>[B][COLOR white]PREMIERE 9[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]premiere9.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/premiere.png</thumbnail>
 </item>
 
@@ -299,8 +308,8 @@
 <title>[B][COLOR white]SPORTV[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]sportv1.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/sportv.png</thumbnail>
 </item>
 
@@ -308,8 +317,8 @@
 <title>[B][COLOR white]SPORTV 2[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]sportv2.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/sportv.png</thumbnail>
 </item>
 
@@ -317,8 +326,8 @@
 <title>[B][COLOR white]SPORTV 3[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]sportv3.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/sportv.png</thumbnail>
 </item>
 
@@ -334,8 +343,8 @@
 <regex><name>BP0</name><expres>$
 4000
 pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/ae.png</thumbnail>
 </item>
 
@@ -343,8 +352,8 @@ pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <title>[B][COLOR white]AMC[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]amc.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/amc.png</thumbnail>
 </item>
 
@@ -352,8 +361,8 @@ pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <title>[B][COLOR white]AXN[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]axn.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/axn.png</thumbnail>
 </item>
 
@@ -361,8 +370,8 @@ pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <title>[B][COLOR white]CINEMAX[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]cinemax.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/cinemax.png</thumbnail>
 </item>
 
@@ -370,8 +379,8 @@ pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <title>[B][COLOR white]FOX[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]fox.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/fox.png</thumbnail>
 </item>
 
@@ -379,8 +388,8 @@ pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <title>[B][COLOR white]FOX PREMIUM 1[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]foxpremium1.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/fox_premium.png</thumbnail>
 </item>
 
@@ -388,8 +397,8 @@ pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <title>[B][COLOR white]FOX PREMIUM 2[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]foxpremium2.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/fox_premium.png</thumbnail>
 </item>
 
@@ -397,8 +406,8 @@ pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <title>[B][COLOR white]FX[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]fx.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/fx.png</thumbnail>
 </item>
 
@@ -406,8 +415,8 @@ pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <title>[B][COLOR white]HBO[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]hbo.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/hbo.png</thumbnail>
 </item>
 
@@ -415,8 +424,8 @@ pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <title>[B][COLOR white]HBO 2[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]hbo2.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/hbo2.png</thumbnail>
 </item>
 
@@ -424,8 +433,8 @@ pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <title>[B][COLOR white]HBO FAMILY[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]hbofamily.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/hbo_family.png</thumbnail>
 </item>
 
@@ -433,8 +442,8 @@ pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <title>[B][COLOR white]HBO PLUS[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]hboplus.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/hbo_plus.png</thumbnail>
 </item>
 
@@ -442,8 +451,8 @@ pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <title>[B][COLOR white]HBO SIGNATURE[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]hbosignature.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/hbo_signature.png</thumbnail>
 </item>
 
@@ -451,8 +460,8 @@ pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <title>[B][COLOR white]MAX[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]max.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/max.png</thumbnail>
 </item>
 
@@ -460,8 +469,8 @@ pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <title>[B][COLOR white]MAX PRIME[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]maxprime.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/max_prime.png</thumbnail>
 </item>
 
@@ -469,8 +478,8 @@ pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <title>[B][COLOR white]MAX UP[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]maxup.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/max_up.png</thumbnail>
 </item>
 
@@ -478,8 +487,8 @@ pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <title>[B][COLOR white]MEGAPIX[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]megapix.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/megapix.png</thumbnail>
 </item>
 
@@ -487,8 +496,8 @@ pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <title>[B][COLOR white]PARAMOUNT[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]paramount.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/paramount.png</thumbnail>
 </item>
 
@@ -496,8 +505,8 @@ pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <title>[B][COLOR white]SONY[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]sony.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/sony.png</thumbnail>
 </item>
 
@@ -505,8 +514,8 @@ pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <title>[B][COLOR white]SPACE[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]space.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/space.png</thumbnail>
 </item>
 
@@ -514,8 +523,8 @@ pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <title>[B][COLOR white]STUDIO UNIVERSAL[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]studiouniversal.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/studio_universal.png</thumbnail>
 </item>
 
@@ -523,16 +532,16 @@ pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <title>[B][COLOR white]SYFY[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>æ=]Ð 6   6          E  (»*@ @—å
  ²!+–Œ„ Pœxùwc‡±PâÌ­ù  æ=]†$ ;  ;         E -Œ@ @p8
- Ø:ÊÃ€¡»ó¥DŒZÃ+PÐâ…   ‘EÉ€ç3.b÷è•iä	ä¤.aù°Ì’›{wôº€§vÜz”„Ü¥¤Ê¥¤* Õ!½©ç…?e…„€\+ÍŸ±vÔuE­/–óŸZt¾†J@I N«uÂÈ Ä1˜®×~\¿þO–™ÿ¹Ñ6ö,Å‘Ó¯¥X{OÄŽ(ûZ4b:eàœÑ}%{)9ÄA"1aW«½ˆÝZ·x4w–ÌÙ¡9•ögˆ÷é˜Àï¿
+ Ø:ÊÃ€¡»ó¥DŒZÃ+PÐâ…   ‘EÉ€ç3.b÷è•iä	ä¤.aù°Ì’›{wôº€§vÜz”„Ü¥¤Ê¥¤* Õ!½©ç…?e…„€\+ÍŸ±vÔuE­/–óŸZt¾†J@I N«uÂÈ Ä1˜®×~\¿þO–™ÿ¹Ñ6ö,Å‘Ó¯¥X{OÄŽ(ûZ4b:eàœÑ}%{)9ÄA"1aW«½ˆÝZ·x4w–ÌÙ¡9•ögˆ÷é˜Àï¿
 ¯/Nß^®çÃ&ŸŒoÙÈ¼(ýÞtÿÉ3zGz’ø¸|íÏTC<ã¤®ßSr€H¬]éÑ@@
 Ï¨ÂÌg½2¯±¤¶¥q.Âæ=]Š% 6   6          E  (¤@ ·%Ø:ÊÃ
  »€¡ZÃ+ó¥E‘Pÿÿw´  æ=]^ê Ö   Ö          E  È¥@ ¶„Ø:ÊÃ
  »€¡ZÃ+ó¥E‘Pÿÿ²}   ›       Æè»z%p®Œ&]PB²
-Ê†ð(4óà˜)ÍKª¡—„@†þÔéNÀµ…lù›nfÏó3âoÜéZºMíg5º¶:v'ìV£õÆ\¾«èZ3¸¨`^À²‘NÐ¥å˜LöËkv Ò«c–š–Ê"…OyÕÓsÏ9/ LW‚@Mmá¥¹÷PFQkÄÝÁ|æ=]ƒì <Y  <Y         E Y.¦@ #d²!+–
+Ê†ð(4óà˜)ÍKª¡—„@†þÔéNÀµ…lù›nfÏó3âoÜéZºMíg5º¶:v'ìV£õÆ\¾«èZ3¸¨`^À²‘NÐ¥å˜LöËkv Ò«c–š–Ê"…OyÕÓsÏ9/ LW‚@Mmá¥¹÷PFQkÄÝÁ|æ=]ƒì <Y  <Y         E Y.¦@ #d²!+–
   PŒ„c‡±œxùwPÿÿ­`  $doregex[BP1]syfy.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/syfy.png</thumbnail>
 </item>
 
@@ -540,8 +549,8 @@ pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <title>[B][COLOR white]TCM[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]tcm.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/tcm.png</thumbnail>
 </item>
 
@@ -549,8 +558,8 @@ pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <title>[B][COLOR white]TELECINE ACTION[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]telecineaction.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/tc_action.png</thumbnail>
 </item>
 
@@ -558,8 +567,8 @@ pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <title>[B][COLOR white]TELECINE CULT[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]telecinecult.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/tc_cult.png</thumbnail>
 </item>
 
@@ -567,8 +576,8 @@ pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <title>[B][COLOR white]TELECINE FUN[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]telecinefun.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/tc_fun.png</thumbnail>
 </item>
 
@@ -576,8 +585,8 @@ pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <title>[B][COLOR white]TELECINE PIPOCA[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]telecinepipoca.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/tc_pipoca.png</thumbnail>
 </item>
 
@@ -585,8 +594,8 @@ pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <title>[B][COLOR white]TELECINE PREMIUM[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]telecinepremium.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/tc_premium.png</thumbnail>
 </item>
 
@@ -594,8 +603,8 @@ pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <title>[B][COLOR white]TELECINE TOUCH[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]telecinetouch.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/tc_touch.png</thumbnail>
 </item>
 
@@ -603,8 +612,8 @@ pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <title>[B][COLOR white]TNT[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]tnt.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/tnt.png</thumbnail>
 </item>
 
@@ -612,8 +621,8 @@ pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <title>[B][COLOR white]TNT SÃ‰RIES[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]tntseries.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/tnt_series.png</thumbnail>
 </item>
 
@@ -621,10 +630,10 @@ pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <title>[B][COLOR white]UNIVERSAL CHANNEL[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]universal.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://bit
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit
 4360
 .ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/universal_channel.png</thumbnail>
 </item>
 
@@ -632,8 +641,8 @@ pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <title>[B][COLOR white]WARNER[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]warner.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/warner_channel.png</thumbnail>
 </item>
 
@@ -647,8 +656,8 @@ pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <title>[B][COLOR white]BOOMERANG[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]boomerang.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/boomerang.png</thumbnail>
 </item>
 
@@ -656,8 +665,8 @@ pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <title>[B][COLOR white]CARTOON NETWORK[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]cartoon.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/cartoon_network.png</thumbnail>
 </item>
 
@@ -665,8 +674,8 @@ pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <title>[B][COLOR white]DISCOVERY KIDS[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]discoverykids.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/discovery_kids.png</thumbnail>
 </item>
 
@@ -674,8 +683,8 @@ pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <title>[B][COLOR white]DISNEY CHANNEL[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]disney.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/disney_channel.png</thumbnail>
 </item>
 
@@ -683,8 +692,8 @@ pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <title>[B][COLOR white]DISNEY JUNIOR[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]disneyjunior.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/disney_junior.png</thumbnail>
 </item>
 
@@ -692,8 +701,8 @@ pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <title>[B][COLOR white]DISNEY XD[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]disneyxd.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/disney_xd.png</thumbnail>
 </item>
 
@@ -701,8 +710,8 @@ pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <title>[B][COLOR white]GLOOB[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]gloob.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/gloob.png</thumbnail>
 </item>
 
@@ -710,8 +719,8 @@ pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <title>[B][COLOR white]NICKELODEON[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]nick.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/nick.png</thumbnail>
 </item>
 
@@ -719,8 +728,8 @@ pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <title>[B][COLOR white]NICK JR[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]nickjr.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/nick_jr.png</thumbnail>
 </item>
 
@@ -728,8 +737,8 @@ pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <title>[B][COLOR white]TOONCAST[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]tooncast.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/tooncast.png</thumbnail>
 </item>
 
@@ -743,8 +752,8 @@ pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <title>[B][COLOR white]ARTE 1[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]arte1.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/arte1.png</thumbnail>
 </item>
 
@@ -752,8 +761,8 @@ pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <title>[B][COLOR white]BIS[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]bis.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/bis.png</thumbnail>
 </item>
 
@@ -761,8 +770,8 @@ pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <title>[B][COLOR white]CANAL OFF[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]off.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/off.png</thumbnail>
 </item>
 
@@ -770,8 +779,8 @@ pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <title>[B][COLOR white]COMEDY CENTRAL[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]comedycentral.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/comedy_central.png</thumbnail>
 </item>
 
@@ -779,8 +788,8 @@ pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <title>[B][COLOR white]CURTA![/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]curta.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/curta!.jpg</thumbnail>
 </item>
 
@@ -788,8 +797,8 @@ pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <title>[B][COLOR white]DISCOVERY HOME & HEALTH[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]discoveryhomeihealth.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/discovery_home_health.png</thumbnail>
 </item>
 
@@ -797,8 +806,8 @@ pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <title>[B][COLOR white]DISCOVERY WORLD[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]discoveryworld.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/discovery_world.png</thumbnail>
 </item>
 
@@ -806,8 +815,8 @@ pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <title>[B][COLOR white]FISH TV[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]fishtv.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/fishtv.png</thumbnail>
 </item>
 
@@ -815,8 +824,8 @@ pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <title>[B][COLOR white]FOOD NETWORK[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]foodnetwork.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/food_network.png</thumbnail>
 </item>
 
@@ -824,8 +833,8 @@ pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <title>[B][COLOR white]FOX LIFE[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]foxlife.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/fox_life.png</thumbnail>
 </item>
 
@@ -833,8 +842,8 @@ pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <title>[B][COLOR white]GNT[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]gnt.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/gnt.png</thumbnail>
 </item>
 
@@ -842,8 +851,8 @@ pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <title>[B][COLOR white]ID[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]investigacaodiscovery.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/discovery_investigation.png</thumbnail>
 </item>
 
@@ -851,8 +860,8 @@ pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <title>[B][COLOR white]LIFETIME[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]lifetime.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/lifetime.png</thumbnail>
 </item>
 
@@ -860,8 +869,8 @@ pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <title>[B][COLOR white]MAIS GLOBOSAT[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]maisbobosat.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/mais_globosat.png</thumbnail>
 </item>
 
@@ -869,8 +878,8 @@ pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <title>[B][COLOR white]MTV[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]mtv.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/mtv.png</thumbnail>
 </item>
 
@@ -878,8 +887,8 @@ pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <title>[B][COLOR white]MULTISHOW[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]multishow.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/multishow.png</thumbnail>
 </item>
 
@@ -887,8 +896,8 @@ pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <title>[B][COLOR white]TLC[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]tlc.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/tlc.png</thumbnail>
 </item>
 
@@ -896,8 +905,8 @@ pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <title>[B][COLOR white]VIVA[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]viva.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/viva.png</thumbnail>
 </item>
 
@@ -911,8 +920,8 @@ pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <title>[B][COLOR white]BAND NEWS[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]bandnews.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/band_news.png</thumbnail>
 </item>
 
@@ -920,7 +929,7 @@ pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <title>[B][COLOR white]GLOBO NEWS[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>$doregex[BP1]globonews.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
-<regex><name>BP1</name><expres>(.*?*").m3u8</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
-<regex><name>BP2</name><expres>(.*?*")",</expres><page>https://cometa.top/player3/canaisvibgratis.php</page></regex>
+<regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/globonews.png</thumbnail>
 </item>
