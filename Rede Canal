@@ -1,4 +1,9 @@
 <item>
+<title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]CANAIS FECHADOS[/COLOR][/B]</title>
+<link>here</link>
+<thumbnail></thumbnail>
+
+<item>
 <title>[B][COLOR white]BAND[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]band.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
@@ -929,12 +934,12 @@
 <thumbnail>http://www.ilroma.net/sites/default/files/Rtl-logo.jpg</thumbnail>
 </item>
 <item>
-<item><title>[B][COLOR white]DEEJAY TV[/COLOR] [COLOR lime]SD[/COLOR]</title>
+<item><title>[B][COLOR white]DEEJAY TV[/COLOR] [COLOR lime]SD[/COLOR][/B]</title>
 <link>http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8</link>
 <thumbnail>http://i.imgur.com/aVF2CLf.jpg</thumbnail>
 </item>
 <item>
-<item><title>[B][COLOR white]AZZURRA RADIO[/COLOR] [COLOR lime]SD[/COLOR]</title>
+<item><title>[B][COLOR white]AZZURRA RADIO[/COLOR] [COLOR lime]SD[/COLOR][/B]</title>
 <link>http://188.165.224.142:1935/radiotivuazzurralive/radiotivuazzurralive/playlist.m3u8</link>
 <thumbnail>http://static-cdn2.ustream.tv/i/channel/picture/1/2/6/7/12676937/12676937,640x360,b:2.jpg</thumbnail>
 </item>
@@ -944,7 +949,7 @@
 <thumbnail>http://www.vocespettacolo.com/wp-content/uploads/2018/04/radionorba.png</thumbnail>
 </item>
 <item>
-<item><title>[B][COLOR white]COMPANY TV[/COLOR] [COLOR lime]SD[/COLOR]</title>
+<item><title>[B][COLOR white]COMPANY TV[/COLOR] [COLOR lime]SD[/COLOR][/B]</title>
 <link>http://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_360p/playlist.m3u8</link>
 <thumbnail>https://cdn-profiles.tunein.com/s16195/images/logod.png</thumbnail>
 </item>
@@ -959,32 +964,32 @@
 <thumbnail>https://profile-images.scdn.co/images/userprofile/default/20ad75d629b0f4d71618ea40072a71a66420f619</thumbnail>
 </item>
 <item>
-<item><title>[B][COLOR white]RADIO TAORMINA[/COLOR] [COLOR lime]SD[/COLOR]</title>
+<item><title>[B][COLOR white]RADIO TAORMINA[/COLOR] [COLOR lime]SD[/COLOR][/B]</title>
 <link>http://flash5.streaming.xdevel.com/taorminatv/taorminatv/playlist.m3u8</link>
 <thumbnail>https://share.xdevel.com/mobileapps/native/assets/apps/radiotaormina-v3/Cover-radiotaormina-player.png</thumbnail>
 </item>
 <item>
-<item><title>[B][COLOR white]RADIO M2O[/COLOR] [COLOR lime]SD[/COLOR]</title>
+<item><title>[B][COLOR white]RADIO M2O[/COLOR] [COLOR lime]SD[/COLOR][/B]</title>
 <link>http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on</link>
 <thumbnail>https://www.hedex.tv/uploads/images/clip_23_1552673555_social.png</thumbnail>
 </item>
 <item>
-<item><title>[B][COLOR white]RADIO CAPITAL[/COLOR] [COLOR lime]SD[/COLOR]</title>
+<item><title>[B][COLOR white]RADIO CAPITAL[/COLOR] [COLOR lime]SD[/COLOR][/B]</title>
 <link>http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-b.m3u8?sd=10&rebase=on</link>
 <thumbnail>http://db.radioline.fr/pictures/radio_6622cf821e4df0c06abca9d6e7c3703a/logo200.jpg?size=200</thumbnail>
 </item>
 <item>
-<item><title>[B][COLOR white]RADIO ITALI VISION[/COLOR] [COLOR lime]SD[/COLOR]</title>
+<item><title>[B][COLOR white]RADIO ITALI VISION[/COLOR] [COLOR lime]SD[/COLOR][/B]</title>
 <link>http://livetr.teleromagna.it/lifestyle/live/live/lifestyle480/chunks.m3u8</link>
 <thumbnail>https://lh3.googleusercontent.com/UcvYoF3_Rd7wsiu1icQQVbNJOETV5KP3moqCwSVJldSTaSo104CYqD7ZUgHFpGWG-Cg</thumbnail>
 </item>
 <item>
-<item><title>[B][COLOR white]VH1 ITALY[/COLOR] [COLOR lime]HD+[/COLOR]</title>
+<item><title>[B][COLOR white]VH1 ITALY[/COLOR] [COLOR lime]HD+[/COLOR][/B]</title>
 <link>https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8?ct=c&expand=simulcast_standard&exp=1559861259&rn=-1063236162&cid=36953f5b6546464590d2fcd954bc89cf&tc=1&sig=be9fe3186edd9c15b58c03fc2767ff9c56e3eba8f5871889af1bc6e58bbf8b5a</link>
 <thumbnail>https://yt3.ggpht.com/a/AGF-l7_8hMLqSQn1wqY2bgV_i_wO7MtcfVxPKHVBAw=s900-mo-c-c0xffffffff-rj-k-no</thumbnail>
 </item>
 <item>
-<item><title>[B][COLOR white]RADIO ROCKLAND[/COLOR] [COLOR lime]HD+[/COLOR]</title>
+<item><title>[B][COLOR white]RADIO ROCKLAND[/COLOR] [COLOR lime]HD+[/COLOR][/B]</title>
 <link>http://api.new.livestream.com/accounts/22300522/events/6680139/broadcasts/192255207.m3u8?dw=80&hdnea=st=1560074796~exp=1560076596~acl=/i/22300522_6680139_lsisi8zkuwc19nqcavk_1@346435/*~hmac=6ee2768c212451f02f76e093911f221bdfcd13393226398f883220208552a64c&token=5cfcdedc_0ed81cb7d6f6c8b62bd35e81cea9a57405289263</link>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBqls40nG3dt5O0cc6VJ-VPV2swWns3jBbhWya-M8l3H5SV5U1</thumbnail>
 </item>
