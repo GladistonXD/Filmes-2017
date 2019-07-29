@@ -1,5 +1,5 @@
 <item>
-<title>[B][COLOR white]BAND[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]BAND[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]band.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
@@ -8,7 +8,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]GLOBO NORDESTE[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]GLOBO NORDESTE[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]bobonordeste.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
@@ -17,7 +17,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]GLOBO RJ[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]GLOBO RJ[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]boborj.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
@@ -26,7 +26,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]GLOBO SP[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]GLOBO SP[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]bobosp.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
@@ -35,7 +35,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]SBT[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]SBT[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]sbt.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
@@ -44,7 +44,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]RECORD[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]RECORD[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]recordsp.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
@@ -53,7 +53,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]ANIMAL PLANET[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]ANIMAL PLANET[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]animalplanet.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
@@ -62,7 +62,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]DISCOVERY CHANNEL[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]DISCOVERY CHANNEL[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]discovery.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
@@ -71,7 +71,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]DISCOVERY CIVILIZATION[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]DISCOVERY CIVILIZATION[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]discoverycivilization.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
@@ -80,7 +80,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]DISCOVERY SCIENCE[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]DISCOVERY SCIENCE[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]discoverysience.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
@@ -89,7 +89,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]DISCOVERY THEATER[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]DISCOVERY THEATER[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]discoverytheater.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
@@ -98,7 +98,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]HISTORY[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]HISTORY[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]history.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
@@ -107,7 +107,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]H2[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]H2[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]history2.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
@@ -116,7 +116,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]NAT GEO[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]NAT GEO[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]natgeo.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
@@ -125,7 +125,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]NAT GEO WILD[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]NAT GEO WILD[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]natgeowild.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
@@ -134,7 +134,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]BAND SPORTS[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]BAND SPORTS[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]bandsports.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
@@ -143,7 +143,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]COMBATE[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]COMBATE[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]combate.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
@@ -152,7 +152,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]DISCOVERY TURBO[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]DISCOVERY TURBO[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]discoveryturbo.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
@@ -161,7 +161,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]ESPN[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]ESPN[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]espn.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
@@ -170,7 +170,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]ESPN 2[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]ESPN 2[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]espn2.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
@@ -179,7 +179,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]ESPN BRASIL[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]ESPN BRASIL[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]espnbrasil.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
@@ -188,7 +188,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]FOX SPORTS[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]FOX SPORTS[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]foxsports1.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
@@ -197,7 +197,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]FOX SPORTS 2[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]FOX SPORTS 2[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]foxsports2.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
@@ -206,7 +206,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]PREMIERE CLUBE[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]PREMIERE CLUBE[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]premiereclubes.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
@@ -215,7 +215,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]PREMIERE 2[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]PREMIERE 2[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]premiere2.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
@@ -224,7 +224,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]PREMIERE 3[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]PREMIERE 3[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]premiere3.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
@@ -233,7 +233,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]PREMIERE 4[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]PREMIERE 4[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]premiere4.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
@@ -242,7 +242,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]PREMIERE 5[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]PREMIERE 5[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]premiere5.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
@@ -251,7 +251,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]PREMIERE 6[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]PREMIERE 6[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]premiere6.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
@@ -260,7 +260,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]PREMIERE 7[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]PREMIERE 7[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]premiere7.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
@@ -269,7 +269,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]PREMIERE 8[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]PREMIERE 8[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]premiere8.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
@@ -278,7 +278,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]PREMIERE 9[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]PREMIERE 9[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]premiere9.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
@@ -287,7 +287,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]SPORTV[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]SPORTV[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]sportv1.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
@@ -296,7 +296,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]SPORTV 2[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]SPORTV 2[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]sportv2.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
@@ -305,7 +305,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]SPORTV 3[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]SPORTV 3[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]sportv3.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
@@ -314,7 +314,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]A&E[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]A&E[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]aie.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
@@ -323,7 +323,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]AMC[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]AMC[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]amc.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
@@ -332,7 +332,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]AXN[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]AXN[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]axn.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
@@ -341,7 +341,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]CINEMAX[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]CINEMAX[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]cinemax.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
@@ -350,7 +350,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]FOX[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]FOX[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]fox.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
@@ -359,7 +359,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]FOX PREMIUM 1[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]FOX PREMIUM 1[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]foxpremium1.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
@@ -368,7 +368,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]FOX PREMIUM 2[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]FOX PREMIUM 2[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]foxpremium2.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
@@ -377,7 +377,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]FX[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]FX[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]fx.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
@@ -386,7 +386,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]HBO[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]HBO[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]hbo.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
@@ -395,7 +395,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]HBO 2[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]HBO 2[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]hbo2.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
@@ -404,7 +404,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]HBO FAMILY[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]HBO FAMILY[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]hbofamily.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
@@ -413,7 +413,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]HBO PLUS[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]HBO PLUS[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]hboplus.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
@@ -422,7 +422,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]HBO SIGNATURE[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]HBO SIGNATURE[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]hbosignature.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
@@ -431,7 +431,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]MAX[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]MAX[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]max.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
@@ -440,7 +440,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]MAX PRIME[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]MAX PRIME[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]maxprime.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
@@ -449,7 +449,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]MAX UP[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]MAX UP[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]maxup.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
@@ -458,7 +458,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]MEGAPIX[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]MEGAPIX[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]megapix.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
@@ -467,7 +467,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]PARAMOUNT[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]PARAMOUNT[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]paramount.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
@@ -476,7 +476,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]SONY[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]SONY[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]sony.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
@@ -485,7 +485,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]SPACE[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]SPACE[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]space.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
@@ -494,7 +494,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]STUDIO UNIVERSAL[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]STUDIO UNIVERSAL[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]studiouniversal.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
@@ -503,7 +503,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]SYFY[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]SYFY[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]syfy.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
@@ -512,7 +512,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]TCM[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]TCM[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]tcm.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
@@ -521,7 +521,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]TELECINE ACTION[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]TELECINE ACTION[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]telecineaction.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
@@ -530,7 +530,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]TELECINE CULT[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]TELECINE CULT[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]telecinecult.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
@@ -539,7 +539,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]TELECINE FUN[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]TELECINE FUN[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]telecinefun.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
@@ -548,7 +548,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]TELECINE PIPOCA[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]TELECINE PIPOCA[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]telecinepipoca.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
@@ -557,7 +557,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]TELECINE PREMIUM[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]TELECINE PREMIUM[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]telecinepremium.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
@@ -566,7 +566,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]TELECINE TOUCH[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]TELECINE TOUCH[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]telecinetouch.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
@@ -575,7 +575,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]TNT[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]TNT[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]tnt.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
@@ -584,7 +584,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]TNT SÃ‰RIES[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]TNT SERIES[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]tntseries.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
@@ -593,7 +593,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]UNIVERSAL CHANNEL[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]UNIVERSAL CHANNEL[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]universal.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit
@@ -604,7 +604,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]WARNER[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]WARNER[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]warner.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
@@ -613,7 +613,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]BOOMERANG[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]BOOMERANG[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]boomerang.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
@@ -622,7 +622,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]CARTOON NETWORK[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]CARTOON NETWORK[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]cartoon.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
@@ -631,7 +631,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]DISCOVERY KIDS[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]DISCOVERY KIDS[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]discoverykids.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
@@ -640,7 +640,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]DISNEY CHANNEL[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]DISNEY CHANNEL[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]disney.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
@@ -649,7 +649,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]DISNEY JUNIOR[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]DISNEY JUNIOR[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]disneyjunior.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
@@ -658,7 +658,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]DISNEY XD[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]DISNEY XD[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]disneyxd.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
@@ -667,7 +667,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]GLOOB[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]GLOOB[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]gloob.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
@@ -676,7 +676,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]NICKELODEON[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]NICKELODEON[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]nick.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
@@ -685,7 +685,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]NICK JR[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]NICK JR[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]nickjr.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
@@ -694,7 +694,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]TOONCAST[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]TOONCAST[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]tooncast.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
@@ -703,7 +703,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]ARTE 1[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]ARTE 1[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]arte1.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
@@ -712,7 +712,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]BIS[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]BIS[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]bis.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
@@ -721,7 +721,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]CANAL OFF[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]CANAL OFF[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]off.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
@@ -730,7 +730,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]COMEDY CENTRAL[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]COMEDY CENTRAL[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]comedycentral.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
@@ -739,7 +739,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]CURTA![/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]CURTA![/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]curta.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
@@ -748,7 +748,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]DISCOVERY HOME & HEALTH[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]DISCOVERY HOME & HEALTH[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]discoveryhomeihealth.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
@@ -757,7 +757,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]DISCOVERY WORLD[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]DISCOVERY WORLD[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]discoveryworld.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
@@ -766,7 +766,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]FISH TV[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]FISH TV[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]fishtv.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
@@ -775,7 +775,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]FOOD NETWORK[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]FOOD NETWORK[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]foodnetwork.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
@@ -784,7 +784,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]FOX LIFE[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]FOX LIFE[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]foxlife.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
@@ -793,7 +793,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]GNT[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]GNT[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]gnt.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
@@ -802,7 +802,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]ID[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]ID[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]investigacaodiscovery.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
@@ -811,7 +811,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]LIFETIME[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]LIFETIME[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]lifetime.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
@@ -820,7 +820,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]MAIS GLOBOSAT[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]MAIS GLOBOSAT[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]maisbobosat.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
@@ -829,7 +829,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]MTV[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]MTV[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]mtv.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
@@ -838,7 +838,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]MULTISHOW[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]MULTISHOW[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]multishow.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
@@ -847,7 +847,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]TLC[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]TLC[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]tlc.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
@@ -856,7 +856,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]VIVA[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]VIVA[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]viva.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
@@ -865,7 +865,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]BAND NEWS[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]BAND NEWS[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]bandnews.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
@@ -874,10 +874,112 @@
 </item>
 
 <item>
-<title>[B][COLOR white]GLOBO NEWS[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white]GLOBO NEWS[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[BP1]globonews.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
 <regex><name>BP2</name><expres>(.*?).rctvd</expres><page>http://brazucaplay.forumbrasil.net/h15-servidor-rc</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/globonews.png</thumbnail>
+</item>
+
+<item>
+<item><title>[COLOR white]HBO Alternativo[/COLOR] [COLOR lime]HD[/COLOR]</title>
+<link>http://ul.cdn946.net:8080/hls/kdhd8.m3u8?s=w_lXznrJLL4muf_dxM9Xiw&e=1562778647</link>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/hbo.jpg</thumbnail>
+</item>
+<item>
+<item>
+<item><title>[COLOR white]RADIO MONTE CARLOS[/COLOR] [COLOR lime]HD[/COLOR]</title>
+<link>http://wow01.105.net/live/rmc1/playlist.m3u8</link>
+<thumbnail>http://www.monacolife.net/wp-content/uploads/2018/09/radiomontecarlologo.jpg</thumbnail>
+</item>
+<item>
+<item>
+<item>
+<item><title>[COLOR white]1MUSIC[/COLOR] [COLOR lime]HD[/COLOR]</title>
+<link>http://92.249.129.152/stream/1music.m3u8</link>
+<thumbnail>https://pbs.twimg.com/profile_images/879677753645309952/G2vqlMxX.jpg</thumbnail>
+</item>
+<item>
+<item>
+<item><title>[COLOR white]HIT TV[/COLOR] [COLOR lime]HD[/COLOR]</title>
+<link>https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/hittvc.m3u8</link>
+<thumbnail>http://2.bp.blogspot.com/-uH_Lr3KjtmI/VnswmySzscI/AAAAAAAABPE/uD26KmyRLdQ/s320/hittv.png</thumbnail>
+</item>
+<item>
+<item>
+<item><title>[COLOR white]RADIO 105[/COLOR] [COLOR lime]HD[/COLOR]</title>
+<link>http://tv.105.net:1935/live/105Test1/playlist.m3u8</link>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR346md05GHwmtRAH6ujSAZvTCt_d8AewLfgtpan-HNS6ptFE2MoA</thumbnail>
+</item>
+<item>
+<item>
+<item><title>[COLOR white]MUSICTOP[/COLOR] [COLOR lime]HD[/COLOR]</title>
+<link>http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w2070598993_b2028000_sleng.m3u8</link>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvTHSU5FFy1BQKtInFQk5bR1NS_a1SoxeWoYLKfd-lPBSL48VqGQ</thumbnail>
+</item>
+<item>
+<item><title>[COLOR white]RTL 102.5[/COLOR] [COLOR lime]HD[/COLOR]</title>
+<link>https://rtl-radio-stream-thron.akamaized.net/live-video/video1/ngrp:video1/chunklist_b1196000.m3u8</link>
+<thumbnail>http://www.ilroma.net/sites/default/files/Rtl-logo.jpg</thumbnail>
+</item>
+<item>
+<item><title>[COLOR white]DEEJAY TV[/COLOR] [COLOR lime]SD[/COLOR]</title>
+<link>http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8</link>
+<thumbnail>http://i.imgur.com/aVF2CLf.jpg</thumbnail>
+</item>
+<item>
+<item><title>[COLOR white]AZZURRA RADIO[/COLOR] [COLOR lime]SD[/COLOR]</title>
+<link>http://188.165.224.142:1935/radiotivuazzurralive/radiotivuazzurralive/playlist.m3u8</link>
+<thumbnail>http://static-cdn2.ustream.tv/i/channel/picture/1/2/6/7/12676937/12676937,640x360,b:2.jpg</thumbnail>
+</item>
+<item>
+<item><title>[COLOR white]NORBA TV[/COLOR] [COLOR lime]HD[/COLOR]</title>
+<link>http://flash5.streaming.xdevel.com/radionorbatv/smil:radionorbatv.smil/chunklist_w1598534788_b800000.m3u8</link>
+<thumbnail>http://www.vocespettacolo.com/wp-content/uploads/2018/04/radionorba.png</thumbnail>
+</item>
+<item>
+<item><title>[COLOR white]COMPANY TV[/COLOR] [COLOR lime]SD[/COLOR]</title>
+<link>http://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_360p/playlist.m3u8</link>
+<thumbnail>https://cdn-profiles.tunein.com/s16195/images/logod.png</thumbnail>
+</item>
+<item>
+<item><title>[COLOR white]MUSIC CHOICE[/COLOR] [COLOR lime]HD[/COLOR]</title>
+<link>http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8</link>
+<thumbnail>http://gorovmusic.com/wp-content/uploads/2014/02/Music-Choice-Cable-TV-Channel.jpg</thumbnail>
+</item>
+<item>
+<item><title>[COLOR white]VIRGIN TV ROCK[/COLOR] [COLOR lime]HD[/COLOR]</title>
+<link>https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/virgintv.m3u8</link>
+<thumbnail>https://profile-images.scdn.co/images/userprofile/default/20ad75d629b0f4d71618ea40072a71a66420f619</thumbnail>
+</item>
+<item>
+<item><title>[COLOR white]RADIO TAORMINA[/COLOR] [COLOR lime]SD[/COLOR]</title>
+<link>http://flash5.streaming.xdevel.com/taorminatv/taorminatv/playlist.m3u8</link>
+<thumbnail>https://share.xdevel.com/mobileapps/native/assets/apps/radiotaormina-v3/Cover-radiotaormina-player.png</thumbnail>
+</item>
+<item>
+<item><title>[COLOR white]RADIO M2O[/COLOR] [COLOR lime]SD[/COLOR]</title>
+<link>http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on</link>
+<thumbnail>https://www.hedex.tv/uploads/images/clip_23_1552673555_social.png</thumbnail>
+</item>
+<item>
+<item><title>[COLOR white]RADIO CAPITAL[/COLOR] [COLOR lime]SD[/COLOR]</title>
+<link>http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-b.m3u8?sd=10&rebase=on</link>
+<thumbnail>http://db.radioline.fr/pictures/radio_6622cf821e4df0c06abca9d6e7c3703a/logo200.jpg?size=200</thumbnail>
+</item>
+<item>
+<item><title>[COLOR white]RADIO ITALI VISION[/COLOR] [COLOR lime]SD[/COLOR]</title>
+<link>http://livetr.teleromagna.it/lifestyle/live/live/lifestyle480/chunks.m3u8</link>
+<thumbnail>https://lh3.googleusercontent.com/UcvYoF3_Rd7wsiu1icQQVbNJOETV5KP3moqCwSVJldSTaSo104CYqD7ZUgHFpGWG-Cg</thumbnail>
+</item>
+<item>
+<item><title>[COLOR white]VH1 ITALY[/COLOR] [COLOR lime]HD+[/COLOR]</title>
+<link>https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8?ct=c&expand=simulcast_standard&exp=1559861259&rn=-1063236162&cid=36953f5b6546464590d2fcd954bc89cf&tc=1&sig=be9fe3186edd9c15b58c03fc2767ff9c56e3eba8f5871889af1bc6e58bbf8b5a</link>
+<thumbnail>https://yt3.ggpht.com/a/AGF-l7_8hMLqSQn1wqY2bgV_i_wO7MtcfVxPKHVBAw=s900-mo-c-c0xffffffff-rj-k-no</thumbnail>
+</item>
+<item>
+<item><title>[COLOR white]RADIO ROCKLAND[/COLOR] [COLOR lime]HD+[/COLOR]</title>
+<link>http://api.new.livestream.com/accounts/22300522/events/6680139/broadcasts/192255207.m3u8?dw=80&hdnea=st=1560074796~exp=1560076596~acl=/i/22300522_6680139_lsisi8zkuwc19nqcavk_1@346435/*~hmac=6ee2768c212451f02f76e093911f221bdfcd13393226398f883220208552a64c&token=5cfcdedc_0ed81cb7d6f6c8b62bd35e81cea9a57405289263</link>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBqls40nG3dt5O0cc6VJ-VPV2swWns3jBbhWya-M8l3H5SV5U1</thumbnail>
 </item>
