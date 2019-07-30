@@ -1,2 +1,2 @@
-source: "https://d1lud49pck8hpm.cloudfront.net//hls1/TESTE
+source: "https://d1lud49pck8hpm.cloudfront.net//hls1/.m3u8
 link referer=https://cometa.top/<p>
