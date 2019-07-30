@@ -1,3 +1,2 @@
-FZWTG5JYPRKXGZLSFVAWOZLOOQ6UO32MNF3GKVDW.pubd2
-https://d1lud49pck8hpm.cloudfront.net//hls1/TESTE
+source src="https://d1lud49pck8hpm.cloudfront.net//hls1/TESTE
 link referer=https://cometa.top/<p>
