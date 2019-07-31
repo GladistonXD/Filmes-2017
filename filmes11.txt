@@ -1,0 +1,4162 @@
+<item>
+    <title>21/12/2018 17:27:47</title>
+    <link>http://</link>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
+    <info></info>
+    <info2></info2>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Crimes em Happytime [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FYCW34DXH1</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]O Príncipe de Peoria e o Milagre de Natal [/COLOR] [COLOR dodgerblue]
+    [/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FYCR6S2D3G</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]O Príncipe de Peoria e o Milagre de Natal [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FYCR6RS2U0</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Mary e a Flor da Feiticeira [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FYCR6DYTUW</page>
+    </regex>
+</item>
+
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]João de Deus - O Silêncio é uma Prece [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FYCR6PMBZ0</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Buscando [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FYCR4S9JAV</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Venom [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FYCRADL7N7</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Johnny English 3.0 [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FYCR4TEQK7</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Pelo Direito de Ser Feliz [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FYBQGOEZCK</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Juliet Nua e Crua [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FYBQFF00E9</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]A Melodia [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FYBQ9C5YMJ</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]O Assalto [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FYALJOXW2Z</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Delirium [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FY9YRFZLKV</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Capitao Sharky O Pequeno Pirata [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FY9YQNP7UQ</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]O Homem Que Inventou o Natal [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FY9Y03ON14</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Halloween - A Lenda de Jack [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FY9A4TH558</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Onda de Choque [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FY8WE8TZO6</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Caixa de Pássaros [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FY8WP8RQ5H</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Encantado [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FY86AQ8Y7I</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Animais Fantásticos: Os Crimes de Grindelwald [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FY87ITCA70</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]O Banquete [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FY7M14K4HI</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white] O Anel do Rei: A Última Batalha [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FY7M18E6L2</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Flor da Juventude [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FY6IZ8JBQ3</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]O Primeiro Homem [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FY6IZU1EPD</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Hotel Artemis [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FY5C3PZCIG</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Uma Razão para Viver [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FY5C4BGXZM</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]O Predador 2018 [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FY5FOHV5GX</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Zoe e Raven: Os Doze Presentes de Natal [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FY45RTAT67</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Filme 50[/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FY45SW1BVL</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]O Retorno do Duende [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FY45SIM9TD</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Demônios [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FY3OZT7N2I</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Goosebumps 2 Halloween Assombrado [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FY4502Z414</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]A Rota Selvagem [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FY1SCT4U1Z</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]O Resgate da Princesa [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FY1SXIS863</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Mogli: Entre Dois Mundo [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FY1UUZISXJ</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Sansão [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FY1UUMG1BN</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Mary Shelley [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FY1U03MXPX</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Leo Da Vinci: Missão Mona Lisa [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FY1TZ3A8X4</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white] Arcade Voce Vai Entrar Nesse Jogo [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FY1TV4SK07</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Um Pequeno Favor [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FY1UTTFSUV</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Natal com os StoryBots[/COLOR] [COLOR dodgerblue][/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FY1URZQIMN</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Papai Noel &amp; Cia [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FY1VYM5729</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Ponto Cego [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FY1VYNWZ74</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Filme 85[/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FY1WNDYOGN</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]O Segredo de Marrowbone [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FY1YW5M107</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]O Mundo é Seu [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FY1YW55TG3</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]O Mais Provável Assassino [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FY1YA4HOLQ</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white] Rei Arthur: A Volta da Excalibur [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FY1YW81DBO</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Pé Pequeno [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FY2ZKTU3YT</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Batalhas [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FY2ZJKYADR</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Boone – Caçador de Recompensas [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FY2ZIJ5DXR</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]O Candidato Honesto 2 [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FY2ZJZJGP8</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]John Wick Um Novo dia para matar - Mega Filmes[/COLOR] [COLOR dodgerblue][/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FY2ZJUM2R9</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white] Mare Nostrum [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FY2ZI3PVA4</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white] O Príncipe do Natal: O Casamento Real [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FY32RA07ZE</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Primeira Chegada [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FY32QHTW1H</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Superfly [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FY32VJOMFK</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Como Superar um Fora [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FY32WFNR6K</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]A Outra Mulher [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FY47IXFIAE</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]O Que de Verdade Importa [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FY6GVL7H7I</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Meu Jantar Com Hervé [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FY6GVDP8LE</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Assistir Apartamento 212 [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FY6I8C3RYU</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Um Conto Indiano [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FY6IO05SFL</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]A Batalha das Ardenas A Última Ofensiva de Hitler [/COLOR] [COLOR dodgerblue]LEG[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FY6I72Z0TS</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]O Mínimo Para Viver [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FY6I7TMNNO</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Pedido de Casamento [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FY6KLBHL78</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Along Came the Devil [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FY6KKU6QDI</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Refém do Jogo [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FY6KMS8N7B</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Uma Ressaca de 9 Meses [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FY6L5PRXWX</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Marvel Rising – Guerreiros Secretos [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FY6KIANT5K</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]The Tribe [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FY7KALWTPK</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]A Queda de Berlim [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FY77KHC11U</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Viva A Vida é uma Festa[/COLOR] [COLOR dodgerblue][/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FY7KYSOKB</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Unidade Wega [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FY7KWVKNCD</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Crônicas de Natal [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FY77TUPZL5</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Um Sonho de Natal [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FY7KBXBBPJ</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Carga Bruta [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FY77NWXT3T</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Corrida Mortal 4 Além da Anarquia [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FY77KRCWH4</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Halloween [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FY77TRPEBF</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Os Incríveis 2 [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FY7K4N6BXY</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Coração de Cowboy [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FY77RSSM1M</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Se Você Soubesse [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FY8B3OCXXN</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]A Freira [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FY8AWDW5XG</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Missao Catmandu As Aventuras de Nelly e Simon [/COLOR] [COLOR dodgerblue]LEG[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FY8B3P0HY8</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Inimigo Mortal [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FY8B3UN9MJ</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]A Pele Fria [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FY8AYQF59J</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Esquadrão Suicída: Inferno à Pagar[/COLOR] [COLOR dodgerblue][/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FY8RRNQMIV</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Missao Catmandu As Aventuras de Nelly e Simon [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FY8S4AUKED</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Era uma vez um Casamento [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FY8PCEYV38</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Traffik Liberdade Roubada [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FY8SB546KX</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]The Ballad of Buster Scruggs [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FY8PG562FE</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Nada a Esconder [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FY8PDFMGUF</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Chasing the Dragon [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FY8PVR7LNI</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Filme 180[/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FY8PCQBF1C</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]O Vendedor Chinês [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FY8V2XMYHE</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Estou de Volta [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FY8UU3VB78</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white] Princesa e a Plebeia [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FY8UWZ7T7T</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Cam [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FYBFTKTAO9</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]O Começo de Um Grande Amor [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FYBG1209E8</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Christopher Robin Um Reencontro Inesquecível [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FYBFSD2BP9</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Nasce Uma Estrela [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FYBG1UQYBU</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white] O Assassino: O Primeiro Alvo [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FYBG45Y2H3</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Maria Madalena [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FYBFV0PLXQ</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Stephanie [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FYBGM95BC2</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Viking - Os Pergaminhos Sagrados [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FWGTSM34GF</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Take Me [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FW9STWP73B</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Hangman [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FW9LDV89R4</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Errementari: O Ferreiro e o Diabo [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FWU87M8E37</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]O Conto [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FW9SDCWUVQ</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Daddy Cool Ex em Domicílio [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FW9L97MCSI</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Filme 224[/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FW7DBPLHMV</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Tesouros do Naufrágio do Inacreditável [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FW7BIGTAFQ</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Filme 227[/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FW8ONHKPO6</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Siberia [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FWRNTJD0UG</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]No Coração da Escuridão [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FWD3ASR83O</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]22 de Julho [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FW3X5SJJ20</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Deus Não Está Morto: Uma Luz na Escuridão [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FW3XO8P310</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Hotel Transilvânia 3: Férias Monstruosas [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FW3X7RV34H</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Mal Nosso [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FW2RWA3UC0</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]O Último Suspiro [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FW2RLN3G71</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Enrolados Outra Vez: Rainha Por Um Dia [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FWSX4OHXCX</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Em Busca Do Assassino [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FW1JALX8BQ</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Todo Dia [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FW1JF6M5MX</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Mercenário [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FVZ3Q3AFNX</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]DC Super Hero Girls Lendas de Atlântida [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FWTWXE9BPF</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]A Vingança de Lefty Brown [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FVZ3SK5VEI</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Mais Uma Chance [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FVY0EQS7MI</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Os Fantasmas de Ismael online %%sep%% %%sitename%% - Mega Filmes[/COLOR] [COLOR dodgerblue]LEG[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FVX202UYFV</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Prisão Estelar [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FVX1STASAF</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Perseguição Explosiva [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FVVUW2QOZE</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Os Largados [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FVVUZ0KW26</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Operação Final [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FVVUUPRJUM</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Kung Fu Yoga [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FVURRGGOBC</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]O Último Assalto [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FVUR7MH94N</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Khali: O Assassino [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FVUR6NEYCE</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]A Criatura Sombria [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FVUJAK23FS</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Maigret em Montmartre[/COLOR] [COLOR dodgerblue][/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FVUPHWII07</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]A Primeira Noite de Crime [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FVQYTTTNX0</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Guerreiros do Futuro [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FVQKUXBNZ5</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Na Mira do Medo [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FVQK2O9LNK</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Menashe [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FVQK09PJYF</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Baronesa dublado[/COLOR] [COLOR dodgerblue][/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FVQ503P6P4</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Noite de Lobos [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FVQ1JKZW17</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]De Carona para o Amor [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FVQ1GLJ1EO</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]A Vida Moderna é um Lixo [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FVQ17ES7Y8</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Almas Secas [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FVOXC32M39</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]A Luz Divina [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FVOXA5OL10</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Missão Impossível – Efeito Fallout [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FWPES2CA7X</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Oito Mulheres e um Segredo [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FWGFKPCL3W</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Combatentes da Liberdade [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FX01LJ5OQT</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Oportunistas [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FX4D1C2L77</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Esquadrão Espacial Kyuranger vs. Space Squad Legndado[/COLOR] [COLOR dodgerblue][/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FVMIFHMTJX</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Sicário 2: Dia do Soldado [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FVLFQYYMYY</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Doce Virginia [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FVKCG22ML4</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Barbie e os Golfinhos Mágicos [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FWPFWYW5QP</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Shopkins: Aventura Selvagem [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FVISDMIB2S</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]SEXY POR ACIDENTE [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FVI42AWOU7</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Holy Camp! [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FVHY2F4WTR</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Uma Quase Dupla [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FVHVKKW700</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Felicidade por um Fio [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FVHWD7Y9FV</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Rafinha Bastos: Ultimato [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FVHVISZYGQ</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Thi Mai Rumo ao Vietnã [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FX048IQP5B</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]DO JEITO QUE ELAS QUEREM 2018 [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FVZUQOD5QD</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Hereditário [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FVZURDB3IX</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Sombra Ardente [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FVFQ0WKUBL</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Assassinada Aos 17 [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FX4CK3SRSG</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Os Amantes [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FVDCK0SMCB</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]O Anjo do Mossad [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FV9RF30Z0Q</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Bleach online - Mega Filmes[/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FWQ5X1D2Z3</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Gente do Bem [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FV9QYS57L3</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Tio Drew [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FWFD1VG7WV</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Cidade Louca [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FV8PBSUNLJ</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]A Noite Devorou o Mundo [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FV8M6JAT7Y</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Jane: A Mãe dos Chimpanzés [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FV8N3QBGG2</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]O Fim da Inocencia [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FV8MA9LWL6</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]ZOMBIES 2018 [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FW3RPSZFQ1</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Tal Pai Tal Filha [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FVY5PPBIN7</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Filme 389[/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FWPHCLINA7</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]A Noite do Jogo 2018[/COLOR] [COLOR dodgerblue][/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FWFB9NHJ2S</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Filme 391[/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FWF7YU3KSO</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Scooby-Doo &amp; Batman - Os Bravos e Destemidos - Mega Filmes[/COLOR] [COLOR dodgerblue][/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FWGFKG744W</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Te Peguei! [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FWQIQ4KR8H</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Rampage Destruição Total[/COLOR] [COLOR dodgerblue][/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FWFDTLN8HY</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]A Morte do Superman [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FVWVKEQV53</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Scooby-Doo e o Fantasma Gourmet [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FVY9SOKOMS</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Perdida [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FV7F3GP806</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]O Pacote [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FVVRXMPHAP</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Action Point [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FWPDQ5BPYJ</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]A Fuga do Prisioneiro 614[/COLOR] [COLOR dodgerblue][/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FVYVSNGIT3</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Signature Move Legendando[/COLOR] [COLOR dodgerblue][/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FV6J3V6JV0</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Que o Diabo Nos Carregue[/COLOR] [COLOR dodgerblue][/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FV6JFK3PPE</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]O Banqueiro da Resistência [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FV6H0DC9EP</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]City Of Joy Onde Vive a Esperança Frágil [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FV6FC3K43A</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]SPF-18 [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FV5E5EB96O</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Batman vs. Duas-Caras [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FWGE5YOE2E</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Antes que Eu me Esqueça [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FV57EG23G3</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]A Grande Jogada [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FV57C80UIK</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Filme 422[/COLOR] [COLOR dodgerblue][/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FWPGZJRGJT</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Você Confia Neste Computador? Legndado[/COLOR] [COLOR dodgerblue][/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FV41R3X1HB</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Depois do Apocalipse [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FV41HQ0RFP</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Os Crimes de Limehouse [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FV2RRHFT87</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Mazinger Z: Infinity [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FUZF9S0MAD</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Medo Viral [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FUZFA79JCX</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Um Dia É da Vida o Outro da Morte [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FUZF87F2Z0</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]A Mulher Mais Assassinada do Mundo [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FV1UACIJQL</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Sierra Burgess é uma Loser [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FV1T2J57PO</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Next Gen [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FV1T1GW4WH</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Jurassic World: Reino Ameaçado[/COLOR] [COLOR dodgerblue][/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FV1T2CAUXJ</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]O Processo Nacional [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FUX8YNDQYO</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Permissão [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FUX5I1YEA0</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Breakable You - A Sua Parte Frágil [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FUVMJUZTFB</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white] As Leis da Termodinâmica [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FUVJW51Z1C</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Autodestruição [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FUVPHHSF6P</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Vingadores: Guerra Infinita[/COLOR] [COLOR dodgerblue][/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FWQ2C7L06S</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Pequenos Delitos [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FUSFRAH89I</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Atração obsessiva [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FUSFJSKSI5</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Tungstenio [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FWQ27UEU4W</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]A Maldição da Casa do Lago [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FUMD1CFHJF</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]The After Party [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FULFOZCE90</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Tully [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FUK9SWOGX0</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Noviciado [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FUI5BQQV7U</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Marido e Mulher [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FUFPU2CP80</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]O Autor [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FUECZWXGG7</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]O Peixe Grande e Begonia [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FUEAAX6O42</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Fantasmas do Passado [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FUDCUR4EN8</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Pequena Grande Vida [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FWRNTT7RHY</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Para Todos os Garotos que Já Amei [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FUDC8UL7UU</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Verdade ou Desafio 2018[/COLOR] [COLOR dodgerblue][/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FUC8F33UL9</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Os Esquecidos [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FUC8GSPKPJ</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]O Último Golpe [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FUA85M5EY8</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Zion [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FWQ2ZD8UJI</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Pai em Dose Dupla 2 [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FWPE1TT22N</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Ilha de Cachorros [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FU7DJNTMCF</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Do Fundo do Mar 2 [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FU7BU20PXC</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Terror Profundo [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FU6J5H5MNU</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Conflitos Em Família [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FU6GMXS0WN</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Mimic: Não Confie nas Vozes [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FU6GRAOB3B</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Filme 530[/COLOR] [COLOR dodgerblue][/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FU6J1B4PMH</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Mimic Não Confie nas Vozes[/COLOR] [COLOR dodgerblue][/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FU6GQIT64J</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]O Assassino – O Primeiro Alvo [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FVY3DROQ62</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Na Selva [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FU6DKERAMV</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Extraordinário [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FWC2HJ2RAC</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Assassinato no Expresso do Oriente[/COLOR] [COLOR dodgerblue][/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FU6CED6RIV</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Assassinato no Expresso do Oriente[/COLOR] [COLOR dodgerblue][/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FU6CEWY46O</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]A Melhor Escolha [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FX4CIYQAR3</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Mudança No Jogo HD 720p[/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FWSXAP620Q</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Mãe e Pai [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FU69UO89QJ</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Filme 552[/COLOR] [COLOR dodgerblue][/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FU66ZD0RTL</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]211 O Grande Assalto [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FU66DVAHX0</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Apenas um Garoto em Nova York - Mega Filmes[/COLOR] [COLOR dodgerblue][/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FVY2GFICNM</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Apenas um Garoto em Nova York[/COLOR] [COLOR dodgerblue][/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FVY36HMSXF</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]O Trote [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FU5I912BTC</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]A Sociedade Literária e a Torta de Casca de Batata [/COLOR] [COLOR dodgerblue]LEG[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FU5G1R88LL</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]A Sociedade Literária e a Torta de Casca de Batata [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FU5EWJIS1L</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Quase Amigos [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FU5DWZ1UEG</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]O Segredo da Massa[/COLOR] [COLOR dodgerblue][/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FU5IRJZQFC</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Os Estranhos Caçada Noturna[/COLOR] [COLOR dodgerblue][/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FU5I6RVJL1</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]O Motorista de Taxi [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FWTHZKT2GI</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]O Rei da Montanha [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FU4DWU3VUQ</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Flavors of Youth [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FU4ABFH3D6</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]O Que de Verdade Importa [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FU49R7M89X</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Não Vai Dar [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FU47A1HKJQ</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Uma Viagem para Espanha [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FW52TLM9JR</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Por Trás dos Seus Olhos [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FU1QMRWN11</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Homem ao Mar [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FTZ9HFMTZR</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Para Sempre Chape [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FTYIF9OPOC</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Gringo – Vivo ou Morto [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FTYHK9YM0W</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Estrelas de Cinema Nunca Morrem [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FTYHHOGN4G</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Eu Aceito… Até Desistir [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FTY29JAVF6</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]A Última Testemunha [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FTRGSRHVLQ</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]A Mansão [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FTR4IAUAES</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Jurassic World: Reino Ameaçado [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FTQXCBQWPL</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Um Dinossauro em Apuros [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FTQHA90FH3</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Operação Enganosa [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FX03ET7D2G</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Extinção [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FTQ5CDOLI9</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Pistoleiros: Vingança Sem Perdão [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FTQ1HSOPGX</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]As Aventuras de Brigsby Bear [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FTLQ8U00BJ</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]O Aviso [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FWD7ALIRVA</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Vingança [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FTIV4LLW3P</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Pai do Ano [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FWQ18HBLEC</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Pato Pato Ganso [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FTGXVCN56M</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Sete Dias em Entebbe [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FTGRNKV09O</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Os Escravos de Satanás [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FTFSASZP76</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Olhos Famintos 3[/COLOR] [COLOR dodgerblue][/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FTFRG88W18</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Godzilla: Cidade no Limiar da Batalha [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FTEYPOAHYW</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]O Grito da Morte [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FTEU9TQCS5</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Going for Gold [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FWPFZXWPCM</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]A Garota Perfeita [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FTEU8O9VEQ</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Dia De Casamento 2 Resort do Amor [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FTDPCBHJQC</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]A Van Assassina Nacional [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FTDOTO6FHM</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]A Luta do Século Nacional [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FTDOIZGD5S</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Em Busca da Liberdade [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FWSXA3K7XE</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Assassino em Série [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FTA4LRB33T</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Uma Questão de Fé [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FTA3YHOWOA</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Romina [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FTA368LTQE</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]O Carma de um Assassino [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FTA2H3N83Z</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Madame [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FTA20H7BM4</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Fronteira Virtual [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FTA1EN8PB9</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Todas as Razões para Esquecer Nacional [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FX04D9JWC3</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Filme B – O Vampiro da Paulista Nacional [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FT9U9364ZZ</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Nella uma Princesa Corajosa [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FWQ0X6TMHN</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Filme 666[/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FT9RGK89Q1</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]O Vingador da Iugoslávia [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FT7UXV0R6J</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Medidas Desesperadas [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FT5M4NF0MD</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Filme 674[/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FT5LNDFGBK</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Condorito: O Filme 2018[/COLOR] [COLOR dodgerblue][/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FT5LETKK5V</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Bom Comportamento[/COLOR] [COLOR dodgerblue][/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FT5L39ZLKB</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Um Filho que Caiu do Céu [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FT2OMAKNSU</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Plano Quase Perfeito [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FX03EW63J7</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Em Nome da Lei [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FT1LZ2QARG</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]A Forma da Água [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FT1LQA295V</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Ella e John [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FT0L52WHQN</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Acampamento de Casais [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FSYIMZJ229</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Sem Fôlego [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FSXMXIEC24</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Para Ter Onde Ir Nacional [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FSXMPUV0LZ</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Ella e John [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FSXK06XBRB</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]A Barraca Do Beijo 2018[/COLOR] [COLOR dodgerblue][/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FSW94379G5</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Peixonauta – O Filme [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FSV8V6Z4ZR</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]O Policial do Futuro [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FSV8QVUNPR</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Luna: Em Busca da Verdade [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FSV80KXGE4</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]A Escala – Amizade Em Segundo Lugar [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FSV7MEN0NJ</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]The Game Changer [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FSV6QVIIOH</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Entre Sombras [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FSV5W2O1ID</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]O Livro de Genesis [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FSV5P79PTU</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Belle e Sebástian: A Aventura Continua [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FSV2C1A6L8</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Carnivore O Lobisomem de Londres[/COLOR] [COLOR dodgerblue][/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FSV7Q0873F</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Jumanji: Bem-Vindo à Selva[/COLOR] [COLOR dodgerblue][/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FSV1UR03W9</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]TERRA DE MINAS [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FSUUDFJZDT</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Crônicas da Tribo Fantasma [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FSUVWOOQW4</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]PROUD MARY – A PROFISSIONAL [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FSUWHJ48SY</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Os Curados 2018 [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FX4HNFFYOQ</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Medo Profundo[/COLOR] [COLOR dodgerblue][/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FSUV2NPQBL</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Doce Argumento Netflix 2018[/COLOR] [COLOR dodgerblue][/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FSUVP9DF9A</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]O Caderno de Sara [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FSUXDZ2065</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]AMIGOS DA CLÍNICA 2018 [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FSTSK6ERBE&q=480p</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Tome Cuidado [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FSTSZ30XMA</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]A vida em espera [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FWTX5FSM8Q</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Círculo de Fogo A Revolta[/COLOR] [COLOR dodgerblue][/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FSQMPN8JIA</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Guerreira de Sangue [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FSQ8KSZ5PH</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Beirute [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FSPIFRPR8E</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]A Lenda do Rei Macaco 3 Reino das Mulheres[/COLOR] [COLOR dodgerblue][/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FSPH7XU1TH</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Uma Dobra no Tempo 2018[/COLOR] [COLOR dodgerblue][/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FVFMLULJ3C</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Uma Viagem para Espanha[/COLOR] [COLOR dodgerblue][/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FW52TWSTH7</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Uma Dobra no Tempo 2018[/COLOR] [COLOR dodgerblue][/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FTAE7XH3PT</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Um Lugar Silencioso [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FW3RKY2F0A</page>
+    </regex>
+</item>
+<item>
+    <title>[COLOR gold][B] Megabox TV [/B][/COLOR] [COLOR white]Perseguição Criminosa [/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+    <link>$doregex[POINT242]</link>
+    <thumbnail></thumbnail>
+    <fanart>https://i.imgur.com/31PJp7f.jpg</fanart>
+    <info></info>
+    <regex>
+        <name>POINT242</name>
+        <expres>source src="(.*mp4.*?)" type="</expres>
+        <page>http://www.rapidvideo.com/?v=FQ4JZNRNOK</page>
+    </regex>
+</item>
