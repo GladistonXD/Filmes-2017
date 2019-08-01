@@ -1,1 +1,1 @@
-chãonimãhttps://d1lud49pck8hpm.cloudfront.net/hls1/.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMC8yMDE5IDU6NDY6NDggUE0maGFzaF92YWx1ZT1leUlTYXNNcEJLSFQyWktCQXdDUG9RPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=",
+chãonimãhttps://roda1.azureedge.net/hls1/.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xLzIwMTkgOTowMjoyMiBBTSZoYXNoX3ZhbHVlPUgrbDY4R3A2L05EQnFITmw2N1VUbEE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
