@@ -1,1 +1,1 @@
- https://d1lud49pck8hpm.cloudfront.net/hls1/.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMC8yMDE5IDU6NDY6NDggUE0maGFzaF92YWx1ZT1leUlTYXNNcEJLSFQyWktCQXdDUG9RPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=",
+chãonimãhttps://d1lud49pck8hpm.cloudfront.net/hls1/.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMC8yMDE5IDU6NDY6NDggUE0maGFzaF92YWx1ZT1leUlTYXNNcEJLSFQyWktCQXdDUG9RPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=",
