@@ -1007,11 +1007,6 @@
 <thumbnail>http://uploaddeimagens.com.br/images/002/239/770/original/IBIZA2.jpg</thumbnail>
 </item>
 <item>
-<item><title>[B][COLOR white]DJING HOT HOT HOT[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>https://www.djing.com/tv/h-01-fta.m3u8</link>
-<thumbnail>http://uploaddeimagens.com.br/images/002/239/701/original/HOT_HOT_HOT.jpg</thumbnail>
-</item>
-<item>
 <item><title>[B][COLOR white]DJING HIT[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>https://www.djing.com/tv/i-28811-04.m3u8</link>
 <thumbnail>http://uploaddeimagens.com.br/images/002/239/773/original/HITS2.jpg</thumbnail>
@@ -1045,4 +1040,9 @@
 <item><title>[B][COLOR white]DJING SUMER VIBES[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>https://www.djing.com/tv/s-28811-04-summer-vibes.m3u8</link>
 <thumbnail>http://uploaddeimagens.com.br/images/002/239/792/original/SUMER_VIBES2.jpg</thumbnail>
+</item>
+<item>
+<item><title>[B][COLOR white]DJING HOT HOT HOT[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>https://www.djing.com/tv/h-01-fta.m3u8</link>
+<thumbnail>http://uploaddeimagens.com.br/images/002/239/701/original/HOT_HOT_HOT.jpg</thumbnail>
 </item>
