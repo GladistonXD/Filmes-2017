@@ -8,7 +8,6 @@
 <link>$doregex[BP1]band.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>BP0</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex>
 <regex><name>BP1</name><expres>(.*?).rctv</expres><page>http://cutt.ly/gladistonserverRC</page></regex>
-<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>http://cutt.ly/gladistonserverRC</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/band.png</thumbnail>
 </item>
 
