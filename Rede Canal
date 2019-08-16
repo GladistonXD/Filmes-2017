@@ -50,9 +50,9 @@
 
 <item>
 <title>[B][COLOR white]RECORD[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[BP1]recordsp.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>BP1</name><expres>(.*?).Servidor</expres><page>https://bit.ly/2MGh9i2/page></regex>
-<regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://goo.gl/fmBTiU</page</page></regex>
+<link>$doregex[vida]recordsp.m3u8|Referer=$doregex[vidar]</link>
+<regex><name>vidar</name><expres>(.*?).tf</expres><page>https://goo.gl/fmBTiU</page></regex>
+<regex><name>vida</name><expres>(.*?).Servidor</expres><page>https://bit.ly/2MGh9i2</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/record.png</thumbnail>
 </item>
 
