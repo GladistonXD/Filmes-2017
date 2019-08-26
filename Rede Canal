@@ -953,3 +953,43 @@
 <link>https://fms-https1.mediadirect.ro/live3/_definst_/kiss.smil/chunklist_w1868089738_b1600000_1606.m3u8</link>
 <thumbnail>https://i.ytimg.com/vi/6tDF1Gentm0/hqdefault.jpg</thumbnail>
 </item>
+<item>
+<item><title>[B][COLOR white]RADIO U TV[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>https://cdnlive.radiou.com/LS-ATL-43240-1/tracks-v1a1/mono.m3u8</link>
+<thumbnail>https://kiwi.racer159.com/site/images/channels/radiou.png</thumbnail>
+</item>
+<item>
+<item><title>[B][COLOR white]TV 538[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>https://talparadiohls-i.akamaihd.net/hls/live/624107/VR-Radio538-1/Radio538Stream-Q5.m3u8</link>
+<thumbnail>https://static-media.streema.com/media/cache/2b/f2/2bf2bf2f55b3e72b778ed5de0c00c493.jpg</thumbnail>
+</item>
+<item>
+<item><title>[B][COLOR white]1HD[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>https://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/mono.m3u8</link>
+<thumbnail>https://scontent.fcdj1-1.fna.fbcdn.net/v/t1.0-9/49828866_2085928288130694_4245485652092649472_n.jpg?_nc_cat=106&_nc_oc=AQlg76hERi7vfQ8HSlecm534Yj0b_BZna-dvQu4G_3X-4QdKUY55NfoA_7iA5VDYmZE&_nc_ht=scontent.fcdj1-1.fna&oh=f62b9e1e6ff0d433e513307b6a0ab83d&oe=5E153A82</thumbnail>
+</item>
+<item>
+<item><title>[B][COLOR white]OTTO FM[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>http://217.182.192.240:8080/hls/ottofmtv/1_2/index.m3u8?sessId=8587</link>
+<thumbnail>https://static.radio.pt/images/broadcasts/56/41/39664/1/c300.png</thumbnail>
+</item>
+<item>
+<item><title>[B][COLOR white]YEEAH! TV[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>https://stmv1.srvstm.com/yeeaah/yeeaah/playlist.m3u8?wowzasessionid=71407408</link>
+<thumbnail>https://i.vimeocdn.com/portrait/18690418_300x300</thumbnail>
+</item>
+<item>
+<item><title>[B][COLOR white]KRONEHIT TV[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8</link>
+<thumbnail>https://i1.sndcdn.com/artworks-000122130329-brysnm-t500x500.jpg</thumbnail>
+</item>
+<item>
+<item><title>[B][COLOR white]ROCKTV[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/chunklist_w91075036_b1600000.m3u8?publisher=83</link>
+<thumbnail>http://db.radioline.fr/pictures/radio_52a9118394d09b5398fc5995c0f1140c/logo200.jpg?size=200</thumbnail>
+</item>
+<item>
+<item><title>[B][COLOR white]NRJ HITS[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/chunklist_w1028605396_b981072.m3u8</link>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpUB2pzZp6hs6sgOeKa_r0TGv4ivONtxAbbVSVBgn77uFY2ath</thumbnail>
+</item>
