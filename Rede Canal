@@ -993,7 +993,13 @@
 <link>https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/chunklist_w1028605396_b981072.m3u8</link>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpUB2pzZp6hs6sgOeKa_r0TGv4ivONtxAbbVSVBgn77uFY2ath</thumbnail>
 </item>
+<item>
 <item><title>[B][COLOR white]VISION TV[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>http://v8.ciclano.io:1935/visionmusica/_definst_/visionmusica/chunklist_w1747003976.m3u8</link>
 <thumbnail>https://teleon.tv/images/logos/vision-tv-musica.png</thumbnail>
+</item>
+<item>
+<item><title>[B][COLOR white]VISION TV[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>https://ad-hls-europaplus.cdnvideo.ru/europaplus/smil:eurptv2.smil/chunklist_b5128000.m3u8?md5=1w5H3-L7cycOaLOsQR1zZA&e=1567475637&hls_proxy_host=dtmf-01&zoid=web</link>
+<thumbnail>https://pbs.twimg.com/profile_images/519851022777204736/Do_vo96C.jpeg</thumbnail>
 </item>
