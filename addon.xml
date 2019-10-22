@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.GladistonXD" name="[COLOR gold][B]Play [COLOR green]XD[/B][/COLOR]" version="18.04.05" provider-name="GladistonXD">
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <description lang="en">Add on modificado by: Gladiston</description>
+    <platform>all</platform>
+	<news>
+	</news>
+  </extension>
+</addon>
