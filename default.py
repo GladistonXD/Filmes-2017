@@ -524,6 +524,76 @@ def PlayMRC2(): #96 Play filmes
 			PlayUrl("[B][COLOR white]"+ name +" [/COLOR][/B]", file[0] + "?attachment=true", iconimage, desc) #aqui
 		else:
 			AddDir("[B]Ocorreu um erro[/B]"  , "", 0, iconimage, iconimage, index=0, isFolder=False, IsPlayable=False, info="Erro")
+	except:
+		AddDir("Server error, tente novamente em alguns minutos" , "", 0, "", "")
+# ----------------- FIM REDECANAIS
+# --------------  REDECANAIS SERIES,ANIMES,DESENHOS
+def PlaySRC(): #133 Play series
+	try:
+		url2 = re.sub('redecanais\.[^\/]+', RC, url.replace("http\:","https\:") )
+		link = common.OpenURL(proxy+url2)
+		desc = re.compile('itemprop=\"?description\"?>\s<p>(.+)<\/p>').findall(link)
+		if desc:
+			desc = re.sub('&([^;]+);', lambda m: unichr(htmlentitydefs.name2codepoint[m.group(1)]), desc[0]).encode('utf-8')
+		player = re.compile('<iframe.{1,50}src=\"([^\"]+)\"').findall(link)
+		if player:
+			#mp4 = re.compile('server(f?\d*).+vid\=(\w+)').findall(player[0])
+			#reg = "(.+)\\$rc"+mp4[0][0]
+			#pb = common.OpenURL("https://pastebin.com/raw/FwSnnr65")
+			#ss = re.compile('(.{1,65})RCF?Server.{1,35}\.mp4').findall(pb)
+			#try:
+			#	pb = re.sub('\$s1\/', ss[2], pb )
+			#except:
+			#	pb = re.sub('\$s1\/', ss[0], pb )
+			#try:
+			#	pb = re.sub('\$s2\/', ss[3], pb )
+			#except:
+			#	pb = re.sub('\$s2\/', ss[1], pb )
+			#m = re.compile(reg, re.IGNORECASE).findall(pb)
+			#url2 = m[0]
+			#file = mp4[0][1]+".mp4"
+			player = re.sub('.php', "playerfree.php", player[0] )
+			player = re.sub('^/', "https://www."+RC, player)
+			mp4 = common.OpenURL(player ,headers={'referer': "https://cometa.top/"})
+			file=re.compile('[^"|\']+\.mp4').findall(mp4)
+			PlayUrl(name, file[0] + "?attachment=true", iconimage, name)
+		else:
+			xbmcgui.Dialog().ok('Play XD', 'Erro, tente novamente em alguns minutos')
+	except:
+		xbmcgui.Dialog().ok('Play XD', 'Erro, tente novamente em alguns minutos')
+def TemporadasRC(x): #135 Episodios
+	url2 = re.sub('redecanais\.[^\/]+', RC, url.replace("http\:","https\:") )
+	url2 = re.sub('^/', "https://www."+RC, url2 )
+	link = common.OpenURL(proxy+url2).replace('\n','').replace('\r','').replace('</html>','<span style="font').replace("http\:","https\:")
+	temps = re.compile('(<span style="font-size: x-large;">(.+?)<\/span>)').findall(link)
+	i= 0
+	if background=="None":
+		for b,tempname in temps:
+			tempname = re.sub('<[\/]{0,1}strong>', "", tempname)
+			try:
+				tempname = re.sub('&([^;]+);', lambda m: unichr(htmlentitydefs.name2codepoint[m.group(1)]), tempname).encode('utf-8')
+			except:
+				tempname = tempname
+			if not "ilme" in tempname:
+				AddDir("[B]["+tempname+"][/B]" , url, 135, iconimage, iconimage, info="", isFolder=True, background=i)
+			i+=1
+		AddDir("[B][Todos Episódios][/B]" ,url, 139, iconimage, iconimage, info="")
+	else:
+		temps2 = re.compile('size: x-large;\">.+?<span style\=\"font').findall(link)
+		epi = re.compile('<strong>(E.+?)<\/strong>(.+?)(<br|<\/p)').findall(temps2[int(x)])
+		for name2,url2,brp in epi:
+			name3 = re.compile('\d+').findall(name2)
+			if name3:
+				name3=name3[0]
+			else:
+				name3=name2
+			urlm = re.compile('href\=\"(.+?)\"(.+?(Dub|Leg))?').findall(url2)
+			#ST(urlm)
+			url2 = re.sub('(\w)-(\w)', r'\1 \2', url2)
+			try:
+				namem = re.sub('&([^;]+);', lambda m: unichr(htmlentitydefs.name2codepoint[m.group(1)]), re.compile('([^\-]+)').findall(url2)[0] ).encode('utf-8')
+			except:
+				namem = re.compile('([^\-]+)').findall(url2)[0]
 			namem = re.sub('<[\/]{0,1}strong>', "", namem)
 			if "<" in namem:
 				namem = ""
