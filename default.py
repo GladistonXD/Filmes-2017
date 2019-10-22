@@ -1541,7 +1541,7 @@ def getmd5(t):
 
 def CheckUpdate(msg): #200
 	try:
-		uversao = urllib2.urlopen( "https://sraw.githubusercontent.com/D4anielCB/CB/master/version.txt" ).read().replace('\n','').replace('\r','')
+		uversao = urllib2.urlopen( "https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/version.txt" ).read().replace('\n','').replace('\r','')
 		uversao = re.compile('[a-zA-Z\.\d]+').findall(uversao)[0]
 		#xbmcgui.Dialog().ok(Versao, uversao)
 		if uversao != Versao:
@@ -1557,21 +1557,21 @@ def CheckUpdate(msg): #200
 def Update(): #futura atualização automatica
 	Path = xbmc.translatePath( xbmcaddon.Addon().getAddonInfo('path') ).decode("utf-8")
 	try:
-		fonte = urllib2.urlopen( "https://sraw.githubusercontent.com/D4anielCB/CB/master/default.py" ).read().replace('\n','')
+		fonte = urllib2.urlopen( "https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/default.py" ).read().replace('\n','')
 		prog = re.compile('#checkintegrity25852').findall(fonte)
 		if prog:
 			py = os.path.join( Path, "default.py")
 			file = open(py, "w")
 			file.write(fonte)
 			file.close()
-		fonte = urllib2.urlopen( "https://sraw.githubusercontent.com/D4anielCB/CB/master/resources/settings.xml" ).read().replace('\n','')
+		fonte = urllib2.urlopen( "https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/settings.xml" ).read().replace('\n','')
 		prog = re.compile('</settings>').findall(fonte)
 		if prog:
 			py = os.path.join( Path, "resources/settings.xml")
 			file = open(py, "w")
 			file.write(fonte)
 			file.close()
-		fonte = urllib2.urlopen( "https://sraw.githubusercontent.com/D4anielCB/CB/master/addon.xml" ).read().replace('\n','')
+		fonte = urllib2.urlopen( "https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/addon.xml" ).read().replace('\n','')
 		prog = re.compile('</addon>').findall(fonte)
 		if prog:
 			py = os.path.join( Path, "addon.xml")
