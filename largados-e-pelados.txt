@@ -1,4 +1,6 @@
 <channels>
+
+</channel>
 <channel>
 <name>[COLOR lightskyblue]1ª Temporada[/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/largados-e-pelados-1-temporada.txt</externallink>
