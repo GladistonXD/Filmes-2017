@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1,1 EP 01
+/storage/9A95-6669/Largados e pelados - A tribo 1 temporada/1 EP 01.mkv
+#EXTINF:-1,1 EP 02
+/storage/9A95-6669/Largados e pelados - A tribo 1 temporada/1 EP 02.mkv
+#EXTINF:-1,1 EP 03
+/storage/9A95-6669/Largados e pelados - A tribo 1 temporada/1 EP 03.mkv
+#EXTINF:-1,1 EP 04
+/storage/9A95-6669/Largados e pelados - A tribo 1 temporada/1 EP 04.mkv
+#EXTINF:-1,1 EP 05
+/storage/9A95-6669/Largados e pelados - A tribo 1 temporada/1 EP 05.mkv
+#EXTINF:-1,1 EP 06
+/storage/9A95-6669/Largados e pelados - A tribo 1 temporada/1 EP 06.mkv
+#EXTINF:-1,1 EP 07
+/storage/9A95-6669/Largados e pelados - A tribo 1 temporada/1 EP 07.mkv
+#EXTINF:-1,1 EP 08
+/storage/9A95-6669/Largados e pelados - A tribo 1 temporada/1 EP 08.mkv
+#EXTINF:-1,1 EP 09
+/storage/9A95-6669/Largados e pelados - A tribo 1 temporada/1 EP 09.mkv
