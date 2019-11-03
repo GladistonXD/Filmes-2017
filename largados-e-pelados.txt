@@ -2,35 +2,35 @@
 
 </channel>
 <channel>
-<name>[COLOR lightskyblue]1ª Temporada[/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/largados-e-pelados-1-temporada.txt</externallink>
+<name>1ª Temporada</name>
+<externallink></externallink>
+<externallink1>https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/largados-e-pelados-1-temporada.txt</externallink>
 <thumbnail>https://media.fstatic.com/4sf28u_tndxgTPc5OBK06p9_pJ0=/fit-in/290x478/smart/media/movies/covers/2018/07/5280608_sa.jpg</thumbnail>
 <fanart>https://media.fstatic.com/4sf28u_tndxgTPc5OBK06p9_pJ0=/fit-in/290x478/smart/media/movies/covers/2018/07/5280608_sa.jpg</fanart>
-<info>Largados E Pelados - A tribo</info>
-<info2></info2>
+
 </channel>
 <channel>
-<name>[COLOR lightskyblue]2ª Temporada[/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/largados-e-pelados-2-temporada.txt</externallink>
+<name>2ª Temporada</name>
+<externallink></externallink>
+<externallink1>https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/largados-e-pelados-2-temporada.txt</externallink>
 <thumbnail>https://media.fstatic.com/UTXdWXH3mVIEJAftQ1jaCN9mTUQ=/fit-in/290x478/smart/media/movies/covers/2016/10/naked_and_afraid_compressed.jpg</thumbnail>
 <fanart>https://media.fstatic.com/UTXdWXH3mVIEJAftQ1jaCN9mTUQ=/fit-in/290x478/smart/media/movies/covers/2016/10/naked_and_afraid_compressed.jpg</fanart>
-<info>Largados E Pelados - A tribo</info>
-<info2></info2>
+
 </channel>
 <channel>
-<name>[COLOR lightskyblue]3ª Temporada[/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/largados-e-pelados-3-temporada.txt</externallink>
+<name>3ª Temporada</name>
+<externallink></externallink>
+<externallink1>https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/largados-e-pelados-3-temporada.txt</externallink>
 <thumbnail>https://media.fstatic.com/8tHqc0ORsq_0e7Kq54bM3iER2Ng=/fit-in/290x478/smart/media/movies/covers/2018/08/poster-780.jpg</thumbnail>
 <fanart>https://media.fstatic.com/8tHqc0ORsq_0e7Kq54bM3iER2Ng=/fit-in/290x478/smart/media/movies/covers/2018/08/poster-780.jpg</fanart>
-<info>Largados E Pelados - A tribo</info>
-<info2></info2>
+
 </channel>
 <channel>
-<name>[COLOR lightskyblue]4ª Temporada[/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/largados-e-pelados-4-temporada.txt</externallink>
+<name>4ª Temporada</name>
+<externallink></externallink>
+<externallink1>https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/largados-e-pelados-4-temporada.txt</externallink>
 <thumbnail>https://media.fstatic.com/hyx_LfgNlkY49j77zcLKH4-bXd4=/fit-in/290x478/smart/media/movies/covers/2016/07/naked-and-afraid-season-four_t212285.jpg</thumbnail>
 <fanart>https://media.fstatic.com/hyx_LfgNlkY49j77zcLKH4-bXd4=/fit-in/290x478/smart/media/movies/covers/2016/07/naked-and-afraid-season-four_t212285.jpg</fanart>
-<info>Largados E Pelados - A tribo</info>
-<info2></info2>
+
 </channel>
 <channel>
