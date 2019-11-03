@@ -37,7 +37,7 @@
 <channels>
 
 <channel>
-<name>4 Temporada</name>
+<name>5 Temporada</name>
 <externallink>https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/largados-e-pelados-5-temporada.txt</externallink>
 <externallink1>https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/largados-e-pelados-5-temporada.txt</externallink1>
 <thumbnail>https://media.fstatic.com/SPr6AQRGKxna0lQMSMyJUILwH5E=/fit-in/290x478/smart/media/movies/covers/2019/09/2019-09-12_6.png</thumbnail>
