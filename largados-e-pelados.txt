@@ -11,7 +11,7 @@
 
 <channel>
 <name>2 Temporada</name>
-<externallink>https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/largados-e-pelados-1-temporada.txt</externallink>
+<externallink>https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/largados-e-pelados-2-temporada.txt</externallink>
 <externallink1>https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/largados-e-pelados-2-temporada.txt</externallink1>
 <thumbnail>https://media.fstatic.com/UTXdWXH3mVIEJAftQ1jaCN9mTUQ=/fit-in/290x478/smart/media/movies/covers/2016/10/naked_and_afraid_compressed.jpg</thumbnail>
 <fanart>https://media.fstatic.com/UTXdWXH3mVIEJAftQ1jaCN9mTUQ=/fit-in/290x478/smart/media/movies/covers/2016/10/naked_and_afraid_compressed.jpg</fanart>
@@ -20,7 +20,7 @@
 
 <channel>
 <name>3 Temporada</name>
-<externallink>https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/largados-e-pelados-1-temporada.txt</externallink>
+<externallink>https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/largados-e-pelados-3-temporada.txt</externallink>
 <externallink1>https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/largados-e-pelados-3-temporada.txt</externallink1>
 <thumbnail>https://media.fstatic.com/8tHqc0ORsq_0e7Kq54bM3iER2Ng=/fit-in/290x478/smart/media/movies/covers/2018/08/poster-780.jpg</thumbnail>
 <fanart>https://media.fstatic.com/8tHqc0ORsq_0e7Kq54bM3iER2Ng=/fit-in/290x478/smart/media/movies/covers/2018/08/poster-780.jpg</fanart>
@@ -29,7 +29,7 @@
 
 <channel>
 <name>4 Temporada</name>
-<externallink>https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/largados-e-pelados-1-temporada.txt</externallink>
+<externallink>https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/largados-e-pelados-4-temporada.txt</externallink>
 <externallink1>https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/largados-e-pelados-4-temporada.txt</externallink1>
 <thumbnail>https://media.fstatic.com/hyx_LfgNlkY49j77zcLKH4-bXd4=/fit-in/290x478/smart/media/movies/covers/2016/07/naked-and-afraid-season-four_t212285.jpg</thumbnail>
 <fanart>https://media.fstatic.com/hyx_LfgNlkY49j77zcLKH4-bXd4=/fit-in/290x478/smart/media/movies/covers/2016/07/naked-and-afraid-season-four_t212285.jpg</fanart>
