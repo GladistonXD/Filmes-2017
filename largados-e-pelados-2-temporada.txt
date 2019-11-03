@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1,2 EP 01
+/storage/9A95-6669/Largados e pelados - A tribo 2 temporada/2 EP 01.mkv
+#EXTINF:-1,2 EP 02
+/storage/9A95-6669/Largados e pelados - A tribo 2 temporada/2 EP 02.mkv
+#EXTINF:-1,2 EP 03
+/storage/9A95-6669/Largados e pelados - A tribo 2 temporada/2 EP 03.mkv
+#EXTINF:-1,2 EP 04
+/storage/9A95-6669/Largados e pelados - A tribo 2 temporada/2 EP 04.mkv
+#EXTINF:-1,2 EP 05
+/storage/9A95-6669/Largados e pelados - A tribo 2 temporada/2 EP 05.mkv
+#EXTINF:-1,2 EP 06
+/storage/9A95-6669/Largados e pelados - A tribo 2 temporada/2 EP 06.mkv
