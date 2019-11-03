@@ -31,6 +31,5 @@
 <externallink1>https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/largados-e-pelados-4-temporada.txt</externallink>
 <thumbnail>https://media.fstatic.com/hyx_LfgNlkY49j77zcLKH4-bXd4=/fit-in/290x478/smart/media/movies/covers/2016/07/naked-and-afraid-season-four_t212285.jpg</thumbnail>
 <fanart>https://media.fstatic.com/hyx_LfgNlkY49j77zcLKH4-bXd4=/fit-in/290x478/smart/media/movies/covers/2016/07/naked-and-afraid-season-four_t212285.jpg</fanart>
-
 </channel>
 <channel>
