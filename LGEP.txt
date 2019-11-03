@@ -1,0 +1,29 @@
+<channels>
+
+<channel>
+<name>1 Temporada</name>
+<externallink>https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/LGEP-1-temporada.txt</externallink>
+<externallink1>https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/LGEP-1-temporada.txt</externallink1>
+<thumbnail>https://media.fstatic.com/4sf28u_tndxgTPc5OBK06p9_pJ0=/fit-in/290x478/smart/media/movies/covers/2018/07/5280608_sa.jpg</thumbnail>
+<fanart>https://media.fstatic.com/4sf28u_tndxgTPc5OBK06p9_pJ0=/fit-in/290x478/smart/media/movies/covers/2018/07/5280608_sa.jpg</fanart>
+</channel>
+<channels>
+
+<channel>
+<name>2 Temporada</name>
+<externallink>https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/LGEP-2-temporada.txt</externallink>
+<externallink1>https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/LGEP-2-temporada.txt</externallink1>
+<thumbnail>https://media.fstatic.com/UTXdWXH3mVIEJAftQ1jaCN9mTUQ=/fit-in/290x478/smart/media/movies/covers/2016/10/naked_and_afraid_compressed.jpg</thumbnail>
+<fanart>https://media.fstatic.com/UTXdWXH3mVIEJAftQ1jaCN9mTUQ=/fit-in/290x478/smart/media/movies/covers/2016/10/naked_and_afraid_compressed.jpg</fanart>
+</channel>
+<channels>
+
+<channel>
+<name>3 Temporada</name>
+<externallink>https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/LGEP-3-temporada.txt</externallink>
+<externallink1>https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/LGEP-3-temporada.txt</externallink1>
+<thumbnail>https://media.fstatic.com/8tHqc0ORsq_0e7Kq54bM3iER2Ng=/fit-in/290x478/smart/media/movies/covers/2018/08/poster-780.jpg</thumbnail>
+<fanart>https://media.fstatic.com/8tHqc0ORsq_0e7Kq54bM3iER2Ng=/fit-in/290x478/smart/media/movies/covers/2018/08/poster-780.jpg</fanart>
+</channel>
+<channels>
+<channels>
