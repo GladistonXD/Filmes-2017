@@ -1003,3 +1003,9 @@
 <link>http://live-europaplus.cdnvideo.ru/europaplus/smil:eurptv2.smil/chunklist_b5128000.m3u8</link>
 <thumbnail>https://pbs.twimg.com/profile_images/519851022777204736/Do_vo96C.jpeg</thumbnail>
 </item>
+
+<item>
+<item><title>[B][COLOR white]The box[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-inapp.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fthebox%2f</link>
+<thumbnail>https://pbs.twimg.com/profile_images/519851022777204736/Do_vo96C.jpeg</thumbnail>
+</item>
