@@ -1035,7 +1035,19 @@
 </item>
 
 <item>
-<item><title>[B][COLOR white]4 MUSIC RADIO[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>https://csm-e.tm.yospace.com/csm/extlive/boxplus01,4music-inapp.m3u8?yo.up=https%3A%2F%2Fboxtv.origin-elb.cds1.yospace.com%2fuploads%2fthebox%2f4music%%2f</link>
-<thumbnail>https://uploaddeimagens.com.br/images/002/512/450/original/4music3.png</thumbnail>
+<item><title>[B][COLOR white]SONG TV RADIO[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>https://songtvru.ru/hd/playlist.m3u8</link>
+<thumbnail>https://scontent.fcdj1-1.fna.fbcdn.net/v/t1.0-9/p960x960/41105497_1893361420754916_5720228811375640576_o.png?_nc_cat=111&_nc_oc=AQk7J_VnD_KOvhKRDwQaM2HYlo0SASt5qmv3hFAwE_pBYmAeMCIe5RWOm__W9j-9FXs&_nc_ht=scontent.fcdj1-1.fna&oh=c4d135bf2ebbc2f08f2aada00f0b5e02&oe=5E48214E</thumbnail>
+</item>
+
+<item>
+<item><title>[B][COLOR white]COLOSAL TV RADIO[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/chunklist_w488941594.m3u8</link>
+<thumbnail>https://is2-ssl.mzstatic.com/image/thumb/Purple71/v4/80/58/ef/8058ef9e-8702-ff81-6a5a-9481a69babae/source/512x512bb.jpg</thumbnail>
+</item>
+
+<item>
+<item><title>[B][COLOR white]DREAM TV RADIO[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8</link>
+<thumbnail>https://scontent.fcdj1-1.fna.fbcdn.net/v/t1.0-9/10955679_704575376326702_1629406191085342043_n.jpg?_nc_cat=109&_nc_oc=AQm_VuA9tdYaUxLJSA3L4IQTgc5sebJcVKBywswfER68b0rYVoXfGiTJg2uD0V3f6H4&_nc_ht=scontent.fcdj1-1.fna&oh=7395fe638ac6c40c023d0f20a44d32a6&oe=5E44BAE4</thumbnail>
 </item>
