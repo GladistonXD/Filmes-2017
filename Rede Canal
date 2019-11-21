@@ -1023,7 +1023,7 @@
 </item>
 
 <item>
-<item><title>[B][COLOR white]KERRANG! RADIO[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<item><title>[B][COLOR white]KERRANG! ROCK RADIO[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kerrang-inapp.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fkerrang%2f</link>
 <thumbnail>https://uploaddeimagens.com.br/images/002/512/415/original/Kerrang2.png</thumbnail>
 </item>
@@ -1037,7 +1037,7 @@
 <item>
 <item><title>[B][COLOR white]SONG TV RADIO[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>https://songtvru.ru/hd/playlist.m3u8</link>
-<thumbnail>https://scontent.fcdj1-1.fna.fbcdn.net/v/t1.0-9/p960x960/41105497_1893361420754916_5720228811375640576_o.png?_nc_cat=111&_nc_oc=AQk7J_VnD_KOvhKRDwQaM2HYlo0SASt5qmv3hFAwE_pBYmAeMCIe5RWOm__W9j-9FXs&_nc_ht=scontent.fcdj1-1.fna&oh=c4d135bf2ebbc2f08f2aada00f0b5e02&oe=5E48214E</thumbnail>
+<thumbnail>https://pbs.twimg.com/profile_images/988146048269979648/RGi_Jxai_400x400.jpg</thumbnail>
 </item>
 
 <item>
@@ -1048,6 +1048,6 @@
 
 <item>
 <item><title>[B][COLOR white]DREAM TV RADIO[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8</link>
-<thumbnail>https://scontent.fcdj1-1.fna.fbcdn.net/v/t1.0-9/10955679_704575376326702_1629406191085342043_n.jpg?_nc_cat=109&_nc_oc=AQm_VuA9tdYaUxLJSA3L4IQTgc5sebJcVKBywswfER68b0rYVoXfGiTJg2uD0V3f6H4&_nc_ht=scontent.fcdj1-1.fna&oh=7395fe638ac6c40c023d0f20a44d32a6&oe=5E44BAE4</thumbnail>
+<link>https://212224109109.duhnet.tv//S2/HLS_LIVE/dreamtvnp/track_4_1000/playlist.m3u8?key=d2e1167e79f77d414226ab95b778aca0&live=true&app=com.dreamtv</link>
+<thumbnail>https://pbs.twimg.com/profile_images/935862506987380737/x8wLxkUx_400x400.jpg</thumbnail>
 </item>
