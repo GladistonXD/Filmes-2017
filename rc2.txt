@@ -1,1 +1,183 @@
-https://jeni.azureedge.net/hls1/.rctv
+<!DOCTYPE html>
+<html>
+<head>
+	<title>404 - Page not found</title>
+	<link href="https://illiweb.com/fa/favicon/discussion.ico" rel="shortcut icon" type="image/x-icon"/>
+	<meta content="0;URL=/server-addon.xml" http-equiv="refresh"/>
+	<meta content="text/html;charset=utf-8" http-equiv="content-type"/>
+	<meta content="noindex,nofollow" name="robots"/>
+	<meta content="width=device-width, minimum-scale=0.1" name="viewport"/>
+	<style>
+		body {
+			margin: 0px;
+			font-family: Helvetica, sans-serif;
+		}
+
+		header {
+			background: #369fcf; /* safari only */
+			background: #369fcf url("https://redcdn.net/frmste/images/slide-forum-creation.png") no-repeat scroll center bottom / 32vh auto;
+			box-sizing: border-box;
+			color: white;
+			max-height: 70vh;
+			padding: 20px; /* safari only */
+			padding: 20px 20px 30vh;
+			text-align: center;
+		}
+
+		header span {
+			font-size: 50px;
+			font-size: 25vmin;
+			text-shadow: 1px 1px 0px #277ca5;
+			display: inline-block;
+		}
+
+		header div {
+			font-size: 1.2em;
+		}
+
+		header a {
+			color: #ddd;
+			text-decoration: none;
+		}
+
+		main {
+			border-top: 20px solid #369fcf;
+			background-color: #fff;
+			max-height: 30vh;
+		}
+
+		main hr {
+			border-bottom: 0 none;
+			border-top: 20px solid #277ca5;
+			margin: 0;
+		}
+
+		main div.buttons {
+			margin: 20px auto auto;
+			text-align: center;
+		}
+
+		main div.buttons a {
+			border: medium none;
+			cursor: pointer;
+			display: inline-block;
+			font-size: 18px;
+			outline: medium none;
+			padding: 15px 20px;
+			position: relative;
+			text-transform: uppercase;
+			transition: all 0.2s ease-in-out 0s;
+			background-color: #2e3133;
+			border-color: #2e3133;
+			color: white;
+			text-decoration: none;
+			margin: 10px;
+			width: 150px;
+			text-align: center;
+		}
+
+		footer div.icon {
+			clear: both;
+			text-align: center;
+			margin-top: 20px;
+		}
+
+		@-webkit-keyframes wobble {
+			from {
+				-webkit-transform: none;
+				transform: none;
+			}
+			15% {
+				-webkit-transform: translate3d(-25%, 0, 0) rotate3d(0, 0, 1, -5deg);
+				transform: translate3d(-25%, 0, 0) rotate3d(0, 0, 1, -5deg);
+			}
+			30% {
+				-webkit-transform: translate3d(20%, 0, 0) rotate3d(0, 0, 1, 3deg);
+				transform: translate3d(20%, 0, 0) rotate3d(0, 0, 1, 3deg);
+			}
+			45% {
+				-webkit-transform: translate3d(-15%, 0, 0) rotate3d(0, 0, 1, -3deg);
+				transform: translate3d(-15%, 0, 0) rotate3d(0, 0, 1, -3deg);
+			}
+			60% {
+				-webkit-transform: translate3d(10%, 0, 0) rotate3d(0, 0, 1, 2deg);
+				transform: translate3d(10%, 0, 0) rotate3d(0, 0, 1, 2deg);
+			}
+			75% {
+				-webkit-transform: translate3d(-5%, 0, 0) rotate3d(0, 0, 1, -1deg);
+				transform: translate3d(-5%, 0, 0) rotate3d(0, 0, 1, -1deg);
+			}
+			to {
+				-webkit-transform: none;
+				transform: none;
+			}
+		}
+
+		@keyframes wobble {
+			from {
+				-webkit-transform: none;
+				transform: none;
+			}
+			15% {
+				-webkit-transform: translate3d(-25%, 0, 0) rotate3d(0, 0, 1, -5deg);
+				transform: translate3d(-25%, 0, 0) rotate3d(0, 0, 1, -5deg);
+			}
+			30% {
+				-webkit-transform: translate3d(20%, 0, 0) rotate3d(0, 0, 1, 3deg);
+				transform: translate3d(20%, 0, 0) rotate3d(0, 0, 1, 3deg);
+			}
+			45% {
+				-webkit-transform: translate3d(-15%, 0, 0) rotate3d(0, 0, 1, -3deg);
+				transform: translate3d(-15%, 0, 0) rotate3d(0, 0, 1, -3deg);
+			}
+			60% {
+				-webkit-transform: translate3d(10%, 0, 0) rotate3d(0, 0, 1, 2deg);
+				transform: translate3d(10%, 0, 0) rotate3d(0, 0, 1, 2deg);
+			}
+			75% {
+				-webkit-transform: translate3d(-5%, 0, 0) rotate3d(0, 0, 1, -1deg);
+				transform: translate3d(-5%, 0, 0) rotate3d(0, 0, 1, -1deg);
+			}
+			to {
+				-webkit-transform: none;
+				transform: none;
+			}
+		}
+
+		.wobble {
+			-webkit-animation-duration: 1s;
+			animation-duration: 1s;
+			-webkit-animation-fill-mode: both;
+			animation-fill-mode: both;
+			-webkit-animation-name: wobble;
+			animation-name: wobble;
+		}
+	</style>
+</head>
+
+<body>
+<header>
+	<span class="wobble">404</span>
+	<div>This page couldn't be found.<br/>You can <a href="/">return to the index</a>.</div>
+
+</header>
+<main>
+	<hr/>
+	<div class="buttons">
+		<a onclick="window.history.back();">Previous page</a>
+		<a href="/">Index</a>
+	</div>
+</main>
+</body>
+</html>
+
+<div id="div" style="display:none">
+
+NB2HI4DTHIXS64DBON2GKYTJNYXGG33NF5ZGC5ZPPFUU4WRUNUZDQ===.rcs
+?attachment=true|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 Edg/79.0.309.51.rcd
+https://jeni.azureedge.net/hls1/
+PRJGKZTFOJSXEPLIOR2HA4Z2F4XWGYLOMFUXGZ3SMF2GS4ZON5ZGOJSVONSXELKBM5SW45B5JVXXU2LMNRQS6NJOGAQCQV3JNZSG653TEBHFIIBRGAXDAOZAK5UW4NRUHMQHQNRUFEQEC4DQNRSVOZLCJNUXILZVGM3S4MZWEAUEWSCUJVGCYIDMNFVWKICHMVRWW3ZJEBBWQ4TPNVSS6NZZFYYC4MZZGQ2S4NBVEBJWCZTBOJUS6NJTG4XDGNRAIVSGOLZXHEXDALRTGA4S4MZQ.rctvd
+OBWHKZ3JNY5C6L3QNR2WO2LOFZ3GSZDFN4XGMNDNKRSXG5DFOIXT643UOJSWC3LUPFYGKPKIJRJVERKUKJMSM5LSNQ6WQ5DUOBZTULZPN5ZGSZ3BON2HEZLBNUXGC6TVOJSWKZDHMUXG4ZLUF5UGY4ZRF4======.rctv2
+EU3UGUTFMZSXEZLSHVUHI5DQOM5C6L3DMFXGC2LTM5ZGC5DJOMXG64THEUZDMVLTMVZC2QLHMVXHIPKNN55GS3DMMEXTKLRQEAUFO2LOMRXXO4ZAJZKCAMJQFYYCAV3JNY3DIIDYGY2CSICBOBYGYZKXMVREW2LUF42TGNZOGM3CAKCLJBKE2TBMEBWGS23FEBDWKY3LN4USAQ3IOJXW2ZJPG44S4MBOGM4TINJOG44SAU3BMZQXE2JPGUZTOLRTGYQEKZDHF43TSLRQFYZTAOJOGUYSM3TBNVST2JJXIY======.rctvd2
+
+</div>
