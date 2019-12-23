@@ -1,175 +1,469 @@
-#EXTM3U
-#########################1° TEMPORADA##########################
-#EXTINF:-1,1 EP 01
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=4sgCR3MkU7k
-#EXTINF:-1,1 EP 02
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=kYoO6CLYGTk
-#EXTINF:-1,1 EP 03
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=xkwnuyhEff4
-#EXTINF:-1,1 EP 04
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=RNTJ_og9Juo
-#EXTINF:-1,1 EP 05
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=o0rWe6w8kFE
-#EXTINF:-1,1 EP 06
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=7IPP932FP5U
+<item>
+<title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]1° TEMPORADA[/COLOR][/B]</title>
+<link>here</link>
+<thumbnail></thumbnail>
 
-#EXTINF:-1,2 EP 01
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=eoIe4PwF2vA
-#EXTINF:-1,2 EP 02
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=OlrwqXV76FU
-#EXTINF:-1,2 EP 03
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=TkRSm6PvvRM
-#EXTINF:-1,2 EP 04
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=D_Mmi8v4_Kc
-#EXTINF:-1,2 EP 05
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=liN-5snlqm0
+<item>
+<item><title>[B][COLOR white]1 EP 01[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=4sgCR3MkU7k</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<item><title>[B][COLOR white]1 EP 02[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=kYoO6CLYGTk</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<item><title>[B][COLOR white]1 EP 03[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=xkwnuyhEff4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<item><title>[B][COLOR white]1 EP 04[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=RNTJ_og9Juo</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<item><title>[B][COLOR white]1 EP 05[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=o0rWe6w8kFE</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<item><title>[B][COLOR white]1 EP 06[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=7IPP932FP5U</link>
+<thumbnail></thumbnail>
+</item>
 
-#EXTINF:-1,3 EP 01
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=SAe81hXfUAw
-#EXTINF:-1,3 EP 02
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=j71R9vcOvhU
-#EXTINF:-1,3 EP 03
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Icoi4EuC41k
-#EXTINF:-1,3 EP 04
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=K8Kobxv7oCo
-#EXTINF:-1,3 EP 05
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=5BQyVAAycsc
-#EXTINF:-1,3 EP 06
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Y54RYE4QPf8
-#EXTINF:-1,3 EP 07
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=OFwJV66wEZk
-#EXTINF:-1,3 EP 08
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=uyEqj0YA320
-#EXTINF:-1,3 EP 09
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=aAhGw4awduk
+<item>
+<title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]2° TEMPORADA[/COLOR][/B]</title>
+<link>here</link>
+<thumbnail></thumbnail>
 
-#EXTINF:-1,4 EP 01
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=DR0KWlaawPM
-#EXTINF:-1,4 EP 02
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=FBQ4tHwGTDQ
-#EXTINF:-1,4 EP 03
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=G9eCROyVxD4
-#EXTINF:-1,4 EP 04
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Lkqn4rYUQu4
-#EXTINF:-1,4 EP 05
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=7--ENqY0Df4
-#EXTINF:-1,4 EP 06
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=LLj-zdeQoCU
-#EXTINF:-1,4 EP 07
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=0v7nuPBRzzA
-#EXTINF:-1,4 EP 08
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=WIa4Z9nHjn0
-#EXTINF:-1,4 EP 09
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=BLnhwYXVQw0
+<item>
+<item><title>[B][COLOR white]2 EP 01[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=eoIe4PwF2vA</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<item><title>[B][COLOR white]2 EP 02[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=OlrwqXV76FU</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<item><title>[B][COLOR white]2 EP 03[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=TkRSm6PvvRM</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<item><title>[B][COLOR white]2 EP 04[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=D_Mmi8v4_Kc</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<item><title>[B][COLOR white]2 EP 05[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=liN-5snlqm0</link>
+<thumbnail></thumbnail>
+</item>
 
-#EXTINF:-1,5 EP 01
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=UBYLu1LYc_k
-#EXTINF:-1,5 EP 02
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=g6asDKAF-FY
-#EXTINF:-1,5 EP 03
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=VqWqjAObkro
+<item>
+<title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]3° TEMPORADA[/COLOR][/B]</title>
+<link>here</link>
+<thumbnail></thumbnail>
 
-#EXTINF:-1,6 EP 01
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Sw2660rcPd0
-#EXTINF:-1,6 EP 02
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=CPR-nStXIm4
-#EXTINF:-1,6 EP 03
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=NhsUXFprzaM
-#EXTINF:-1,6 EP 04
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=p1rgrMRwKsM
-#EXTINF:-1,6 EP 05
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=XNevUvmhvqY
-#EXTINF:-1,6 EP 06
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=p1dg2Agcz2U
-#EXTINF:-1,6 EP 07
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=uKi2-9cnsmg
-#EXTINF:-1,6 EP 08
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ftSjeKdex2A
-#EXTINF:-1,6 EP 09
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=7enoZ8-UL0A
+<item>
+<item><title>[B][COLOR white]3 EP 01[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=SAe81hXfUAw</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<item><title>[B][COLOR white]3 EP 02[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=j71R9vcOvhU</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<item><title>[B][COLOR white]3 EP 03[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Icoi4EuC41k</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<item><title>[B][COLOR white]3 EP 04[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=K8Kobxv7oCo</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<item><title>[B][COLOR white]3 EP 05[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=5BQyVAAycsc</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<item><title>[B][COLOR white]3 EP 06[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Y54RYE4QPf8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<item><title>[B][COLOR white]3 EP 07[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=OFwJV66wEZk</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<item><title>[B][COLOR white]3 EP 08[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=uyEqj0YA320</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<item><title>[B][COLOR white]3 EP 09[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=aAhGw4awduk</link>
+<thumbnail></thumbnail>
+</item>
 
-#EXTINF:-1,7 EP 01
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Ap9KoBCsaG4
-#EXTINF:-1,7 EP 02
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Ap9KoBCsaG4
-#EXTINF:-1,7 EP 03
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=QizfD-B4OpE
-#EXTINF:-1,7 EP 04
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=w4uOwjMXM7g
-#EXTINF:-1,7 EP 05
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Dnw4-jYlD6Y
-#EXTINF:-1,7 EP 06
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=SCU4wtwJzyQ
-#EXTINF:-1,7 EP 07
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=T5qt5cwqKDY
-#EXTINF:-1,7 EP 08
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=O9PKj44rzfo
-#EXTINF:-1,7 EP 09
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=lT-CU3ECoKQ
-#EXTINF:-1,7 EP 10
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=tXrbYLCP0LE
+<item>
+<title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]4° TEMPORADA[/COLOR][/B]</title>
+<link>here</link>
+<thumbnail></thumbnail>
 
-#EXTINF:-1,8 EP 01
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=mFdvgp8mMys
-#EXTINF:-1,8 EP 02
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=K9FNXEx1q5E
-#EXTINF:-1,8 EP 03
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=l0v985-5KcA
-#EXTINF:-1,8 EP 04
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=EHonoRqUHQc
-#EXTINF:-1,8 EP 05
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=_wQrhdhw7_I
-#EXTINF:-1,8 EP 06
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=GWmnql1zqyg
+<item>
+<item><title>[B][COLOR white]4 EP 01[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=DR0KWlaawPM</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<item><title>[B][COLOR white]4 EP 02[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=FBQ4tHwGTDQ</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<item><title>[B][COLOR white]4 EP 03[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=G9eCROyVxD4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<item><title>[B][COLOR white]4 EP 04[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Lkqn4rYUQu4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<item><title>[B][COLOR white]4 EP 05[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=7--ENqY0Df4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<item><title>[B][COLOR white]4 EP 06[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=LLj-zdeQoCU</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<item><title>[B][COLOR white]4 EP 07[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=0v7nuPBRzzA</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<item><title>[B][COLOR white]4 EP 08[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=WIa4Z9nHjn0</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<item><title>[B][COLOR white]4 EP 09[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=BLnhwYXVQw0</link>
+<thumbnail></thumbnail>
+</item>
 
-#EXTINF:-1,9 EP 01
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=QQgmv3Q1DvY
-#EXTINF:-1,9 EP 02
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=_LcceMb6drk
-#EXTINF:-1,9 EP 03
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=P2s8Jhd2mH8
-#EXTINF:-1,9 EP 04
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=xOpOXKApdaM
-#EXTINF:-1,9 EP 05
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=YP2vPEMOYGw
-#EXTINF:-1,9 EP 06
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=PmG_UAW7S7I
-#EXTINF:-1,9 EP 07
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=42qnJ0fVDO4
-#EXTINF:-1,9 EP 08
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=CC9Edx99aDg
-#EXTINF:-1,9 EP 09
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=CxUwTf84SDM
-#EXTINF:-1,9 EP 10
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=fe9P--9i_SA
-#EXTINF:-1,9 EP 11
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=6feGQT11hS8
-#EXTINF:-1,9 EP 12
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=gBAbrbX9FcA
-#EXTINF:-1,9 EP 13
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=DCUo4tJb_7E
-#EXTINF:-1,9 EP 14
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ceSZ23XM6Ys
+<item>
+<title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]5° TEMPORADA[/COLOR][/B]</title>
+<link>here</link>
+<thumbnail></thumbnail>
 
-#EXTINF:-1,10 EP 01
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=92N8UBGT6Mc
-#EXTINF:-1,10 EP 02
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=58ApY2VGda4
-#EXTINF:-1,10 EP 03
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=TcISkuEx8lA
-#EXTINF:-1,10 EP 04
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=_hZe6-4rwOk
-#EXTINF:-1,10 EP 05
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=xgcRr-eU21Q
-#EXTINF:-1,10 EP 06
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=9uBzzzO-Kn0
-#EXTINF:-1,10 EP 07
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=tYEa8mZCEcA
-#EXTINF:-1,10 EP 08
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=HK1Kqy98zRc
-#EXTINF:-1,10 EP 09
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=9Vp2ro9teGM
-#EXTINF:-1,10 EP 10
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=h2wCVc77iqQ
-#EXTINF:-1,10 EP 11
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=kva3eB-nEEk
+<item>
+<item><title>[B][COLOR white]5 EP 01[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=UBYLu1LYc_k</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<item><title>[B][COLOR white]5 EP 02[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=g6asDKAF-FY</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<item><title>[B][COLOR white]5 EP 03[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=VqWqjAObkro</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]6° TEMPORADA[/COLOR][/B]</title>
+<link>here</link>
+<thumbnail></thumbnail>
+
+<item>
+<item><title>[B][COLOR white]6 EP 01[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Sw2660rcPd0</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<item><title>[B][COLOR white]6 EP 02[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=CPR-nStXIm4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<item><title>[B][COLOR white]6 EP 03[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=NhsUXFprzaM</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<item><title>[B][COLOR white]6 EP 04[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=p1rgrMRwKsM</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<item><title>[B][COLOR white]6 EP 05[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=XNevUvmhvqY</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<item><title>[B][COLOR white]6 EP 06[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=p1dg2Agcz2U</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<item><title>[B][COLOR white]6 EP 07[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=uKi2-9cnsmg</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<item><title>[B][COLOR white]6 EP 08[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ftSjeKdex2A</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<item><title>[B][COLOR white]6 EP 09[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=7enoZ8-UL0A</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]7° TEMPORADA[/COLOR][/B]</title>
+<link>here</link>
+<thumbnail></thumbnail>
+
+<item>
+<item><title>[B][COLOR white]7 EP 01[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Ap9KoBCsaG4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<item><title>[B][COLOR white]7 EP 02[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Ap9KoBCsaG4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<item><title>[B][COLOR white]7 EP 03[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=QizfD-B4OpE</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<item><title>[B][COLOR white]7 EP 04[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=w4uOwjMXM7g</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<item><title>[B][COLOR white]7 EP 05[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Dnw4-jYlD6Y</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<item><title>[B][COLOR white]7 EP 06[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=SCU4wtwJzyQ</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<item><title>[B][COLOR white]7 EP 07[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=T5qt5cwqKDY</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<item><title>[B][COLOR white]7 EP 08[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=O9PKj44rzfo</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<item><title>[B][COLOR white]7 EP 09[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=lT-CU3ECoKQ</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<item><title>[B][COLOR white]7 EP 10[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=tXrbYLCP0LE</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]8° TEMPORADA[/COLOR][/B]</title>
+<link>here</link>
+<thumbnail></thumbnail>
+
+<item>
+<item><title>[B][COLOR white]8 EP 01[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=mFdvgp8mMys</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<item><title>[B][COLOR white]8 EP 02[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=K9FNXEx1q5E</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<item><title>[B][COLOR white]8 EP 03[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=l0v985-5KcA</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<item><title>[B][COLOR white]8 EP 04[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=EHonoRqUHQc</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<item><title>[B][COLOR white]8 EP 05[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=_wQrhdhw7_I</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<item><title>[B][COLOR white]8 EP 06[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=GWmnql1zqyg</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]9° TEMPORADA[/COLOR][/B]</title>
+<link>here</link>
+<thumbnail></thumbnail>
+
+<item>
+<item><title>[B][COLOR white]9 EP 01[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=QQgmv3Q1DvY</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<item><title>[B][COLOR white]9 EP 02[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=_LcceMb6drk</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<item><title>[B][COLOR white]9 EP 03[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=P2s8Jhd2mH8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<item><title>[B][COLOR white]9 EP 04[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=xOpOXKApdaM</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<item><title>[B][COLOR white]9 EP 05[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=YP2vPEMOYGw</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<item><title>[B][COLOR white]9 EP 06[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=PmG_UAW7S7I</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<item><title>[B][COLOR white]9 EP 07[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=42qnJ0fVDO4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<item><title>[B][COLOR white]9 EP 08[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=CC9Edx99aDg</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<item><title>[B][COLOR white]9 EP 09[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=CxUwTf84SDM</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<item><title>[B][COLOR white]9 EP 10[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=fe9P--9i_SA</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<item><title>[B][COLOR white]9 EP 11[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=6feGQT11hS8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<item><title>[B][COLOR white]9 EP 12[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=gBAbrbX9FcA</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<item><title>[B][COLOR white]9 EP 13[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=DCUo4tJb_7E</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<item><title>[B][COLOR white]9 EP 14[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ceSZ23XM6Ys</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]10° TEMPORADA[/COLOR][/B]</title>
+<link>here</link>
+<thumbnail></thumbnail>
+
+<item>
+<item><title>[B][COLOR white]10 EP 01[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=92N8UBGT6Mc</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<item><title>[B][COLOR white]10 EP 02[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=58ApY2VGda4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<item><title>[B][COLOR white]10 EP 03[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=TcISkuEx8lA</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<item><title>[B][COLOR white]10 EP 04[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=_hZe6-4rwOk</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<item><title>[B][COLOR white]10 EP 05[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=xgcRr-eU21Q</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<item><title>[B][COLOR white]10 EP 06[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=9uBzzzO-Kn0</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<item><title>[B][COLOR white]10 EP 07[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=tYEa8mZCEcA</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<item><title>[B][COLOR white]10 EP 08[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=HK1Kqy98zRc</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<item><title>[B][COLOR white]10 EP 09[/COLOR]</title>
+<item>link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=9Vp2ro9teGM</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<item><title>[B][COLOR white]10 EP 10[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=h2wCVc77iqQ</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<item><title>[B][COLOR white]10 EP 11[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=kva3eB-nEEk</link>
+<thumbnail></thumbnail>
+</item>
