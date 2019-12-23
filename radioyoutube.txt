@@ -1,3 +1,3 @@
 #EXTM3U
 #EXTINF:-1,RADIO TS
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&playlist_id=PLCwAHfhr-Gc_oN7FjBpYx3eXjZUBN5hvQ&order=$shuffle&play=1
+plugin://plugin.video.youtube/play/?playlist_id=PLCwAHfhr-Gc_oN7FjBpYx3eXjZUBN5hvQ&order=$shuffle&play=1&screensaver=true
