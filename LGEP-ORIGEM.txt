@@ -1,7 +1,4 @@
-<item>
-<title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]1° TEMPORADA[/COLOR][/B]</title>
-<link>here</link>
-<thumbnail></thumbnail>
+#########################1° TEMPORADA##########################
 #EXTM3U
 #EXTINF:-1,1 EP 01
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=4sgCR3MkU7k
