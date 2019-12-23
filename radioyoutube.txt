@@ -1,4 +1,3 @@
 #EXTM3U
-#EXTINF:-1,tvg-id="RADIO NEW POP HITS" tvg-logo="https://d1eqqkloubk286.cloudfront.net/static/playlist/1612406/01f1de4627376fc.jpg"
+#EXTINF:-1 tvg-id="RADIO NEW POP HITS" tvg-logo="https://d1eqqkloubk286.cloudfront.net/static/playlist/1612406/01f1de4627376fc.jpg"group-title="RADIO",  RADIO NEW POP HITS
 plugin://plugin.video.youtube/play/?playlist_id=PL7zsB-C3aNu3Ec0sIHExGIOS-ZKve-TIA&play=1&order=shuffle
-#EXTINF:-1,RADIO TS2
