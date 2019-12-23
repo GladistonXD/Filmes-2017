@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1,RADIO TS
-plugin://plugin.video.youtube/play/?playlist_id=PLCwAHfhr-Gc_oN7FjBpYx3eXjZUBN5hvQ&play=1&order=shuffle
+#EXTINF:-1,tvg-id="RADIO NEW POP HITS" tvg-logo="https://d1eqqkloubk286.cloudfront.net/static/playlist/1612406/01f1de4627376fc.jpg"
+plugin://plugin.video.youtube/play/?playlist_id=PL7zsB-C3aNu3Ec0sIHExGIOS-ZKve-TIA&play=1&order=shuffle
 #EXTINF:-1,RADIO TS2
-plugin://plugin.video.youtube/play/?video_id=xgcRr-eU21Q
-#EXTINF:-1,RADIO TS3
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=zlJDTxahav0
