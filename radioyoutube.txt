@@ -2,6 +2,6 @@
 #EXTINF:-1,RADIO TS
 plugin://plugin.video.youtube/play/?playlist_id=PLCwAHfhr-Gc_oN7FjBpYx3eXjZUBN5hvQ&play=1&order=shuffle
 #EXTINF:-1,RADIO TS2
-plugin://plugin.video.youtube/play/?video_id=zlJDTxahav0
+plugin://plugin.video.youtube/play/?video_id=xgcRr-eU21Q
 #EXTINF:-1,RADIO TS3
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=zlJDTxahav0
