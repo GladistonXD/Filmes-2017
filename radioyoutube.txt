@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:-1,RADIO TS
-plugin://plugin.video.youtube/play/?playlist_id=PLCwAHfhr-Gc_oN7FjBpYx3eXjZUBN5hvQ&play=1&order=shuffle&screensaver=true
+plugin://plugin.video.youtube/play/?playlist_id=PLCwAHfhr-Gc_oN7FjBpYx3eXjZUBN5hvQ&play=1&order=shuffle
 #EXTINF:-1,RADIO TS2
-https://www.youtube.com/playlist?list=PLCwAHfhr-Gc_oN7FjBpYx3eXjZUBN5hvQ&play=1&order=shuffle&screensaver=true
+plugin://plugin.video.youtube/play/?video_id=q0hyYWKXF0Q
