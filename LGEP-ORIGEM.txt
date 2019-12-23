@@ -3,11 +3,9 @@
 <link>here</link>
 <thumbnail></thumbnail>
 
-<item>
-<item><title>[B][COLOR white]1 EP 01[/B][/COLOR]</title>
+name="[B][COLOR white]1 EP 01[/B][/COLOR]"
 url = "plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=4sgCR3MkU7k"
-<thumbnail></thumbnail>
-</item>
+
 <item>
 <item><title>[B][COLOR white]1 EP 02[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=kYoO6CLYGTk</link>
