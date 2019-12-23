@@ -1,3 +1,3 @@
 #EXTM3U
 #EXTINF:-1,RADIO TS
-plugin://plugin.video.youtube/play/?playlist_id=PLeb2m_jTvNTcuuw1uuuR7Ijc4XeXq3Zqy&order=$ORDER
+plugin://plugin.video.youtube/play/?playlist_id=PLeb2m_jTvNTcuuw1uuuR7Ijc4XeXq3Zqy&order=&play=1
