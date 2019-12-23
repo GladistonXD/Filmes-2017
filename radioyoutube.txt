@@ -8,3 +8,8 @@ plugin://plugin.video.youtube/play/?playlist_id=PLinS5uF49IBob4YjRC35vkWQgHBQZ90
 #EXTINF:-1 tvg-id="[B][COLOR white]RADIO ACOUSTIC COVER[/COLOR][/B]" tvg-logo="http://cdn-profiles.tunein.com/s308571/images/logog.png"group-title="RADIO", [B][COLOR white]RADIO ACOUSTIC COVER[/COLOR][/B]
 plugin://plugin.video.youtube/play/?playlist_id=PLTvFW4ZDD5pwEnxnLpAsWz-10X_66T-wb&play=1&order=shuffle
 
+#EXTINF:-1 tvg-id="[B][COLOR white]RADIO TOP 500[/COLOR][/B]" tvg-logo="https://scontent.fcdj1-1.fna.fbcdn.net/v/t1.0-9/p960x960/54462718_10156227069557825_862070081713078272_o.jpg?_nc_cat=104&_nc_ohc=RmQ1QKI8PcYAQmS75590X0J94gcNT3Nxb03n42tO_GI_P_NTA6n4-KWbA&_nc_ht=scontent.fcdj1-1.fna&oh=c62882b2a995fdcbb990a6f7fe415153&oe=5EAD4DAF"group-title="RADIO", [B][COLOR white]RADIO TOP 500[/COLOR][/B]
+plugin://plugin.video.youtube/play/?playlist_id=PLgmcWG8lo_M8zJ6m5V933m8PQU8cnqATZ&play=1&order=shuffle
+
+#EXTINF:-1 tvg-id="[B][COLOR white]RADIO RANDOM COOL[/COLOR][/B]" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDgWWxaPXGF2ThXFhf1NhspU7PWUnJjxaNRTDVqYeNlS24vExfnw&s"group-title="RADIO", [B][COLOR white]RADIO RANDOM COOL[/COLOR][/B]
+plugin://plugin.video.youtube/play/?playlist_id=PLeCdlPO-XhWFzEVynMsmosfdRsIZXhZi0&play=1&order=shuffle
