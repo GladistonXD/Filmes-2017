@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="[B][COLOR white]RADIO NEW POP HITS[/COLOR][/B]" tvg-logo="https://d1eqqkloubk286.cloudfront.net/static/playlist/1612406/01f1de4627376fc.jpg"group-title="RADIO",  [B][COLOR white]RADIO NEW POP HITS[/COLOR][/B]
 plugin://plugin.video.youtube/play/?playlist_id=PL7zsB-C3aNu3Ec0sIHExGIOS-ZKve-TIA&play=1&order=shuffle
 
-#EXTINF:-1 tvg-id="[B][COLOR white]RADIO ALTERNATIVE HITS[/COLOR][/B]" tvg-logo="https://static-br.radio.net/images/broadcasts/73/92/15375/2/c300.png"group-title="RADIO", [B][COLOR white]RADIO ALTERNATIVE HITS[/COLOR][/B]
+#EXTINF:-1 tvg-id="[B][COLOR white]RADIO ALTERNATIVE ROCKS[/COLOR][/B]" tvg-logo="https://static-br.radio.net/images/broadcasts/92/c9/39248/1/c300.png"group-title="RADIO", [B][COLOR white]RADIO ALTERNATIVE HITS[/COLOR][/B]
 plugin://plugin.video.youtube/play/?playlist_id=PLinS5uF49IBob4YjRC35vkWQgHBQZ90E_&play=1&order=shuffle
 
 #EXTINF:-1 tvg-id="[B][COLOR white]RADIO ACOUSTIC COVER[/COLOR][/B]" tvg-logo="http://cdn-profiles.tunein.com/s308571/images/logog.png"group-title="RADIO", [B][COLOR white]RADIO ACOUSTIC COVER[/COLOR][/B]
@@ -13,3 +13,7 @@ plugin://plugin.video.youtube/play/?playlist_id=PLgmcWG8lo_M8zJ6m5V933m8PQU8cnqA
 
 #EXTINF:-1 tvg-id="[B][COLOR white]RADIO RANDOM COOL[/COLOR][/B]" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDgWWxaPXGF2ThXFhf1NhspU7PWUnJjxaNRTDVqYeNlS24vExfnw&s"group-title="RADIO", [B][COLOR white]RADIO RANDOM COOL[/COLOR][/B]
 plugin://plugin.video.youtube/play/?playlist_id=PLeCdlPO-XhWFzEVynMsmosfdRsIZXhZi0&play=1&order=shuffle
+
+#EXTINF:-1 tvg-id="[B][COLOR white]RADIO FOLK ACOUSTIC[/COLOR][/B]" tvg-logo="https://static.radio.pt/images/broadcasts/11/6f/35206/c175.png"group-title="RADIO", [B][COLOR white]RADIO FOLK ACOUSTIC[/COLOR][/B]
+plugin://plugin.video.youtube/play/?playlist_id=PLDZIMJooKojCrAwXNVEpz1iIHGg0voE5m&play=1&order=shuffle
+
