@@ -17,3 +17,5 @@ plugin://plugin.video.youtube/play/?playlist_id=PLeCdlPO-XhWFzEVynMsmosfdRsIZXhZ
 #EXTINF:-1 tvg-id="[B][COLOR white]RADIO FOLK ACOUSTIC[/COLOR][/B]" tvg-logo="https://static.radio.fr/images/broadcasts/73/9e/36757/c300.png"group-title="RADIO", [B][COLOR white]RADIO FOLK ACOUSTIC[/COLOR][/B]
 plugin://plugin.video.youtube/play/?playlist_id=PLDZIMJooKojCrAwXNVEpz1iIHGg0voE5m&play=1&order=shuffle
 
+#EXTINF:-1 tvg-id="[B][COLOR white]RADIO INTENSE INDIE[/COLOR][/B]" tvg-logo="https://m.media-amazon.com/images/I/81kUBLvzgBL._SS500_.jpg"group-title="RADIO", [B][COLOR white]RADIO INTENSE INDIE[/COLOR][/B]
+plugin://plugin.video.youtube/play/?playlist_id=PLOvc47UgH6TA0icm2q8KV2QLQWpHfc7lO&play=1&order=shuffle
