@@ -14,6 +14,6 @@ plugin://plugin.video.youtube/play/?playlist_id=PLgmcWG8lo_M8zJ6m5V933m8PQU8cnqA
 #EXTINF:-1 tvg-id="[B][COLOR white]RADIO RANDOM COOL[/COLOR][/B]" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDgWWxaPXGF2ThXFhf1NhspU7PWUnJjxaNRTDVqYeNlS24vExfnw&s"group-title="RADIO", [B][COLOR white]RADIO RANDOM COOL[/COLOR][/B]
 plugin://plugin.video.youtube/play/?playlist_id=PLeCdlPO-XhWFzEVynMsmosfdRsIZXhZi0&play=1&order=shuffle
 
-#EXTINF:-1 tvg-id="[B][COLOR white]RADIO FOLK ACOUSTIC[/COLOR][/B]" tvg-logo="https://static.radio.pt/images/broadcasts/11/6f/35206/c175.png"group-title="RADIO", [B][COLOR white]RADIO FOLK ACOUSTIC[/COLOR][/B]
+#EXTINF:-1 tvg-id="[B][COLOR white]RADIO FOLK ACOUSTIC[/COLOR][/B]" tvg-logo="https://static.radio.fr/images/broadcasts/73/9e/36757/c300.png"group-title="RADIO", [B][COLOR white]RADIO FOLK ACOUSTIC[/COLOR][/B]
 plugin://plugin.video.youtube/play/?playlist_id=PLDZIMJooKojCrAwXNVEpz1iIHGg0voE5m&play=1&order=shuffle
 
