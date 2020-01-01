@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,1 EP 01
-/storage/9A95-6669/Largados e pelados - A tribo 1 temporada/1 EP 01.mkv
+plugin://plugin.video.dailymotion_com/?url=x56fgiv&mode=playVideo
 #EXTINF:-1,1 EP 02
 /storage/9A95-6669/Largados e pelados - A tribo 1 temporada/1 EP 02.mkv
 #EXTINF:-1,1 EP 03
