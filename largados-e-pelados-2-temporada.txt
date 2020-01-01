@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1,2 EP 00
-/storage/9A95-6669/Largados e pelados - A tribo 2 temporada/2 EP 00.mkv
 #EXTINF:-1,2 EP 01
-/storage/9A95-6669/Largados e pelados - A tribo 2 temporada/2 EP 01.mkv
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=TIR5uvo5KIo
 #EXTINF:-1,2 EP 02
-/storage/9A95-6669/Largados e pelados - A tribo 2 temporada/2 EP 02.mkv
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=FgMbbBCSe8g
 #EXTINF:-1,2 EP 03
-/storage/9A95-6669/Largados e pelados - A tribo 2 temporada/2 EP 03.mkv
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=7coK5nPs1fU
 #EXTINF:-1,2 EP 04
-/storage/9A95-6669/Largados e pelados - A tribo 2 temporada/2 EP 04.mkv
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=rfACr7rbsFc
 #EXTINF:-1,2 EP 05
-/storage/9A95-6669/Largados e pelados - A tribo 2 temporada/2 EP 05.mkv
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=KKDZHiiMZYY
 #EXTINF:-1,2 EP 06
-/storage/9A95-6669/Largados e pelados - A tribo 2 temporada/2 EP 06.mkv
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ExsIo0EUM5w
+#EXTINF:-1,2 EP 07
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=o2wxkZaBl30
