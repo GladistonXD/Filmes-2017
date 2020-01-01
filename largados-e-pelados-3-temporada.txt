@@ -1,21 +1,21 @@
 #EXTM3U
 #EXTINF:-1,3 EP 01
-/storage/9A95-6669/Largados e pelados - A tribo 3 temporada/3 EP 01.mkv
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Upuc_tiYLu4
 #EXTINF:-1,3 EP 02
-/storage/9A95-6669/Largados e pelados - A tribo 3 temporada/3 EP 02.mkv
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=U1T1qw4BOQ8
 #EXTINF:-1,3 EP 03
-/storage/9A95-6669/Largados e pelados - A tribo 3 temporada/3 EP 03.mkv
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=VyvoPIZx1cE
 #EXTINF:-1,3 EP 04
-/storage/9A95-6669/Largados e pelados - A tribo 3 temporada/3 EP 04.mkv
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=SUMO4tysOH4
 #EXTINF:-1,3 EP 05
-/storage/9A95-6669/Largados e pelados - A tribo 3 temporada/3 EP 05.mkv
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=VlbYvSAFVCc
 #EXTINF:-1,3 EP 06
-/storage/9A95-6669/Largados e pelados - A tribo 3 temporada/3 EP 06.mkv
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=L8xt8QzXKG4
 #EXTINF:-1,3 EP 07
-/storage/9A95-6669/Largados e pelados - A tribo 3 temporada/3 EP 07.mkv
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=9_EY3uNwnMs
 #EXTINF:-1,3 EP 08
-/storage/9A95-6669/Largados e pelados - A tribo 3 temporada/3 EP 08.mkv
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=JIJV4UT44Fs
 #EXTINF:-1,3 EP 09
-/storage/9A95-6669/Largados e pelados - A tribo 3 temporada/3 EP 09.mp4
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=cgyZPKduRR4
 #EXTINF:-1,3 EP 10
-/storage/9A95-6669/Largados e pelados - A tribo 3 temporada/3 EP 10.mp4
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=aAhGw4awduk
