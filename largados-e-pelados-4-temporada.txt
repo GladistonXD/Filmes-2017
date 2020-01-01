@@ -1,21 +1,21 @@
 #EXTM3U
 #EXTINF:-1,4 EP 01
-/storage/9A95-6669/Largados e pelados - A tribo 4 temporada/4 EP 01.mp4
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=lBNvX5-Eos0
 #EXTINF:-1,4 EP 02
-/storage/9A95-6669/Largados e pelados - A tribo 4 temporada/4 EP 02.mkv
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=xIjYJwxLeI4
 #EXTINF:-1,4 EP 03
-/storage/9A95-6669/Largados e pelados - A tribo 4 temporada/4 EP 03.mp4
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=OZYMzdsschk
 #EXTINF:-1,4 EP 04
-/storage/9A95-6669/Largados e pelados - A tribo 4 temporada/4 EP 04.mkv
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=e3K2sRFjrLQ
 #EXTINF:-1,4 EP 05
-/storage/9A95-6669/Largados e pelados - A tribo 4 temporada/4 EP 05.mkv
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=JwHTBcfhPms
 #EXTINF:-1,4 EP 06
-/storage/9A95-6669/Largados e pelados - A tribo 4 temporada/4 EP 06.mp4
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=nce85_H-dKk
 #EXTINF:-1,4 EP 07
-/storage/9A95-6669/Largados e pelados - A tribo 4 temporada/4 EP 07.mkv
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=W7ausJUb0c4
 #EXTINF:-1,4 EP 08
-/storage/9A95-6669/Largados e pelados - A tribo 4 temporada/4 EP 08.mkv
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=DyXJW4inXVg
 #EXTINF:-1,4 EP 09
-/storage/9A95-6669/Largados e pelados - A tribo 4 temporada/4 EP 09.mkv
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=wCrMIIeIaR8
 #EXTINF:-1,4 EP 10
-/storage/9A95-6669/Largados e pelados - A tribo 4 temporada/4 EP 10.mkv
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=6T7IfLlUFjM
