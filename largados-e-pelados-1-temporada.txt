@@ -1,18 +1,18 @@
 #EXTM3U
 #EXTINF:-1,1 EP 01
-plugin://plugin.video.dailymotion_com/?url=x56fgiv&mode=playVideo
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=3oiVSQJ5LK4
 #EXTINF:-1,1 EP 02
-plugin://plugin.video.dailymotion_com/?url=x62i4a1&mode=playVideo
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=-xX74pNTB1U
 #EXTINF:-1,1 EP 03
-plugin://plugin.video.dailymotion_com/?url=x6395m9&mode=playVideo
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=k3WccdR4Ys4
 #EXTINF:-1,1 EP 04
-plugin://plugin.video.dailymotion_com/?url=x649gkm&mode=playVideo
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=h0XtkDriIVo
 #EXTINF:-1,1 EP 05
-plugin://plugin.video.dailymotion_com/?url=x64m2r6&mode=playVideo
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=KnyKyDWrJqc
 #EXTINF:-1,1 EP 06
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Y8E-12S8ZJ0
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=os2ZyKIq17E
 #EXTINF:-1,1 EP 07
-plugin://plugin.video.dailymotion_com/?url=x68sxfu&mode=playVideo
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=IrVMmaFWjFw
 #EXTINF:-1,1 EP 08
 plugin://plugin.video.dailymotion_com/?url=x56xeqq&mode=playVideo
 #EXTINF:-1,1 EP 09
