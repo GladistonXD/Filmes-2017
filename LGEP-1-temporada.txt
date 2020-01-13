@@ -1,168 +1,196 @@
 <item>
 <title>1 EP 01</title>
-<link>$doregex[vida]LRGDSEPLDST01EP01.mp4?attachment=true</link>
+<link>$doregex[vida]LRGDSEPLDST01EP01.mp4|Referer=$doregex[vidar]</link>
 <regex><name>vida</name><expres>rc3"(.*?).mp4"</expres><page>https://cutt.ly/RCLGP</page></regex>
+<regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
 <thumbnail>https://media.fstatic.com/LJ3zPWAKNRAY9xl_PZz_kLzryj0=/fit-in/290x478/smart/media/movies/covers/2018/08/s1_4zp0v3s.jpg</thumbnail>
 </item>
 <item>
 <title>1 EP 02</title>
-<link>$doregex[vida]LRGDSEPLDST01EP02.mp4?attachment=true</link>
+<link>$doregex[vida]LRGDSEPLDST01EP02.mp4|Referer=$doregex[vidar]</link>
 <regex><name>vida</name><expres>rc3"(.*?).mp4"</expres><page>https://cutt.ly/RCLGP</page></regex>
+<regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
 <thumbnail>https://media.fstatic.com/LJ3zPWAKNRAY9xl_PZz_kLzryj0=/fit-in/290x478/smart/media/movies/covers/2018/08/s1_4zp0v3s.jpg</thumbnail>
 </item>
 <item>
 <title>1 EP 03</title>
-<link>$doregex[vida]LRGDSEPLDST01EP03.mp4?attachment=true</link>
+<link>$doregex[vida]LRGDSEPLDST01EP03.mp4|Referer=$doregex[vidar]</link>
 <regex><name>vida</name><expres>rc3"(.*?).mp4"</expres><page>https://cutt.ly/RCLGP</page></regex>
+<regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
 <thumbnail>https://media.fstatic.com/LJ3zPWAKNRAY9xl_PZz_kLzryj0=/fit-in/290x478/smart/media/movies/covers/2018/08/s1_4zp0v3s.jpg</thumbnail>
 </item>
 <item>
 <title>1 EP 04</title>
-<link>$doregex[vida]LRGDSEPLDST01EP04.mp4?attachment=true</link>
+<link>$doregex[vida]LRGDSEPLDST01EP04.mp4|Referer=$doregex[vidar]</link>
 <regex><name>vida</name><expres>rc3"(.*?).mp4"</expres><page>https://cutt.ly/RCLGP</page></regex>
+<regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
 <thumbnail>https://media.fstatic.com/LJ3zPWAKNRAY9xl_PZz_kLzryj0=/fit-in/290x478/smart/media/movies/covers/2018/08/s1_4zp0v3s.jpg</thumbnail>
 </item>
 <item>
 <title>1 EP 05</title>
-<link>$doregex[vida]LRGDSEPLDST01EP05.mp4?attachment=true</link>
+<link>$doregex[vida]LRGDSEPLDST01EP05.mp4|Referer=$doregex[vidar]</link>
 <regex><name>vida</name><expres>rc3"(.*?).mp4"</expres><page>https://cutt.ly/RCLGP</page></regex>
+<regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
 <thumbnail>https://media.fstatic.com/LJ3zPWAKNRAY9xl_PZz_kLzryj0=/fit-in/290x478/smart/media/movies/covers/2018/08/s1_4zp0v3s.jpg</thumbnail>
 </item>
 <item>
 <title>1 EP 06</title>
-<link>$doregex[vida]LRGDSEPLDST01EP06.mp4?attachment=true</link>
+<link>$doregex[vida]LRGDSEPLDST01EP06.mp4|Referer=$doregex[vidar]</link>
 <regex><name>vida</name><expres>rc3"(.*?).mp4"</expres><page>https://cutt.ly/RCLGP</page></regex>
+<regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
 <thumbnail>https://media.fstatic.com/LJ3zPWAKNRAY9xl_PZz_kLzryj0=/fit-in/290x478/smart/media/movies/covers/2018/08/s1_4zp0v3s.jpg</thumbnail>
 </item>
 <item>
 <title>1 EP 07</title>
-<link>$doregex[vida]LRGDSEPLDST01EP07.mp4?attachment=true</link>
+<link>$doregex[vida]LRGDSEPLDST01EP07.mp4|Referer=$doregex[vidar]</link>
 <regex><name>vida</name><expres>rc3"(.*?).mp4"</expres><page>https://cutt.ly/RCLGP</page></regex>
+<regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
 <thumbnail>https://media.fstatic.com/LJ3zPWAKNRAY9xl_PZz_kLzryj0=/fit-in/290x478/smart/media/movies/covers/2018/08/s1_4zp0v3s.jpg</thumbnail>
 </item>
 <item>
 <title>1 EP 08</title>
-<link>$doregex[vida]LRGDSEPLDST01EP08.mp4?attachment=true</link>
+<link>$doregex[vida]LRGDSEPLDST01EP08.mp4|Referer=$doregex[vidar]</link>
 <regex><name>vida</name><expres>rc3"(.*?).mp4"</expres><page>https://cutt.ly/RCLGP</page></regex>
+<regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
 <thumbnail>https://media.fstatic.com/LJ3zPWAKNRAY9xl_PZz_kLzryj0=/fit-in/290x478/smart/media/movies/covers/2018/08/s1_4zp0v3s.jpg</thumbnail>
 </item>
 <item>
 <title>1 EP 09</title>
-<link>$doregex[vida]LRGDSEPLDST01EP09.mp4?attachment=true</link>
+<link>$doregex[vida]LRGDSEPLDST01EP09.mp4|Referer=$doregex[vidar]</link>
 <regex><name>vida</name><expres>rc3"(.*?).mp4"</expres><page>https://cutt.ly/RCLGP</page></regex>
+<regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
 <thumbnail>https://media.fstatic.com/LJ3zPWAKNRAY9xl_PZz_kLzryj0=/fit-in/290x478/smart/media/movies/covers/2018/08/s1_4zp0v3s.jpg</thumbnail>
 </item>
 <item>
 <title>1 EP 10</title>
-<link>$doregex[vida]LRGDSEPLDST01EP10.mp4?attachment=true</link>
+<link>$doregex[vida]LRGDSEPLDST01EP10.mp4|Referer=$doregex[vidar]</link>
 <regex><name>vida</name><expres>rc3"(.*?).mp4"</expres><page>https://cutt.ly/RCLGP</page></regex>
+<regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
 <thumbnail>https://media.fstatic.com/LJ3zPWAKNRAY9xl_PZz_kLzryj0=/fit-in/290x478/smart/media/movies/covers/2018/08/s1_4zp0v3s.jpg</thumbnail>
 </item>
 <item>
 <title>1 EP 11</title>
-<link>$doregex[vida]LRGDSEPLDST01EP11.mp4?attachment=true</link>
+<link>$doregex[vida]LRGDSEPLDST01EP11.mp4|Referer=$doregex[vidar]</link>
 <regex><name>vida</name><expres>rc3"(.*?).mp4"</expres><page>https://cutt.ly/RCLGP</page></regex>
+<regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
 <thumbnail>https://media.fstatic.com/LJ3zPWAKNRAY9xl_PZz_kLzryj0=/fit-in/290x478/smart/media/movies/covers/2018/08/s1_4zp0v3s.jpg</thumbnail>
 </item>
 <item>
 <title>1 EP 12</title>
-<link>$doregex[vida]LRGDSEPLDST01EP00.mp4?attachment=true</link>
+<link>$doregex[vida]LRGDSEPLDST01EP00.mp4|Referer=$doregex[vidar]</link>
 <regex><name>vida</name><expres>rc3"(.*?).mp4"</expres><page>https://cutt.ly/RCLGP</page></regex>
+<regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
 <thumbnail>https://media.fstatic.com/LJ3zPWAKNRAY9xl_PZz_kLzryj0=/fit-in/290x478/smart/media/movies/covers/2018/08/s1_4zp0v3s.jpg</thumbnail>
 </item>
 <item>
 <title>1 EP 13</title>
-<link>$doregex[vida]LRGDSEPLDST01EP12.mp4?attachment=true</link>
+<link>$doregex[vida]LRGDSEPLDST01EP12.mp4|Referer=$doregex[vidar]</link>
 <regex><name>vida</name><expres>rc3"(.*?).mp4"</expres><page>https://cutt.ly/RCLGP</page></regex>
+<regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
 <thumbnail>https://media.fstatic.com/LJ3zPWAKNRAY9xl_PZz_kLzryj0=/fit-in/290x478/smart/media/movies/covers/2018/08/s1_4zp0v3s.jpg</thumbnail>
 </item>
 <item>
 <title>1 EP 14</title>
-<link>$doregex[vida]LRGDSEPLDST01EP13.mp4?attachment=true</link>
+<link>$doregex[vida]LRGDSEPLDST01EP13.mp4|Referer=$doregex[vidar]</link>
 <regex><name>vida</name><expres>rc3"(.*?).mp4"</expres><page>https://cutt.ly/RCLGP</page></regex>
+<regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
 <thumbnail>https://media.fstatic.com/LJ3zPWAKNRAY9xl_PZz_kLzryj0=/fit-in/290x478/smart/media/movies/covers/2018/08/s1_4zp0v3s.jpg</thumbnail>
 </item>
 <item>
 <title>1 EP 15</title>
-<link>$doregex[vida]LRGDSEPLDST01EP14.mp4?attachment=true</link>
+<link>$doregex[vida]LRGDSEPLDST01EP14.mp4|Referer=$doregex[vidar]</link>
 <regex><name>vida</name><expres>rc3"(.*?).mp4"</expres><page>https://cutt.ly/RCLGP</page></regex>
+<regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
 <thumbnail>https://media.fstatic.com/LJ3zPWAKNRAY9xl_PZz_kLzryj0=/fit-in/290x478/smart/media/movies/covers/2018/08/s1_4zp0v3s.jpg</thumbnail>
 </item>
 <item>
 <title>1 EP 16</title>
-<link>$doregex[vida]LRGDSEPLDST01EP15.mp4?attachment=true</link>
+<link>$doregex[vida]LRGDSEPLDST01EP15.mp4|Referer=$doregex[vidar]</link>
 <regex><name>vida</name><expres>rc3"(.*?).mp4"</expres><page>https://cutt.ly/RCLGP</page></regex>
+<regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
 <thumbnail>https://media.fstatic.com/LJ3zPWAKNRAY9xl_PZz_kLzryj0=/fit-in/290x478/smart/media/movies/covers/2018/08/s1_4zp0v3s.jpg</thumbnail>
 </item>
 <item>
 <title>1 EP 17</title>
-<link>$doregex[vida]LRGDSEPLDST01EP16.mp4?attachment=true</link>
+<link>$doregex[vida]LRGDSEPLDST01EP16.mp4|Referer=$doregex[vidar]</link>
 <regex><name>vida</name><expres>rc3"(.*?).mp4"</expres><page>https://cutt.ly/RCLGP</page></regex>
+<regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
 <thumbnail>https://media.fstatic.com/LJ3zPWAKNRAY9xl_PZz_kLzryj0=/fit-in/290x478/smart/media/movies/covers/2018/08/s1_4zp0v3s.jpg</thumbnail>
 </item>
 <item>
 <title>1 EP 18</title>
-<link>$doregex[vida]LRGDSEPLDST01EP17.mp4?attachment=true</link>
+<link>$doregex[vida]LRGDSEPLDST01EP17.mp4|Referer=$doregex[vidar]</link>
 <regex><name>vida</name><expres>rc3"(.*?).mp4"</expres><page>https://cutt.ly/RCLGP</page></regex>
+<regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
 <thumbnail>https://media.fstatic.com/LJ3zPWAKNRAY9xl_PZz_kLzryj0=/fit-in/290x478/smart/media/movies/covers/2018/08/s1_4zp0v3s.jpg</thumbnail>
 </item>
 <item>
 <title>1 EP 19</title>
-<link>$doregex[vida]LRGDSEPLDST01EP18.mp4?attachment=true</link>
+<link>$doregex[vida]LRGDSEPLDST01EP18.mp4|Referer=$doregex[vidar]</link>
 <regex><name>vida</name><expres>rc3"(.*?).mp4"</expres><page>https://cutt.ly/RCLGP</page></regex>
+<regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
 <thumbnail>https://media.fstatic.com/LJ3zPWAKNRAY9xl_PZz_kLzryj0=/fit-in/290x478/smart/media/movies/covers/2018/08/s1_4zp0v3s.jpg</thumbnail>
 </item>
 <item>
 <title>1 EP 20</title>
-<link>$doregex[vida]LRGDSEPLDST01EP19.mp4?attachment=true</link>
+<link>$doregex[vida]LRGDSEPLDST01EP19.mp4|Referer=$doregex[vidar]</link>
 <regex><name>vida</name><expres>rc3"(.*?).mp4"</expres><page>https://cutt.ly/RCLGP</page></regex>
+<regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
 <thumbnail>https://media.fstatic.com/LJ3zPWAKNRAY9xl_PZz_kLzryj0=/fit-in/290x478/smart/media/movies/covers/2018/08/s1_4zp0v3s.jpg</thumbnail>
 </item>
 <item>
 <title>1 EP 21</title>
-<link>$doregex[vida]LRGDSEPLDST01EP20.mp4?attachment=true</link>
+<link>$doregex[vida]LRGDSEPLDST01EP20.mp4|Referer=$doregex[vidar]</link>
 <regex><name>vida</name><expres>rc3"(.*?).mp4"</expres><page>https://cutt.ly/RCLGP</page></regex>
+<regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
 <thumbnail>https://media.fstatic.com/LJ3zPWAKNRAY9xl_PZz_kLzryj0=/fit-in/290x478/smart/media/movies/covers/2018/08/s1_4zp0v3s.jpg</thumbnail>
 </item>
 <item>
 <title>1 EP 22</title>
-<link>$doregex[vida]LRGDSEPLDST01EP21.mp4?attachment=true</link>
+<link>$doregex[vida]LRGDSEPLDST01EP21.mp4|Referer=$doregex[vidar]</link>
 <regex><name>vida</name><expres>rc3"(.*?).mp4"</expres><page>https://cutt.ly/RCLGP</page></regex>
+<regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
 <thumbnail>https://media.fstatic.com/LJ3zPWAKNRAY9xl_PZz_kLzryj0=/fit-in/290x478/smart/media/movies/covers/2018/08/s1_4zp0v3s.jpg</thumbnail>
 </item>
 <item>
 <title>1 EP 23</title>
-<link>$doregex[vida]LRGDSEPLDST01EP23.mp4?attachment=true</link>
+<link>$doregex[vida]LRGDSEPLDST01EP23.mp4|Referer=$doregex[vidar]</link>
 <regex><name>vida</name><expres>rc3"(.*?).mp4"</expres><page>https://cutt.ly/RCLGP</page></regex>
+<regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
 <thumbnail>https://media.fstatic.com/LJ3zPWAKNRAY9xl_PZz_kLzryj0=/fit-in/290x478/smart/media/movies/covers/2018/08/s1_4zp0v3s.jpg</thumbnail>
 </item>
 <item>
 <title>1 EP 24</title>
-<link>$doregex[vida]LRGDSEPLDST01EP24.mp4?attachment=true</link>
+<link>$doregex[vida]LRGDSEPLDST01EP24.mp4|Referer=$doregex[vidar]</link>
 <regex><name>vida</name><expres>rc3"(.*?).mp4"</expres><page>https://cutt.ly/RCLGP</page></regex>
+<regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
 <thumbnail>https://media.fstatic.com/LJ3zPWAKNRAY9xl_PZz_kLzryj0=/fit-in/290x478/smart/media/movies/covers/2018/08/s1_4zp0v3s.jpg</thumbnail>
 </item>
 <item>
 <title>1 EP 25</title>
-<link>$doregex[vida]LRGDSEPLDST01EP25.mp4?attachment=true</link>
+<link>$doregex[vida]LRGDSEPLDST01EP25.mp4|Referer=$doregex[vidar]</link>
 <regex><name>vida</name><expres>rc3"(.*?).mp4"</expres><page>https://cutt.ly/RCLGP</page></regex>
+<regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
 <thumbnail>https://media.fstatic.com/LJ3zPWAKNRAY9xl_PZz_kLzryj0=/fit-in/290x478/smart/media/movies/covers/2018/08/s1_4zp0v3s.jpg</thumbnail>
 </item>
 <item>
 <title>1 EP 26</title>
-<link>$doregex[vida]LRGDSEPLDST01EP26.mp4?attachment=true</link>
+<link>$doregex[vida]LRGDSEPLDST01EP26.mp4|Referer=$doregex[vidar]</link>
 <regex><name>vida</name><expres>rc3"(.*?).mp4"</expres><page>https://cutt.ly/RCLGP</page></regex>
+<regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
 <thumbnail>https://media.fstatic.com/LJ3zPWAKNRAY9xl_PZz_kLzryj0=/fit-in/290x478/smart/media/movies/covers/2018/08/s1_4zp0v3s.jpg</thumbnail>
 </item>
 <item>
 <title>1 EP 27</title>
-<link>$doregex[vida]LRGDSEPLDST01EP27.mp4?attachment=true</link>
+<link>$doregex[vida]LRGDSEPLDST01EP27.mp4|Referer=$doregex[vidar]</link>
 <regex><name>vida</name><expres>rc3"(.*?).mp4"</expres><page>https://cutt.ly/RCLGP</page></regex>
+<regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
 <thumbnail>https://media.fstatic.com/LJ3zPWAKNRAY9xl_PZz_kLzryj0=/fit-in/290x478/smart/media/movies/covers/2018/08/s1_4zp0v3s.jpg</thumbnail>
 </item>
 <item>
 <title>1 EP 28</title>
-<link>$doregex[vida]LRGDSEPLDST01EP28.mp4?attachment=true</link>
+<link>$doregex[vida]LRGDSEPLDST01EP28.mp4|Referer=$doregex[vidar]</link>
 <regex><name>vida</name><expres>rc3"(.*?).mp4"</expres><page>https://cutt.ly/RCLGP</page></regex>
+<regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
 <thumbnail>https://media.fstatic.com/LJ3zPWAKNRAY9xl_PZz_kLzryj0=/fit-in/290x478/smart/media/movies/covers/2018/08/s1_4zp0v3s.jpg</thumbnail>
 </item>
