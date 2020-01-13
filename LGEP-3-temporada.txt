@@ -1,54 +1,63 @@
 <item>
 <title>3 EP 01</title>
-<link>$doregex[vida]LRGDSEPLDST03EP01.mp4?attachment=true</link>
+<link>$doregex[vida]LRGDSEPLDST03EP01.mp4|Referer=$doregex[vidar]</link>
 <regex><name>vida</name><expres>rc3"(.*?).mp4"</expres><page>https://cutt.ly/RCLGP</page></regex>
+<regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/RCSeries</page></regex>
 <thumbnail>https://media.fstatic.com/MxbgkW4KFQMrueCKSSHGSeS2ZZs=/fit-in/290x478/smart/media/movies/covers/2018/08/33_fbWPNYQ.jpg</thumbnail>
 </item>
 <item>
 <title>3 EP 02</title>
-<link>$doregex[vida]LRGDSEPLDST03EP02.mp4?attachment=true</link>
+<link>$doregex[vida]LRGDSEPLDST03EP02.mp4|Referer=$doregex[vidar]</link>
 <regex><name>vida</name><expres>rc3"(.*?).mp4"</expres><page>https://cutt.ly/RCLGP</page></regex>
+<regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/RCSeries</page></regex>
 <thumbnail>https://media.fstatic.com/MxbgkW4KFQMrueCKSSHGSeS2ZZs=/fit-in/290x478/smart/media/movies/covers/2018/08/33_fbWPNYQ.jpg</thumbnail>
 </item>
 <item>
 <title>3 EP 03</title>
-<link>$doregex[vida]LRGDSEPLDST03EP03.mp4?attachment=true</link>
+<link>$doregex[vida]LRGDSEPLDST03EP03.mp4|Referer=$doregex[vidar]</link>
 <regex><name>vida</name><expres>rc3"(.*?).mp4"</expres><page>https://cutt.ly/RCLGP</page></regex>
+<regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/RCSeries</page></regex>
 <thumbnail>https://media.fstatic.com/MxbgkW4KFQMrueCKSSHGSeS2ZZs=/fit-in/290x478/smart/media/movies/covers/2018/08/33_fbWPNYQ.jpg</thumbnail>
 </item>
 <item>
 <title>3 EP 04</title>
-<link>$doregex[vida]LRGDSEPLDST03EP04.mp4?attachment=true</link>
+<link>$doregex[vida]LRGDSEPLDST03EP04.mp4|Referer=$doregex[vidar]</link>
 <regex><name>vida</name><expres>rc3"(.*?).mp4"</expres><page>https://cutt.ly/RCLGP</page></regex>
+<regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/RCSeries</page></regex>
 <thumbnail>https://media.fstatic.com/MxbgkW4KFQMrueCKSSHGSeS2ZZs=/fit-in/290x478/smart/media/movies/covers/2018/08/33_fbWPNYQ.jpg</thumbnail>
 </item>
 <item>
 <title>3 EP 05</title>
-<link>$doregex[vida]LRGDSEPLDST03EP05.mp4?attachment=true</link>
+<link>$doregex[vida]LRGDSEPLDST03EP05.mp4|Referer=$doregex[vidar]</link>
 <regex><name>vida</name><expres>rc3"(.*?).mp4"</expres><page>https://cutt.ly/RCLGP</page></regex>
+<regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/RCSeries</page></regex>
 <thumbnail>https://media.fstatic.com/MxbgkW4KFQMrueCKSSHGSeS2ZZs=/fit-in/290x478/smart/media/movies/covers/2018/08/33_fbWPNYQ.jpg</thumbnail>
 </item>
 <item>
 <title>3 EP 06</title>
-<link>$doregex[vida]LRGDSEPLDST03EP06.mp4?attachment=true</link>
+<link>$doregex[vida]LRGDSEPLDST03EP06.mp4|Referer=$doregex[vidar]</link>
 <regex><name>vida</name><expres>rc3"(.*?).mp4"</expres><page>https://cutt.ly/RCLGP</page></regex>
+<regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/RCSeries</page></regex>
 <thumbnail>https://media.fstatic.com/MxbgkW4KFQMrueCKSSHGSeS2ZZs=/fit-in/290x478/smart/media/movies/covers/2018/08/33_fbWPNYQ.jpg</thumbnail>
 </item>
 <item>
 <title>3 EP 07</title>
-<link>$doregex[vida]LRGDSEPLDST03EP07.mp4?attachment=true</link>
+<link>$doregex[vida]LRGDSEPLDST03EP07.mp4|Referer=$doregex[vidar]</link>
 <regex><name>vida</name><expres>rc3"(.*?).mp4"</expres><page>https://cutt.ly/RCLGP</page></regex>
+<regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/RCSeries</page></regex>
 <thumbnail>https://media.fstatic.com/MxbgkW4KFQMrueCKSSHGSeS2ZZs=/fit-in/290x478/smart/media/movies/covers/2018/08/33_fbWPNYQ.jpg</thumbnail>
 </item>
 <item>
 <title>3 EP 08</title>
-<link>$doregex[vida]LRGDSEPLDST03EP08.mp4?attachment=true</link>
+<link>$doregex[vida]LRGDSEPLDST03EP08.mp4|Referer=$doregex[vidar]</link>
 <regex><name>vida</name><expres>rc3"(.*?).mp4"</expres><page>https://cutt.ly/RCLGP</page></regex>
+<regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/RCSeries</page></regex>
 <thumbnail>https://media.fstatic.com/MxbgkW4KFQMrueCKSSHGSeS2ZZs=/fit-in/290x478/smart/media/movies/covers/2018/08/33_fbWPNYQ.jpg</thumbnail>
 </item>
 <item>
 <title>3 EP 09</title>
-<link>$doregex[vida]LRGDSEPLDST03EP09.mp4?attachment=true</link>
+<link>$doregex[vida]LRGDSEPLDST03EP09.mp4|Referer=$doregex[vidar]</link>
 <regex><name>vida</name><expres>rc3"(.*?).mp4"</expres><page>https://cutt.ly/RCLGP</page></regex>
+<regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/RCSeries</page></regex>
 <thumbnail>https://media.fstatic.com/MxbgkW4KFQMrueCKSSHGSeS2ZZs=/fit-in/290x478/smart/media/movies/covers/2018/08/33_fbWPNYQ.jpg</thumbnail>
 </item>
