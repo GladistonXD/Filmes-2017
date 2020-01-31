@@ -7,7 +7,7 @@
 <title>[B][COLOR white]BAND[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[vida]band.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/band.png</thumbnail>
 </item>
 
@@ -15,7 +15,7 @@
 <title>[B][COLOR white]GLOBO NORDESTE[/COLOR] [COLOR lime]HD+[/COLOR][/B]</title>
 <link>$doregex[vida]bobonordeste.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/globo.png</thumbnail>
 </item>
 
@@ -23,7 +23,7 @@
 <title>[B][COLOR white]GLOBO RJ[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[vida]boborj.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/globo_rj.png</thumbnail>
 </item>
 
@@ -31,7 +31,7 @@
 <title>[B][COLOR white]GLOBO SP[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[vida]bobosp.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/globo_sp.png</thumbnail>
 </item>
 
@@ -39,7 +39,7 @@
 <title>[B][COLOR white]SBT[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[vida]sbt.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/sbt.png</thumbnail>
 </item>
 
@@ -47,7 +47,7 @@
 <title>[B][COLOR white]RECORD[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[vida]recordsp.m3u8|Referer=$doregex[vidar]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/record.png</thumbnail>
 </item>
 
@@ -55,7 +55,7 @@
 <title>[B][COLOR white]ANIMAL PLANET[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[vida]animalplanet.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/animal_planet.png</thumbnail>
 </item>
 
@@ -63,7 +63,7 @@
 <title>[B][COLOR white]DISCOVERY CHANNEL[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[vida]discovery.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/discovery_channel.png</thumbnail>
 </item>
 
@@ -71,7 +71,7 @@
 <title>[B][COLOR white]DISCOVERY CIVILIZATION[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[vida]discoverycivilization.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/discovery_civilization.png</thumbnail>
 </item>
 
@@ -79,7 +79,7 @@
 <title>[B][COLOR white]DISCOVERY SCIENCE[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[vida]discoverysience.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/discovery_science.png</thumbnail>
 </item>
 
@@ -87,7 +87,7 @@
 <title>[B][COLOR white]DISCOVERY THEATER[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[vida]discoverytheater.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/discovery_theater.png</thumbnail>
 </item>
 
@@ -95,7 +95,7 @@
 <title>[B][COLOR white]HISTORY[/COLOR] [COLOR lime]HD+[/COLOR][/B]</title>
 <link>$doregex[vida]history.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/history.png</thumbnail>
 </item>
 
@@ -103,7 +103,7 @@
 <title>[B][COLOR white]H2[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[vida]history2.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/h2.png</thumbnail>
 </item>
 
@@ -111,7 +111,7 @@
 <title>[B][COLOR white]NAT GEO[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[vida]natgeo.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/natgeo.png</thumbnail>
 </item>
 
@@ -119,7 +119,7 @@
 <title>[B][COLOR white]NAT GEO WILD[/COLOR] [COLOR red]HD+[/COLOR][/B]</title>
 <link>$doregex[vida]natgeowild.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/natgeo_wild.png</thumbnail>
 </item>
 
@@ -127,7 +127,7 @@
 <title>[B][COLOR white]BAND SPORTS[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[vida]bandsports.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/bandsports.png</thumbnail>
 </item>
 
@@ -135,7 +135,7 @@
 <title>[B][COLOR white]COMBATE[/COLOR] [COLOR red]HD+[/COLOR][/B]</title>
 <link>$doregex[vida]combate.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/combate.png</thumbnail>
 </item>
 
@@ -143,7 +143,7 @@
 <title>[B][COLOR white]DISCOVERY TURBO[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[vida]discoveryturbo.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/discovery_turbo.png</thumbnail>
 </item>
 
@@ -151,7 +151,7 @@
 <title>[B][COLOR white]ESPN[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[vida]espn.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/espn.png</thumbnail>
 </item>
 
@@ -159,7 +159,7 @@
 <title>[B][COLOR white]ESPN 2[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[vida]espn2.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/espn.png</thumbnail>
 </item>
 
@@ -167,7 +167,7 @@
 <title>[B][COLOR white]ESPN BRASIL[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[vida]espnbrasil.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/espn_brasil.png</thumbnail>
 </item>
 
@@ -175,7 +175,7 @@
 <title>[B][COLOR white]FOX SPORTS[/COLOR] [COLOR red]HD+[/COLOR][/B]</title>
 <link>$doregex[vida]foxsports1.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/foxsports.png</thumbnail>
 </item>
 
@@ -183,7 +183,7 @@
 <title>[B][COLOR white]FOX SPORTS 2[/COLOR] [COLOR red]HD+[/COLOR][/B]</title>
 <link>$doregex[vida]foxsports2.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/foxsports2.png</thumbnail>
 </item>
 
@@ -191,7 +191,7 @@
 <title>[B][COLOR white]PREMIERE CLUBE[/COLOR] [COLOR lime]HD+[/COLOR][/B]</title>
 <link>$doregex[vida]premiereclubes.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/premiere.png</thumbnail>
 </item>
 
@@ -199,7 +199,7 @@
 <title>[B][COLOR white]PREMIERE 2[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[vida]premiere2.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/premiere.png</thumbnail>
 </item>
 
@@ -207,7 +207,7 @@
 <title>[B][COLOR white]PREMIERE 3[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[vida]premiere3.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/premiere.png</thumbnail>
 </item>
 
@@ -215,7 +215,7 @@
 <title>[B][COLOR white]PREMIERE 4[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[vida]premiere4.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/premiere.png</thumbnail>
 </item>
 
@@ -223,7 +223,7 @@
 <title>[B][COLOR white]PREMIERE 5[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[vida]premiere5.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/premiere.png</thumbnail>
 </item>
 
@@ -231,7 +231,7 @@
 <title>[B][COLOR white]PREMIERE 6[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[vida]premiere6.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/premiere.png</thumbnail>
 </item>
 
@@ -239,7 +239,7 @@
 <title>[B][COLOR white]PREMIERE 7[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[vida]premiere7.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/premiere.png</thumbnail>
 </item>
 
@@ -247,7 +247,7 @@
 <title>[B][COLOR white]PREMIERE 8[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[vida]premiere8.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/premiere.png</thumbnail>
 </item>
 
@@ -255,7 +255,7 @@
 <title>[B][COLOR white]PREMIERE 9[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[vida]premiere9.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/premiere.png</thumbnail>
 </item>
 
@@ -263,7 +263,7 @@
 <title>[B][COLOR white]SPORTV[/COLOR] [COLOR red]HD+[/COLOR][/B]</title>
 <link>$doregex[vida]sportv1.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/sportv.png</thumbnail>
 </item>
 
@@ -271,7 +271,7 @@
 <title>[B][COLOR white]SPORTV 2[/COLOR] [COLOR red]HD+[/COLOR][/B]</title>
 <link>$doregex[vida]sportv2.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/sportv.png</thumbnail>
 </item>
 
@@ -279,7 +279,7 @@
 <title>[B][COLOR white]SPORTV 3[/COLOR] [COLOR red]HD+[/COLOR][/B]</title>
 <link>$doregex[vida]sportv3.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/sportv.png</thumbnail>
 </item>
 
@@ -287,7 +287,7 @@
 <title>[B][COLOR white]A&E[/COLOR] [COLOR red]HD+[/COLOR][/B]</title>
 <link>$doregex[vida]aie.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/ae.png</thumbnail>
 </item>
 
@@ -295,7 +295,7 @@
 <title>[B][COLOR white]AMC[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[vida]amc.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/amc.png</thumbnail>
 </item>
 
@@ -303,7 +303,7 @@
 <title>[B][COLOR white]AXN[/COLOR] [COLOR red]HD+[/COLOR][/B]</title>
 <link>$doregex[vida]axn.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/axn.png</thumbnail>
 </item>
 
@@ -311,7 +311,7 @@
 <title>[B][COLOR white]CINEMAX[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[vida]cinemax.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/cinemax.png</thumbnail>
 </item>
 
@@ -319,7 +319,7 @@
 <title>[B][COLOR white]FOX[/COLOR] [COLOR lime]HD+[/COLOR][/B]</title>
 <link>$doregex[vida]fox.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/fox.png</thumbnail>
 </item>
 
@@ -327,7 +327,7 @@
 <title>[B][COLOR white]FOX PREMIUM 1[/COLOR] [COLOR lime]HD+[/COLOR][/B]</title>
 <link>$doregex[vida]foxpremium1.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/fox_premium.png</thumbnail>
 </item>
 
@@ -335,7 +335,7 @@
 <title>[B][COLOR white]FOX PREMIUM 2[/COLOR] [COLOR lime]HD+[/COLOR][/B]</title>
 <link>$doregex[vida]foxpremium2.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/fox_premium.png</thumbnail>
 </item>
 
@@ -343,7 +343,7 @@
 <title>[B][COLOR white]FX[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[vida]fx.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/fx.png</thumbnail>
 </item>
 
@@ -351,7 +351,7 @@
 <title>[B][COLOR white]HBO[/COLOR] [COLOR red]HD+[/COLOR][/B]</title>
 <link>$doregex[vida]hbo.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/hbo.png</thumbnail>
 </item>
 
@@ -359,7 +359,7 @@
 <title>[B][COLOR white]HBO 2[/COLOR] [COLOR red]HD+[/COLOR][/B]</title>
 <link>$doregex[vida]hbo2.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/hbo2.png</thumbnail>
 </item>
 
@@ -367,7 +367,7 @@
 <title>[B][COLOR white]HBO FAMILY[/COLOR] [COLOR red]HD+[/COLOR][/B]</title>
 <link>$doregex[vida]hbofamily.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/hbo_family.png</thumbnail>
 </item>
 
@@ -375,7 +375,7 @@
 <title>[B][COLOR white]HBO PLUS[/COLOR] [COLOR red]HD+[/COLOR][/B]</title>
 <link>$doregex[vida]hboplus.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/hbo_plus.png</thumbnail>
 </item>
 
@@ -383,7 +383,7 @@
 <title>[B][COLOR white]HBO SIGNATURE[/COLOR] [COLOR red]HD+[/COLOR][/B]</title>
 <link>$doregex[vida]hbosignature.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/hbo_signature.png</thumbnail>
 </item>
 
@@ -391,7 +391,7 @@
 <title>[B][COLOR white]MAX[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[vida]max.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/max.png</thumbnail>
 </item>
 
@@ -399,7 +399,7 @@
 <title>[B][COLOR white]MAX PRIME[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[vida]maxprime.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/max_prime.png</thumbnail>
 </item>
 
@@ -407,7 +407,7 @@
 <title>[B][COLOR white]MAX UP[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[vida]maxup.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/max_up.png</thumbnail>
 </item>
 
@@ -415,7 +415,7 @@
 <title>[B][COLOR white]MEGAPIX[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[vida]megapix.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/megapix.png</thumbnail>
 </item>
 
@@ -423,7 +423,7 @@
 <title>[B][COLOR white]PARAMOUNT[/COLOR] [COLOR lime]HD+[/COLOR][/B]</title>
 <link>$doregex[vida]paramount.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/paramount.png</thumbnail>
 </item>
 
@@ -431,7 +431,7 @@
 <title>[B][COLOR white]SONY[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[vida]sony.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/sony.png</thumbnail>
 </item>
 
@@ -439,7 +439,7 @@
 <title>[B][COLOR white]SPACE[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[vida]space.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/space.png</thumbnail>
 </item>
 
@@ -447,7 +447,7 @@
 <title>[B][COLOR white]STUDIO UNIVERSAL[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[vida]studiouniversal.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/studio_universal.png</thumbnail>
 </item>
 
@@ -455,7 +455,7 @@
 <title>[B][COLOR white]SYFY[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[vida]syfy.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/syfy.png</thumbnail>
 </item>
 
@@ -463,7 +463,7 @@
 <title>[B][COLOR white]TCM[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[vida]tcm.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/tcm.png</thumbnail>
 </item>
 
@@ -471,7 +471,7 @@
 <title>[B][COLOR white]TELECINE ACTION[/COLOR] [COLOR red]HD+[/COLOR][/B]</title>
 <link>$doregex[vida]telecineaction.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/tc_action.png</thumbnail>
 </item>
 
@@ -479,7 +479,7 @@
 <title>[B][COLOR white]TELECINE CULT[/COLOR] [COLOR red]HD+[/COLOR][/B]</title>
 <link>$doregex[vida]telecinecult.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/tc_cult.png</thumbnail>
 </item>
 
@@ -487,7 +487,7 @@
 <title>[B][COLOR white]TELECINE FUN[/COLOR] [COLOR red]HD+[/COLOR][/B]</title>
 <link>$doregex[vida]telecinefun.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/tc_fun.png</thumbnail>
 </item>
 
@@ -495,7 +495,7 @@
 <title>[B][COLOR white]TELECINE PIPOCA[/COLOR] [COLOR red]HD+[/COLOR][/B]</title>
 <link>$doregex[vida]telecinepipoca.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/tc_pipoca.png</thumbnail>
 </item>
 
@@ -503,7 +503,7 @@
 <title>[B][COLOR white]TELECINE PREMIUM[/COLOR] [COLOR lime]HD+[/COLOR][/B]</title>
 <link>$doregex[vida]telecinepremium.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/tc_premium.png</thumbnail>
 </item>
 
@@ -511,7 +511,7 @@
 <title>[B][COLOR white]TELECINE TOUCH[/COLOR] [COLOR red]HD+[/COLOR][/B]</title>
 <link>$doregex[vida]telecinetouch.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/tc_touch.png</thumbnail>
 </item>
 
@@ -519,7 +519,7 @@
 <title>[B][COLOR white]TNT[/COLOR] [COLOR red]HD+[/COLOR][/B]</title>
 <link>$doregex[vida]tnt.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/tnt.png</thumbnail>
 </item>
 
@@ -527,7 +527,7 @@
 <title>[B][COLOR white]TNT SERIES[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[vida]tntseries.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/tnt_series.png</thumbnail>
 </item>
 
@@ -535,7 +535,7 @@
 <title>[B][COLOR white]UNIVERSAL CHANNEL[/COLOR] [COLOR lime]HD+[/COLOR][/B]</title>
 <link>$doregex[vida]universal.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/universal_channel.png</thumbnail>
 </item>
 
@@ -543,7 +543,7 @@
 <title>[B][COLOR white]WARNER[/COLOR] [COLOR lime]HD+[/COLOR][/B]</title>
 <link>$doregex[vida]warner.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/warner_channel.png</thumbnail>
 </item>
 
@@ -551,7 +551,7 @@
 <title>[B][COLOR white]BOOMERANG[/COLOR] [COLOR lime]HD+[/COLOR][/B]</title>
 <link>$doregex[vida]boomerang.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/boomerang.png</thumbnail>
 </item>
 
@@ -559,7 +559,7 @@
 <title>[B][COLOR white]CARTOON NETWORK[/COLOR] [COLOR lime]HD+[/COLOR][/B]</title>
 <link>$doregex[vida]cartoon.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/cartoon_network.png</thumbnail>
 </item>
 
@@ -567,7 +567,7 @@
 <title>[B][COLOR white]DISCOVERY KIDS[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[vida]discoverykids.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/discovery_kids.png</thumbnail>
 </item>
 
@@ -575,7 +575,7 @@
 <title>[B][COLOR white]DISNEY CHANNEL[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[vida]disney.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/disney_channel.png</thumbnail>
 </item>
 
@@ -583,7 +583,7 @@
 <title>[B][COLOR white]DISNEY JUNIOR[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[vida]disneyjunior.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/disney_junior.png</thumbnail>
 </item>
 
@@ -591,7 +591,7 @@
 <title>[B][COLOR white]DISNEY XD[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[vida]disneyxd.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/disney_xd.png</thumbnail>
 </item>
 
@@ -599,7 +599,7 @@
 <title>[B][COLOR white]GLOOB[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[vida]gloob.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/gloob.png</thumbnail>
 </item>
 
@@ -607,7 +607,7 @@
 <title>[B][COLOR white]NICKELODEON[/COLOR] [COLOR red]HD+[/COLOR][/B]</title>
 <link>$doregex[vida]nick.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/nick.png</thumbnail>
 </item>
 
@@ -615,7 +615,7 @@
 <title>[B][COLOR white]NICK JR[/COLOR] [COLOR lime]HD+[/COLOR][/B]</title>
 <link>$doregex[vida]nickjr.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/nick_jr.png</thumbnail>
 </item>
 
@@ -623,7 +623,7 @@
 <title>[B][COLOR white]TOONCAST[/COLOR] [COLOR lime]HD+[/COLOR][/B]</title>
 <link>$doregex[vida]tooncast.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/tooncast.png</thumbnail>
 </item>
 
@@ -631,7 +631,7 @@
 <title>[B][COLOR white]ARTE 1[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[vida]arte1.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/arte1.png</thumbnail>
 </item>
 
@@ -639,7 +639,7 @@
 <title>[B][COLOR white]BIS[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[vida]bis.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/bis.png</thumbnail>
 </item>
 
@@ -647,7 +647,7 @@
 <title>[B][COLOR white]CANAL OFF[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[vida]off.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/off.png</thumbnail>
 </item>
 
@@ -655,7 +655,7 @@
 <title>[B][COLOR white]COMEDY CENTRAL[/COLOR] [COLOR red]HD+[/COLOR][/B]</title>
 <link>$doregex[vida]comedycentral.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/comedy_central.png</thumbnail>
 </item>
 
@@ -663,7 +663,7 @@
 <title>[B][COLOR white]CURTA![/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[vida]curta.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/curta!.jpg</thumbnail>
 </item>
 
@@ -671,7 +671,7 @@
 <title>[B][COLOR white]DISCOVERY HOME & HEALTH[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[vida]discoveryhomeihealth.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/discovery_home_health.png</thumbnail>
 </item>
 
@@ -679,7 +679,7 @@
 <title>[B][COLOR white]DISCOVERY WORLD[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[vida]discoveryworld.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/discovery_world.png</thumbnail>
 </item>
 
@@ -687,7 +687,7 @@
 <title>[B][COLOR white]FISH TV[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[vida]fishtv.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/fishtv.png</thumbnail>
 </item>
 
@@ -695,7 +695,7 @@
 <title>[B][COLOR white]FOOD NETWORK[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[vida]foodnetwork.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/food_network.png</thumbnail>
 </item>
 
@@ -703,7 +703,7 @@
 <title>[B][COLOR white]FOX LIFE[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[vida]foxlife.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/fox_life.png</thumbnail>
 </item>
 
@@ -711,7 +711,7 @@
 <title>[B][COLOR white]GNT[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[vida]gnt.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/gnt.png</thumbnail>
 </item>
 
@@ -719,7 +719,7 @@
 <title>[B][COLOR white]ID[/COLOR] [COLOR red]HD+[/COLOR][/B]</title>
 <link>$doregex[vida]investigacaodiscovery.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/discovery_investigation.png</thumbnail>
 </item>
 
@@ -727,7 +727,7 @@
 <title>[B][COLOR white]LIFETIME[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[vida]lifetime.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/lifetime.png</thumbnail>
 </item>
 
@@ -735,7 +735,7 @@
 <title>[B][COLOR white]MAIS GLOBOSAT[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[vida]maisbobosat.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/mais_globosat.png</thumbnail>
 </item>
 
@@ -743,7 +743,7 @@
 <title>[B][COLOR white]MTV[/COLOR] [COLOR red]HD+[/COLOR][/B]</title>
 <link>$doregex[vida]mtv.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/mtv.png</thumbnail>
 </item>
 
@@ -751,7 +751,7 @@
 <title>[B][COLOR white]MULTISHOW[/COLOR] [COLOR red]HD+[/COLOR][/B]</title>
 <link>$doregex[vida]multishow.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/multishow.png</thumbnail>
 </item>
 
@@ -759,7 +759,7 @@
 <title>[B][COLOR white]TLC[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[vida]tlc.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/tlc.png</thumbnail>
 </item>
 
@@ -767,7 +767,7 @@
 <title>[B][COLOR white]VIVA[/COLOR] [COLOR lime]HD+[/COLOR][/B]</title>
 <link>$doregex[vida]viva.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/viva.png</thumbnail>
 </item>
 
@@ -775,7 +775,7 @@
 <title>[B][COLOR white]BAND NEWS[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>$doregex[vida]bandnews.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/band_news.png</thumbnail>
 </item>
 
@@ -783,7 +783,7 @@
 <title>[B][COLOR white]GLOBO NEWS[/COLOR] [COLOR red]HD+[/COLOR][/B]</title>
 <link>$doregex[vida]globonews.m3u8|Referer=$doregex[vidar]]</link>
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>http://cutt.ly/gladistonserverTF</page></regex>
-<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https:/
+<regex><name>vida</name><expres>(.*?).m3u8</expres><page>https://canaisgratis.info/player3/canais-bk.php</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/globonews.png</thumbnail>
 </item>
 
