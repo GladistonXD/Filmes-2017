@@ -1,6 +1,6 @@
 <item>
 <title>3 EP 01</title>
-<link>https://$doregex[vida]</link>
+<link>https://$doregex[vida]|verifypeer=false</link>
 <regex><name>vida</name><expres>baixar="https://((.*?)mp4.{1,60})</expres><page>https://redecanais.bz/player3/server3http-bk.php?vid=LRGDSEPLDST03EP01</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://media.fstatic.com/MxbgkW4KFQMrueCKSSHGSeS2ZZs=/fit-in/290x478/smart/media/movies/covers/2018/08/33_fbWPNYQ.jpg</thumbnail>
 </item>
