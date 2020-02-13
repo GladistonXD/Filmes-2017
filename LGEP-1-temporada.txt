@@ -1,28 +1,28 @@
 <item>
 <title>1 EP 01</title>
 <link>$doregex[vida]|Referer=$doregex[vidar]</link>
-<regex><name>vida</name><expres>[^"|\']+\.mp4.{1,60}</expres><page>https://redecanais.bz/player3/server3http-bk.php?vid=LRGDSEPLDST01EP01</page><referer>https://bemestarglobal.com.br/</referer></regex> 
+<regex><name>vida</name><expres>baixar="((.*?)mp4.{1,60})</expres><page>https://redecanais.bz/player3/server3http-bk.php?vid=LRGDSEPLDST01EP01</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/RCSeries</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://media.fstatic.com/LJ3zPWAKNRAY9xl_PZz_kLzryj0=/fit-in/290x478/smart/media/movies/covers/2018/08/s1_4zp0v3s.jpg</thumbnail>
 </item>
 <item>
 <title>1 EP 02</title>
 <link>$doregex[vida]|Referer=$doregex[vidar]</link>
-<regex><name>vida</name><expres>[^"|\']+\.mp4.{1,60}</expres><page>https://redecanais.bz/player3/server3http-bk.php?vid=LRGDSEPLDST01EP02</page><referer>https://bemestarglobal.com.br/</referer></regex> 
+<regex><name>vida</name><expres>baixar="((.*?)mp4.{1,60})</expres><page>https://redecanais.bz/player3/server3http-bk.php?vid=LRGDSEPLDST01EP02</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/RCSeries</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://media.fstatic.com/LJ3zPWAKNRAY9xl_PZz_kLzryj0=/fit-in/290x478/smart/media/movies/covers/2018/08/s1_4zp0v3s.jpg</thumbnail>
 </item>
 <item>
 <title>1 EP 03</title>
 <link>$doregex[vida]|Referer=$doregex[vidar]</link>
-<regex><name>vida</name><expres>[^"|\']+\.mp4.{1,60}</expres><page>https://redecanais.bz/player3/server3http-bk.php?vid=LRGDSEPLDST01EP03</page><referer>https://bemestarglobal.com.br/</referer></regex> 
+<regex><name>vida</name><expres>baixar="((.*?)mp4.{1,60})</expres><page>https://redecanais.bz/player3/server3http-bk.php?vid=LRGDSEPLDST01EP03</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/RCSeries</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://media.fstatic.com/LJ3zPWAKNRAY9xl_PZz_kLzryj0=/fit-in/290x478/smart/media/movies/covers/2018/08/s1_4zp0v3s.jpg</thumbnail>
 </item>
 <item>
 <title>1 EP 04</title>
 <link>$doregex[vida]|Referer=$doregex[vidar]</link>
-<regex><name>vida</name><expres>[^"|\']+\.mp4.{1,60}</expres><page>https://redecanais.bz/player3/server3http-bk.php?vid=LRGDSEPLDST01EP04</page><referer>https://bemestarglobal.com.br/</referer></regex> 
+<regex><name>vida</name><expres>baixar="((.*?)mp4.{1,60})</expres><page>https://redecanais.bz/player3/server3http-bk.php?vid=LRGDSEPLDST01EP04</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/RCSeries</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://media.fstatic.com/LJ3zPWAKNRAY9xl_PZz_kLzryj0=/fit-in/290x478/smart/media/movies/covers/2018/08/s1_4zp0v3s.jpg</thumbnail>
 </item>
