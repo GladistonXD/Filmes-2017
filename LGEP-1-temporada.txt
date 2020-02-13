@@ -2,195 +2,167 @@
 <title>1 EP 01</title>
 <link>http://$doregex[vida]</link>
 <regex><name>vida</name><expres>baixar="https://((.*?)mp4.{1,60})</expres><page>https://redecanais.bz/player3/server3http-bk.php?vid=LRGDSEPLDST01EP01</page><referer>https://bemestarglobal.com.br/</referer></regex> 
-<regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/RCSeries</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://media.fstatic.com/LJ3zPWAKNRAY9xl_PZz_kLzryj0=/fit-in/290x478/smart/media/movies/covers/2018/08/s1_4zp0v3s.jpg</thumbnail>
 </item>
 <item>
 <title>1 EP 02</title>
 <link>http://$doregex[vida]</link>
 <regex><name>vida</name><expres>baixar="https://((.*?)mp4.{1,60})</expres><page>https://redecanais.bz/player3/server3http-bk.php?vid=LRGDSEPLDST01EP02</page><referer>https://bemestarglobal.com.br/</referer></regex> 
-<regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/RCSeries</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://media.fstatic.com/LJ3zPWAKNRAY9xl_PZz_kLzryj0=/fit-in/290x478/smart/media/movies/covers/2018/08/s1_4zp0v3s.jpg</thumbnail>
 </item>
 <item>
 <title>1 EP 03</title>
 <link>http://$doregex[vida]</link>
 <regex><name>vida</name><expres>baixar="https://((.*?)mp4.{1,60})</expres><page>https://redecanais.bz/player3/server3http-bk.php?vid=LRGDSEPLDST01EP03</page><referer>https://bemestarglobal.com.br/</referer></regex> 
-<regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/RCSeries</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://media.fstatic.com/LJ3zPWAKNRAY9xl_PZz_kLzryj0=/fit-in/290x478/smart/media/movies/covers/2018/08/s1_4zp0v3s.jpg</thumbnail>
 </item>
 <item>
 <title>1 EP 04</title>
 <link>http://$doregex[vida]</link>
 <regex><name>vida</name><expres>baixar="https://((.*?)mp4.{1,60})</expres><page>https://redecanais.bz/player3/server3http-bk.php?vid=LRGDSEPLDST01EP04</page><referer>https://bemestarglobal.com.br/</referer></regex> 
-<regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/RCSeries</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://media.fstatic.com/LJ3zPWAKNRAY9xl_PZz_kLzryj0=/fit-in/290x478/smart/media/movies/covers/2018/08/s1_4zp0v3s.jpg</thumbnail>
 </item>
 <item>
 <title>1 EP 05</title>
 <link>http://$doregex[vida]</link>
 <regex><name>vida</name><expres>baixar="https://((.*?)mp4.{1,60})</expres><page>https://redecanais.bz/player3/server3http-bk.php?vid=LRGDSEPLDST01EP05</page><referer>https://bemestarglobal.com.br/</referer></regex> 
-<regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/RCSeries</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://media.fstatic.com/LJ3zPWAKNRAY9xl_PZz_kLzryj0=/fit-in/290x478/smart/media/movies/covers/2018/08/s1_4zp0v3s.jpg</thumbnail>
 </item>
 <item>
 <title>1 EP 06</title>
 <link>http://$doregex[vida]</link>
 <regex><name>vida</name><expres>baixar="https://((.*?)mp4.{1,60})</expres><page>https://redecanais.bz/player3/server3http-bk.php?vid=LRGDSEPLDST01EP06</page><referer>https://bemestarglobal.com.br/</referer></regex> 
-<regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/RCSeries</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://media.fstatic.com/LJ3zPWAKNRAY9xl_PZz_kLzryj0=/fit-in/290x478/smart/media/movies/covers/2018/08/s1_4zp0v3s.jpg</thumbnail>
 </item>
 <item>
 <title>1 EP 07</title>
 <link>http://$doregex[vida]</link>
 <regex><name>vida</name><expres>baixar="https://((.*?)mp4.{1,60})</expres><page>https://redecanais.bz/player3/server3http-bk.php?vid=LRGDSEPLDST01EP07.mp4</page><referer>https://bemestarglobal.com.br/</referer></regex> 
-<regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/RCSeries</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://media.fstatic.com/LJ3zPWAKNRAY9xl_PZz_kLzryj0=/fit-in/290x478/smart/media/movies/covers/2018/08/s1_4zp0v3s.jpg</thumbnail>
 </item>
 <item>
 <title>1 EP 08</title>
 <link>http://$doregex[vida]</link>
 <regex><name>vida</name><expres>baixar="https://((.*?)mp4.{1,60})</expres><page>https://redecanais.bz/player3/server3http-bk.php?vid=LRGDSEPLDST01EP08.mp4</page><referer>https://bemestarglobal.com.br/</referer></regex> 
-<regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/RCSeries</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://media.fstatic.com/LJ3zPWAKNRAY9xl_PZz_kLzryj0=/fit-in/290x478/smart/media/movies/covers/2018/08/s1_4zp0v3s.jpg</thumbnail>
 </item>
 <item>
 <title>1 EP 09</title>
 <link>http://$doregex[vida]</link>
 <regex><name>vida</name><expres>baixar="https://((.*?)mp4.{1,60})</expres><page>https://redecanais.bz/player3/server3http-bk.php?vid=LRGDSEPLDST01EP09.mp4</page><referer>https://bemestarglobal.com.br/</referer></regex> 
-<regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/RCSeries</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://media.fstatic.com/LJ3zPWAKNRAY9xl_PZz_kLzryj0=/fit-in/290x478/smart/media/movies/covers/2018/08/s1_4zp0v3s.jpg</thumbnail>
 </item>
 <item>
 <title>1 EP 10</title>
 <link>http://$doregex[vida]</link>
 <regex><name>vida</name><expres>baixar="https://((.*?)mp4.{1,60})</expres><page>https://redecanais.bz/player3/server3http-bk.php?vid=LRGDSEPLDST01EP10.mp4</page><referer>https://bemestarglobal.com.br/</referer></regex> 
-<regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/RCSeries</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://media.fstatic.com/LJ3zPWAKNRAY9xl_PZz_kLzryj0=/fit-in/290x478/smart/media/movies/covers/2018/08/s1_4zp0v3s.jpg</thumbnail>
 </item>
 <item>
 <title>1 EP 11</title>
 <link>http://$doregex[vida]</link>
 <regex><name>vida</name><expres>baixar="https://((.*?)mp4.{1,60})</expres><page>https://redecanais.bz/player3/server3http-bk.php?vid=LRGDSEPLDST01EP11.mp4</page><referer>https://bemestarglobal.com.br/</referer></regex> 
-<regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/RCSeries</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://media.fstatic.com/LJ3zPWAKNRAY9xl_PZz_kLzryj0=/fit-in/290x478/smart/media/movies/covers/2018/08/s1_4zp0v3s.jpg</thumbnail>
 </item>
 <item>
 <title>1 EP 12</title>
 <link>http://$doregex[vida]</link>
 <regex><name>vida</name><expres>baixar="https://((.*?)mp4.{1,60})</expres><page>https://redecanais.bz/player3/server3http-bk.php?vid=LRGDSEPLDST01EP12.mp4</page><referer>https://bemestarglobal.com.br/</referer></regex> 
-<regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/RCSeries</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://media.fstatic.com/LJ3zPWAKNRAY9xl_PZz_kLzryj0=/fit-in/290x478/smart/media/movies/covers/2018/08/s1_4zp0v3s.jpg</thumbnail>
 </item>
 <item>
 <title>1 EP 13</title>
 <link>http://$doregex[vida]</link>
 <regex><name>vida</name><expres>baixar="https://((.*?)mp4.{1,60})</expres><page>https://redecanais.bz/player3/server3http-bk.php?vid=LRGDSEPLDST01EP13.mp4</page><referer>https://bemestarglobal.com.br/</referer></regex> 
-<regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/RCSeries</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://media.fstatic.com/LJ3zPWAKNRAY9xl_PZz_kLzryj0=/fit-in/290x478/smart/media/movies/covers/2018/08/s1_4zp0v3s.jpg</thumbnail>
 </item>
 <item>
 <title>1 EP 14</title>
 <link>http://$doregex[vida]</link>
 <regex><name>vida</name><expres>baixar="https://((.*?)mp4.{1,60})</expres><page>https://redecanais.bz/player3/server3http-bk.php?vid=LRGDSEPLDST01EP14.mp4</page><referer>https://bemestarglobal.com.br/</referer></regex> 
-<regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/RCSeries</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://media.fstatic.com/LJ3zPWAKNRAY9xl_PZz_kLzryj0=/fit-in/290x478/smart/media/movies/covers/2018/08/s1_4zp0v3s.jpg</thumbnail>
 </item>
 <item>
 <title>1 EP 15</title>
 <link>http://$doregex[vida]</link>
 <regex><name>vida</name><expres>baixar="https://((.*?)mp4.{1,60})</expres><page>https://redecanais.bz/player3/server3http-bk.php?vid=LRGDSEPLDST01EP15.mp4</page><referer>https://bemestarglobal.com.br/</referer></regex> 
-<regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/RCSeries</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://media.fstatic.com/LJ3zPWAKNRAY9xl_PZz_kLzryj0=/fit-in/290x478/smart/media/movies/covers/2018/08/s1_4zp0v3s.jpg</thumbnail>
 </item>
 <item>
 <title>1 EP 16</title>
 <link>http://$doregex[vida]</link>
 <regex><name>vida</name><expres>baixar="https://((.*?)mp4.{1,60})</expres><page>https://redecanais.bz/player3/server3http-bk.php?vid=LRGDSEPLDST01EP16.mp4</page><referer>https://bemestarglobal.com.br/</referer></regex> 
-<regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/RCSeries</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://media.fstatic.com/LJ3zPWAKNRAY9xl_PZz_kLzryj0=/fit-in/290x478/smart/media/movies/covers/2018/08/s1_4zp0v3s.jpg</thumbnail>
 </item>
 <item>
 <title>1 EP 17</title>
 <link>http://$doregex[vida]</link>
 <regex><name>vida</name><expres>baixar="https://((.*?)mp4.{1,60})</expres><page>https://redecanais.bz/player3/server3http-bk.php?vid=LRGDSEPLDST01EP17.mp4</page><referer>https://bemestarglobal.com.br/</referer></regex> 
-<regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/RCSeries</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://media.fstatic.com/LJ3zPWAKNRAY9xl_PZz_kLzryj0=/fit-in/290x478/smart/media/movies/covers/2018/08/s1_4zp0v3s.jpg</thumbnail>
 </item>
 <item>
 <title>1 EP 18</title>
 <link>http://$doregex[vida]</link>
 <regex><name>vida</name><expres>baixar="https://((.*?)mp4.{1,60})</expres><page>https://redecanais.bz/player3/server3http-bk.php?vid=LRGDSEPLDST01EP18.mp4</page><referer>https://bemestarglobal.com.br/</referer></regex> 
-<regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/RCSeries</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://media.fstatic.com/LJ3zPWAKNRAY9xl_PZz_kLzryj0=/fit-in/290x478/smart/media/movies/covers/2018/08/s1_4zp0v3s.jpg</thumbnail>
 </item>
 <item>
 <title>1 EP 19</title>
 <link>http://$doregex[vida]</link>
 <regex><name>vida</name><expres>baixar="https://((.*?)mp4.{1,60})</expres><page>https://redecanais.bz/player3/server3http-bk.php?vid=LRGDSEPLDST01EP19.mp4</page><referer>https://bemestarglobal.com.br/</referer></regex> 
-<regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/RCSeries</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://media.fstatic.com/LJ3zPWAKNRAY9xl_PZz_kLzryj0=/fit-in/290x478/smart/media/movies/covers/2018/08/s1_4zp0v3s.jpg</thumbnail>
 </item>
 <item>
 <title>1 EP 20</title>
 <link>http://$doregex[vida]</link>
 <regex><name>vida</name><expres>baixar="https://((.*?)mp4.{1,60})</expres><page>https://redecanais.bz/player3/server3http-bk.php?vid=LRGDSEPLDST01EP20.mp4</page><referer>https://bemestarglobal.com.br/</referer></regex> 
-<regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/RCSeries</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://media.fstatic.com/LJ3zPWAKNRAY9xl_PZz_kLzryj0=/fit-in/290x478/smart/media/movies/covers/2018/08/s1_4zp0v3s.jpg</thumbnail>
 </item>
 <item>
 <title>1 EP 21</title>
 <link>http://$doregex[vida]</link>
 <regex><name>vida</name><expres>baixar="https://((.*?)mp4.{1,60})</expres><page>https://redecanais.bz/player3/server3http-bk.php?vid=LRGDSEPLDST01EP21.mp4</page><referer>https://bemestarglobal.com.br/</referer></regex> 
-<regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/RCSeries</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://media.fstatic.com/LJ3zPWAKNRAY9xl_PZz_kLzryj0=/fit-in/290x478/smart/media/movies/covers/2018/08/s1_4zp0v3s.jpg</thumbnail>
 </item>
 <item>
 <title>1 EP 22</title>
 <link>http://$doregex[vida]</link>
 <regex><name>vida</name><expres>baixar="https://((.*?)mp4.{1,60})</expres><page>https://redecanais.bz/player3/server3http-bk.php?vid=LRGDSEPLDST01EP22.mp4</page><referer>https://bemestarglobal.com.br/</referer></regex> 
-<regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/RCSeries</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://media.fstatic.com/LJ3zPWAKNRAY9xl_PZz_kLzryj0=/fit-in/290x478/smart/media/movies/covers/2018/08/s1_4zp0v3s.jpg</thumbnail>
 </item>
 <item>
 <title>1 EP 23</title>
 <link>http://$doregex[vida]</link>
 <regex><name>vida</name><expres>baixar="https://((.*?)mp4.{1,60})</expres><page>https://redecanais.bz/player3/server3http-bk.php?vid=LRGDSEPLDST01EP23.mp4</page><referer>https://bemestarglobal.com.br/</referer></regex> 
-<regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/RCSeries</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://media.fstatic.com/LJ3zPWAKNRAY9xl_PZz_kLzryj0=/fit-in/290x478/smart/media/movies/covers/2018/08/s1_4zp0v3s.jpg</thumbnail>
 </item>
 <item>
 <title>1 EP 24</title>
 <link>http://$doregex[vida]</link>
 <regex><name>vida</name><expres>baixar="https://((.*?)mp4.{1,60})</expres><page>https://redecanais.bz/player3/server3http-bk.php?vid=LRGDSEPLDST01EP24.mp4</page><referer>https://bemestarglobal.com.br/</referer></regex> 
-<regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/RCSeries</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://media.fstatic.com/LJ3zPWAKNRAY9xl_PZz_kLzryj0=/fit-in/290x478/smart/media/movies/covers/2018/08/s1_4zp0v3s.jpg</thumbnail>
 </item>
 <item>
 <title>1 EP 25</title>
 <link>http://$doregex[vida]</link>
 <regex><name>vida</name><expres>baixar="https://((.*?)mp4.{1,60})</expres><page>https://redecanais.bz/player3/server3http-bk.php?vid=LRGDSEPLDST01EP25.mp4</page><referer>https://bemestarglobal.com.br/</referer></regex> 
-<regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/RCSeries</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://media.fstatic.com/LJ3zPWAKNRAY9xl_PZz_kLzryj0=/fit-in/290x478/smart/media/movies/covers/2018/08/s1_4zp0v3s.jpg</thumbnail>
 </item>
 <item>
 <title>1 EP 26</title>
 <link>http://$doregex[vida]</link>
 <regex><name>vida</name><expres>baixar="https://((.*?)mp4.{1,60})</expres><page>https://redecanais.bz/player3/server3http-bk.php?vid=LRGDSEPLDST01EP26.mp4</page><referer>https://bemestarglobal.com.br/</referer></regex> 
-<regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/RCSeries</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://media.fstatic.com/LJ3zPWAKNRAY9xl_PZz_kLzryj0=/fit-in/290x478/smart/media/movies/covers/2018/08/s1_4zp0v3s.jpg</thumbnail>
 </item>
 <item>
 <title>1 EP 27</title>
 <link>http://$doregex[vida]</link>
 <regex><name>vida</name><expres>baixar="https://((.*?)mp4.{1,60})</expres><page>https://redecanais.bz/player3/server3http-bk.php?vid=LRGDSEPLDST01EP27.mp4</page><referer>https://bemestarglobal.com.br/</referer></regex> 
-<regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/RCSeries</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://media.fstatic.com/LJ3zPWAKNRAY9xl_PZz_kLzryj0=/fit-in/290x478/smart/media/movies/covers/2018/08/s1_4zp0v3s.jpg</thumbnail>
 </item>
 <item>
 <title>1 EP 28</title>
 <link>http://$doregex[vida]</link>
 <regex><name>vida</name><expres>baixar="https://((.*?)mp4.{1,60})</expres><page>https://redecanais.bz/player3/server3http-bk.php?vid=LRGDSEPLDST01EP28.mp4</page><referer>https://bemestarglobal.com.br/</referer></regex> 
-<regex><name>vidar</name><expres>(.*?)rctvd2</expres><page>https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/RCSeries</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://media.fstatic.com/LJ3zPWAKNRAY9xl_PZz_kLzryj0=/fit-in/290x478/smart/media/movies/covers/2018/08/s1_4zp0v3s.jpg</thumbnail>
 </item>
