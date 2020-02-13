@@ -7,48 +7,48 @@
 <item>
 <title>3 EP 02</title>
 <link>http://$doregex[vida]</link>
-<regex><name>vida</name><expres>baixar="https://((.*?)mp4.{1,60})</expres><page>https://redecanais.bz/player3/server3http-bk.php?vid=LRGDSEPLDST03EP02</page><referer>https://bemestarglobal.com.br/</referer></regex> 
+<regex><name>vida</name><expres>baixar="https:\/\/((.*?)mp4.{1,60})</expres><page>https://redecanais.bz/player3/server3http-bk.php?vid=LRGDSEPLDST03EP02</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://media.fstatic.com/MxbgkW4KFQMrueCKSSHGSeS2ZZs=/fit-in/290x478/smart/media/movies/covers/2018/08/33_fbWPNYQ.jpg</thumbnail>
 </item>
 <item>
 <title>3 EP 03</title>
 <link>http://$doregex[vida]</link>
-<regex><name>vida</name><expres>baixar="https://((.*?)mp4.{1,60})</expres><page>https://redecanais.bz/player3/server3http-bk.php?vid=LRGDSEPLDST03EP03</page><referer>https://bemestarglobal.com.br/</referer></regex> 
+<regex><name>vida</name><expres>baixar="https:\/\/((.*?)mp4.{1,60})</expres><page>https://redecanais.bz/player3/server3http-bk.php?vid=LRGDSEPLDST03EP03</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://media.fstatic.com/MxbgkW4KFQMrueCKSSHGSeS2ZZs=/fit-in/290x478/smart/media/movies/covers/2018/08/33_fbWPNYQ.jpg</thumbnail>
 </item>
 <item>
 <title>3 EP 04</title>
 <link>http://$doregex[vida]</link>
-<regex><name>vida</name><expres>baixar="https://((.*?)mp4.{1,60})</expres><page>https://redecanais.bz/player3/server3http-bk.php?vid=LRGDSEPLDST03EP04</page><referer>https://bemestarglobal.com.br/</referer></regex> 
+<regex><name>vida</name><expres>baixar="https:\/\/((.*?)mp4.{1,60})</expres><page>https://redecanais.bz/player3/server3http-bk.php?vid=LRGDSEPLDST03EP04</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://media.fstatic.com/MxbgkW4KFQMrueCKSSHGSeS2ZZs=/fit-in/290x478/smart/media/movies/covers/2018/08/33_fbWPNYQ.jpg</thumbnail>
 </item>
 <item>
 <title>3 EP 05</title>
 <link>http://$doregex[vida]</link>
-<regex><name>vida</name><expres>baixar="https://((.*?)mp4.{1,60})</expres><page>https://redecanais.bz/player3/server3http-bk.php?vid=LRGDSEPLDST03EP05</page><referer>https://bemestarglobal.com.br/</referer></regex> 
+<regex><name>vida</name><expres>baixar="https:\/\/((.*?)mp4.{1,60})</expres><page>https://redecanais.bz/player3/server3http-bk.php?vid=LRGDSEPLDST03EP05</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://media.fstatic.com/MxbgkW4KFQMrueCKSSHGSeS2ZZs=/fit-in/290x478/smart/media/movies/covers/2018/08/33_fbWPNYQ.jpg</thumbnail>
 </item>
 <item>
 <title>3 EP 06</title>
 <link>http://$doregex[vida]</link>
-<regex><name>vida</name><expres>baixar="https://((.*?)mp4.{1,60})</expres><page>https://redecanais.bz/player3/server3http-bk.php?vid=LRGDSEPLDST03EP06</page><referer>https://bemestarglobal.com.br/</referer></regex> 
+<regex><name>vida</name><expres>baixar="https:\/\/((.*?)mp4.{1,60})</expres><page>https://redecanais.bz/player3/server3http-bk.php?vid=LRGDSEPLDST03EP06</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://media.fstatic.com/MxbgkW4KFQMrueCKSSHGSeS2ZZs=/fit-in/290x478/smart/media/movies/covers/2018/08/33_fbWPNYQ.jpg</thumbnail>
 </item>
 <item>
 <title>3 EP 07</title>
 <link>http://$doregex[vida]</link>
-<regex><name>vida</name><expres>baixar="https://((.*?)mp4.{1,60})</expres><page>https://redecanais.bz/player3/server3http-bk.php?vid=LRGDSEPLDST03EP07</page><referer>https://bemestarglobal.com.br/</referer></regex> 
+<regex><name>vida</name><expres>baixar="https:\/\/((.*?)mp4.{1,60})</expres><page>https://redecanais.bz/player3/server3http-bk.php?vid=LRGDSEPLDST03EP07</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://media.fstatic.com/MxbgkW4KFQMrueCKSSHGSeS2ZZs=/fit-in/290x478/smart/media/movies/covers/2018/08/33_fbWPNYQ.jpg</thumbnail>
 </item>
 <item>
 <title>3 EP 08</title>
 <link>http://$doregex[vida]</link>
-<regex><name>vida</name><expres>baixar="https://((.*?)mp4.{1,60})</expres><page>https://redecanais.bz/player3/server3http-bk.php?vid=LRGDSEPLDST03EP08</page><referer>https://bemestarglobal.com.br/</referer></regex> 
+<regex><name>vida</name><expres>baixar="https:\/\/((.*?)mp4.{1,60})</expres><page>https://redecanais.bz/player3/server3http-bk.php?vid=LRGDSEPLDST03EP08</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://media.fstatic.com/MxbgkW4KFQMrueCKSSHGSeS2ZZs=/fit-in/290x478/smart/media/movies/covers/2018/08/33_fbWPNYQ.jpg</thumbnail>
 </item>
 <item>
 <title>3 EP 09</title>
 <link>http://$doregex[vida]</link>
-<regex><name>vida</name><expres>baixar="https://((.*?)mp4.{1,60})</expres><page>https://redecanais.bz/player3/server3http-bk.php?vid=LRGDSEPLDST03EP09</page><referer>https://bemestarglobal.com.br/</referer></regex> 
+<regex><name>vida</name><expres>baixar="https:\/\/((.*?)mp4.{1,60})</expres><page>https://redecanais.bz/player3/server3http-bk.php?vid=LRGDSEPLDST03EP09</page><referer>https://bemestarglobal.com.br/</referer></regex> 
 <thumbnail>https://media.fstatic.com/MxbgkW4KFQMrueCKSSHGSeS2ZZs=/fit-in/290x478/smart/media/movies/covers/2018/08/33_fbWPNYQ.jpg</thumbnail>
 </item>
