@@ -2,6 +2,9 @@
 #EXTINF:-1 tvg-id="[B][COLOR white]RADIO NEW POP HITS[/COLOR][/B]" tvg-logo="https://d1eqqkloubk286.cloudfront.net/static/playlist/1612406/01f1de4627376fc.jpg"group-title="RADIO",  [B][COLOR white]RADIO NEW POP HITS[/COLOR][/B]
 plugin://plugin.video.youtube/play/?playlist_id=PL7zsB-C3aNu3Ec0sIHExGIOS-ZKve-TIA&play=1&order=shuffle
 
+#EXTINF:-1 tvg-id="[B][COLOR white]RADIO TOP 100 - 2020[/COLOR][/B]" tvg-logo="https://static.qobuz.com/images/covers/bb/qo/e74ii0oxtqobb_600.jpg"group-title="RADIO",  [B][COLOR white]RADIO TOP 100 - 2020[/COLOR][/B]
+plugin://plugin.video.youtube/play/?playlist_id=PLyORnIW1xT6waC0PNjAMj33FdK2ngL_ik&play=1&order=shuffle
+
 #EXTINF:-1 tvg-id="[B][COLOR white]RADIO ALTERNATIVE ROCKS[/COLOR][/B]" tvg-logo="https://static-br.radio.net/images/broadcasts/92/c9/39248/1/c300.png"group-title="RADIO", [B][COLOR white]RADIO ALTERNATIVE HITS[/COLOR][/B]
 plugin://plugin.video.youtube/play/?playlist_id=PLinS5uF49IBob4YjRC35vkWQgHBQZ90E_&play=1&order=shuffle
 
