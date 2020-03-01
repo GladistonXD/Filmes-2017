@@ -793,11 +793,6 @@
 <thumbnail></thumbnail>
 
 <item>
-<item><title>[B][COLOR white]HBO Alternativo[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>http://ul.cdn946.net:8080/hls/kdhd8.m3u8?s=w_lXznrJLL4muf_dxM9Xiw&e=1562778647</link>
-<thumbnail>https://cometa.top/player3/imgs-videos/RC1Server03/imgs-videos/hbo.jpg</thumbnail>
-</item>
-<item>
 <item>
 <item><title>[B][COLOR white]RADIO MONTE CARLOS[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>http://wow01.105.net/live/rmc1/playlist.m3u8</link>
@@ -944,11 +939,6 @@
 <thumbnail>http://uploaddeimagens.com.br/images/002/239/792/original/SUMER_VIBES2.jpg</thumbnail>
 </item>
 <item>
-<item><title>[B][COLOR white]DJING HOT HOT HOT[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>https://www.djing.com/tv/h-01-fta.m3u8</link>
-<thumbnail>http://uploaddeimagens.com.br/images/002/239/701/original/HOT_HOT_HOT.jpg</thumbnail>
-</item>
-<item>
 <item><title>[B][COLOR white]RADIO KISS TV[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>https://fms-https1.mediadirect.ro/live3/_definst_/kiss.smil/chunklist_w1868089738_b1600000_1606.m3u8</link>
 <thumbnail>https://i.ytimg.com/vi/6tDF1Gentm0/hqdefault.jpg</thumbnail>
@@ -1044,10 +1034,4 @@
 <item><title>[B][COLOR white]COLOSAL TV RADIO[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/chunklist_w488941594.m3u8</link>
 <thumbnail>https://is2-ssl.mzstatic.com/image/thumb/Purple71/v4/80/58/ef/8058ef9e-8702-ff81-6a5a-9481a69babae/source/512x512bb.jpg</thumbnail>
-</item>
-
-<item>
-<item><title>[B][COLOR white]DREAM TV RADIO[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1500/prog_index.m3u8</link>
-<thumbnail>https://pbs.twimg.com/profile_images/935862506987380737/x8wLxkUx_400x400.jpg</thumbnail>
 </item>
