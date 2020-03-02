@@ -1,573 +1,549 @@
 #EXTM3U
 
 #EXTINF:-1,
-#EXTINF:-1,A&E HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/36929
-#EXTINF:-1,AMC FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/40262
-#EXTINF:-1,AMC HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/36928
-#EXTINF:-1,Animal Planet FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/38392
-#EXTINF:-1,Animal Planet HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/36992
-#EXTINF:-1,Arte 1 FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/41467
-#EXTINF:-1,AXN FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/41468
-#EXTINF:-1,AXN HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/36991
-#EXTINF:-1,Band FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/38429
-#EXTINF:-1,Band HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/36990
-#EXTINF:-1,BandNews FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/38391
-#EXTINF:-1,Band SP FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/41514
-#EXTINF:-1,Band SP HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/41530
-#EXTINF:-1,BandSports FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/42900
-#EXTINF:-1,BandNews HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/42411
-#EXTINF:-1,BandSports HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/36989
-#EXTINF:-1,BIS FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/38403
-#EXTINF:-1,Bis HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/36988
-#EXTINF:-1,Boomerang FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/38390
-#EXTINF:-1,Canal Brasil FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/41517
-#EXTINF:-1,Canção Nova HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/37023
-#EXTINF:-1,Cartoon Network FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/41471
-#EXTINF:-1,Cartoon Network HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/36927
-#EXTINF:-1,Cinemax FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/40261
-#EXTINF:-1,Cinemax HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/36926
-#EXTINF:-1,Combate FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/38428
-#EXTINF:-1,Combate HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/36986
-#EXTINF:-1,Comedy Central HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/36925
-#EXTINF:-1,Comedy Central FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/40260
-#EXTINF:-1,Cultura FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/42903
-#EXTINF:-1,Curta! FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/41472
-#EXTINF:-1,Discovery Channel FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/38404
-#EXTINF:-1,Discovery Channel HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/36985
-#EXTINF:-1,HGTV FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/40259
-#EXTINF:-1,HGTV HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/36924
-#EXTINF:-1,DISCOVERY HOME & HEALTH FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/38389
-#EXTINF:-1,Discovery Home & Health HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/37115
-#EXTINF:-1,Discovery Kids FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/41473
-#EXTINF:-1,Discovery Kids HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/36923
-#EXTINF:-1,Discovery Science FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/41474
-#EXTINF:-1,Discovery Science HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/36922
-#EXTINF:-1,Discovery Theater FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/41475
-#EXTINF:-1,Discovery Theater HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/36983
-#EXTINF:-1,Discovery Turbo FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/38388
-#EXTINF:-1,Discovery Turbo HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/36982
-#EXTINF:-1,Discovery World FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/38387
-#EXTINF:-1,Discovery World HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/36981
-#EXTINF:-1,Disney Channel FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/38402
-#EXTINF:-1,Disney Channel HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/36921
-#EXTINF:-1,Disney Junior FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/41512
-#EXTINF:-1,Disney Junior HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/40517
-#EXTINF:-1,E! FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/41476
-#EXTINF:-1,E! HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/36920
-#EXTINF:-1,Globo EPTV Ribeirão HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/38640
-#EXTINF:-1,ESPN 2 FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/41477
-#EXTINF:-1,ESPN 2 HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/36976
-#EXTINF:-1,ESPN Brasil FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/38413
-#EXTINF:-1,ESPN Brasil HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/36978
-#EXTINF:-1,ESPN Extra FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/38380
-#EXTINF:-1,ESPN Extra HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/42910
-#EXTINF:-1,ESPN FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/38401
-#EXTINF:-1,ESPN HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/36977
-#EXTINF:-1,Fish TV FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/41478
-#EXTINF:-1,Fish TV HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/42911
-#EXTINF:-1,Food Network FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/40257
-#EXTINF:-1,Food Network HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/36919
-#EXTINF:-1,Fox Channel HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/36972
-#EXTINF:-1,FOX FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/38427
-#EXTINF:-1,Fox Premium 1  HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/36974
-#EXTINF:-1,Fox Premium 1 FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/41480
-#EXTINF:-1,Fox Premium 2 FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/38386
-#EXTINF:-1,Fox Premium 2 HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/36973
-#EXTINF:-1,FoxLife FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/41479
-#EXTINF:-1,FoxLife HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/36918
-#EXTINF:-1,FoxSports 2 FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/38398
-#EXTINF:-1,FoxSports 2 HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/36971
-#EXTINF:-1,FoxSports HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/36970
-#EXTINF:-1,Futura FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/41481
-#EXTINF:-1,FX FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/41482
-#EXTINF:-1,FX HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/36969
-#EXTINF:-1,Gazeta HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/40120
-#EXTINF:-1,Globo Bahia HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/37096
-#EXTINF:-1,Globo TV Bahia FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/42987
-#EXTINF:-1,Globo TV Bahia HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/41402
-#EXTINF:-1,Globo Brasília HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/40513
-#EXTINF:-1,Globo EPTV Campinas FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/42983
-#EXTINF:-1,Globo EPTV Campinas HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/42952
-#EXTINF:-1,EPTV Ribeirão FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/42999
-#EXTINF:-1,Globo EPTV Ribeirão Preto HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/42953
-#EXTINF:-1,Globo NSC TV Florianópolis FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/42985
-#EXTINF:-1,Globo Minas FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/41515
-#EXTINF:-1,Globo Minas HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/40251
-#EXTINF:-1,Globo Nordeste FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/42984
-#EXTINF:-1,Globo Nordeste HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/38971
-#EXTINF:-1,NSC TV Chapecó FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/42969
-#EXTINF:-1,Globo NSC TV Chapecó HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/42970
-#EXTINF:-1,Globo NSC TV Florianópolis HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/42958
-#EXTINF:-1,Globo Rio HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/36968
-#EXTINF:-1,Globo Rio FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/38425
-#EXTINF:-1,RPC Curitiba FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/38381
-#EXTINF:-1,Globo RPC Curitiba HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/42961
-#EXTINF:-1,RPC Fox do Iguaçu FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/42973
-#EXTINF:-1,Globo RPC Foz do Iguaçu HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/42974
-#EXTINF:-1,Globo SP FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/38424
-#EXTINF:-1,Globo SP HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/37361
-#EXTINF:-1,Globo TV Anhanguera FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/42986
-#EXTINF:-1,Globo TV Anhanguera HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/38967
-#EXTINF:-1,GLOBO TV CLUBE TERESINA FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/42976
-#EXTINF:-1,Globo TV Gazeta Alagoas FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/42995
-#EXTINF:-1,Globo TV Gazeta Alagoas HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/42996
-#EXTINF:-1,Globo TV Gazeta Sul ES FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/42997
-#EXTINF:-1,Globo TV Gazeta Sul ES HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/42998
-#EXTINF:-1,GLOBO TV GAZETA VITORIA FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/42979
-#EXTINF:-1,Globo TV Gazeta Vitória HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/42980
-#EXTINF:-1,Globo TV Mirante São Luis FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/42988
-#EXTINF:-1,Globo TV Mirante São Luis HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/42989
-#EXTINF:-1,Globo TV Morena Campo Grande FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/42991
-#EXTINF:-1,Globo TV Sergipe FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/42981
-#EXTINF:-1,Globo TV Sergipe HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/42982
-#EXTINF:-1,TV TEM SJRP FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/42993
-#EXTINF:-1,Globo TV TEM São José do Rio Preto HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/40515
-#EXTINF:-1,GloboNews FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/38397
-#EXTINF:-1,GloboNews HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/36917
-#EXTINF:-1,Mais GloboSat HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/36916
-#EXTINF:-1,Gloob FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/38396
-#EXTINF:-1,Gloob HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/36915
-#EXTINF:-1,Gloobinho FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/41483
-#EXTINF:-1,Gloobinho HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/38969
-#EXTINF:-1,GNT FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/41484
-#EXTINF:-1,GNT HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/36967
-#EXTINF:-1,History 2 FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/41485
-#EXTINF:-1,HBO 2 FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/38423
-#EXTINF:-1,HBO 2 HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/36966
-#EXTINF:-1,HBO Family FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/41486
-#EXTINF:-1,HBO Family HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/36965
-#EXTINF:-1,HBO HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/36964
-#EXTINF:-1,HBO Plus FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/41487
-#EXTINF:-1,HBO Plus HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/36963
-#EXTINF:-1,HBO Signature FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/41488
-#EXTINF:-1,HBO Signature HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/36962
-#EXTINF:-1,History 2 HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/36961
-#EXTINF:-1,History FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/38383
-#EXTINF:-1,History HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/36960
-#EXTINF:-1,ID: Investigação Discovery HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/36959
-#EXTINF:-1,ID: Investigação Discovery FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/41489
-#EXTINF:-1,Lifetime FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/40265
-#EXTINF:-1,Lifetime HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/36914
-#EXTINF:-1,Mais GloboSat FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/42902
-#EXTINF:-1,HBO Mundi FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/40268
-#EXTINF:-1,HBO Mundi HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/36913
-#EXTINF:-1,HBO Xtreme FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/42901
-#EXTINF:-1,HBO Xtreme HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/36912
-#EXTINF:-1,HBO POP FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/40270
-#EXTINF:-1,HBO POP HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/36911
-#EXTINF:-1,MegaPix FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/41491
-#EXTINF:-1,MegaPix HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/36958
-#EXTINF:-1,MTV FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/40266
-#EXTINF:-1,MTV HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/36910
-#EXTINF:-1,MTV Live FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/41492
-#EXTINF:-1,MTV Live HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/40518
-#EXTINF:-1,Multishow FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/41493
-#EXTINF:-1,Multishow HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/36957
-#EXTINF:-1,Music Box Brazil FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/41494
-#EXTINF:-1,NatGeo Kids FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/41496
-#EXTINF:-1,NatGeo Kids HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/36909
-#EXTINF:-1,National Geographic Wild FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/41497
-#EXTINF:-1,National Geographic Wild HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/36955
-#EXTINF:-1,National Geographic FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/41280
-#EXTINF:-1,National Geographic HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/36956
-#EXTINF:-1,Nick FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/40039
-#EXTINF:-1,Nick HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/36907
-#EXTINF:-1,Nick Jr. FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/41498
-#EXTINF:-1,Nick Jr. HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/36908
-#EXTINF:-1,Off FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/41499
-#EXTINF:-1,Off HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/36954
-#EXTINF:-1,Paramount Channel FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/41500
-#EXTINF:-1,Paramount Channel HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/36953
-#EXTINF:-1,PLAYKIDS FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/41522
-#EXTINF:-1,PlayKids HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/41359
-#EXTINF:-1,Premiere 2 FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/38410
-#EXTINF:-1,Premiere 2 HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/36952
-#EXTINF:-1,Premiere 3 FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/38409
-#EXTINF:-1,Premiere 3 HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/36951
-#EXTINF:-1,Premiere 4 FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/38408
-#EXTINF:-1,Premiere 4 HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/36950
-#EXTINF:-1,Premiere 5 FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/38407
-#EXTINF:-1,Premiere 5 HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/36949
-#EXTINF:-1,Premiere 6 FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/38406
-#EXTINF:-1,Premiere 6 HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/36906
-#EXTINF:-1,Premiere 7 FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/38405
-#EXTINF:-1,Premiere 7 HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/36905
-#EXTINF:-1,Premiere Clubes FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/38411
-#EXTINF:-1,Premiere Clubes HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/36948
-#EXTINF:-1,Prime Box Brazil FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/41501
-#EXTINF:-1,Globo RBS TV Porto Alegre HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/40252
-#EXTINF:-1,RecordTV HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/36947
-#EXTINF:-1,Record News FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/41502
-#EXTINF:-1,Record News HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/37050
-#EXTINF:-1,RecordTV Paulista FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/41516
-#EXTINF:-1,RecordTV Bahia FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/42905
-#EXTINF:-1,RecordTV Bahia HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/42624
-#EXTINF:-1,RecordTV Brasilia HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/42626
-#EXTINF:-1,RecordTV FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/38421
-#EXTINF:-1,RecordTV Minas FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/42904
-#EXTINF:-1,RecordTV Rio FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/41521
-#EXTINF:-1,RecordTV RS FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/42907
-#EXTINF:-1,RecordTV RS HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/42628
-#EXTINF:-1,Rede Vida FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/41519
-#EXTINF:-1,RedeTV! FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/41518
-#EXTINF:-1,RedeTV! HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/36946
-#EXTINF:-1,SBT FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/38420
-#EXTINF:-1,SBT HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/36945
-#EXTINF:-1,Sony Channel FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/41470
-#EXTINF:-1,Sony Channel HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/36987
-#EXTINF:-1,Space FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/41503
-#EXTINF:-1,Space HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/36944
-#EXTINF:-1,SporTV 2 FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/38395
-#EXTINF:-1,SporTV 2 HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/36943
-#EXTINF:-1,SporTV 3 FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/38394
-#EXTINF:-1,SporTV 3 HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/36942
-#EXTINF:-1,SporTV FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/38419
-#EXTINF:-1,SporTV HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/37255
-#EXTINF:-1,Studio Universal HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/36904
-#EXTINF:-1,Syfy FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/41504
-#EXTINF:-1,Syfy HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/36903
-#EXTINF:-1,TBS FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/41505
-#EXTINF:-1,TBS HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/36940
-#EXTINF:-1,Telecine Action FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/38418
-#EXTINF:-1,Telecine Action HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/36939
-#EXTINF:-1,Telecine Cult FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/41506
-#EXTINF:-1,Telecine Cult HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/36901
-#EXTINF:-1,Telecine Fun FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/38417
-#EXTINF:-1,Telecine Fun HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/36938
-#EXTINF:-1,Telecine Pipoca FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/38416
-#EXTINF:-1,Telecine Pipoca HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/36937
-#EXTINF:-1,Telecine Premium FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/38415
-#EXTINF:-1,Telecine Premium HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/36936
-#EXTINF:-1,Telecine Touch FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/38414
-#EXTINF:-1,Telecine Touch HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/36935
-#EXTINF:-1,TLC HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/36902
-#EXTINF:-1,TNT FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/41507
-#EXTINF:-1,TNT HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/36934
-#EXTINF:-1,TNT Séries FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/41508
-#EXTINF:-1,TNT Séries HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/36933
-#EXTINF:-1,TruTV FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/41509
-#EXTINF:-1,TV Aparecida HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/41341
-#EXTINF:-1,TV Ra Tim Bum FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/41510
-#EXTINF:-1,Studio Universal FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/41511
-#EXTINF:-1,Universal Channel HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/36932
-#EXTINF:-1,VH1 FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/40271
-#EXTINF:-1,VH1 HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/36900
-#EXTINF:-1,Viva FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/38393
-#EXTINF:-1,Viva HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/36931
-#EXTINF:-1,Warner Channel FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/38384
-#EXTINF:-1,Warner Channel HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/36930
-#EXTINF:-1,Woohoo FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/40267
-#EXTINF:-1,BandSports HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/50612
-#EXTINF:-1,Disney XD HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/50717
-#EXTINF:-1,Globo Inter TV Alto Litoral FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/52593
-#EXTINF:-1,Globo Inter TV Alto Litoral HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/52592
-#EXTINF:-1,Globo Inter TV dos Vales FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/52590
-#EXTINF:-1,Globo Inter TV dos Vales HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/52587
-#EXTINF:-1,GLOBO INTER TV GRANDE MINAS FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/52577
-#EXTINF:-1,Globo Inter TV Grande Minas HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/52576
-#EXTINF:-1,GLOBO INTER TV SERRA MAR FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/52574
-#EXTINF:-1,Globo Inter TV Serra Mar HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/52573
-#EXTINF:-1,NSC TV Blumenau FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/52569
-#EXTINF:-1,Globo NSC TV Blumenau HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/52570
-#EXTINF:-1,NSC TV Joinville FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/52538
-#EXTINF:-1,Globo NSC TV Joinville HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/52539
-#EXTINF:-1,Globo RBS TV Caxias do Sul FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/52566
-#EXTINF:-1,Globo RBS TV Caxias do Sul HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/52567
-#EXTINF:-1,RBS TV Pelotas FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/52541
-#EXTINF:-1,Globo RBS TV Pelotas HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/52542
-#EXTINF:-1,GLOBO TV CABO BRANCO FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/52544
-#EXTINF:-1,Globo TV Cabo Branco HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/52545
-#EXTINF:-1,GLOBO TV RIO SUL FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/52547
-#EXTINF:-1,Globo TV Rio Sul HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/52548
-#EXTINF:-1,Globo TV Santa Cruz FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/52563
-#EXTINF:-1,Globo TV Santa Cruz HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/52564
-#EXTINF:-1,Woohoo HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/36899
-#EXTINF:-1,Globo TV Amazônica HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/51310
-#EXTINF:-1,Globo Paraná HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/51309
-#EXTINF:-1,RBS TV Porto Alegre FHD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/51215
-#EXTINF:-1,EI PLUS HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/adrino/adrino/54705
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC HD" tvg-logo="https://www.freepnglogos.com/uploads/amc-png-logo/amc-media-png-logo-1.png" group-title="Canais | Filmes e Séries",AMC HD
+http://udq.me:8880/live/hbZWr/BEQPT/7037.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanet" tvg-name="ANIMAL  PLANET FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title=" Canais | Documentários",ANIMAL  PLANET FHD
+http://udq.me:8880/live/hbZWr/BEQPT/13093.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanet" tvg-name="ANIMAL PLANET HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title=" Canais | Documentários",ANIMAL PLANET HD
+http://udq.me:8880/live/hbZWr/BEQPT/13071.m3u8
+#EXTINF:-1 tvg-id="Arte1" tvg-name="ARTE 1 FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/arte1.png" group-title=" Canais | Variedades",ARTE 1 FHD
+http://udq.me:8880/live/hbZWr/BEQPT/13233.m3u8
+#EXTINF:-1 tvg-id="Arte1" tvg-name="ARTE 1 HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/arte1.png" group-title=" Canais | Variedades",ARTE 1 HD
+http://udq.me:8880/live/hbZWr/BEQPT/13232.m3u8
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN HD" tvg-logo="https://image.flaticon.com/icons/png/512/870/870885.png" group-title="Canais | Filmes e Séries",AXN HD
+http://udq.me:8880/live/hbZWr/BEQPT/7039.m3u8
+#EXTINF:-1 tvg-id="BandNews" tvg-name="BAND NEWS FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandnews-logo.png" group-title="Canais | Notícias",BAND NEWS FHD
+http://udq.me:8880/live/hbZWr/BEQPT/1506.m3u8
+#EXTINF:-1 tvg-id="BandNews" tvg-name="BAND NEWS HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandnews-logo.png" group-title="Canais | Notícias",BAND NEWS HD
+http://udq.me:8880/live/hbZWr/BEQPT/1504.m3u8
+#EXTINF:-1 tvg-id="BANDCAMPINASHD" tvg-name="BAND SP FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png" group-title="Canais | Abertos",BAND SP FHD
+http://udq.me:8880/live/hbZWr/BEQPT/13184.m3u8
+#EXTINF:-1 tvg-id="BANDCAMPINASHD" tvg-name="BAND SP HD" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png" group-title="Canais | Abertos",BAND SP HD
+http://udq.me:8880/live/hbZWr/BEQPT/13183.m3u8
+#EXTINF:-1 tvg-id="BandSports" tvg-name="BAND SPORTS FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandsports-logo.png" group-title="Canais | Esportes",BAND SPORTS FHD
+http://udq.me:8880/live/hbZWr/BEQPT/4023.m3u8
+#EXTINF:-1 tvg-id="BandSports" tvg-name="BAND SPORTS HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandsports-logo.png" group-title="Canais | Esportes",BAND SPORTS HD
+http://udq.me:8880/live/hbZWr/BEQPT/4060.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2020 2 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="Canais | BBB",BBB 2020 2 HD
+http://udq.me:8880/live/hbZWr/BEQPT/3972.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2020 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="Canais | BBB",BBB 2020 HD
+http://udq.me:8880/live/hbZWr/BEQPT/3959.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2020 MOSAICO HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="Canais | BBB",BBB 2020 MOSAICO HD
+http://udq.me:8880/live/hbZWr/BEQPT/3997.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BIS HD" tvg-logo="https://s2.glbimg.com/ymTn9IE0rr_YJHRPbzwhmyCSdFk=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/d7/69/8ca415a17b57bdc9dff88a951e82.png" group-title="Canais  | Músicas",BIS HD
+http://udq.me:8880/live/hbZWr/BEQPT/13244.m3u8
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="BOOMERANG  FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png" group-title="Canais | Infantis",BOOMERANG  FHD
+http://udq.me:8880/live/hbZWr/BEQPT/12930.m3u8
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="BOOMERANG HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png" group-title="Canais | Infantis",BOOMERANG HD
+http://udq.me:8880/live/hbZWr/BEQPT/12929.m3u8
+#EXTINF:-1 tvg-id="CanalBrasil" tvg-name="CANAL BRASIL HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-brasil-logo-1.png" group-title="Canais | Filmes e Séries",CANAL BRASIL HD
+http://udq.me:8880/live/hbZWr/BEQPT/7041.m3u8
+#EXTINF:-1 tvg-id="CanalSony" tvg-name="CANAL SONY HD" tvg-logo="https://pluspng.com/img-png/sony-png-sony-logo-png-1000.png" group-title="Canais | Filmes e Séries",CANAL SONY HD
+http://udq.me:8880/live/hbZWr/BEQPT/7043.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork" tvg-name="CARTOON NETWORK FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/06/cartoon-network-logo-2.png" group-title="Canais | Infantis",CARTOON NETWORK FHD
+http://udq.me:8880/live/hbZWr/BEQPT/12933.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork" tvg-name="CARTOON NETWORK HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/06/cartoon-network-logo-2.png" group-title="Canais | Infantis",CARTOON NETWORK HD
+http://udq.me:8880/live/hbZWr/BEQPT/12932.m3u8
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="CINEMAX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/800px-Cinemax_LA.png" group-title="Canais | Filmes e Séries",CINEMAX HD
+http://udq.me:8880/live/hbZWr/BEQPT/7045.m3u8
+#EXTINF:-1 tvg-id="Combate" tvg-name="COMBATE FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/canal-combate-logo.png" group-title="Canais | Esportes",COMBATE FHD
+http://udq.me:8880/live/hbZWr/BEQPT/967.m3u8
+#EXTINF:-1 tvg-id="Combate" tvg-name="COMBATE HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/canal-combate-logo.png" group-title="Canais | Esportes",COMBATE HD
+http://udq.me:8880/live/hbZWr/BEQPT/953.m3u8
+#EXTINF:-1 tvg-id="ComedyCentral" tvg-name="COMEDY CENTRAL FHD" tvg-logo="https://press.cc.com/image-download/956819" group-title=" Canais | Variedades",COMEDY CENTRAL FHD
+http://udq.me:8880/live/hbZWr/BEQPT/13236.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL HD" tvg-logo="https://press.cc.com/image-download/956819" group-title=" Canais | Variedades",COMEDY CENTRAL HD
+http://udq.me:8880/live/hbZWr/BEQPT/13235.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COPA LIBERTADORES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/95/Conmebol_Libertadores_logo.svg/1200px-Conmebol_Libertadores_logo.svg.png" group-title="Canais | Esportes",COPA LIBERTADORES HD
+http://udq.me:8880/live/hbZWr/BEQPT/1021.m3u8
+#EXTINF:-1 tvg-id="Curta!" tvg-name="CURTA! FHD" tvg-logo="https://1.bp.blogspot.com/-afg4AA1ihZs/WacphiEZsKI/AAAAAAAA-Nk/tH6tqCqmT3A-i8e7mn6EtQBIZ0FTYqBrgCLcBGAs/s640/curta.png" group-title=" Canais | Variedades",CURTA! FHD
+http://udq.me:8880/live/hbZWr/BEQPT/13239.m3u8
+#EXTINF:-1 tvg-id="Curta!" tvg-name="CURTA! HD" tvg-logo="https://1.bp.blogspot.com/-afg4AA1ihZs/WacphiEZsKI/AAAAAAAA-Nk/tH6tqCqmT3A-i8e7mn6EtQBIZ0FTYqBrgCLcBGAs/s640/curta.png" group-title=" Canais | Variedades",CURTA! HD
+http://udq.me:8880/live/hbZWr/BEQPT/13238.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannel" tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo.png" group-title=" Canais | Documentários",DISCOVERY CHANNEL FHD
+http://udq.me:8880/live/hbZWr/BEQPT/13128.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannel" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo.png" group-title=" Canais | Documentários",DISCOVERY CHANNEL HD
+http://udq.me:8880/live/hbZWr/BEQPT/13095.m3u8
+#EXTINF:-1 tvg-id="DiscoveryHH" tvg-name="DISCOVERY HOME & HEALTH FHD" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/f/ff/Discovery_H%26H.png" group-title=" Canais | Variedades",DISCOVERY HOME & HEALTH FHD
+http://udq.me:8880/live/hbZWr/BEQPT/13242.m3u8
+#EXTINF:-1 tvg-id="DiscoveryHH" tvg-name="DISCOVERY HOME & HEALTH HD" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/f/ff/Discovery_H%26H.png" group-title=" Canais | Variedades",DISCOVERY HOME & HEALTH HD
+http://udq.me:8880/live/hbZWr/BEQPT/13241.m3u8
+#EXTINF:-1 tvg-id="ID-InvestigacaoDiscovery" tvg-name="DISCOVERY INVESTIGATION FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/ID_-_Investiga%C3%A7%C3%A3o_Discovery.png" group-title=" Canais | Documentários",DISCOVERY INVESTIGATION FHD
+http://udq.me:8880/live/hbZWr/BEQPT/13149.m3u8
+#EXTINF:-1 tvg-id="ID-InvestigacaoDiscovery" tvg-name="DISCOVERY INVESTIGATION HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/ID_-_Investiga%C3%A7%C3%A3o_Discovery.png" group-title=" Canais | Documentários",DISCOVERY INVESTIGATION HD
+http://udq.me:8880/live/hbZWr/BEQPT/13148.m3u8
+#EXTINF:-1 tvg-id="DiscoveryKids" tvg-name="DISCOVERY KIDS FHD" tvg-logo="" group-title="Canais | Infantis",DISCOVERY KIDS FHD
+http://udq.me:8880/live/hbZWr/BEQPT/12939.m3u8
+#EXTINF:-1 tvg-id="DiscoveryKids" tvg-name="DISCOVERY KIDS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="Canais | Infantis",DISCOVERY KIDS HD
+http://udq.me:8880/live/hbZWr/BEQPT/12938.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/discoveryscienceb.png" group-title=" Canais | Documentários",DISCOVERY SCIENCE FHD
+http://udq.me:8880/live/hbZWr/BEQPT/13134.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/discoveryscienceb.png" group-title=" Canais | Documentários",DISCOVERY SCIENCE HD
+http://udq.me:8880/live/hbZWr/BEQPT/13133.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATER FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1280px-2015_Discovery_theater_HD_logo.png" group-title=" Canais | Documentários",DISCOVERY THEATER FHD
+http://udq.me:8880/live/hbZWr/BEQPT/13137.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATER HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1280px-2015_Discovery_theater_HD_logo.png" group-title=" Canais | Documentários",DISCOVERY THEATER HD
+http://udq.me:8880/live/hbZWr/BEQPT/13136.m3u8
+#EXTINF:-1 tvg-id="DiscoveryTurbo" tvg-name="DISCOVERY TURBO HD" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title=" Canais | Variedades",DISCOVERY TURBO HD
+http://udq.me:8880/live/hbZWr/BEQPT/13246.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1280px-World_Discovery_HD_logo.svg.png" group-title=" Canais | Documentários",DISCOVERY WORLD  HD
+http://udq.me:8880/live/hbZWr/BEQPT/13139.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1280px-World_Discovery_HD_logo.svg.png" group-title=" Canais | Documentários",DISCOVERY WORLD FHD
+http://udq.me:8880/live/hbZWr/BEQPT/13140.m3u8
+#EXTINF:-1 tvg-id="Disney" tvg-name="DISNEY CHANNEL FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" group-title="Canais | Infantis",DISNEY CHANNEL FHD
+http://udq.me:8880/live/hbZWr/BEQPT/12942.m3u8
+#EXTINF:-1 tvg-id="Disney" tvg-name="DISNEY CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" group-title="Canais | Infantis",DISNEY CHANNEL HD
+http://udq.me:8880/live/hbZWr/BEQPT/12941.m3u8
+#EXTINF:-1 tvg-id="DisneyJunior" tvg-name="DISNEY JR FHD" tvg-logo="https://i.ya-webdesign.com/images/disney-junior-logo-png-1.png" group-title="Canais | Infantis",DISNEY JR FHD
+http://udq.me:8880/live/hbZWr/BEQPT/12936.m3u8
+#EXTINF:-1 tvg-id="DisneyJunior" tvg-name="DISNEY JR HD" tvg-logo="https://i.ya-webdesign.com/images/disney-junior-logo-png-1.png" group-title="Canais | Infantis",DISNEY JR HD
+http://udq.me:8880/live/hbZWr/BEQPT/12935.m3u8
+#EXTINF:-1 tvg-id="E!" tvg-name="E! FHD" tvg-logo="https://www.bocaboca.com.br/cine-pitching/wp-content/uploads/2018/06/canal-e.png" group-title=" Canais | Variedades",E! FHD
+http://udq.me:8880/live/hbZWr/BEQPT/13249.m3u8
+#EXTINF:-1 tvg-id="E!" tvg-name="E! HD" tvg-logo="https://www.bocaboca.com.br/cine-pitching/wp-content/uploads/2018/06/canal-e.png" group-title=" Canais | Variedades",E! HD
+http://udq.me:8880/live/hbZWr/BEQPT/13248.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EI PLUS 1 HD" tvg-logo="https://1.bp.blogspot.com/-MLu8xDPo3GM/XYlDp_EpZVI/AAAAAAABaUU/vdgebefcxCMy8zvZGa_D99g8EWU9lOgggCLcBGAsYHQ/s640/logo_500x500_eiplus.png" group-title="Canais | Esportes",EI PLUS 1 HD
+http://udq.me:8880/live/hbZWr/BEQPT/4395.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EI PLUS 2 HD" tvg-logo="https://1.bp.blogspot.com/-MLu8xDPo3GM/XYlDp_EpZVI/AAAAAAABaUU/vdgebefcxCMy8zvZGa_D99g8EWU9lOgggCLcBGAsYHQ/s640/logo_500x500_eiplus.png" group-title="Canais | Esportes",EI PLUS 2 HD
+http://udq.me:8880/live/hbZWr/BEQPT/4396.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EI PLUS 3 HD" tvg-logo="https://1.bp.blogspot.com/-MLu8xDPo3GM/XYlDp_EpZVI/AAAAAAABaUU/vdgebefcxCMy8zvZGa_D99g8EWU9lOgggCLcBGAsYHQ/s640/logo_500x500_eiplus.png" group-title="Canais | Esportes",EI PLUS 3 HD
+http://udq.me:8880/live/hbZWr/BEQPT/4426.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EI PLUS 4 HD" tvg-logo="https://1.bp.blogspot.com/-MLu8xDPo3GM/XYlDp_EpZVI/AAAAAAABaUU/vdgebefcxCMy8zvZGa_D99g8EWU9lOgggCLcBGAsYHQ/s640/logo_500x500_eiplus.png" group-title="Canais | Esportes",EI PLUS 4 HD
+http://udq.me:8880/live/hbZWr/BEQPT/4440.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EI PLUS 5 HD" tvg-logo="https://1.bp.blogspot.com/-MLu8xDPo3GM/XYlDp_EpZVI/AAAAAAABaUU/vdgebefcxCMy8zvZGa_D99g8EWU9lOgggCLcBGAsYHQ/s640/logo_500x500_eiplus.png" group-title="Canais | Esportes",EI PLUS 5 HD
+http://udq.me:8880/live/hbZWr/BEQPT/4454.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EI PLUS 6 HD" tvg-logo="https://1.bp.blogspot.com/-MLu8xDPo3GM/XYlDp_EpZVI/AAAAAAABaUU/vdgebefcxCMy8zvZGa_D99g8EWU9lOgggCLcBGAsYHQ/s640/logo_500x500_eiplus.png" group-title="Canais | Esportes",EI PLUS 6 HD
+http://udq.me:8880/live/hbZWr/BEQPT/4455.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EI PLUS HD" tvg-logo="https://1.bp.blogspot.com/-MLu8xDPo3GM/XYlDp_EpZVI/AAAAAAABaUU/vdgebefcxCMy8zvZGa_D99g8EWU9lOgggCLcBGAsYHQ/s640/logo_500x500_eiplus.png" group-title="Canais | Esportes",EI PLUS HD
+http://udq.me:8880/live/hbZWr/BEQPT/4456.m3u8
+#EXTINF:-1 tvg-id="ESPN2" tvg-name="ESPN 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.png" group-title="Canais | ESPN",ESPN 2 FHD
+http://udq.me:8880/live/hbZWr/BEQPT/4266.m3u8
+#EXTINF:-1 tvg-id="ESPN2" tvg-name="ESPN 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.png" group-title="Canais | ESPN",ESPN 2 HD
+http://udq.me:8880/live/hbZWr/BEQPT/4090.m3u8
+#EXTINF:-1 tvg-id="ESPNBrasil" tvg-name="ESPN BRASIL FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-4.png" group-title="Canais | ESPN",ESPN BRASIL FHD
+http://udq.me:8880/live/hbZWr/BEQPT/4307.m3u8
+#EXTINF:-1 tvg-id="ESPNBrasil" tvg-name="ESPN BRASIL HD" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-4.png" group-title="Canais | ESPN",ESPN BRASIL HD
+http://udq.me:8880/live/hbZWr/BEQPT/4114.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Extra FHD" tvg-logo="https://3.bp.blogspot.com/-TNq_WQvu70w/WVrJrd2fhWI/AAAAAAAA8KQ/J02VFD8ys-sKxshHsgbLuXVBJIH_IYlawCLcBGAs/s640/espnextra.png" group-title="Canais | ESPN",ESPN Extra FHD
+http://udq.me:8880/live/hbZWr/BEQPT/4274.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA HD" tvg-logo="https://3.bp.blogspot.com/-TNq_WQvu70w/WVrJrd2fhWI/AAAAAAAA8KQ/J02VFD8ys-sKxshHsgbLuXVBJIH_IYlawCLcBGAs/s640/espnextra.png" group-title="Canais | ESPN",ESPN EXTRA HD
+http://udq.me:8880/live/hbZWr/BEQPT/4234.m3u8
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-4.png" group-title="Canais | ESPN",ESPN FHD
+http://udq.me:8880/live/hbZWr/BEQPT/4332.m3u8
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN HD" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-4.png" group-title="Canais | ESPN",ESPN HD
+http://udq.me:8880/live/hbZWr/BEQPT/4252.m3u8
+#EXTINF:-1 tvg-id="FishTV" tvg-name="FISH TV FHD" tvg-logo="https://2.bp.blogspot.com/-4Sk1VCnVers/WUH370bSreI/AAAAAAAA7bY/EeILN_PIifEmRjcRNOJxOKmnOYg_6bc1QCLcBGAs/s640/fishtv1.png" group-title="Canais | Esportes",FISH TV FHD
+http://udq.me:8880/live/hbZWr/BEQPT/4560.m3u8
+#EXTINF:-1 tvg-id="FishTV" tvg-name="FISH TV HD" tvg-logo="https://2.bp.blogspot.com/-4Sk1VCnVers/WUH370bSreI/AAAAAAAA7bY/EeILN_PIifEmRjcRNOJxOKmnOYg_6bc1QCLcBGAs/s640/fishtv1.png" group-title="Canais | Esportes",FISH TV HD
+http://udq.me:8880/live/hbZWr/BEQPT/4538.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FLA FHD" tvg-logo="https://i.imgur.com/Wx99jxy.png" group-title="Canais | Esportes",FLA FHD
+http://udq.me:8880/live/hbZWr/BEQPT/15509.m3u8
+#EXTINF:-1 tvg-id="FoodNetwork" tvg-name="FOOD NETWORK FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png" group-title=" Canais | Variedades",FOOD NETWORK FHD
+http://udq.me:8880/live/hbZWr/BEQPT/13254.m3u8
+#EXTINF:-1 tvg-id="FoodNetwork" tvg-name="FOOD NETWORK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png" group-title=" Canais | Variedades",FOOD NETWORK HD
+http://udq.me:8880/live/hbZWr/BEQPT/13253.m3u8
+#EXTINF:-1 tvg-id="FOX" tvg-name="FOX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/1200px-FOX_wordmark.png" group-title="Canais | Filmes e Séries",FOX HD
+http://udq.me:8880/live/hbZWr/BEQPT/7062.m3u8
+#EXTINF:-1 tvg-id="FoxLife" tvg-name="FOX LIFE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Fox_life_bg_2014.png" group-title="Canais | Filmes e Séries",FOX LIFE HD
+http://udq.me:8880/live/hbZWr/BEQPT/7065.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/FOXPremium2018.png" group-title="Canais | Filmes e Séries",FOX PREMIUM 1 HD
+http://udq.me:8880/live/hbZWr/BEQPT/7078.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/FOXPremium2018.png" group-title="Canais | Filmes e Séries",FOX PREMIUM 2 HD
+http://udq.me:8880/live/hbZWr/BEQPT/7081.m3u8
+#EXTINF:-1 tvg-id="FoxSports2" tvg-name="FOX SPORTS 2 FHD" tvg-logo="https://1.bp.blogspot.com/-qYwWIJ7BERY/Xbnj89VzQ3I/AAAAAAABcuA/TavZv8yMJK456E-0KJptTMB0VKXnj9BywCLcBGAsYHQ/s640/foxsports2.png" group-title="Canais | Esportes",FOX SPORTS 2 FHD
+http://udq.me:8880/live/hbZWr/BEQPT/4022.m3u8
+#EXTINF:-1 tvg-id="FoxSports2" tvg-name="FOX SPORTS 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dd/Fox_Sports_Logo.png" group-title="Canais | Esportes",FOX SPORTS 2 HD
+http://udq.me:8880/live/hbZWr/BEQPT/4030.m3u8
+#EXTINF:-1 tvg-id="FoxSports" tvg-name="FOX SPORTS FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="Canais | Esportes",FOX SPORTS FHD
+http://udq.me:8880/live/hbZWr/BEQPT/4021.m3u8
+#EXTINF:-1 tvg-id="FoxSports" tvg-name="FOX SPORTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dd/Fox_Sports_Logo.png" group-title="Canais | Esportes",FOX SPORTS HD
+http://udq.me:8880/live/hbZWr/BEQPT/4044.m3u8
+#EXTINF:-1 tvg-id="Futura" tvg-name="FUTURA FHD" tvg-logo=" https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/9/99/Canal_Futura_2001.png/revision/latest?cb=20190209220424" group-title="Canais | Abertos",FUTURA FHD
+http://udq.me:8880/live/hbZWr/BEQPT/13194.m3u8
+#EXTINF:-1 tvg-id="Futura" tvg-name="FUTURA HD" tvg-logo=" https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/9/99/Canal_Futura_2001.png/revision/latest?cb=20190209220424" group-title="Canais | Abertos",FUTURA HD
+http://udq.me:8880/live/hbZWr/BEQPT/13193.m3u8
+#EXTINF:-1 tvg-id="FX" tvg-name="FX HD" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/fx-logo-png-1.png" group-title="Canais | Filmes e Séries",FX HD
+http://udq.me:8880/live/hbZWr/BEQPT/7083.m3u8
+#EXTINF:-1 tvg-id="GloboBrasilia" tvg-name="GLOBO BRASILIA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title=" Canais | Globo",GLOBO BRASILIA FHD
+http://udq.me:8880/live/hbZWr/BEQPT/1542.m3u8
+#EXTINF:-1 tvg-id="GloboBrasilia" tvg-name="GLOBO BRASILIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title=" Canais | Globo",GLOBO BRASILIA HD
+http://udq.me:8880/live/hbZWr/BEQPT/1539.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV CAMPINAS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title=" Canais | Globo",GLOBO EPTV CAMPINAS FHD
+http://udq.me:8880/live/hbZWr/BEQPT/3769.m3u8
+#EXTINF:-1 tvg-id="GloboSP" tvg-name="GLOBO EPTV CAMPINAS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title=" Canais | Globo",GLOBO EPTV CAMPINAS HD
+http://udq.me:8880/live/hbZWr/BEQPT/1545.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV RIBEIRÃO PRETO FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title=" Canais | Globo",GLOBO EPTV RIBEIRÃO PRETO FHD
+http://udq.me:8880/live/hbZWr/BEQPT/3910.m3u8
+#EXTINF:-1 tvg-id="GloboSP" tvg-name="GLOBO EPTV RIBEIRÃO PRETO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title=" Canais | Globo",GLOBO EPTV RIBEIRÃO PRETO HD
+http://udq.me:8880/live/hbZWr/BEQPT/1546.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV ALTO LITORAL FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title=" Canais | Globo",GLOBO INTER TV ALTO LITORAL FHD
+http://udq.me:8880/live/hbZWr/BEQPT/3911.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV ALTO LITORAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title=" Canais | Globo",GLOBO INTER TV ALTO LITORAL HD
+http://udq.me:8880/live/hbZWr/BEQPT/3912.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV DOS VALES FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title=" Canais | Globo",GLOBO INTER TV DOS VALES FHD
+http://udq.me:8880/live/hbZWr/BEQPT/3914.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV DOS VALES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title=" Canais | Globo",GLOBO INTER TV DOS VALES HD
+http://udq.me:8880/live/hbZWr/BEQPT/3915.m3u8
+#EXTINF:-1 tvg-id="GloboMinas" tvg-name="GLOBO INTER TV GRANDE MINAS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title=" Canais | Globo",GLOBO INTER TV GRANDE MINAS FHD
+http://udq.me:8880/live/hbZWr/BEQPT/3917.m3u8
+#EXTINF:-1 tvg-id="GloboMinas" tvg-name="GLOBO INTER TV GRANDE MINAS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title=" Canais | Globo",GLOBO INTER TV GRANDE MINAS HD
+http://udq.me:8880/live/hbZWr/BEQPT/3918.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV SERRA MAR FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title=" Canais | Globo",GLOBO INTER TV SERRA MAR FHD
+http://udq.me:8880/live/hbZWr/BEQPT/3920.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV SERRA MAR HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title=" Canais | Globo",GLOBO INTER TV SERRA MAR HD
+http://udq.me:8880/live/hbZWr/BEQPT/3921.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo Manaus HD" tvg-logo="" group-title=" Canais | Globo",Globo Manaus HD
+http://udq.me:8880/live/hbZWr/BEQPT/13589.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO MINAS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title=" Canais | Globo",GLOBO MINAS FHD
+http://udq.me:8880/live/hbZWr/BEQPT/3783.m3u8
+#EXTINF:-1 tvg-id="GloboMinas" tvg-name="GLOBO MINAS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title=" Canais | Globo",GLOBO MINAS HD
+http://udq.me:8880/live/hbZWr/BEQPT/1574.m3u8
+#EXTINF:-1 tvg-id="GloboNews" tvg-name="GLOBO NEWS FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/globo-news-logo.png" group-title="Canais | Notícias",GLOBO NEWS FHD
+http://udq.me:8880/live/hbZWr/BEQPT/1475.m3u8
+#EXTINF:-1 tvg-id="GloboNews" tvg-name="GLOBO NEWS HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/globo-news-logo.png" group-title="Canais | Notícias",GLOBO NEWS HD
+http://udq.me:8880/live/hbZWr/BEQPT/1460.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NORDESTE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title=" Canais | Globo",GLOBO NORDESTE FHD
+http://udq.me:8880/live/hbZWr/BEQPT/3809.m3u8
+#EXTINF:-1 tvg-id="GloboNordeste" tvg-name="GLOBO NORDESTE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title=" Canais | Globo",GLOBO NORDESTE HD
+http://udq.me:8880/live/hbZWr/BEQPT/1582.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV BLUMENAU FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title=" Canais | Globo",GLOBO NSC TV BLUMENAU FHD
+http://udq.me:8880/live/hbZWr/BEQPT/3923.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV BLUMENAU HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title=" Canais | Globo",GLOBO NSC TV BLUMENAU HD
+http://udq.me:8880/live/hbZWr/BEQPT/3924.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV CHAPECO FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title=" Canais | Globo",GLOBO NSC TV CHAPECO FHD
+http://udq.me:8880/live/hbZWr/BEQPT/2834.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV CHAPECO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title=" Canais | Globo",GLOBO NSC TV CHAPECO HD
+http://udq.me:8880/live/hbZWr/BEQPT/3071.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV FLORIANOPOLIS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title=" Canais | Globo",GLOBO NSC TV FLORIANOPOLIS FHD
+http://udq.me:8880/live/hbZWr/BEQPT/3824.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV FLORIANOPOLIS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title=" Canais | Globo",GLOBO NSC TV FLORIANOPOLIS HD
+http://udq.me:8880/live/hbZWr/BEQPT/1608.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV JOINVILLE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title=" Canais | Globo",GLOBO NSC TV JOINVILLE FHD
+http://udq.me:8880/live/hbZWr/BEQPT/3929.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV JOINVILLE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title=" Canais | Globo",GLOBO NSC TV JOINVILLE HD
+http://udq.me:8880/live/hbZWr/BEQPT/3930.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS PORTO ALEGRE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title=" Canais | Globo",GLOBO RBS PORTO ALEGRE FHD
+http://udq.me:8880/live/hbZWr/BEQPT/3835.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS TV CAXIAS DO SUL FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title=" Canais | Globo",GLOBO RBS TV CAXIAS DO SUL FHD
+http://udq.me:8880/live/hbZWr/BEQPT/3926.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS TV CAXIAS DO SUL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title=" Canais | Globo",GLOBO RBS TV CAXIAS DO SUL HD
+http://udq.me:8880/live/hbZWr/BEQPT/3927.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS TV PELOTAS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title=" Canais | Globo",GLOBO RBS TV PELOTAS FHD
+http://udq.me:8880/live/hbZWr/BEQPT/3932.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS TV PELOTAS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title=" Canais | Globo",GLOBO RBS TV PELOTAS HD
+http://udq.me:8880/live/hbZWr/BEQPT/3933.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS TV PORTO ALEGRE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title=" Canais | Globo",GLOBO RBS TV PORTO ALEGRE HD
+http://udq.me:8880/live/hbZWr/BEQPT/1632.m3u8
+#EXTINF:-1 tvg-id="GloboRJ" tvg-name="GLOBO RJ FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title=" Canais | Globo",GLOBO RJ FHD
+http://udq.me:8880/live/hbZWr/BEQPT/1684.m3u8
+#EXTINF:-1 tvg-id="GloboRJ" tvg-name="GLOBO RJ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title=" Canais | Globo",GLOBO RJ HD
+http://udq.me:8880/live/hbZWr/BEQPT/1683.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC CURITIBA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title=" Canais | Globo",GLOBO RPC CURITIBA FHD
+http://udq.me:8880/live/hbZWr/BEQPT/1699.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC CURITIBA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title=" Canais | Globo",GLOBO RPC CURITIBA HD
+http://udq.me:8880/live/hbZWr/BEQPT/1698.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC FOZ DO IGUACU FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title=" Canais | Globo",GLOBO RPC FOZ DO IGUACU FHD
+http://udq.me:8880/live/hbZWr/BEQPT/3244.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC FOZ DO IGUACU HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title=" Canais | Globo",GLOBO RPC FOZ DO IGUACU HD
+http://udq.me:8880/live/hbZWr/BEQPT/3280.m3u8
+#EXTINF:-1 tvg-id="GloboSP" tvg-name="GLOBO RPC MARINGA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title=" Canais | Globo",GLOBO RPC MARINGA FHD
+http://udq.me:8880/live/hbZWr/BEQPT/1517.m3u8
+#EXTINF:-1 tvg-id="GloboSP" tvg-name="GLOBO RPC MARINGA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title=" Canais | Globo",GLOBO RPC MARINGA HD
+http://udq.me:8880/live/hbZWr/BEQPT/1514.m3u8
+#EXTINF:-1 tvg-id="GloboSP" tvg-name="GLOBO SP FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title=" Canais | Globo",GLOBO SP FHD
+http://udq.me:8880/live/hbZWr/BEQPT/1702.m3u8
+#EXTINF:-1 tvg-id="GloboSP" tvg-name="GLOBO SP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title=" Canais | Globo",GLOBO SP HD
+http://udq.me:8880/live/hbZWr/BEQPT/1701.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV ANHANGUERA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title=" Canais | Globo",GLOBO TV ANHANGUERA FHD
+http://udq.me:8880/live/hbZWr/BEQPT/3896.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV ANHANGUERA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title=" Canais | Globo",GLOBO TV ANHANGUERA HD
+http://udq.me:8880/live/hbZWr/BEQPT/1847.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV BAHIA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title=" Canais | Globo",GLOBO TV BAHIA FHD
+http://udq.me:8880/live/hbZWr/BEQPT/3897.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV BAHIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title=" Canais | Globo",GLOBO TV BAHIA HD
+http://udq.me:8880/live/hbZWr/BEQPT/2141.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV CABO BRANCO FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title=" Canais | Globo",GLOBO TV CABO BRANCO FHD
+http://udq.me:8880/live/hbZWr/BEQPT/3935.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV CABO BRANCO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title=" Canais | Globo",GLOBO TV CABO BRANCO HD
+http://udq.me:8880/live/hbZWr/BEQPT/3936.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV CLUBE TERESINA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title=" Canais | Globo",GLOBO TV CLUBE TERESINA FHD
+http://udq.me:8880/live/hbZWr/BEQPT/3440.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV CLUBE TERESINA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title=" Canais | Globo",GLOBO TV CLUBE TERESINA HD
+http://udq.me:8880/live/hbZWr/BEQPT/3456.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV GAZETA ALAGOAS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title=" Canais | Globo",GLOBO TV GAZETA ALAGOAS FHD
+http://udq.me:8880/live/hbZWr/BEQPT/3906.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV GAZETA ALAGOAS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title=" Canais | Globo",GLOBO TV GAZETA ALAGOAS HD
+http://udq.me:8880/live/hbZWr/BEQPT/3907.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV GAZETA SUL ES FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title=" Canais | Globo",GLOBO TV GAZETA SUL ES FHD
+http://udq.me:8880/live/hbZWr/BEQPT/3908.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV GAZETA SUL ES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title=" Canais | Globo",GLOBO TV GAZETA SUL ES HD
+http://udq.me:8880/live/hbZWr/BEQPT/3909.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV GAZETA VITÓRIA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title=" Canais | Globo",GLOBO TV GAZETA VITÓRIA FHD
+http://udq.me:8880/live/hbZWr/BEQPT/3764.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV GAZETA VITÓRIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title=" Canais | Globo",GLOBO TV GAZETA VITÓRIA HD
+http://udq.me:8880/live/hbZWr/BEQPT/3765.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV MIRANTE SAO LUIS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title=" Canais | Globo",GLOBO TV MIRANTE SAO LUIS FHD
+http://udq.me:8880/live/hbZWr/BEQPT/3898.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV MIRANTE SAO LUIS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title=" Canais | Globo",GLOBO TV MIRANTE SAO LUIS HD
+http://udq.me:8880/live/hbZWr/BEQPT/3899.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV MORENA CAMPO GRANDE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title=" Canais | Globo",GLOBO TV MORENA CAMPO GRANDE FHD
+http://udq.me:8880/live/hbZWr/BEQPT/3901.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV MORENA CAMPO GRANDE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title=" Canais | Globo",GLOBO TV MORENA CAMPO GRANDE HD
+http://udq.me:8880/live/hbZWr/BEQPT/3902.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV RIO SUL FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title=" Canais | Globo",GLOBO TV RIO SUL FHD
+http://udq.me:8880/live/hbZWr/BEQPT/3938.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV RIO SUL HD" tvg-logo="" group-title=" Canais | Globo",GLOBO TV RIO SUL HD
+http://udq.me:8880/live/hbZWr/BEQPT/3939.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV SANTA CRUZ FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title=" Canais | Globo",GLOBO TV SANTA CRUZ FHD
+http://udq.me:8880/live/hbZWr/BEQPT/3941.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV SANTA CRUZ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title=" Canais | Globo",GLOBO TV SANTA CRUZ HD
+http://udq.me:8880/live/hbZWr/BEQPT/3942.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV SERGIPE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title=" Canais | Globo",GLOBO TV SERGIPE FHD
+http://udq.me:8880/live/hbZWr/BEQPT/3767.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV SERGIPE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title=" Canais | Globo",GLOBO TV SERGIPE HD
+http://udq.me:8880/live/hbZWr/BEQPT/3768.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TEM S. J. DO RIO PRETO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title=" Canais | Globo",GLOBO TV TEM S. J. DO RIO PRETO HD
+http://udq.me:8880/live/hbZWr/BEQPT/2592.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TEM S. J. RIO PRETO FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title=" Canais | Globo",GLOBO TV TEM S. J. RIO PRETO FHD
+http://udq.me:8880/live/hbZWr/BEQPT/3904.m3u8
+#EXTINF:-1 tvg-id="Gloob" tvg-name="GLOOB FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/gloob-logo.png" group-title="Canais | Infantis",GLOOB FHD
+http://udq.me:8880/live/hbZWr/BEQPT/12946.m3u8
+#EXTINF:-1 tvg-id="Gloob" tvg-name="GLOOB HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/gloob-logo.png" group-title="Canais | Infantis",GLOOB HD
+http://udq.me:8880/live/hbZWr/BEQPT/12945.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOOBINHO FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/gloobinho-logo.png" group-title="Canais | Infantis",GLOOBINHO FHD
+http://udq.me:8880/live/hbZWr/BEQPT/12949.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOOBINHO HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/gloobinho-logo.png" group-title="Canais | Infantis",GLOOBINHO HD
+http://udq.me:8880/live/hbZWr/BEQPT/12948.m3u8
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT FHD" tvg-logo="https://g.glbimg.com/og/gs/gsat5/f/thumbs/programa/2018/09/19/LOGO_GNT_02.png" group-title=" Canais | Variedades",GNT FHD
+http://udq.me:8880/live/hbZWr/BEQPT/13257.m3u8
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT HD" tvg-logo="https://g.glbimg.com/og/gs/gsat5/f/thumbs/programa/2018/09/19/LOGO_GNT_02.png" group-title=" Canais | Variedades",GNT HD
+http://udq.me:8880/live/hbZWr/BEQPT/13256.m3u8
+#EXTINF:-1 tvg-id="History2" tvg-name="H2 FHD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/H2_logo_2019.png/revision/latest/scale-to-width-down/340?cb=20190207234921" group-title=" Canais | Documentários",H2 FHD
+http://udq.me:8880/live/hbZWr/BEQPT/13143.m3u8
+#EXTINF:-1 tvg-id="History2" tvg-name="H2 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/H2_logo_2019.png/revision/latest/scale-to-width-down/340?cb=20190207234921" group-title=" Canais | Documentários",H2 HD
+http://udq.me:8880/live/hbZWr/BEQPT/13142.m3u8
+#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO 2 HD" tvg-logo="https://i.dlpng.com/static/png/6682032_preview.png" group-title="Canais | Filmes e Séries",HBO 2 HD
+http://udq.me:8880/live/hbZWr/BEQPT/7086.m3u8
+#EXTINF:-1 tvg-id="HBOFamily" tvg-name="HBO FAMILY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="Canais | Filmes e Séries",HBO FAMILY HD
+http://udq.me:8880/live/hbZWr/BEQPT/7113.m3u8
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO HD" tvg-logo="https://i.dlpng.com/static/png/6682032_preview.png" group-title="Canais | Filmes e Séries",HBO HD
+http://udq.me:8880/live/hbZWr/BEQPT/7163.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI HD" tvg-logo="https://i.dlpng.com/static/png/6682032_preview.png" group-title="Canais | Filmes e Séries",HBO MUNDI HD
+http://udq.me:8880/live/hbZWr/BEQPT/7721.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO POP HD" tvg-logo="https://i.dlpng.com/static/png/6682032_preview.png" group-title="Canais | Filmes e Séries",HBO POP HD
+http://udq.me:8880/live/hbZWr/BEQPT/7725.m3u8
+#EXTINF:-1 tvg-id="HBOSignature" tvg-name="HBO SIGNATURE HD" tvg-logo="https://i.dlpng.com/static/png/6682032_preview.png" group-title="Canais | Filmes e Séries",HBO SIGNATURE HD
+http://udq.me:8880/live/hbZWr/BEQPT/7718.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME HD" tvg-logo="https://i.dlpng.com/static/png/6682032_preview.png" group-title="Canais | Filmes e Séries",HBO XTREME HD
+http://udq.me:8880/live/hbZWr/BEQPT/7723.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HGTV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title=" Canais | Documentários",HGTV FHD
+http://udq.me:8880/live/hbZWr/BEQPT/13131.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HGTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title=" Canais | Documentários",HGTV HD
+http://udq.me:8880/live/hbZWr/BEQPT/13130.m3u8
+#EXTINF:-1 tvg-id="TheHistoryChannel" tvg-name="HISTORY FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/03/history-channel-logo.png" group-title=" Canais | Documentários",HISTORY FHD
+http://udq.me:8880/live/hbZWr/BEQPT/13146.m3u8
+#EXTINF:-1 tvg-id="TheHistoryChannel" tvg-name="HISTORY HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/03/history-channel-logo.png" group-title=" Canais | Documentários",HISTORY HD
+http://udq.me:8880/live/hbZWr/BEQPT/13145.m3u8
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="LIFETIME FHD" tvg-logo="https://experience-lifetimebr.tbxnet.com/images/networkLogo/life.png?_v=1.5.33" group-title=" Canais | Variedades",LIFETIME FHD
+http://udq.me:8880/live/hbZWr/BEQPT/13260.m3u8
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="LIFETIME HD" tvg-logo="https://experience-lifetimebr.tbxnet.com/images/networkLogo/life.png?_v=1.5.33" group-title=" Canais | Variedades",LIFETIME HD
+http://udq.me:8880/live/hbZWr/BEQPT/13259.m3u8
+#EXTINF:-1 tvg-id="MaisGlobosat" tvg-name="MAIS GLOBOSAT FHD" tvg-logo="https://s2.glbimg.com/uiEeBZJKeOneVk97k2Oo00zutxI=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/f1/9f/b246cd313d3bbf3d94cfc654a161.png" group-title=" Canais | Variedades",MAIS GLOBOSAT FHD
+http://udq.me:8880/live/hbZWr/BEQPT/13263.m3u8
+#EXTINF:-1 tvg-id="MaisGlobosat" tvg-name="MAIS GLOBOSAT HD" tvg-logo="https://s2.glbimg.com/uiEeBZJKeOneVk97k2Oo00zutxI=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/f1/9f/b246cd313d3bbf3d94cfc654a161.png" group-title=" Canais | Variedades",MAIS GLOBOSAT HD
+http://udq.me:8880/live/hbZWr/BEQPT/13262.m3u8
+#EXTINF:-1 tvg-id="MegaPix" tvg-name="MEGAPIX HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/megapix-logo.png" group-title="Canais | Filmes e Séries",MEGAPIX HD
+http://udq.me:8880/live/hbZWr/BEQPT/7727.m3u8
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV HD" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/mtv-logo-png-2.png" group-title="Canais  | Músicas",MTV HD
+http://udq.me:8880/live/hbZWr/BEQPT/13251.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV LIVE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MTV_Live_HD_2017_logo.svg/1200px-MTV_Live_HD_2017_logo.svg.png" group-title="Canais  | Músicas",MTV LIVE HD
+http://udq.me:8880/live/hbZWr/BEQPT/13264.m3u8
+#EXTINF:-1 tvg-id="Multishow" tvg-name="MULTISHOW FHD" tvg-logo=" https://logodownload.org/wp-content/uploads/2017/03/multishow-logo.png" group-title=" Canais | Variedades",MULTISHOW FHD
+http://udq.me:8880/live/hbZWr/BEQPT/13268.m3u8
+#EXTINF:-1 tvg-id="Multishow" tvg-name="MULTISHOW HD" tvg-logo=" https://logodownload.org/wp-content/uploads/2017/03/multishow-logo.png" group-title=" Canais | Variedades",MULTISHOW HD
+http://udq.me:8880/live/hbZWr/BEQPT/13267.m3u8
+#EXTINF:-1 tvg-id="MusicBoxBrazil" tvg-name="MUSIC BOX BRASIL HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_music-box-brasil_m.png" group-title="Canais  | Músicas",MUSIC BOX BRASIL HD
+http://udq.me:8880/live/hbZWr/BEQPT/13678.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic" tvg-name="NAT GEO FHD" tvg-logo="https://assets.cdn.watchdisneyfe.com/delta/assets/natgeo/national-geographic@2x.png" group-title=" Canais | Documentários",NAT GEO FHD
+http://udq.me:8880/live/hbZWr/BEQPT/13155.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic" tvg-name="NAT GEO HD" tvg-logo="https://assets.cdn.watchdisneyfe.com/delta/assets/natgeo/national-geographic@2x.png" group-title=" Canais | Documentários",NAT GEO HD
+http://udq.me:8880/live/hbZWr/BEQPT/13154.m3u8
+#EXTINF:-1 tvg-id="NatGeoKids" tvg-name="NAT GEO KIDS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1280px-Natgeo_Kids_logo.svg.png" group-title="Canais | Infantis",NAT GEO KIDS FHD
+http://udq.me:8880/live/hbZWr/BEQPT/12952.m3u8
+#EXTINF:-1 tvg-id="NatGeoKids" tvg-name="NAT GEO KIDS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1280px-Natgeo_Kids_logo.svg.png" group-title="Canais | Infantis",NAT GEO KIDS HD
+http://udq.me:8880/live/hbZWr/BEQPT/12951.m3u8
+#EXTINF:-1 tvg-id="NatGeoWild" tvg-name="NAT GEO WILD FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title=" Canais | Documentários",NAT GEO WILD FHD
+http://udq.me:8880/live/hbZWr/BEQPT/13152.m3u8
+#EXTINF:-1 tvg-id="NatGeoWild" tvg-name="NAT GEO WILD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title=" Canais | Documentários",NAT GEO WILD HD
+http://udq.me:8880/live/hbZWr/BEQPT/13151.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBR HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/NBR_Logo.svg" group-title="Canais | Abertos",NBR HD
+http://udq.me:8880/live/hbZWr/BEQPT/13205.m3u8
+#EXTINF:-1 tvg-id="NickJr" tvg-name="NICK JR FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/nick-jr-logo.png" group-title="Canais | Infantis",NICK JR FHD
+http://udq.me:8880/live/hbZWr/BEQPT/12955.m3u8
+#EXTINF:-1 tvg-id="NickJr" tvg-name="NICK JR HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/nick-jr-logo.png" group-title="Canais | Infantis",NICK JR HD
+http://udq.me:8880/live/hbZWr/BEQPT/12954.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="NICKELODEON FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/nickelodeon-logo.png" group-title="Canais | Infantis",NICKELODEON FHD
+http://udq.me:8880/live/hbZWr/BEQPT/12958.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="NICKELODEON HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/nickelodeon-logo.png" group-title="Canais | Infantis",NICKELODEON HD
+http://udq.me:8880/live/hbZWr/BEQPT/12957.m3u8
+#EXTINF:-1 tvg-id="TVNovoTempo" tvg-name="NOVO TEMPO HD" tvg-logo="http://static.bldn.vip/logos/religiosos/novotempo.png" group-title="Canais | Religiosos",NOVO TEMPO HD
+http://udq.me:8880/live/hbZWr/BEQPT/12971.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OFF FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/08/canal-off-logo-1.png" group-title="Canais | Esportes",OFF FHD
+http://udq.me:8880/live/hbZWr/BEQPT/4460.m3u8
+#EXTINF:-1 tvg-id="OFF" tvg-name="OFF HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/08/canal-off-logo-1.png" group-title="Canais | Esportes",OFF HD
+http://udq.me:8880/live/hbZWr/BEQPT/4459.m3u8
+#EXTINF:-1 tvg-id="Paramount" tvg-name="PARAMOUNT CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Paramount.png" group-title="Canais | Filmes e Séries",PARAMOUNT CHANNEL HD
+http://udq.me:8880/live/hbZWr/BEQPT/13281.m3u8
+#EXTINF:-1 tvg-id="PlayboyTV" tvg-name="PLAYBOY FHD" tvg-logo="https://i1.wp.com/studentnewspaper.org/wp-content/uploads/2016/02/5-Comment-Playboy-logo.png?resize=851%2C535&ssl=1" group-title=" Canais | Adultos",PLAYBOY FHD
+http://udq.me:8880/live/hbZWr/BEQPT/4897.m3u8
+#EXTINF:-1 tvg-id="PlayboyTV" tvg-name="PLAYBOY HD" tvg-logo="https://i1.wp.com/studentnewspaper.org/wp-content/uploads/2016/02/5-Comment-Playboy-logo.png?resize=851%2C535&ssl=1" group-title=" Canais | Adultos",PLAYBOY HD
+http://udq.me:8880/live/hbZWr/BEQPT/4899.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PLAYKIDS FHD" tvg-logo="https://i2.wp.com/agiliza.nextel.com.br/wp-content/uploads/2019/07/playkidslogo.png?fit=1600%2C1050&ssl=1" group-title="Canais | Infantis",PLAYKIDS FHD
+http://udq.me:8880/live/hbZWr/BEQPT/12961.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PLAYKIDS HD" tvg-logo="https://i2.wp.com/agiliza.nextel.com.br/wp-content/uploads/2019/07/playkidslogo.png?fit=1600%2C1050&ssl=1" group-title="Canais | Infantis",PLAYKIDS HD
+http://udq.me:8880/live/hbZWr/BEQPT/12960.m3u8
+#EXTINF:-1 tvg-id="Premiere2" tvg-name="PREMIERE 2 FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="Canais | Premiere",PREMIERE 2 FHD
+http://udq.me:8880/live/hbZWr/BEQPT/839.m3u8
+#EXTINF:-1 tvg-id="Premiere2" tvg-name="PREMIERE 2 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="Canais | Premiere",PREMIERE 2 HD
+http://udq.me:8880/live/hbZWr/BEQPT/745.m3u8
+#EXTINF:-1 tvg-id="Premiere3" tvg-name="PREMIERE 3 FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="Canais | Premiere",PREMIERE 3 FHD
+http://udq.me:8880/live/hbZWr/BEQPT/840.m3u8
+#EXTINF:-1 tvg-id="Premiere3" tvg-name="PREMIERE 3 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="Canais | Premiere",PREMIERE 3 HD
+http://udq.me:8880/live/hbZWr/BEQPT/766.m3u8
+#EXTINF:-1 tvg-id="Premiere4" tvg-name="PREMIERE 4 FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="Canais | Premiere",PREMIERE 4 FHD
+http://udq.me:8880/live/hbZWr/BEQPT/861.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 4 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="Canais | Premiere",PREMIERE 4 HD
+http://udq.me:8880/live/hbZWr/BEQPT/781.m3u8
+#EXTINF:-1 tvg-id="Premiere5" tvg-name="PREMIERE 5 FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="Canais | Premiere",PREMIERE 5 FHD
+http://udq.me:8880/live/hbZWr/BEQPT/862.m3u8
+#EXTINF:-1 tvg-id="Premiere5" tvg-name="PREMIERE 5 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="Canais | Premiere",PREMIERE 5 HD
+http://udq.me:8880/live/hbZWr/BEQPT/783.m3u8
+#EXTINF:-1 tvg-id="Premiere6" tvg-name="PREMIERE 6 FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="Canais | Premiere",PREMIERE 6 FHD
+http://udq.me:8880/live/hbZWr/BEQPT/864.m3u8
+#EXTINF:-1 tvg-id="Premiere6" tvg-name="PREMIERE 6 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="Canais | Premiere",PREMIERE 6 HD
+http://udq.me:8880/live/hbZWr/BEQPT/791.m3u8
+#EXTINF:-1 tvg-id="Premiere7" tvg-name="PREMIERE 7 FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="Canais | Premiere",PREMIERE 7 FHD
+http://udq.me:8880/live/hbZWr/BEQPT/886.m3u8
+#EXTINF:-1 tvg-id="Premiere7" tvg-name="PREMIERE 7 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="Canais | Premiere",PREMIERE 7 HD
+http://udq.me:8880/live/hbZWr/BEQPT/836.m3u8
+#EXTINF:-1 tvg-id="PremiereClubes" tvg-name="PREMIERE CLUBES FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="Canais | Premiere",PREMIERE CLUBES FHD
+http://udq.me:8880/live/hbZWr/BEQPT/914.m3u8
+#EXTINF:-1 tvg-id="PremiereClubes" tvg-name="Premiere Clubes HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="Canais | Premiere",Premiere Clubes HD
+http://udq.me:8880/live/hbZWr/BEQPT/838.m3u8
+#EXTINF:-1 tvg-id="PrimeBoxBrazil" tvg-name="PRIME BOX BRASIL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/PrimeBoxBrazil2019.png" group-title="Canais  | Músicas",PRIME BOX BRASIL HD
+http://udq.me:8880/live/hbZWr/BEQPT/13294.m3u8
+#EXTINF:-1 tvg-id="RecordNews" tvg-name="RECORD NEWS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b1/Logotipo_da_Record_News.png" group-title="Canais | Notícias",RECORD NEWS FHD
+http://udq.me:8880/live/hbZWr/BEQPT/1508.m3u8
+#EXTINF:-1 tvg-id="RecordNews" tvg-name="RECORD NEWS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b1/Logotipo_da_Record_News.png" group-title="Canais | Notícias",RECORD NEWS HD
+http://udq.me:8880/live/hbZWr/BEQPT/1510.m3u8
+#EXTINF:-1 tvg-id="RECORDTV" tvg-name="RECORD SP FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="Canais | Abertos",RECORD SP FHD
+http://udq.me:8880/live/hbZWr/BEQPT/13165.m3u8
+#EXTINF:-1 tvg-id="TVCabraliaHD" tvg-name="RECORDTV BA HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="Canais | Abertos",RECORDTV BA HD
+http://udq.me:8880/live/hbZWr/BEQPT/13171.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RECORDTV BELEM HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="Canais | Abertos",RECORDTV BELEM HD
+http://udq.me:8880/live/hbZWr/BEQPT/13160.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RECORDTV DF HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="Canais | Abertos",RECORDTV DF HD
+http://udq.me:8880/live/hbZWr/BEQPT/13173.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RECORDTV GO HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="Canais | Abertos",RECORDTV GO HD
+http://udq.me:8880/live/hbZWr/BEQPT/13162.m3u8
+#EXTINF:-1 tvg-id="RecordTVMinasHD" tvg-name="RECORDTV MG HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="Canais | Abertos",RECORDTV MG HD
+http://udq.me:8880/live/hbZWr/BEQPT/13169.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RECORDTV RIO HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="Canais | Abertos",RECORDTV RIO HD
+http://udq.me:8880/live/hbZWr/BEQPT/13167.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RECORDTV RS HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="Canais | Abertos",RECORDTV RS HD
+http://udq.me:8880/live/hbZWr/BEQPT/13175.m3u8
+#EXTINF:-1 tvg-id="RECORDTV" tvg-name="RECORDTV SP HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="Canais | Abertos",RECORDTV SP HD
+http://udq.me:8880/live/hbZWr/BEQPT/13166.m3u8
+#EXTINF:-1 tvg-id="RedeTV" tvg-name="REDE TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png" group-title="Canais | Abertos",REDE TV FHD
+http://udq.me:8880/live/hbZWr/BEQPT/13188.m3u8
+#EXTINF:-1 tvg-id="RedeTV" tvg-name="REDE TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png" group-title="Canais | Abertos",REDE TV HD
+http://udq.me:8880/live/hbZWr/BEQPT/13187.m3u8
+#EXTINF:-1 tvg-id="RedeVida" tvg-name="REDE VIDA FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/12/rede-vida-logo.png" group-title="Canais | Religiosos",REDE VIDA FHD
+http://udq.me:8880/live/hbZWr/BEQPT/12969.m3u8
+#EXTINF:-1 tvg-id="RedeVida" tvg-name="REDE VIDA HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/12/rede-vida-logo.png" group-title="Canais | Religiosos",REDE VIDA HD
+http://udq.me:8880/live/hbZWr/BEQPT/12968.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RPC Parana HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title=" Canais | Globo",RPC Parana HD
+http://udq.me:8880/live/hbZWr/BEQPT/13653.m3u8
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png" group-title="Canais | Abertos",SBT FHD
+http://udq.me:8880/live/hbZWr/BEQPT/13180.m3u8
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png" group-title="Canais | Abertos",SBT HD
+http://udq.me:8880/live/hbZWr/BEQPT/13179.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SMITHSONIAN CHANNEL FHD" tvg-logo="https://www.logolynx.com/images/logolynx/ed/edbbed313f434f886bc630a3768d8b74.png" group-title=" Canais | Documentários",SMITHSONIAN CHANNEL FHD
+http://udq.me:8880/live/hbZWr/BEQPT/13158.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SMITHSONIAN CHANNEL HD" tvg-logo="https://www.logolynx.com/images/logolynx/ed/edbbed313f434f886bc630a3768d8b74.png" group-title=" Canais | Documentários",SMITHSONIAN CHANNEL HD
+http://udq.me:8880/live/hbZWr/BEQPT/13157.m3u8
+#EXTINF:-1 tvg-id="Space" tvg-name="SPACE HD" tvg-logo="https://1.bp.blogspot.com/-LrWhQBx4zi0/WmO2Ibo5_5I/AAAAAAABDbM/wjOq8TCWZWoAoJTnkvXnc4cZY5Ssu36DACLcBGAs/s640/spacehd.png" group-title="Canais | Filmes e Séries",SPACE HD
+http://udq.me:8880/live/hbZWr/BEQPT/13286.m3u8
+#EXTINF:-1 tvg-id="SporTV2" tvg-name="SPORTV 2 FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title=" Canais | SporTV",SPORTV 2 FHD
+http://udq.me:8880/live/hbZWr/BEQPT/4020.m3u8
+#EXTINF:-1 tvg-id="SporTV2" tvg-name="SPORTV 2 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title=" Canais | SporTV",SPORTV 2 HD
+http://udq.me:8880/live/hbZWr/BEQPT/4027.m3u8
+#EXTINF:-1 tvg-id="SporTV3" tvg-name="SPORTV 3 FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title=" Canais | SporTV",SPORTV 3 FHD
+http://udq.me:8880/live/hbZWr/BEQPT/4019.m3u8
+#EXTINF:-1 tvg-id="SporTV3" tvg-name="SPORTV 3 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title=" Canais | SporTV",SPORTV 3 HD
+http://udq.me:8880/live/hbZWr/BEQPT/4025.m3u8
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SPORTV FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="Canais | Esportes",SPORTV FHD
+http://udq.me:8880/live/hbZWr/BEQPT/4018.m3u8
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SPORTV HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title=" Canais | SporTV",SPORTV HD
+http://udq.me:8880/live/hbZWr/BEQPT/4024.m3u8
+#EXTINF:-1 tvg-id="StudioUniversal" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/606px-Logo_Studio_Universal.svg.png" group-title="Canais | Filmes e Séries",STUDIO UNIVERSAL HD
+http://udq.me:8880/live/hbZWr/BEQPT/13288.m3u8
+#EXTINF:-1 tvg-id="Syfy" tvg-name="SYFY HD" tvg-logo="https://www.syfy.pt/sites/all/themes/pint_themes/base_syfywire/logo.svg" group-title="Canais | Filmes e Séries",SYFY HD
+http://udq.me:8880/live/hbZWr/BEQPT/13284.m3u8
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1024px-TBS_logo_2016.svg.png" group-title="Canais | Filmes e Séries",TBS HD
+http://udq.me:8880/live/hbZWr/BEQPT/13291.m3u8
+#EXTINF:-1 tvg-id="TelecineAction" tvg-name="TELECINE ACTION HD" tvg-logo=" https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/9/98/Telecine.png/revision/latest/scale-to-width-down/340?cb=20190227172201" group-title="Canais | Filmes e Séries",TELECINE ACTION HD
+http://udq.me:8880/live/hbZWr/BEQPT/13296.m3u8
+#EXTINF:-1 tvg-id="TelecineCult" tvg-name="TELECINE CULT HD" tvg-logo=" https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/9/98/Telecine.png/revision/latest/scale-to-width-down/340?cb=20190227172201" group-title="Canais | Filmes e Séries",TELECINE CULT HD
+http://udq.me:8880/live/hbZWr/BEQPT/13298.m3u8
+#EXTINF:-1 tvg-id="TelecineFun" tvg-name="TELECINE FUN HD" tvg-logo=" https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/9/98/Telecine.png/revision/latest/scale-to-width-down/340?cb=20190227172201" group-title="Canais | Filmes e Séries",TELECINE FUN HD
+http://udq.me:8880/live/hbZWr/BEQPT/13299.m3u8
+#EXTINF:-1 tvg-id="TelecinePipoca" tvg-name="TELECINE PIPOCA HD" tvg-logo=" https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/9/98/Telecine.png/revision/latest/scale-to-width-down/340?cb=20190227172201" group-title="Canais | Filmes e Séries",TELECINE PIPOCA HD
+http://udq.me:8880/live/hbZWr/BEQPT/13302.m3u8
+#EXTINF:-1 tvg-id="TelecinePremium" tvg-name="TELECINE PREMIUM HD" tvg-logo=" https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/9/98/Telecine.png/revision/latest/scale-to-width-down/340?cb=20190227172201" group-title="Canais | Filmes e Séries",TELECINE PREMIUM HD
+http://udq.me:8880/live/hbZWr/BEQPT/13304.m3u8
+#EXTINF:-1 tvg-id="TelecineTouch" tvg-name="TELECINE TOUCH HD" tvg-logo=" https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/9/98/Telecine.png/revision/latest/scale-to-width-down/340?cb=20190227172201" group-title="Canais | Filmes e Séries",TELECINE TOUCH HD
+http://udq.me:8880/live/hbZWr/BEQPT/13305.m3u8
+#EXTINF:-1 tvg-id="TerraViva" tvg-name="TERRA VIVA HD" tvg-logo=" https://logodownload.org/wp-content/uploads/2017/11/terra-viva-logo.png" group-title="Canais | Abertos",TERRA VIVA HD
+http://udq.me:8880/live/hbZWr/BEQPT/13201.m3u8
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC FHD" tvg-logo="https://i.dlpng.com/static/png/6546424_preview.png" group-title=" Canais | Variedades",TLC FHD
+http://udq.me:8880/live/hbZWr/BEQPT/13271.m3u8
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC HD" tvg-logo="https://i.dlpng.com/static/png/6546424_preview.png" group-title=" Canais | Variedades",TLC HD
+http://udq.me:8880/live/hbZWr/BEQPT/13270.m3u8
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT HD" tvg-logo="https://ap.imagensbrasil.org/images/2017/04/28/TNT.png" group-title="Canais | Filmes e Séries",TNT HD
+http://udq.me:8880/live/hbZWr/BEQPT/13308.m3u8
+#EXTINF:-1 tvg-id="TNTSeries" tvg-name="TNT SERIES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="Canais | Filmes e Séries",TNT SERIES HD
+http://udq.me:8880/live/hbZWr/BEQPT/13310.m3u8
+#EXTINF:-1 tvg-id="TruTV" tvg-name="TRUTV FHD" tvg-logo="https://images.squarespace-cdn.com/content/v1/538aa6ace4b002e4f8da0aea/1401600023570-6N3KHQCT7J14MHT3SBZ8/ke17ZwdGBToddI8pDm48kOyctPanBqSdf7WQMpY1FsRZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyD4IQ_uEhoqbBUjTJFcqKvko9JlUzuVmtjr1UPhOA5qkTLSJODyitRxw8OQt1oetw/trutv.png?format=1500w" group-title=" Canais | Variedades",TRUTV FHD
+http://udq.me:8880/live/hbZWr/BEQPT/13274.m3u8
+#EXTINF:-1 tvg-id="TruTV" tvg-name="TRUTV HD" tvg-logo="https://images.squarespace-cdn.com/content/v1/538aa6ace4b002e4f8da0aea/1401600023570-6N3KHQCT7J14MHT3SBZ8/ke17ZwdGBToddI8pDm48kOyctPanBqSdf7WQMpY1FsRZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyD4IQ_uEhoqbBUjTJFcqKvko9JlUzuVmtjr1UPhOA5qkTLSJODyitRxw8OQt1oetw/trutv.png?format=1500w" group-title=" Canais | Variedades",TRUTV HD
+http://udq.me:8880/live/hbZWr/BEQPT/13273.m3u8
+#EXTINF:-1 tvg-id="TVCultura" tvg-name="TV CULTURA FHD" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.png" group-title="Canais | Abertos",TV CULTURA FHD
+http://udq.me:8880/live/hbZWr/BEQPT/13191.m3u8
+#EXTINF:-1 tvg-id="TVCultura" tvg-name="TV CULTURA HD" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.png" group-title="Canais | Abertos",TV CULTURA HD
+http://udq.me:8880/live/hbZWr/BEQPT/13190.m3u8
+#EXTINF:-1 tvg-id="GAZETASPHD" tvg-name="TV GAZETA SP FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/tv-gazeta-logo.png" group-title="Canais | Abertos",TV GAZETA SP FHD
+http://udq.me:8880/live/hbZWr/BEQPT/13200.m3u8
+#EXTINF:-1 tvg-id="GAZETASPHD" tvg-name="TV GAZETA SP HD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/tv-gazeta-logo.png" group-title="Canais | Abertos",TV GAZETA SP HD
+http://udq.me:8880/live/hbZWr/BEQPT/13199.m3u8
+#EXTINF:-1 tvg-id="TVRatimbum" tvg-name="TV RA TIM BUM FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tvratimbum.png" group-title="Canais | Infantis",TV RA TIM BUM FHD
+http://udq.me:8880/live/hbZWr/BEQPT/12965.m3u8
+#EXTINF:-1 tvg-id="TVRatimbum" tvg-name="TV RA TIM BUM HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tvratimbum.png" group-title="Canais | Infantis",TV RA TIM BUM HD
+http://udq.me:8880/live/hbZWr/BEQPT/12964.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Universal_Channel_Brasil.svg/468px-Universal_Channel_Brasil.svg.png" group-title="Canais | Filmes e Séries",UNIVERSAL CHANNEL HD
+http://udq.me:8880/live/hbZWr/BEQPT/13312.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VH1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png" group-title="Canais  | Músicas",VH1 HD
+http://udq.me:8880/live/hbZWr/BEQPT/13283.m3u8
+#EXTINF:-1 tvg-id="Viva" tvg-name="VIVA FHD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e8/Canal_Viva_logo.png/revision/latest?cb=20130831133157" group-title=" Canais | Variedades",VIVA FHD
+http://udq.me:8880/live/hbZWr/BEQPT/13277.m3u8
+#EXTINF:-1 tvg-id="Viva" tvg-name="VIVA HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e8/Canal_Viva_logo.png/revision/latest?cb=20130831133157" group-title=" Canais | Variedades",VIVA HD
+http://udq.me:8880/live/hbZWr/BEQPT/13276.m3u8
+#EXTINF:-1 tvg-id="WarnerChannel" tvg-name="WARNER CHANNEL HD" tvg-logo="https://images.uncyc.org/pt/d/de/Warner_Channel_Logotipo.png" group-title="Canais | Filmes e Séries",WARNER CHANNEL HD
+http://udq.me:8880/live/hbZWr/BEQPT/13314.m3u8
+#EXTINF:-1 tvg-id="Woohoo" tvg-name="WOOHOO FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png" group-title=" Canais | Variedades",WOOHOO FHD
+http://udq.me:8880/live/hbZWr/BEQPT/13280.m3u8
+#EXTINF:-1 tvg-id="Woohoo" tvg-name="WOOHOO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png" group-title=" Canais | Variedades",WOOHOO HD
+http://udq.me:8880/live/hbZWr/BEQPT/13279.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XXX PRIVATE HD" tvg-logo="https://cdn0.iconfinder.com/data/icons/sex-toy/450/18_adults_only_sign_sex_porn-512.png" group-title=" Canais | Adultos",XXX PRIVATE HD
+http://udq.me:8880/live/hbZWr/BEQPT/13426.m3u8
