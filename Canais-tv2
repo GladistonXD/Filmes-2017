@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,
-#EXTINF:-1 type="stream" tvg-id="TV Diario HD" tvg-logo="http://iv.pe/aHG" group-title="Filme e Serie",A&E HD
+#EXTINF:-1 type="stream" tvg-id="TV Diario HD" tvg-logo="http://iv.pe/aHG" group-title="Filme e Serie",TV Diario HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp&name=HD;url=http://vl.pe:80/live/F7UsW/FfQCa/1910.m3u8|User-Agent=Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0
 #EXTINF:-1 type="stream" tvg-id="A&E HD" tvg-logo="https://i.ibb.co/F75tqwv/aande.png" group-title="Filme e Serie",A&E HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp&name=HD;url=http://lb.kstream.org/aovivo/HD_AE/video.m3u8?token=ec8bf0d8a943eb455ab76a129ec474fc|User-Agent=Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0
