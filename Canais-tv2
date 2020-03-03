@@ -3,3 +3,5 @@
 #EXTINF:-1 tvg-id="tvdiário.br" tvg-name="TV DIARIO HD " tvg-logo="http://img.brgo.xyz/img/tvdiario.png" group-title="Canais Abertos",TV DIARIO HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp&name=HD;url=http://main.icontv.in:80/live/clara/121819/68426.m3u8|User-Agent=Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0
 #EXTINF:-1,
+#EXTINF:-1 tvg-id="tvdiário.br" tvg-name="TV DIARIO HD " tvg-logo="http://img.brgo.xyz/img/tvdiario.png" group-title="Canais Abertos",TV DIARIO1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp&name=HD;url=http://main.icontv.in:80/live/clara/121819/68426.m3u8|User-Agent=Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0
