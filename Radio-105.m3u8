@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:4
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio1",NAME="ITA",DEFAULT=YES,AUTOSELECT=YES,LANGUAGE="ITA",URI="https://live3-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(ec)/stream05/streamPlaylist.m3u8"
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2682004,CODECS="avc1.640029,mp4a.40.2",RESOLUTION=1024x576,FRAME-RATE=25.000,AUDIO="audio1"
+https://live3-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(ec)/stream04/streamPlaylist.m3u8
