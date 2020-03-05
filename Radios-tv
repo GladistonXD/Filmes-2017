@@ -17,15 +17,8 @@
 <thumbnail>https://pbs.twimg.com/profile_images/879677753645309952/G2vqlMxX.jpg</thumbnail>
 </item>
 <item>
-<item>
-<item><title>[B][COLOR white]HIT TV[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/hittvc.m3u8</link>
-<thumbnail>http://2.bp.blogspot.com/-uH_Lr3KjtmI/VnswmySzscI/AAAAAAAABPE/uD26KmyRLdQ/s320/hittv.png</thumbnail>
-</item>
-<item>
-<item>
 <item><title>[B][COLOR white]RADIO 105[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>http://tv.105.net:1935/live/105Test1/playlist.m3u8</link>
+<link>https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/Radio-105.m3u8</link>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR346md05GHwmtRAH6ujSAZvTCt_d8AewLfgtpan-HNS6ptFE2MoA</thumbnail>
 </item>
 <item>
@@ -93,11 +86,6 @@
 <item><title>[B][COLOR white]VH1 ITALY[/COLOR] [COLOR lime]HD+[/COLOR][/B]</title>
 <link>https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8?ct=c&expand=simulcast_standard&exp=1559861259&rn=-1063236162&cid=36953f5b6546464590d2fcd954bc89cf&tc=1&sig=be9fe3186edd9c15b58c03fc2767ff9c56e3eba8f5871889af1bc6e58bbf8b5a</link>
 <thumbnail>https://yt3.ggpht.com/a/AGF-l7_8hMLqSQn1wqY2bgV_i_wO7MtcfVxPKHVBAw=s900-mo-c-c0xffffffff-rj-k-no</thumbnail>
-</item>
-<item>
-<item><title>[B][COLOR white]RADIO ROCKLAND[/COLOR] [COLOR lime]HD+[/COLOR][/B]</title>
-<link>http://api.new.livestream.com/accounts/22300522/events/6680139/broadcasts/192255207.m3u8?dw=80&hdnea=st=1560074796~exp=1560076596~acl=/i/22300522_6680139_lsisi8zkuwc19nqcavk_1@346435/*~hmac=6ee2768c212451f02f76e093911f221bdfcd13393226398f883220208552a64c&token=5cfcdedc_0ed81cb7d6f6c8b62bd35e81cea9a57405289263</link>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBqls40nG3dt5O0cc6VJ-VPV2swWns3jBbhWya-M8l3H5SV5U1</thumbnail>
 </item>
 <item>
 <item><title>[B][COLOR white]RADIO ITALIA TV[/COLOR] [COLOR lime]HD+[/COLOR][/B]</title>
@@ -198,11 +186,6 @@
 <item><title>[B][COLOR white]VISION TV[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>http://v8.ciclano.io:1935/visionmusica/_definst_/visionmusica/chunklist_w1747003976.m3u8</link>
 <thumbnail>https://teleon.tv/images/logos/vision-tv-musica.png</thumbnail>
-</item>
-<item>
-<item><title>[B][COLOR white]EUROPA PLUS TV[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>http://live-europaplus.cdnvideo.ru/europaplus/smil:eurptv2.smil/chunklist_b5128000.m3u8</link>
-<thumbnail>https://pbs.twimg.com/profile_images/519851022777204736/Do_vo96C.jpeg</thumbnail>
 </item>
 
 <item>
