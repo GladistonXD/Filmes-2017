@@ -192,3 +192,31 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=9Vp2ro
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=h2wCVc77iqQ
 #EXTINF:-1,10 EP 11
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=kva3eB-nEEk
+
+
+#EXTINF:-1,[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]11° TEMPORADA[/COLOR][/B]
+#EXTINF:-1,
+#EXTINF:-1,11 EP 01
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=TtacFeem6ic
+#EXTINF:-1,11 EP 02
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=PJ8aHQlM3gI
+#EXTINF:-1,11 EP 03
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=a8KCvSNbhXE
+#EXTINF:-1,11 EP 04
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Iobd19oVVdA
+#EXTINF:-1,11 EP 05
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=opcqoNcFBj8
+#EXTINF:-1,11 EP 06
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=mujI4Xe3U8s
+#EXTINF:-1,11 EP 07
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=rZwaYGulb0o
+#EXTINF:-1,11 EP 08
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Umox58a1e80
+#EXTINF:-1,11 EP 09
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=NKc_3ZNG2uA
+#EXTINF:-1,11 EP 10
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=0ZhL21KMTZo
+#EXTINF:-1,11 EP 11
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=tg0VjwZhhCY
+#EXTINF:-1,11 EP 12
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ZUoWi_436EI
