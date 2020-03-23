@@ -1,6 +1,6 @@
 <item>
 <title>A&E HD</title>
-<link>$doregex[vida]co/2025</link>
-<regex><name>vida</name><expres>(.+)co</expres><page>http://nordestv.gabserv.com.br/Sertao/Brasil/LISTA-IPTV/brlive004</page><referer></referer></regex> 
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/2025</link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>http://nordestv.gabserv.com.br/Sertao/Brasil/LISTA-IPTV/brlive004</page><referer></referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/ae.png</thumbnail>
 </item>
