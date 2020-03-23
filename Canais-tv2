@@ -1,6 +1,669 @@
 <item>
-<title>A&E HD</title>
-<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/2025</link>
-<regex><name>vida</name><expres>&(.+)co</expres><page>http://nordestv.gabserv.com.br/Sertao/Brasil/LISTA-IPTV/brlive004</page><referer></referer></regex> 
+<title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]CANAIS FECHADOS[/COLOR][/B]</title>
+<link>here</link>
+<thumbnail></thumbnail>
+
+<item>
+<title>[B][COLOR white]BAND[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/1895</link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/band.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]GLOBO NORDESTE[/COLOR] [COLOR lime]HD+[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/1627</link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/globo.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]GLOBO RJ[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/1620</link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/globo_rj.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]GLOBO SP[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/1614</link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/globo_sp.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]SBT[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/1737</link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/sbt.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]RECORD[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/1672</link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/record.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]ANIMAL PLANET[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/1902</link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/animal_planet.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]DISCOVERY CHANNEL[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/1869</link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/discovery_channel.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]DISCOVERY CIVILIZATION[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/1865</link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/discovery_civilization.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]DISCOVERY SCIENCE[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/1861</link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/discovery_science.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]DISCOVERY THEATER[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/1859</link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/discovery_theater.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]HISTORY[/COLOR] [COLOR lime]HD+[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/1799</link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/history.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]H2[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/1811</link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/h2.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]NAT GEO[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/1777</link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/natgeo.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]NAT GEO WILD[/COLOR] [COLOR red]HD+[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/1774</link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/natgeo_wild.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]BAND SPORTS[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/1891</link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/bandsports.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]COMBATE[/COLOR] [COLOR red]HD+[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/1875</link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/combate.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]DISCOVERY TURBO[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/1857</link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/discovery_turbo.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]ESPN[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/1841</link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/espn.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]ESPN 2[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/1846</link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/espn.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]ESPN BRASIL[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/1844</link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/espn_brasil.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]FOX SPORTS[/COLOR] [COLOR red]HD+[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/1827</link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/foxsports.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]FOX SPORTS 2[/COLOR] [COLOR red]HD+[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/1825</link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/foxsports2.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]PREMIERE CLUBE[/COLOR] [COLOR lime]HD+[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/1750</link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/premiere.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]PREMIERE 2[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/1762</link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/premiere.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]PREMIERE 3[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/1760</link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/premiere.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]PREMIERE 4[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/1758</link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/premiere.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]PREMIERE 5[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/1756</link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/premiere.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]PREMIERE 6[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/1754</link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/premiere.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]PREMIERE 7[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/1752</link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/premiere.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]PREMIERE 8[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/2159/link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/premiere.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]SPORTV[/COLOR] [COLOR red]HD+[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/1726</link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/sportv.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]SPORTV 2[/COLOR] [COLOR red]HD+[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/1729</link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/sportv.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]SPORTV 3[/COLOR] [COLOR red]HD+[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/1727</link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/sportv.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]A&E[/COLOR] [COLOR red]HD+[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/1906</link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/ae.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]AMC[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/1904</link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/amc.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]AXN[/COLOR] [COLOR red]HD+[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/1898</link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/axn.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]CINEMAX[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/1877</link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/cinemax.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]FOX[/COLOR] [COLOR lime]HD+[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/1835</link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/fox.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]FOX PREMIUM 1[/COLOR] [COLOR lime]HD+[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/1831</link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/fox_premium.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]FOX PREMIUM 2[/COLOR] [COLOR lime]HD+[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/2371</link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/fox_premium.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]FX[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/1821</link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/fx.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]HBO[/COLOR] [COLOR red]HD+[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/1805</link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/hbo.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]HBO 2[/COLOR] [COLOR red]HD+[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/1808</link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/hbo2.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]HBO FAMILY[/COLOR] [COLOR red]HD+[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/1806</link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/hbo_family.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]HBO PLUS[/COLOR] [COLOR red]HD+[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/1803</link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/hbo_plus.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]HBO SIGNATURE[/COLOR] [COLOR red]HD+[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/1801</link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/hbo_signature.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]MEGAPIX[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/1785</link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/megapix.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]PARAMOUNT[/COLOR] [COLOR lime]HD+[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/1764</link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/paramount.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]SONY[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/1882</link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/sony.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]SPACE[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/1732</link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/space.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]STUDIO UNIVERSAL[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/1724</link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/studio_universal.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]SYFY[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/1734</link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/syfy.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]TCM[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/1721</link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/tcm.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]TELECINE ACTION[/COLOR] [COLOR red]HD+[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/1719</link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/tc_action.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]TELECINE CULT[/COLOR] [COLOR red]HD+[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/1717</link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/tc_cult.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]TELECINE FUN[/COLOR] [COLOR red]HD+[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/1715</link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/tc_fun.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]TELECINE PIPOCA[/COLOR] [COLOR red]HD+[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/1713</link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/tc_pipoca.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]TELECINE PREMIUM[/COLOR] [COLOR lime]HD+[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/1711</link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/tc_premium.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]TELECINE TOUCH[/COLOR] [COLOR red]HD+[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/1709</link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/tc_touch.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]TNT[/COLOR] [COLOR red]HD+[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/1704</link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/tnt.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]TNT SERIES[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/1702</link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/tnt_series.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]UNIVERSAL CHANNEL[/COLOR] [COLOR lime]HD+[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/1688</link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/universal_channel.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]WARNER[/COLOR] [COLOR lime]HD+[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/1681</link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/warner_channel.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]BOOMERANG[/COLOR] [COLOR lime]HD+[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/1886</link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/boomerang.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]CARTOON NETWORK[/COLOR] [COLOR lime]HD+[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/1879</link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/cartoon_network.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]DISCOVERY KIDS[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/1863</link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/discovery_kids.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]DISNEY CHANNEL[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/1853</link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/disney_channel.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]DISNEY JUNIOR[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/1678</link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/disney_junior.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]DISNEY XD[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/25361</link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/disney_xd.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]GLOOB[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/2365</link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/gloob.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]NICKELODEON[/COLOR] [COLOR red]HD+[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/1768</link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/nick.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]NICK JR[/COLOR] [COLOR lime]HD+[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/1770</link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/nick_jr.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]TOONCAST[/COLOR] [COLOR lime]HD+[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/2316</link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/tooncast.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]ARTE 1[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/1900</link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/arte1.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]BIS[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/1889</link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/bis.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]CANAL OFF[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/1766</link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/off.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]COMEDY CENTRAL[/COLOR] [COLOR red]HD+[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/1873</link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/comedy_central.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]CURTA![/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/1871</link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/curta!.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]DISCOVERY HOME & HEALTH[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/1865</link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/discovery_home_health.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]DISCOVERY WORLD[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/1855</link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/discovery_world.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]FISH TV[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/1839</link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/fishtv.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]FOOD NETWORK[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/1837</link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/food_network.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]FOX LIFE[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/1833</link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/fox_life.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]GNT[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/1813</link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/gnt.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]ID[/COLOR] [COLOR red]HD+[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/1797</link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/discovery_investigation.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]LIFETIME[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/1795</link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/lifetime.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]MAIS GLOBOSAT[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/1793</link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/mais_globosat.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]MTV[/COLOR] [COLOR red]HD+[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/1783</link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/mtv.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]MTV LIVE[/COLOR] [COLOR red]HD+[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/1676</link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
+<thumbnail>https://uploaddeimagens.com.br/images/002/526/419/original/mtv-live.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]MULTISHOW[/COLOR] [COLOR red]HD+[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/1781</link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/multishow.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]TLC[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/1706</link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/tlc.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]VIVA[/COLOR] [COLOR lime]HD+[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/1683</link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/viva.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]BAND NEWS[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/1893</link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/band_news.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]GLOBO NEWS[/COLOR] [COLOR red]HD+[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/1819</link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/globonews.png</thumbnail>
 </item>
