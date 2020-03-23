@@ -18,6 +18,13 @@
 </item>
 
 <item>
+<title>[B][COLOR white]TV DIARIO FORTALEZA[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/1659</link>
+<regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
+<thumbnail>https://tvdiario.verdesmares.com.br/img/tvdiario/tvdiario-comp3.png</thumbnail>
+</item>
+
+<item>
 <title>[B][COLOR white]GLOBO RJ[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&$doregex[vida]co/1620</link>
 <regex><name>vida</name><expres>&(.+)co</expres><page>https://cutt.ly/brlive</page><referer></referer></regex> 
