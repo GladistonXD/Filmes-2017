@@ -10,3 +10,15 @@
 <regex><name>vida</name><expres>plugin://(.+)co</expres><page>http://nordestv.gabserv.com.br/Sertao/Brasil/LISTA-IPTV/brlive004</page><referer></referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/ae.png</thumbnail>
 </item>
+<item>
+<title>1 EP 02</title>
+<link>$doregex[vida]LRGDSEPLDST01EP02.mp4</link>
+<regex><name>vida</name><expres>rc3"(.*?).mp4</expres><page>http://nordestv.gabserv.com.br/Sertao/Brasil/LISTA-IPTV/brlive004?02</page><referer></referer></regex> 
+<thumbnail>https://media.fstatic.com/LJ3zPWAKNRAY9xl_PZz_kLzryj0=/fit-in/290x478/smart/media/movies/covers/2018/08/s1_4zp0v3s.jpg</thumbnail>
+</item>
+<item>
+<title>1 EP 03</title>
+<link>$doregex[vida]LRGDSEPLDST01EP03.mp4</link>
+<regex><name>vida</name><expres>rc3"(.*?).mp4</expres><page>http://nordestv.gabserv.com.br/Sertao/Brasil/LISTA-IPTV/brlive004?03</page><referer></referer></regex> 
+<thumbnail>https://media.fstatic.com/LJ3zPWAKNRAY9xl_PZz_kLzryj0=/fit-in/290x478/smart/media/movies/covers/2018/08/s1_4zp0v3s.jpg</thumbnail>
+</item>
