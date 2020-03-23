@@ -4,3 +4,9 @@
 <regex><name>vida</name><expres>plugin://(.+)co</expres><page>http://nordestv.gabserv.com.br/Sertao/Brasil/LISTA-IPTV/brlive004</page><referer></referer></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/ae.png</thumbnail>
 </item>
+<item>
+<title>A&E2 HD</title>
+<link>plugin://$doregex[vida]co/2025&swf=None&auth=&simpledownloader=False</link>
+<regex><name>vida</name><expres>plugin://(.+)co</expres><page>http://nordestv.gabserv.com.br/Sertao/Brasil/LISTA-IPTV/brlive004</page><referer></referer></regex> 
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/ae.png</thumbnail>
+</item>
