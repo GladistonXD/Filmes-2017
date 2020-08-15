@@ -177,3 +177,9 @@
 <link>http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/chunklist_w488941594.m3u8</link>
 <thumbnail>https://is2-ssl.mzstatic.com/image/thumb/Purple71/v4/80/58/ef/8058ef9e-8702-ff81-6a5a-9481a69babae/source/512x512bb.jpg</thumbnail>
 </item>
+
+<item>
+<item><title>[B][COLOR white]TV DIARIO[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>plugin://plugin.video.dailymotion_com/?url=x7txn7q&mode=playLiveVideo</link>
+<thumbnail>https://2.bp.blogspot.com/-hZa3rQQWo_4/XAcZF2AYbOI/AAAAAAAAHII/8ps0FFFCq8oX08Vqu4o-DQ5MLXPFuBwvgCLcBGAs/s1600/TV%2BDiario.jpg</thumbnail>
+</item>
