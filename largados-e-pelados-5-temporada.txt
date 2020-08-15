@@ -19,3 +19,5 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=OSclHy
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=81O-poTm-As
 #EXTINF:-1,5 EP 10
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=wqmm146wBbc
+#EXTINF:-1,5 TV DIARIO
+plugin://plugin.video.dailymotion_com/?url=https://www.dailymotion.com/video/x7txn7q&mode=playVideo
