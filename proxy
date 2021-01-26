@@ -1,2 +1,2 @@
-proxy = "http://138.122.11.44/:443/?url="
+proxy = "http://localhost/:443/?url="
 proxy1 = " "
