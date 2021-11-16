@@ -30,7 +30,7 @@
 <thumbnail>https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Musictop.png</thumbnail>
 </item>
 <item>
-<item><title>[B][COLOR white]RTL 102.5[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<item><tixtle>[B][COLOR white]RTL 102.5[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>https://rtl-radio-stream-thron.akamaized.net/live-video/video1/ngrp:video1/chunklist_b1196000.m3u8</link>
 <thumbnail>http://www.ilroma.net/sites/default/files/Rtl-logo.jpg</thumbnail>
 </item>
@@ -41,7 +41,7 @@
 </item>
 
 <item>
-<item><title>[B][COLOR white]NORBA TV[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<item><tixtle>[B][COLOR white]NORBA TV[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>http://flash5.streaming.xdevel.com/radionorbatv/smil:radionorbatv.smil/chunklist_w1598534788_b800000.m3u8</link>
 <thumbnail>https://mytuner.global.ssl.fastly.net/media/tvos_radios/DtYNBhAwdD.png</thumbnail>
 </item>
@@ -88,7 +88,7 @@
 </item>
 
 <item>
-<item><title>[B][COLOR white]DJING LEGEND[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<item><tixtle>[B][COLOR white]DJING LEGEND[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>https://www.djing.com/tv/k-28811-04.m3u8</link>
 <thumbnail>http://uploaddeimagens.com.br/images/002/239/790/original/LEGEND2.jpg</thumbnail>
 </item>
@@ -105,18 +105,18 @@
 <thumbnail>https://kiwi.racer159.com/site/images/channels/radiou.png</thumbnail>
 </item>
 <item>
-<item><title>[B][COLOR white]TV 538[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<item><tixtle>[B][COLOR white]TV 538[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>https://talparadiohls-i.akamaihd.net/hls/live/624107/VR-Radio538-1/Radio538Stream-Q5.m3u8</link>
 <thumbnail>https://static-media.streema.com/media/cache/2b/f2/2bf2bf2f55b3e72b778ed5de0c00c493.jpg</thumbnail>
 </item>
 
 <item>
-<item><title>[B][COLOR white]OTTO FM[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<item><tixtle>[B][COLOR white]OTTO FM[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>http://217.182.192.240:8080/hls/ottofmtv/1_2/index.m3u8?sessId=8587</link>
 <thumbnail>https://static.radio.pt/images/broadcasts/56/41/39664/1/c300.png</thumbnail>
 </item>
 <item>
-<item><title>[B][COLOR white]YEEAH! TV[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<item><tixtle>[B][COLOR white]YEEAH! TV[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>https://stmv1.srvstm.com/yeeaah/yeeaah/playlist.m3u8?wowzasessionid=71407408</link>
 <thumbnail>https://i.vimeocdn.com/portrait/18690418_300x300</thumbnail>
 </item>
@@ -131,43 +131,43 @@
 <thumbnail>http://db.radioline.fr/pictures/radio_52a9118394d09b5398fc5995c0f1140c/logo200.jpg?size=200</thumbnail>
 </item>
 <item>
-<item><title>[B][COLOR white]NRJ HITS[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<item><tixtle>[B][COLOR white]NRJ HITS[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>https://tv.ngroup.be/nrj/ngrp:NRJHitsTV_all/chunklist_w1417555959_b1431072.m3u8</link>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpUB2pzZp6hs6sgOeKa_r0TGv4ivONtxAbbVSVBgn77uFY2ath</thumbnail>
 </item>
 
 <item>
-<item><title>[B][COLOR white]MAGIC RADIO[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<item><tixtle>[B][COLOR white]MAGIC RADIO[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>http://csm-e.tm.yospace.com/csm/extlive/boxplus01,magic-inapp.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fmagic%2f</link>
 <thumbnail>https://uploaddeimagens.com.br/images/002/512/410/original/Magic2.png</thumbnail>
 </item>
 
 <item>
-<item><title>[B][COLOR white]THE BOX RADIO[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<item><tixtle>[B][COLOR white]THE BOX RADIO[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-inapp.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fthebox%2f</link>
 <thumbnail>https://uploaddeimagens.com.br/images/002/512/411/original/The_box2.png</thumbnail>
 </item>
 
 <item>
-<item><title>[B][COLOR white]BOX UPFRONT RADIO[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<item><tixtle>[B][COLOR white]BOX UPFRONT RADIO[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxupfront-inapp.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxupfront%2f</link>
 <thumbnail>https://uploaddeimagens.com.br/images/002/512/416/original/Box_upfront2.png</thumbnail>
 </item>
 
 <item>
-<item><title>[B][COLOR white]KERRANG! ROCK RADIO[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<item><tixtle>[B][COLOR white]KERRANG! ROCK RADIO[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kerrang-inapp.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fkerrang%2f</link>
 <thumbnail>https://uploaddeimagens.com.br/images/002/512/415/original/Kerrang2.png</thumbnail>
 </item>
 
 <item>
-<item><title>[B][COLOR white]KISS RADIO[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<item><tixtle>[B][COLOR white]KISS RADIO[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kiss-inapp.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fkiss%2f</link>
 <thumbnail>https://uploaddeimagens.com.br/images/002/512/412/original/Kiss2.png</thumbnail>
 </item>
 
 <item>
-<item><title>[B][COLOR white]SONG TV RADIO[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<item><tixtle>[B][COLOR white]SONG TV RADIO[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>https://songtvru.ru/med/playlist.m3u8</link>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRLVMDeeiWU2tjvwoQKLHe0NEBEWRbtbDSTnA&usqp=CAU</thumbnail>
 </item>
