@@ -1,0 +1,1395 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ HD" tvg-logo="https://i.imgur.com/P1mYnQb.png" group-title="REDE GLOBO",GLOBO RJ HD
+http://cloud-nany.cc:80/user/pass/8038
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ HD1" tvg-logo="https://i.imgur.com/520c643.png" group-title="REDE GLOBO",GLOBO RJ HD1
+http://cloud-nany.cc:80/user/pass/1201
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ SD" tvg-logo="https://i.imgur.com/P1mYnQb.png" group-title="REDE GLOBO",GLOBO RJ SD
+http://cloud-nany.cc:80/user/pass/8039
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ SD1" tvg-logo="https://i.imgur.com/520c643.png" group-title="REDE GLOBO",GLOBO RJ SD1
+http://cloud-nany.cc:80/user/pass/1003
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP HD" tvg-logo="https://i.imgur.com/URH9vRH.png" group-title="REDE GLOBO",GLOBO SP HD
+http://cloud-nany.cc:80/user/pass/8034
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP HD1" tvg-logo="https://i.imgur.com/URH9vRH.png" group-title="REDE GLOBO",GLOBO SP HD1
+http://cloud-nany.cc:80/user/pass/1199
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP SD" tvg-logo="https://i.imgur.com/URH9vRH.png" group-title="REDE GLOBO",GLOBO SP SD
+http://cloud-nany.cc:80/user/pass/8035
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP SD1" tvg-logo="https://i.imgur.com/j2NxFE3.png" group-title="REDE GLOBO",GLOBO SP SD1
+http://cloud-nany.cc:80/user/pass/1987
+#EXTINF:-1 tvg-id="TVGazetaAL.br" tvg-name="AL TV GAZETA HD" tvg-logo="https://i.imgur.com/hD0K0eB.png" group-title="REDE GLOBO",AL TV GAZETA HD
+http://cloud-nany.cc:80/user/pass/66990
+#EXTINF:-1 tvg-id="TVGazetaAL.br" tvg-name="AL TV GAZETA SD" tvg-logo="https://i.imgur.com/hD0K0eB.png" group-title="REDE GLOBO",AL TV GAZETA SD
+http://cloud-nany.cc:80/user/pass/66989
+#EXTINF:-1 tvg-id="" tvg-name="AM REDE AMAZONICA MANAUS HD" tvg-logo="https://bit.ly/3ptlx40" group-title="REDE GLOBO",AM REDE AMAZONICA MANAUS HD
+http://cloud-nany.cc:80/user/pass/104745
+#EXTINF:-1 tvg-id="" tvg-name="AM REDE AMAZONICA MANAUS SD" tvg-logo="https://bit.ly/3ptlx40" group-title="REDE GLOBO",AM REDE AMAZONICA MANAUS SD
+http://cloud-nany.cc:80/user/pass/104744
+#EXTINF:-1 tvg-id="RedeAmaznicaManausHD.br" tvg-name="AM REDE AMAZONICA MANAUS SD1" tvg-logo="https://bit.ly/3ptlx40" group-title="REDE GLOBO",AM REDE AMAZONICA MANAUS SD1
+http://cloud-nany.cc:80/user/pass/53430
+#EXTINF:-1 tvg-id="TVAmazonia" tvg-name="AM TV AMAZÔNIA HD" tvg-logo="https://bit.ly/3ptlx40" group-title="REDE GLOBO",AM TV AMAZÔNIA HD
+http://cloud-nany.cc:80/user/pass/66987
+#EXTINF:-1 tvg-id="TVAmazonia" tvg-name="AM TV AMAZÔNIA SD" tvg-logo="https://bit.ly/3ptlx40" group-title="REDE GLOBO",AM TV AMAZÔNIA SD
+http://cloud-nany.cc:80/user/pass/66986
+#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="BA TV BAHIA HD" tvg-logo="https://bit.ly/3dncrTL" group-title="REDE GLOBO",BA TV BAHIA HD
+http://cloud-nany.cc:80/user/pass/8030
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="BA TV BAHIA HD1" tvg-logo="https://bit.ly/3dncrTL" group-title="REDE GLOBO",BA TV BAHIA HD1
+http://cloud-nany.cc:80/user/pass/66984
+#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="BA TV BAHIA SD" tvg-logo="https://bit.ly/3dncrTL" group-title="REDE GLOBO",BA TV BAHIA SD
+http://cloud-nany.cc:80/user/pass/8031
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="BA TV BAHIA SD2" tvg-logo="https://bit.ly/3dncrTL" group-title="REDE GLOBO",BA TV BAHIA SD2
+http://cloud-nany.cc:80/user/pass/66983
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="BA TV SANTA CRUZ HD" tvg-logo="https://i.imgur.com/wXQG91s.png" group-title="REDE GLOBO",BA TV SANTA CRUZ HD
+http://cloud-nany.cc:80/user/pass/49736
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="BA TV SANTA CRUZ SD" tvg-logo="https://i.imgur.com/wXQG91s.png" group-title="REDE GLOBO",BA TV SANTA CRUZ SD
+http://cloud-nany.cc:80/user/pass/49735
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="BA TV SUBAE HD" tvg-logo="https://i.imgur.com/wjm9amO.png" group-title="REDE GLOBO",BA TV SUBAE HD
+http://cloud-nany.cc:80/user/pass/59013
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="CE TV DIARIO FORTALEZA HD" tvg-logo="https://i.imgur.com/pIHKTx7.png" group-title="REDE GLOBO",CE TV DIARIO FORTALEZA HD
+http://cloud-nany.cc:80/user/pass/55078
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="CE TV DIARIO FORTALEZA SD" tvg-logo="https://i.imgur.com/pIHKTx7.png" group-title="REDE GLOBO",CE TV DIARIO FORTALEZA SD
+http://cloud-nany.cc:80/user/pass/55077
+#EXTINF:-1 tvg-id="" tvg-name="CE TV VERDES MARES CARIRI HD" tvg-logo="https://i.imgur.com/WkYpG3T.png" group-title="REDE GLOBO",CE TV VERDES MARES CARIRI HD
+http://cloud-nany.cc:80/user/pass/104725
+#EXTINF:-1 tvg-id="" tvg-name="CE TV VERDES MARES CARIRI SD" tvg-logo="https://i.imgur.com/WkYpG3T.png" group-title="REDE GLOBO",CE TV VERDES MARES CARIRI SD
+http://cloud-nany.cc:80/user/pass/104724
+#EXTINF:-1 tvg-id="Verdesmares.br" tvg-name="CE TV VERDES MARES FORTALEZA HD" tvg-logo="https://i.imgur.com/WkYpG3T.png" group-title="REDE GLOBO",CE TV VERDES MARES FORTALEZA HD
+http://cloud-nany.cc:80/user/pass/60372
+#EXTINF:-1 tvg-id="Verdesmares.br" tvg-name="CE TV VERDES MARES FORTALEZA SD" tvg-logo="https://i.imgur.com/WkYpG3T.png" group-title="REDE GLOBO",CE TV VERDES MARES FORTALEZA SD
+http://cloud-nany.cc:80/user/pass/26606
+#EXTINF:-1 tvg-id="Verdesmares.br" tvg-name="CE TV VERDES MARES HD" tvg-logo="https://i.imgur.com/WkYpG3T.png" group-title="REDE GLOBO",CE TV VERDES MARES HD
+http://cloud-nany.cc:80/user/pass/66971
+#EXTINF:-1 tvg-id="Verdesmares.br" tvg-name="CE TV VERDES MARES SD" tvg-logo="https://i.imgur.com/WkYpG3T.png" group-title="REDE GLOBO",CE TV VERDES MARES SD
+http://cloud-nany.cc:80/user/pass/66970
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="DF BRASILIA HD" tvg-logo="https://cms.connectvps.com/img/logo-globos/globodf.png" group-title="REDE GLOBO",DF BRASILIA HD
+http://cloud-nany.cc:80/user/pass/66967
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="DF BRASILIA SD" tvg-logo="https://cms.connectvps.com/img/logo-globos/globodf.png" group-title="REDE GLOBO",DF BRASILIA SD
+http://cloud-nany.cc:80/user/pass/66966
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="DF GLOBO BRASILIA HD" tvg-logo="https://i.imgur.com/m7ncYgM.png" group-title="REDE GLOBO",DF GLOBO BRASILIA HD
+http://cloud-nany.cc:80/user/pass/8054
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="DF GLOBO BRASILIA HD1" tvg-logo="https://i.imgur.com/m7ncYgM.png" group-title="REDE GLOBO",DF GLOBO BRASILIA HD1
+http://cloud-nany.cc:80/user/pass/49147
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="DF GLOBO BRASILIA SD" tvg-logo="https://i.imgur.com/m7ncYgM.png" group-title="REDE GLOBO",DF GLOBO BRASILIA SD
+http://cloud-nany.cc:80/user/pass/8055
+#EXTINF:-1 tvg-id="TV Gazeta Sul" tvg-name="ES TV GAZETA SUL HD" tvg-logo="https://i.imgur.com/hD0K0eB.png" group-title="REDE GLOBO",ES TV GAZETA SUL HD
+http://cloud-nany.cc:80/user/pass/66964
+#EXTINF:-1 tvg-id="TV Gazeta Sul" tvg-name="ES TV GAZETA SUL HD" tvg-logo="https://i.imgur.com/hD0K0eB.png" group-title="REDE GLOBO",ES TV GAZETA SUL HD
+http://cloud-nany.cc:80/user/pass/26573
+#EXTINF:-1 tvg-id="TV Gazeta Sul" tvg-name="ES TV GAZETA SUL SD" tvg-logo="https://i.imgur.com/hD0K0eB.png" group-title="REDE GLOBO",ES TV GAZETA SUL SD
+http://cloud-nany.cc:80/user/pass/66963
+#EXTINF:-1 tvg-id="TV Gazeta Sul" tvg-name="ES TV GAZETA SUL SD" tvg-logo="https://i.imgur.com/hD0K0eB.png" group-title="REDE GLOBO",ES TV GAZETA SUL SD
+http://cloud-nany.cc:80/user/pass/26572
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="ES TV GAZETA VITORIA HD" tvg-logo="https://i.imgur.com/hD0K0eB.png" group-title="REDE GLOBO",ES TV GAZETA VITORIA HD
+http://cloud-nany.cc:80/user/pass/26594
+#EXTINF:-1 tvg-id="GloboAnhangueraGoias.br" tvg-name="GO TV ANHANGUERA HD" tvg-logo="https://bit.ly/37r10GZ" group-title="REDE GLOBO",GO TV ANHANGUERA HD
+http://cloud-nany.cc:80/user/pass/8032
+#EXTINF:-1 tvg-id="GloboAnhangueraGoias.br" tvg-name="GO TV ANHANGUERA HD1" tvg-logo="https://bit.ly/37r10GZ" group-title="REDE GLOBO",GO TV ANHANGUERA HD1
+http://cloud-nany.cc:80/user/pass/8175
+#EXTINF:-1 tvg-id="GloboAnhangueraGoias.br" tvg-name="GO TV ANHANGUERA HD2" tvg-logo="https://bit.ly/37r10GZ" group-title="REDE GLOBO",GO TV ANHANGUERA HD2
+http://cloud-nany.cc:80/user/pass/66956
+#EXTINF:-1 tvg-id="GloboAnhangueraGoias.br" tvg-name="GO TV ANHANGUERA SD" tvg-logo="https://bit.ly/37r10GZ" group-title="REDE GLOBO",GO TV ANHANGUERA SD
+http://cloud-nany.cc:80/user/pass/8033
+#EXTINF:-1 tvg-id="GloboAnhangueraGoias.br" tvg-name="GO TV ANHANGUERA SD2" tvg-logo="https://bit.ly/37r10GZ" group-title="REDE GLOBO",GO TV ANHANGUERA SD2
+http://cloud-nany.cc:80/user/pass/66955
+#EXTINF:-1 tvg-id="" tvg-name="MA TV MIRANTE COCAIS HD" tvg-logo="https://bit.ly/3s8cs2j" group-title="REDE GLOBO",MA TV MIRANTE COCAIS HD
+http://cloud-nany.cc:80/user/pass/104735
+#EXTINF:-1 tvg-id="" tvg-name="MA TV MIRANTE COCAIS SD" tvg-logo="https://bit.ly/3s8cs2j" group-title="REDE GLOBO",MA TV MIRANTE COCAIS SD
+http://cloud-nany.cc:80/user/pass/104734
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="MA TV MIRANTE SAO LUIS HD" tvg-logo="https://bit.ly/3s8cs2j" group-title="REDE GLOBO",MA TV MIRANTE SAO LUIS HD
+http://cloud-nany.cc:80/user/pass/26582
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="MA TV MIRANTE SAO LUIS HD1" tvg-logo="https://bit.ly/3s8cs2j" group-title="REDE GLOBO",MA TV MIRANTE SAO LUIS HD1
+http://cloud-nany.cc:80/user/pass/66953
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="MA TV MIRANTE SAO LUIS SD" tvg-logo="https://bit.ly/3s8cs2j" group-title="REDE GLOBO",MA TV MIRANTE SAO LUIS SD
+http://cloud-nany.cc:80/user/pass/26581
+#EXTINF:-1 tvg-id="GloboBeloHorizonteHD" tvg-name="MG MINAS HD" tvg-logo="https://i.imgur.com/p7B35hb.png" group-title="REDE GLOBO",MG MINAS HD
+http://cloud-nany.cc:80/user/pass/66949
+#EXTINF:-1 tvg-id="GloboBeloHorizonteHD" tvg-name="MG MINAS HD1" tvg-logo="https://i.imgur.com/p7B35hb.png" group-title="REDE GLOBO",MG MINAS HD1
+http://cloud-nany.cc:80/user/pass/66947
+#EXTINF:-1 tvg-id="GloboBeloHorizonteHD" tvg-name="MG MINAS SD" tvg-logo="https://i.imgur.com/p7B35hb.png" group-title="REDE GLOBO",MG MINAS SD
+http://cloud-nany.cc:80/user/pass/66948
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="MG MINAS SD1" tvg-logo="https://i.imgur.com/p7B35hb.png" group-title="REDE GLOBO",MG MINAS SD1
+http://cloud-nany.cc:80/user/pass/49148
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="MG EPTV SUL DE MINAS HD" tvg-logo="https://bit.ly/3u6nOWd" group-title="REDE GLOBO",MG EPTV SUL DE MINAS HD
+http://cloud-nany.cc:80/user/pass/66945
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="MG EPTV SUL DE MINAS SD" tvg-logo="https://bit.ly/3u6nOWd" group-title="REDE GLOBO",MG EPTV SUL DE MINAS SD
+http://cloud-nany.cc:80/user/pass/66944
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="MG INTEGRACAO JUIZ DE FORA HD1" tvg-logo="https://bit.ly/3qzUuoM" group-title="REDE GLOBO",MG INTEGRACAO JUIZ DE FORA HD1
+http://cloud-nany.cc:80/user/pass/66943
+#EXTINF:-1 tvg-id="InterTVGrandeMinas.br" tvg-name="MG INTER TV DOS VALES HD" tvg-logo="https://bit.ly/3pw8M8T" group-title="REDE GLOBO",MG INTER TV DOS VALES HD
+http://cloud-nany.cc:80/user/pass/60366
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="MG INTER TV DOS VALES HD1" tvg-logo="https://bit.ly/3pw8M8T" group-title="REDE GLOBO",MG INTER TV DOS VALES HD1
+http://cloud-nany.cc:80/user/pass/66941
+#EXTINF:-1 tvg-id="InterTVGrandeMinas.br" tvg-name="MG INTER TV DOS VALES SD" tvg-logo="https://bit.ly/3pw8M8T" group-title="REDE GLOBO",MG INTER TV DOS VALES SD
+http://cloud-nany.cc:80/user/pass/49738
+#EXTINF:-1 tvg-id="InterTVGrandeMinas.br" tvg-name="MG INTER TV GRANDE MINAS HD" tvg-logo="https://bit.ly/3pw8M8T" group-title="REDE GLOBO",MG INTER TV GRANDE MINAS HD
+http://cloud-nany.cc:80/user/pass/49742
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="MG INTER TV GRANDE MINAS HD1" tvg-logo="https://bit.ly/3pw8M8T" group-title="REDE GLOBO",MG INTER TV GRANDE MINAS HD1
+http://cloud-nany.cc:80/user/pass/66938
+#EXTINF:-1 tvg-id="InterTVGrandeMinas.br" tvg-name="MG INTER TV GRANDE MINAS SD" tvg-logo="https://bit.ly/3pw8M8T" group-title="REDE GLOBO",MG INTER TV GRANDE MINAS SD
+http://cloud-nany.cc:80/user/pass/49741
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="MG TV INTEGRACAO ARAXA HD" tvg-logo="https://bit.ly/3qzUuoM" group-title="REDE GLOBO",MG TV INTEGRACAO ARAXA HD
+http://cloud-nany.cc:80/user/pass/66935
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="MG TV INTEGRACAO ARAXA SD" tvg-logo="https://bit.ly/3qzUuoM" group-title="REDE GLOBO",MG TV INTEGRACAO ARAXA SD
+http://cloud-nany.cc:80/user/pass/66934
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="MG TV INTEGRACAO JUIZ DE FORA HD" tvg-logo="https://bit.ly/3qzUuoM" group-title="REDE GLOBO",MG TV INTEGRACAO JUIZ DE FORA HD
+http://cloud-nany.cc:80/user/pass/66932
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="MG TV INTEGRACAO JUIZ DE FORA SD" tvg-logo="https://bit.ly/3qzUuoM" group-title="REDE GLOBO",MG TV INTEGRACAO JUIZ DE FORA SD
+http://cloud-nany.cc:80/user/pass/66931
+#EXTINF:-1 tvg-id="TV Morena HD" tvg-name="MS TV MORENA CAMPO GRANDE HD" tvg-logo="https://bit.ly/2OQ3EzF" group-title="REDE GLOBO",MS TV MORENA CAMPO GRANDE HD
+http://cloud-nany.cc:80/user/pass/26579
+#EXTINF:-1 tvg-id="TV Morena HD" tvg-name="MS TV MORENA CAMPO GRANDE SD" tvg-logo="https://bit.ly/2OQ3EzF" group-title="REDE GLOBO",MS TV MORENA CAMPO GRANDE SD
+http://cloud-nany.cc:80/user/pass/26578
+#EXTINF:-1 tvg-id="TV Morena HD" tvg-name="MS TV MORENA HD" tvg-logo="https://bit.ly/2OQ3EzF" group-title="REDE GLOBO",MS TV MORENA HD
+http://cloud-nany.cc:80/user/pass/66928
+#EXTINF:-1 tvg-id="TV Morena HD" tvg-name="MS TV MORENA SD" tvg-logo="https://bit.ly/2OQ3EzF" group-title="REDE GLOBO",MS TV MORENA SD
+http://cloud-nany.cc:80/user/pass/66927
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="MT TV CENTRO AMERICA CUIABA HD" tvg-logo="https://bit.ly/37oBy4N" group-title="REDE GLOBO",MT TV CENTRO AMERICA CUIABA HD
+http://cloud-nany.cc:80/user/pass/60414
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="MT TV CENTRO AMERICA CUIABA SD" tvg-logo="https://bit.ly/37oBy4N" group-title="REDE GLOBO",MT TV CENTRO AMERICA CUIABA SD
+http://cloud-nany.cc:80/user/pass/53427
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="MT TV CENTRO AMERICA HD" tvg-logo="https://bit.ly/37oBy4N" group-title="REDE GLOBO",MT TV CENTRO AMERICA HD
+http://cloud-nany.cc:80/user/pass/66925
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="MT TV CENTRO AMÉRICA SD" tvg-logo="https://bit.ly/37oBy4N" group-title="REDE GLOBO",MT TV CENTRO AMÉRICA SD
+http://cloud-nany.cc:80/user/pass/66924
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="PA TV LIBERAL BELEM HD" tvg-logo="https://bit.ly/3bk67d6" group-title="REDE GLOBO",PA TV LIBERAL BELEM HD
+http://cloud-nany.cc:80/user/pass/60374
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="PA TV LIBERAL BELEM HD1" tvg-logo="https://bit.ly/3bk67d6" group-title="REDE GLOBO",PA TV LIBERAL BELEM HD1
+http://cloud-nany.cc:80/user/pass/60375
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="PA TV LIBERAL BELEM HD2" tvg-logo="https://bit.ly/3bk67d6" group-title="REDE GLOBO",PA TV LIBERAL BELEM HD2
+http://cloud-nany.cc:80/user/pass/66919
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="PA TV LIBERAL BELEM SD" tvg-logo="https://bit.ly/3bk67d6" group-title="REDE GLOBO",PA TV LIBERAL BELEM SD
+http://cloud-nany.cc:80/user/pass/1086
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="PA TV LIBERAL BELEM SD2" tvg-logo="https://bit.ly/3bk67d6" group-title="REDE GLOBO",PA TV LIBERAL BELEM SD2
+http://cloud-nany.cc:80/user/pass/66918
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="PB TV CABO BRANCO HD" tvg-logo="https://bit.ly/3sgITf5" group-title="REDE GLOBO",PB TV CABO BRANCO HD
+http://cloud-nany.cc:80/user/pass/66916
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="PB TV CABO BRANCO SD" tvg-logo="https://bit.ly/3sgITf5" group-title="REDE GLOBO",PB TV CABO BRANCO SD
+http://cloud-nany.cc:80/user/pass/66915
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="PE CARUARU ASA BRANCA HD" tvg-logo="https://bit.ly/3dk7L1b" group-title="REDE GLOBO",PE CARUARU ASA BRANCA HD
+http://cloud-nany.cc:80/user/pass/92199
+#EXTINF:-1 tvg-id="Globo Nordeste HD" tvg-name="PE NORDESTE HD" tvg-logo="https://bit.ly/3qCsVvm" group-title="REDE GLOBO",PE NORDESTE HD
+http://cloud-nany.cc:80/user/pass/8044
+#EXTINF:-1 tvg-id="Globo Nordeste HD" tvg-name="PE NORDESTE HD1" tvg-logo="https://bit.ly/3qCsVvm" group-title="REDE GLOBO",PE NORDESTE HD1
+http://cloud-nany.cc:80/user/pass/1203
+#EXTINF:-1 tvg-id="Globo Nordeste HD" tvg-name="PE NORDESTE HD2" tvg-logo="https://bit.ly/3qCsVvm" group-title="REDE GLOBO",PE NORDESTE HD2
+http://cloud-nany.cc:80/user/pass/66922
+#EXTINF:-1 tvg-id="Globo Nordeste HD" tvg-name="PE NORDESTE SD" tvg-logo="https://bit.ly/3qCsVvm" group-title="REDE GLOBO",PE NORDESTE SD
+http://cloud-nany.cc:80/user/pass/8045
+#EXTINF:-1 tvg-id="Globo Nordeste HD" tvg-name="PE NORDESTE SD2" tvg-logo="https://bit.ly/3qCsVvm" group-title="REDE GLOBO",PE NORDESTE SD2
+http://cloud-nany.cc:80/user/pass/66921
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="PI REDE CLUBE HD" tvg-logo="https://i.imgur.com/sIlRTUe.png" group-title="REDE GLOBO",PI REDE CLUBE HD
+http://cloud-nany.cc:80/user/pass/66913
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="PI REDE CLUBE SD" tvg-logo="https://i.imgur.com/sIlRTUe.png" group-title="REDE GLOBO",PI REDE CLUBE SD
+http://cloud-nany.cc:80/user/pass/66912
+#EXTINF:-1 tvg-id="Globo Teresina" tvg-name="PI REDE CLUBE TERESINA HD" tvg-logo="https://i.imgur.com/sIlRTUe.png" group-title="REDE GLOBO",PI REDE CLUBE TERESINA HD
+http://cloud-nany.cc:80/user/pass/26597
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="PR RPC CURITIBA HD" tvg-logo="https://bit.ly/37rBn8S" group-title="REDE GLOBO",PR RPC CURITIBA HD
+http://cloud-nany.cc:80/user/pass/8036
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="PR RPC CURITIBA HD1" tvg-logo="https://bit.ly/37rBn8S" group-title="REDE GLOBO",PR RPC CURITIBA HD1
+http://cloud-nany.cc:80/user/pass/60361
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="PR RPC CURITIBA SD" tvg-logo="https://bit.ly/37rBn8S" group-title="REDE GLOBO",PR RPC CURITIBA SD
+http://cloud-nany.cc:80/user/pass/8037
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="PR RPC HD" tvg-logo="https://bit.ly/37rBn8S" group-title="REDE GLOBO",PR RPC HD
+http://cloud-nany.cc:80/user/pass/66910
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="PR RPC PARANAVAI HD" tvg-logo="https://bit.ly/37rBn8S" group-title="REDE GLOBO",PR RPC PARANAVAI HD
+http://cloud-nany.cc:80/user/pass/66908
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="PR RPC PARANAVAI SD" tvg-logo="https://bit.ly/37rBn8S" group-title="REDE GLOBO",PR RPC PARANAVAI SD
+http://cloud-nany.cc:80/user/pass/66907
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="PR RPC SD" tvg-logo="https://bit.ly/37rBn8S" group-title="REDE GLOBO",PR RPC SD
+http://cloud-nany.cc:80/user/pass/66906
+#EXTINF:-1 tvg-id="RPC Foz do Iguaçu HD" tvg-name="PR RPC FOZ DO IGUACU HD" tvg-logo="https://bit.ly/37rBn8S" group-title="REDE GLOBO",PR RPC FOZ DO IGUACU HD
+http://cloud-nany.cc:80/user/pass/66698
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="PR RPC FOZ DO IGUACU HD1" tvg-logo="https://bit.ly/37rBn8S" group-title="REDE GLOBO",PR RPC FOZ DO IGUACU HD1
+http://cloud-nany.cc:80/user/pass/66904
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="PR RPC FOZ DO IGUACU SD" tvg-logo="https://bit.ly/37rBn8S" group-title="REDE GLOBO",PR RPC FOZ DO IGUACU SD
+http://cloud-nany.cc:80/user/pass/66903
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="PR RPC MARINGA HD" tvg-logo="https://bit.ly/37rBn8S" group-title="REDE GLOBO",PR RPC MARINGA HD
+http://cloud-nany.cc:80/user/pass/66901
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="PR RPC MARINGA SD" tvg-logo="https://bit.ly/37rBn8S" group-title="REDE GLOBO",PR RPC MARINGA SD
+http://cloud-nany.cc:80/user/pass/66900
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="PR RPC PONTA GROSSA HD" tvg-logo="https://bit.ly/37rBn8S" group-title="REDE GLOBO",PR RPC PONTA GROSSA HD
+http://cloud-nany.cc:80/user/pass/66898
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="PR RPC PONTA GROSSA SD" tvg-logo="https://bit.ly/37rBn8S" group-title="REDE GLOBO",PR RPC PONTA GROSSA SD
+http://cloud-nany.cc:80/user/pass/66897
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="RJ CAPITAL HD" tvg-logo="https://i.imgur.com/P1mYnQb.png" group-title="REDE GLOBO",RJ CAPITAL HD
+http://cloud-nany.cc:80/user/pass/66894
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="RJ CAPITAL SD" tvg-logo="https://i.imgur.com/P1mYnQb.png" group-title="REDE GLOBO",RJ CAPITAL SD
+http://cloud-nany.cc:80/user/pass/66893
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="RJ INTER TV ALTO LITORAL HD" tvg-logo="https://bit.ly/3pw8M8T" group-title="REDE GLOBO",RJ INTER TV ALTO LITORAL HD
+http://cloud-nany.cc:80/user/pass/66891
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="RJ INTER TV ALTO LITORAL HD1" tvg-logo="https://bit.ly/3pw8M8T" group-title="REDE GLOBO",RJ INTER TV ALTO LITORAL HD1
+http://cloud-nany.cc:80/user/pass/59789
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="RJ INTER TV ALTO LITORAL SD" tvg-logo="https://bit.ly/3pw8M8T" group-title="REDE GLOBO",RJ INTER TV ALTO LITORAL SD
+http://cloud-nany.cc:80/user/pass/66890
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="RJ INTER TV SERRA MAR HD" tvg-logo="https://bit.ly/3pw8M8T" group-title="REDE GLOBO",RJ INTER TV SERRA MAR HD
+http://cloud-nany.cc:80/user/pass/66888
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="RJ INTER TV SERRA MAR SD" tvg-logo="https://bit.ly/3pw8M8T" group-title="REDE GLOBO",RJ INTER TV SERRA MAR SD
+http://cloud-nany.cc:80/user/pass/66887
+#EXTINF:-1 tvg-id="TVRioSulHD.br" tvg-name="RJ TV RIO SUL HD" tvg-logo="https://bit.ly/3qANIPK" group-title="REDE GLOBO",RJ TV RIO SUL HD
+http://cloud-nany.cc:80/user/pass/49754
+#EXTINF:-1 tvg-id="TVRioSulHD.br" tvg-name="RJ TV RIO SUL HD1" tvg-logo="https://bit.ly/3qANIPK" group-title="REDE GLOBO",RJ TV RIO SUL HD1
+http://cloud-nany.cc:80/user/pass/66885
+#EXTINF:-1 tvg-id="TVRioSulHD.br" tvg-name="RJ TV RIO SUL SD" tvg-logo="https://bit.ly/3qANIPK" group-title="REDE GLOBO",RJ TV RIO SUL SD
+http://cloud-nany.cc:80/user/pass/49753
+#EXTINF:-1 tvg-id="TVRioSulHD.br" tvg-name="RJ TV RIO SUL SD1" tvg-logo="https://bit.ly/3qANIPK" group-title="REDE GLOBO",RJ TV RIO SUL SD1
+http://cloud-nany.cc:80/user/pass/66884
+#EXTINF:-1 tvg-id="Inttvcabugi.br" tvg-name="RN INTER CABUGI SD" tvg-logo="https://bit.ly/3pw8M8T" group-title="REDE GLOBO",RN INTER CABUGI SD
+http://cloud-nany.cc:80/user/pass/28982
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="RN INTER TV CABUGI HD" tvg-logo="https://bit.ly/3pw8M8T" group-title="REDE GLOBO",RN INTER TV CABUGI HD
+http://cloud-nany.cc:80/user/pass/66882
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="RN INTER TV CABUGI SD" tvg-logo="https://bit.ly/3pw8M8T" group-title="REDE GLOBO",RN INTER TV CABUGI SD
+http://cloud-nany.cc:80/user/pass/66881
+#EXTINF:-1 tvg-id="" tvg-name="RO REDE AMAZONICA PORTO VELHO HD" tvg-logo="https://bit.ly/3ptlx40" group-title="REDE GLOBO",RO REDE AMAZONICA PORTO VELHO HD
+http://cloud-nany.cc:80/user/pass/104743
+#EXTINF:-1 tvg-id="" tvg-name="RO REDE AMAZONICA PORTO VELHO SD" tvg-logo="https://bit.ly/3ptlx40" group-title="REDE GLOBO",RO REDE AMAZONICA PORTO VELHO SD
+http://cloud-nany.cc:80/user/pass/104742
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="RS RBS CAXIAS HD" tvg-logo="https://bit.ly/2NG3cmP" group-title="REDE GLOBO",RS RBS CAXIAS HD
+http://cloud-nany.cc:80/user/pass/66695
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="RS RBS PELOTAS HD" tvg-logo="https://bit.ly/2NG3cmP" group-title="REDE GLOBO",RS RBS PELOTAS HD
+http://cloud-nany.cc:80/user/pass/66568
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="RS RBS TV CAXIAS DO SUL HD" tvg-logo="https://bit.ly/2NG3cmP" group-title="REDE GLOBO",RS RBS TV CAXIAS DO SUL HD
+http://cloud-nany.cc:80/user/pass/66879
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="RS RBS TV CAXIAS DO SUL SD" tvg-logo="https://bit.ly/2NG3cmP" group-title="REDE GLOBO",RS RBS TV CAXIAS DO SUL SD
+http://cloud-nany.cc:80/user/pass/66878
+#EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="RS RBS TV PORTO ALEGRE HD" tvg-logo="https://bit.ly/2NG3cmP" group-title="REDE GLOBO",RS RBS TV PORTO ALEGRE HD
+http://cloud-nany.cc:80/user/pass/53431
+#EXTINF:-1 tvg-id="GloboPortoAlegre.br" tvg-name="RS RBS TV PORTO ALEGRE HD1" tvg-logo="https://bit.ly/2NG3cmP" group-title="REDE GLOBO",RS RBS TV PORTO ALEGRE HD1
+http://cloud-nany.cc:80/user/pass/49149
+#EXTINF:-1 tvg-id="GloboPortoAlegre.br" tvg-name="RS RBS TV PORTO ALEGRE HD2" tvg-logo="https://bit.ly/2NG3cmP" group-title="REDE GLOBO",RS RBS TV PORTO ALEGRE HD2
+http://cloud-nany.cc:80/user/pass/8040
+#EXTINF:-1 tvg-id="RBSTVPortoAlegreHD" tvg-name="RS RBS TV PORTO ALEGRE HD3" tvg-logo="https://bit.ly/2NG3cmP" group-title="REDE GLOBO",RS RBS TV PORTO ALEGRE HD3
+http://cloud-nany.cc:80/user/pass/66876
+#EXTINF:-1 tvg-id="GloboPortoAlegre.br" tvg-name="RS RBS TV PORTO ALEGRE SD" tvg-logo="https://bit.ly/2NG3cmP" group-title="REDE GLOBO",RS RBS TV PORTO ALEGRE SD
+http://cloud-nany.cc:80/user/pass/8041
+#EXTINF:-1 tvg-id="RBSTVPortoAlegreHD" tvg-name="RS RBS TV PORTO ALEGRE SD1" tvg-logo="https://bit.ly/2NG3cmP" group-title="REDE GLOBO",RS RBS TV PORTO ALEGRE SD1
+http://cloud-nany.cc:80/user/pass/66875
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="SC NSC TV BLUMENAU HD" tvg-logo="https://i.imgur.com/kSkEGcp.png" group-title="REDE GLOBO",SC NSC TV BLUMENAU HD
+http://cloud-nany.cc:80/user/pass/49757
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="SC NSC TV BLUMENAU HD1" tvg-logo="https://i.imgur.com/kSkEGcp.png" group-title="REDE GLOBO",SC NSC TV BLUMENAU HD1
+http://cloud-nany.cc:80/user/pass/66873
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="SC NSC TV BLUMENAU SD" tvg-logo="https://i.imgur.com/kSkEGcp.png" group-title="REDE GLOBO",SC NSC TV BLUMENAU SD
+http://cloud-nany.cc:80/user/pass/49756
+#EXTINF:-1 tvg-id="NSCfloripa.br" tvg-name="SC NSC TV CHAPECO HD" tvg-logo="https://i.imgur.com/kSkEGcp.png" group-title="REDE GLOBO",SC NSC TV CHAPECO HD
+http://cloud-nany.cc:80/user/pass/26604
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="SC NSC TV CRICIUMA HD" tvg-logo="https://i.imgur.com/kSkEGcp.png" group-title="REDE GLOBO",SC NSC TV CRICIUMA HD
+http://cloud-nany.cc:80/user/pass/104766
+#EXTINF:-1 tvg-id="NSCfloripa.br" tvg-name="SC NSC TV FLORIANOPOLIS HD" tvg-logo="https://i.imgur.com/kSkEGcp.png" group-title="REDE GLOBO",SC NSC TV FLORIANOPOLIS HD
+http://cloud-nany.cc:80/user/pass/8042
+#EXTINF:-1 tvg-id="NSCfloripa.br" tvg-name="SC NSC TV FLORIANOPOLIS HD1" tvg-logo="https://i.imgur.com/kSkEGcp.png" group-title="REDE GLOBO",SC NSC TV FLORIANOPOLIS HD1
+http://cloud-nany.cc:80/user/pass/66867
+#EXTINF:-1 tvg-id="NSCfloripa.br" tvg-name="SC NSC TV FLORIANOPOLIS SD" tvg-logo="https://i.imgur.com/kSkEGcp.png" group-title="REDE GLOBO",SC NSC TV FLORIANOPOLIS SD
+http://cloud-nany.cc:80/user/pass/8043
+#EXTINF:-1 tvg-id="NSCfloripa.br" tvg-name="SC NSC TV FLORIANOPOLIS SD1" tvg-logo="https://i.imgur.com/kSkEGcp.png" group-title="REDE GLOBO",SC NSC TV FLORIANOPOLIS SD1
+http://cloud-nany.cc:80/user/pass/66866
+#EXTINF:-1 tvg-id="TV Sergipe HD" tvg-name="SE TV SERGIPE HD" tvg-logo="https://bit.ly/2M3DJ6A" group-title="REDE GLOBO",SE TV SERGIPE HD
+http://cloud-nany.cc:80/user/pass/26591
+#EXTINF:-1 tvg-id="TV Sergipe HD" tvg-name="SE TV SERGIPE HD1" tvg-logo="https://bit.ly/2M3DJ6A" group-title="REDE GLOBO",SE TV SERGIPE HD1
+http://cloud-nany.cc:80/user/pass/66864
+#EXTINF:-1 tvg-id="TV Sergipe HD" tvg-name="SE TV SERGIPE SD" tvg-logo="https://bit.ly/2M3DJ6A" group-title="REDE GLOBO",SE TV SERGIPE SD
+http://cloud-nany.cc:80/user/pass/26593
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="SP CAPITAL HD" tvg-logo="https://i.imgur.com/j2NxFE3.png" group-title="REDE GLOBO",SP CAPITAL HD
+http://cloud-nany.cc:80/user/pass/66861
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="SP CAPITAL SD" tvg-logo="https://i.imgur.com/j2NxFE3.png" group-title="REDE GLOBO",SP CAPITAL SD
+http://cloud-nany.cc:80/user/pass/66860
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="SP EPTV CAMPINAS HD" tvg-logo="https://i.imgur.com/TjTVvV9.png" group-title="REDE GLOBO",SP EPTV CAMPINAS HD
+http://cloud-nany.cc:80/user/pass/8052
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="SP EPTV CAMPINAS HD1" tvg-logo="https://i.imgur.com/TjTVvV9.png" group-title="REDE GLOBO",SP EPTV CAMPINAS HD1
+http://cloud-nany.cc:80/user/pass/49146
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="SP EPTV CAMPINAS SD" tvg-logo="https://i.imgur.com/TjTVvV9.png" group-title="REDE GLOBO",SP EPTV CAMPINAS SD
+http://cloud-nany.cc:80/user/pass/8053
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="SP EPTV CAMPINAS SD1" tvg-logo="https://i.imgur.com/TjTVvV9.png" group-title="REDE GLOBO",SP EPTV CAMPINAS SD1
+http://cloud-nany.cc:80/user/pass/2003
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="SP EPTV CAMPINAS SD2" tvg-logo="https://i.imgur.com/TjTVvV9.png" group-title="REDE GLOBO",SP EPTV CAMPINAS SD2
+http://cloud-nany.cc:80/user/pass/66857
+#EXTINF:-1 tvg-id="" tvg-name="SP EPTV CENTRAL HD" tvg-logo="https://bit.ly/3pq1IdK" group-title="REDE GLOBO",SP EPTV CENTRAL HD
+http://cloud-nany.cc:80/user/pass/104754
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="SP EPTV CENTRAL SD" tvg-logo="https://bit.ly/3pq1IdK" group-title="REDE GLOBO",SP EPTV CENTRAL SD
+http://cloud-nany.cc:80/user/pass/53436
+#EXTINF:-1 tvg-id="" tvg-name="SP EPTV RIBEIRAO PRETO HD" tvg-logo="https://bit.ly/2N8Mhd2" group-title="REDE GLOBO",SP EPTV RIBEIRAO PRETO HD
+http://cloud-nany.cc:80/user/pass/90035
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="SP EPTV RIBEIRAO PRETO SD" tvg-logo="https://bit.ly/2N8Mhd2" group-title="REDE GLOBO",SP EPTV RIBEIRAO PRETO SD
+http://cloud-nany.cc:80/user/pass/8050
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="SP EPTV RIBEIRAO PRETO SD2" tvg-logo="https://bit.ly/2N8Mhd2" group-title="REDE GLOBO",SP EPTV RIBEIRAO PRETO SD2
+http://cloud-nany.cc:80/user/pass/66856
+#EXTINF:-1 tvg-id="" tvg-name="SP TV TEM BAURU  HD" tvg-logo="https://bit.ly/3du27cZ" group-title="REDE GLOBO",SP TV TEM BAURU  HD
+http://cloud-nany.cc:80/user/pass/104731
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="SP TV TEM BAURU SD" tvg-logo="https://bit.ly/3du27cZ" group-title="REDE GLOBO",SP TV TEM BAURU SD
+http://cloud-nany.cc:80/user/pass/8029
+#EXTINF:-1 tvg-id="" tvg-name="SP TV TEM ITAPETININGA HD" tvg-logo="https://bit.ly/3du27cZ" group-title="REDE GLOBO",SP TV TEM ITAPETININGA HD
+http://cloud-nany.cc:80/user/pass/104730
+#EXTINF:-1 tvg-id="" tvg-name="SP TV TEM ITAPETININGA SD" tvg-logo="https://bit.ly/3du27cZ" group-title="REDE GLOBO",SP TV TEM ITAPETININGA SD
+http://cloud-nany.cc:80/user/pass/104729
+#EXTINF:-1 tvg-id="" tvg-name="SP TV TEM S. J. DO RIO PRETO HD" tvg-logo="https://bit.ly/3du27cZ" group-title="REDE GLOBO",SP TV TEM S. J. DO RIO PRETO HD
+http://cloud-nany.cc:80/user/pass/104758
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="SP TV TEM S. J. DO RIO PRETO SD" tvg-logo="https://bit.ly/3du27cZ" group-title="REDE GLOBO",SP TV TEM S. J. DO RIO PRETO SD
+http://cloud-nany.cc:80/user/pass/8027
+#EXTINF:-1 tvg-id="" tvg-name="SP TV TEM SOROCABA HD" tvg-logo="https://bit.ly/3du27cZ" group-title="REDE GLOBO",SP TV TEM SOROCABA HD
+http://cloud-nany.cc:80/user/pass/104756
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="SP TV TEM SOROCABA SD" tvg-logo="https://bit.ly/3du27cZ" group-title="REDE GLOBO",SP TV TEM SOROCABA SD
+http://cloud-nany.cc:80/user/pass/8026
+#EXTINF:-1 tvg-id="" tvg-name="SP TV TRIBUNA SANTOS HD" tvg-logo="https://bit.ly/3qxt0jR" group-title="REDE GLOBO",SP TV TRIBUNA SANTOS HD
+http://cloud-nany.cc:80/user/pass/104728
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="SP TV TRIBUNA SANTOS SD" tvg-logo="https://bit.ly/3qxt0jR" group-title="REDE GLOBO",SP TV TRIBUNA SANTOS SD
+http://cloud-nany.cc:80/user/pass/26608
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="SP TV TRIBUNA SANTOS SD1" tvg-logo="https://bit.ly/3qxt0jR" group-title="REDE GLOBO",SP TV TRIBUNA SANTOS SD1
+http://cloud-nany.cc:80/user/pass/66855
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="SP TV VANGUARDA S. J. DOS CAMPOS HD" tvg-logo="https://i.imgur.com/WYygOpR.png" group-title="REDE GLOBO",SP TV VANGUARDA S. J. DOS CAMPOS HD
+http://cloud-nany.cc:80/user/pass/66710
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="SP TV VANGUARDA S. J. DOS CAMPOS SD" tvg-logo="https://i.imgur.com/WYygOpR.png" group-title="REDE GLOBO",SP TV VANGUARDA S. J. DOS CAMPOS SD
+http://cloud-nany.cc:80/user/pass/26607
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="SP TV VANGUARDA S. J. DOS CAMPOS SD1" tvg-logo="https://i.imgur.com/WYygOpR.png" group-title="REDE GLOBO",SP TV VANGUARDA S. J. DOS CAMPOS SD1
+http://cloud-nany.cc:80/user/pass/66854
+#EXTINF:-1 tvg-id="" tvg-name="SP TV VANGUARDA TAUBATE HD" tvg-logo="https://bit.ly/3atyarm" group-title="REDE GLOBO",SP TV VANGUARDA TAUBATE HD
+http://cloud-nany.cc:80/user/pass/104727
+#EXTINF:-1 tvg-id="" tvg-name="SP TV VANGUARDA TAUBATE SD" tvg-logo="https://bit.ly/3atyarm" group-title="REDE GLOBO",SP TV VANGUARDA TAUBATE SD
+http://cloud-nany.cc:80/user/pass/104726
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="REDE RECORD HD" tvg-logo="https://i.imgur.com/mQo0UoK.png" group-title="REDE RECORD",REDE RECORD HD
+http://cloud-nany.cc:80/user/pass/7951
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="REDE RECORD SP HD" tvg-logo="https://i.imgur.com/2DTdcJM.png" group-title="REDE RECORD",REDE RECORD SP HD
+http://cloud-nany.cc:80/user/pass/5784
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="REDE RECORD SP HD1" tvg-logo="https://i.imgur.com/2DTdcJM.png" group-title="REDE RECORD",REDE RECORD SP HD1
+http://cloud-nany.cc:80/user/pass/49141
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="REDE RECORD SP SD" tvg-logo="https://i.imgur.com/2DTdcJM.png" group-title="REDE RECORD",REDE RECORD SP SD
+http://cloud-nany.cc:80/user/pass/7948
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="REDE RECORD SP SD2" tvg-logo="https://i.imgur.com/2DTdcJM.png" group-title="REDE RECORD",REDE RECORD SP SD2
+http://cloud-nany.cc:80/user/pass/7086
+#EXTINF:-1 tvg-id="Record TV Rio HD" tvg-name="REDE RECORD RIO HD" tvg-logo="https://i.imgur.com/9BRksxz.png" group-title="REDE RECORD",REDE RECORD RIO HD
+http://cloud-nany.cc:80/user/pass/16749
+#EXTINF:-1 tvg-id="Record TV Rio HD" tvg-name="REDE RECORD RIO SD" tvg-logo="https://i.imgur.com/9BRksxz.png" group-title="REDE RECORD",REDE RECORD RIO SD
+http://cloud-nany.cc:80/user/pass/16750
+#EXTINF:-1 tvg-id="Record TV Minas" tvg-name="REDE RECORD MG HD" tvg-logo="https://i.imgur.com/AZcyUn3.png" group-title="REDE RECORD",REDE RECORD MG HD
+http://cloud-nany.cc:80/user/pass/16762
+#EXTINF:-1 tvg-id="Record TV Minas" tvg-name="REDE RECORD MG HD1" tvg-logo="https://i.imgur.com/AZcyUn3.png" group-title="REDE RECORD",REDE RECORD MG HD1
+http://cloud-nany.cc:80/user/pass/54268
+#EXTINF:-1 tvg-id="Record TV Minas" tvg-name="REDE RECORD MG SD" tvg-logo="https://i.imgur.com/AZcyUn3.png" group-title="REDE RECORD",REDE RECORD MG SD
+http://cloud-nany.cc:80/user/pass/16752
+#EXTINF:-1 tvg-id="Record TV Bahia" tvg-name="REDE RECORD BA HD" tvg-logo="https://i.imgur.com/DXl9B3x.png" group-title="REDE RECORD",REDE RECORD BA HD
+http://cloud-nany.cc:80/user/pass/42455
+#EXTINF:-1 tvg-id="Record TV Bahia" tvg-name="REDE RECORD BA SD" tvg-logo="https://i.imgur.com/DXl9B3x.png" group-title="REDE RECORD",REDE RECORD BA SD
+http://cloud-nany.cc:80/user/pass/42454
+#EXTINF:-1 tvg-id="Record TV BrasÃ¯Â¿Â½lia" tvg-name="REDE RECORD DF HD" tvg-logo="https://i.imgur.com/SC9pxyZ.png" group-title="REDE RECORD",REDE RECORD DF HD
+http://cloud-nany.cc:80/user/pass/42457
+#EXTINF:-1 tvg-id="Record TV BrasÃƒÆ’Ã‚Â­lia" tvg-name="REDE RECORD DF SD" tvg-logo="https://i.imgur.com/SC9pxyZ.png" group-title="REDE RECORD",REDE RECORD DF SD
+http://cloud-nany.cc:80/user/pass/42456
+#EXTINF:-1 tvg-id="Record Porto Alegre HD" tvg-name="REDE RECORD RS HD" tvg-logo="https://i.imgur.com/F0KrTuj.png" group-title="REDE RECORD",REDE RECORD RS HD
+http://cloud-nany.cc:80/user/pass/42459
+#EXTINF:-1 tvg-id="RICTVCuritibaHD.br" tvg-name="REDE RECORD PARANA HD1" tvg-logo="https://i.imgur.com/0uqK53J.png" group-title="REDE RECORD",REDE RECORD PARANA HD1
+http://cloud-nany.cc:80/user/pass/53414
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SP HD" tvg-logo="https://i.imgur.com/TQ8WncS.png" group-title="ABERTOS",BAND SP HD
+http://cloud-nany.cc:80/user/pass/96852
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SP SD" tvg-logo="https://i.imgur.com/TQ8WncS.png" group-title="ABERTOS",BAND SP SD
+http://cloud-nany.cc:80/user/pass/139271
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/TQ8WncS.png" group-title="ABERTOS",BAND HD
+http://cloud-nany.cc:80/user/pass/60632
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SD" tvg-logo="https://i.imgur.com/TQ8WncS.png" group-title="ABERTOS",BAND SD
+http://cloud-nany.cc:80/user/pass/96851
+#EXTINF:-1 tvg-id="Band RJ HD" tvg-name="BAND RJ HD" tvg-logo="https://i.imgur.com/TQ8WncS.png" group-title="ABERTOS",BAND RJ HD
+http://cloud-nany.cc:80/user/pass/96848
+#EXTINF:-1 tvg-id="Band RJ HD" tvg-name="BAND RJ SD" tvg-logo="https://i.imgur.com/TQ8WncS.png" group-title="ABERTOS",BAND RJ SD
+http://cloud-nany.cc:80/user/pass/96847
+#EXTINF:-1 tvg-id="Band Bahia HD" tvg-name="BAND BA" tvg-logo="https://i.imgur.com/TQ8WncS.png" group-title="ABERTOS",BAND BA
+http://cloud-nany.cc:80/user/pass/96846
+#EXTINF:-1 tvg-id="Band Campinas HD" tvg-name="BAND CAMPINAS HD" tvg-logo="https://i.imgur.com/TQ8WncS.png" group-title="ABERTOS",BAND CAMPINAS HD
+http://cloud-nany.cc:80/user/pass/96845
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND PR HD" tvg-logo="https://i.imgur.com/TQ8WncS.png" group-title="ABERTOS",BAND PR HD
+http://cloud-nany.cc:80/user/pass/96842
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND PR SD" tvg-logo="https://i.imgur.com/TQ8WncS.png" group-title="ABERTOS",BAND PR SD
+http://cloud-nany.cc:80/user/pass/96841
+#EXTINF:-1 tvg-id="BandTVGoianiaHD.br" tvg-name="BAND GO HD" tvg-logo="https://i.imgur.com/TQ8WncS.png" group-title="ABERTOS",BAND GO HD
+http://cloud-nany.cc:80/user/pass/96839
+#EXTINF:-1 tvg-id="BandRioGrandedoSulHD.br" tvg-name="BAND RS HD" tvg-logo="https://i.imgur.com/TQ8WncS.png" group-title="ABERTOS",BAND RS HD
+http://cloud-nany.cc:80/user/pass/96838
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND BSB HD" tvg-logo="https://i.imgur.com/TQ8WncS.png" group-title="ABERTOS",BAND BSB HD
+http://cloud-nany.cc:80/user/pass/96837
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP HD" tvg-logo="https://i.imgur.com/vCICOke.png" group-title="ABERTOS",SBT SP HD
+http://cloud-nany.cc:80/user/pass/96875
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP SD" tvg-logo="https://i.imgur.com/vCICOke.png" group-title="ABERTOS",SBT SP SD
+http://cloud-nany.cc:80/user/pass/96874
+#EXTINF:-1 tvg-id="SBT Rio HD" tvg-name="SBT RJ HD" tvg-logo="https://i.imgur.com/vCICOke.png" group-title="ABERTOS",SBT RJ HD
+http://cloud-nany.cc:80/user/pass/96871
+#EXTINF:-1 tvg-id="SBT Rio HD" tvg-name="SBT RJ SD" tvg-logo="https://i.imgur.com/vCICOke.png" group-title="ABERTOS",SBT RJ SD
+http://cloud-nany.cc:80/user/pass/96870
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT MG HD" tvg-logo="https://i.imgur.com/vCICOke.png" group-title="ABERTOS",SBT MG HD
+http://cloud-nany.cc:80/user/pass/96868
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT VTV CAMPINAS HD" tvg-logo="https://i.imgur.com/vCICOke.png" group-title="ABERTOS",SBT VTV CAMPINAS HD
+http://cloud-nany.cc:80/user/pass/96866
+#EXTINF:-1 tvg-id="RedeMassa.br" tvg-name="SBT PR HD" tvg-logo="https://i.imgur.com/vCICOke.png" group-title="ABERTOS",SBT PR HD
+http://cloud-nany.cc:80/user/pass/96862
+#EXTINF:-1 tvg-id="RedeMassa.br" tvg-name="SBT PR SD" tvg-logo="https://i.imgur.com/vCICOke.png" group-title="ABERTOS",SBT PR SD
+http://cloud-nany.cc:80/user/pass/96861
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT BSB HD" tvg-logo="https://i.imgur.com/vCICOke.png" group-title="ABERTOS",SBT BSB HD
+http://cloud-nany.cc:80/user/pass/96860
+#EXTINF:-1 tvg-id="SBT RS HD" tvg-name="SBT RS HD" tvg-logo="https://i.imgur.com/vCICOke.png" group-title="ABERTOS",SBT RS HD
+http://cloud-nany.cc:80/user/pass/96859
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT BA SD" tvg-logo="https://i.imgur.com/vCICOke.png" group-title="ABERTOS",SBT BA SD
+http://cloud-nany.cc:80/user/pass/96857
+#EXTINF:-1 tvg-id="Futura.br" tvg-name="FUTURA HD" tvg-logo="https://i.imgur.com/8OHLzCF.png" group-title="ABERTOS",FUTURA HD
+http://cloud-nany.cc:80/user/pass/8058
+#EXTINF:-1 tvg-id="Futura.br" tvg-name="FUTURA SD" tvg-logo="https://i.imgur.com/8OHLzCF.png" group-title="ABERTOS",FUTURA SD
+http://cloud-nany.cc:80/user/pass/8059
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC BRASIL HD" tvg-logo="https://i.imgur.com/uHED1Yu.png" group-title="FILMES/SERIES",AMC BRASIL HD
+http://cloud-nany.cc:80/user/pass/8147
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC BRASIL HD1" tvg-logo="https://i.imgur.com/uHED1Yu.png" group-title="FILMES/SERIES",AMC BRASIL HD1
+http://cloud-nany.cc:80/user/pass/1286
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC BRASIL SD" tvg-logo="https://i.imgur.com/uHED1Yu.png" group-title="FILMES/SERIES",AMC BRASIL SD
+http://cloud-nany.cc:80/user/pass/8148
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD" tvg-logo="https://i.imgur.com/Gnd4SiV.png" group-title="FILMES/SERIES",AXN HD
+http://cloud-nany.cc:80/user/pass/8141
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD1" tvg-logo="https://i.imgur.com/Gnd4SiV.png" group-title="FILMES/SERIES",AXN HD1
+http://cloud-nany.cc:80/user/pass/1282
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN SD" tvg-logo="https://i.imgur.com/Gnd4SiV.png" group-title="FILMES/SERIES",AXN SD
+http://cloud-nany.cc:80/user/pass/8142
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN SD LEG" tvg-logo="https://i.imgur.com/Gnd4SiV.png" group-title="CANAIS LEGENDADOS",AXN SD LEG
+http://cloud-nany.cc:80/user/pass/50722
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&amp;E HD" tvg-logo="https://i.imgur.com/xQ2sG46.png" group-title="FILMES/SERIES",A&amp;E HD
+http://cloud-nany.cc:80/user/pass/8149
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&amp;E HD 1" tvg-logo="https://i.imgur.com/xQ2sG46.png" group-title="FILMES/SERIES",A&amp;E HD 1
+http://cloud-nany.cc:80/user/pass/1284
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&amp;E SD" tvg-logo="https://i.imgur.com/xQ2sG46.png" group-title="FILMES/SERIES",A&amp;E SD
+http://cloud-nany.cc:80/user/pass/8150
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY HD" tvg-logo="https://i.imgur.com/HUxIVav.jpg" group-title="FILMES/SERIES",CANAL SONY HD
+http://cloud-nany.cc:80/user/pass/8125
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY HD1" tvg-logo="https://i.imgur.com/HUxIVav.jpg" group-title="FILMES/SERIES",CANAL SONY HD1
+http://cloud-nany.cc:80/user/pass/1267
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY SD" tvg-logo="https://i.imgur.com/HUxIVav.jpg" group-title="FILMES/SERIES",CANAL SONY SD
+http://cloud-nany.cc:80/user/pass/8126
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX HD" tvg-logo="https://i.imgur.com/amKCOUv.png" group-title="FILMES/SERIES",CINEMAX HD
+http://cloud-nany.cc:80/user/pass/8120
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX HD1" tvg-logo="https://i.imgur.com/amKCOUv.png" group-title="FILMES/SERIES",CINEMAX HD1
+http://cloud-nany.cc:80/user/pass/24206
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX SD" tvg-logo="https://i.imgur.com/amKCOUv.png" group-title="FILMES/SERIES",CINEMAX SD
+http://cloud-nany.cc:80/user/pass/8121
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL HD" tvg-logo="https://i.imgur.com/RuFpZ2G.png" group-title="FILMES/SERIES",COMEDY CENTRAL HD
+http://cloud-nany.cc:80/user/pass/8116
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL HD1" tvg-logo="https://i.imgur.com/RuFpZ2G.png" group-title="FILMES/SERIES",COMEDY CENTRAL HD1
+http://cloud-nany.cc:80/user/pass/24207
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL SD" tvg-logo="https://i.imgur.com/RuFpZ2G.png" group-title="FILMES/SERIES",COMEDY CENTRAL SD
+http://cloud-nany.cc:80/user/pass/8117
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE HD" tvg-logo="https://i.imgur.com/kHvaLFZ.png" group-title="FILMES/SERIES",SPACE HD
+http://cloud-nany.cc:80/user/pass/7936
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE HD1" tvg-logo="https://i.imgur.com/kHvaLFZ.png" group-title="FILMES/SERIES",SPACE HD1
+http://cloud-nany.cc:80/user/pass/1124
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE SD" tvg-logo="https://i.imgur.com/kHvaLFZ.png" group-title="FILMES/SERIES",SPACE SD
+http://cloud-nany.cc:80/user/pass/7937
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT CHANNEL HD" tvg-logo="https://i.imgur.com/zQXKawH.png" group-title="FILMES/SERIES",PARAMOUNT CHANNEL HD
+http://cloud-nany.cc:80/user/pass/7969
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT CHANNEL HD1" tvg-logo="https://i.imgur.com/zQXKawH.png" group-title="FILMES/SERIES",PARAMOUNT CHANNEL HD1
+http://cloud-nany.cc:80/user/pass/1159
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT CHANNEL SD" tvg-logo="https://i.imgur.com/zQXKawH.png" group-title="FILMES/SERIES",PARAMOUNT CHANNEL SD
+http://cloud-nany.cc:80/user/pass/7970
+#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS HD" tvg-logo="https://i.imgur.com/dmDhNCG.png" group-title="FILMES/SERIES",TBS HD
+http://cloud-nany.cc:80/user/pass/7924
+#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS HD1" tvg-logo="https://i.imgur.com/dmDhNCG.png" group-title="FILMES/SERIES",TBS HD1
+http://cloud-nany.cc:80/user/pass/6701
+#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS SD" tvg-logo="https://i.imgur.com/dmDhNCG.png" group-title="FILMES/SERIES",TBS SD
+http://cloud-nany.cc:80/user/pass/7925
+#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM HD" tvg-logo="https://i.imgur.com/iYKinWQ.png" group-title="FILMES/SERIES",TCM HD
+http://cloud-nany.cc:80/user/pass/42037
+#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM SD" tvg-logo="https://i.imgur.com/iYKinWQ.png" group-title="FILMES/SERIES",TCM SD
+http://cloud-nany.cc:80/user/pass/7923
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT HD" tvg-logo="https://i.imgur.com/qMVtaM9.png" group-title="FILMES/SERIES",TNT HD
+http://cloud-nany.cc:80/user/pass/7906
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT HD1" tvg-logo="https://i.imgur.com/qMVtaM9.png" group-title="FILMES/SERIES",TNT HD1
+http://cloud-nany.cc:80/user/pass/1095
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT SD" tvg-logo="https://i.imgur.com/qMVtaM9.png" group-title="FILMES/SERIES",TNT SD
+http://cloud-nany.cc:80/user/pass/7907
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES HD" tvg-logo="https://i.imgur.com/ko6hZ8f.png" group-title="FILMES/SERIES",TNT SERIES HD
+http://cloud-nany.cc:80/user/pass/7904
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES HD1" tvg-logo="https://i.imgur.com/ko6hZ8f.png" group-title="FILMES/SERIES",TNT SERIES HD1
+http://cloud-nany.cc:80/user/pass/1093
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES SD" tvg-logo="https://i.imgur.com/ko6hZ8f.png" group-title="FILMES/SERIES",TNT SERIES SD
+http://cloud-nany.cc:80/user/pass/7905
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER TV HD LEG" tvg-logo="https://i.imgur.com/4BsjUJp.png" group-title="CANAIS LEGENDADOS",WARNER TV HD LEG
+http://cloud-nany.cc:80/user/pass/92319
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER TV HD" tvg-logo="https://i.imgur.com/4BsjUJp.png" group-title="FILMES/SERIES",WARNER TV HD
+http://cloud-nany.cc:80/user/pass/7883
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER TV HD1" tvg-logo="https://i.imgur.com/4BsjUJp.png" group-title="FILMES/SERIES",WARNER TV HD1
+http://cloud-nany.cc:80/user/pass/1070
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER TV SD" tvg-logo="https://i.imgur.com/4BsjUJp.png" group-title="FILMES/SERIES",WARNER TV SD
+http://cloud-nany.cc:80/user/pass/7884
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR HD" tvg-logo="https://i.imgur.com/6Sn3RSZ.png" group-title="REDE STAR",STAR HD
+http://cloud-nany.cc:80/user/pass/8070
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR HD1" tvg-logo="https://i.imgur.com/6Sn3RSZ.png" group-title="REDE STAR",STAR HD1
+http://cloud-nany.cc:80/user/pass/1222
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR  SD" tvg-logo="https://i.imgur.com/6Sn3RSZ.png" group-title="REDE STAR",STAR  SD
+http://cloud-nany.cc:80/user/pass/8071
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR HD LEG" tvg-logo="https://i.imgur.com/6Sn3RSZ.png" group-title="CANAIS LEGENDADOS",STAR HD LEG
+http://cloud-nany.cc:80/user/pass/50720
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="STAR HITS1 HD LEG" tvg-logo="https://i.imgur.com/r2JqjOF.png" group-title="CANAIS LEGENDADOS",STAR HITS1 HD LEG
+http://cloud-nany.cc:80/user/pass/63561
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="STAR HITS 1 HD" tvg-logo="https://i.imgur.com/r2JqjOF.png" group-title="REDE STAR",STAR HITS 1 HD
+http://cloud-nany.cc:80/user/pass/8066
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="STAR HITS 1 HD 1" tvg-logo="https://i.imgur.com/r2JqjOF.png" group-title="REDE STAR",STAR HITS 1 HD 1
+http://cloud-nany.cc:80/user/pass/1220
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="STAR HITS 1 SD" tvg-logo="https://i.imgur.com/r2JqjOF.png" group-title="REDE STAR",STAR HITS 1 SD
+http://cloud-nany.cc:80/user/pass/8067
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="STAR HITS 2 HD LEG" tvg-logo="https://i.imgur.com/WS3t7Lv.png" group-title="CANAIS LEGENDADOS",STAR HITS 2 HD LEG
+http://cloud-nany.cc:80/user/pass/92325
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="STAR HITS 2 HD" tvg-logo="https://i.imgur.com/WS3t7Lv.png" group-title="REDE STAR",STAR HITS 2 HD
+http://cloud-nany.cc:80/user/pass/8064
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="STAR HITS 2 HD 1" tvg-logo="https://i.imgur.com/WS3t7Lv.png" group-title="REDE STAR",STAR HITS 2 HD 1
+http://cloud-nany.cc:80/user/pass/1219
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="STAR HITS 2 SD" tvg-logo="https://i.imgur.com/WS3t7Lv.png" group-title="REDE STAR",STAR HITS 2 SD
+http://cloud-nany.cc:80/user/pass/8065
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="STAR LIFE HD" tvg-logo="https://i.imgur.com/8MngP7f.png" group-title="REDE STAR",STAR LIFE HD
+http://cloud-nany.cc:80/user/pass/8068
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="STAR LIFE HD1" tvg-logo="https://i.imgur.com/8MngP7f.png" group-title="REDE STAR",STAR LIFE HD1
+http://cloud-nany.cc:80/user/pass/1221
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="STAR LIFE SD" tvg-logo="https://i.imgur.com/8MngP7f.png" group-title="REDE STAR",STAR LIFE SD
+http://cloud-nany.cc:80/user/pass/8069
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HD" tvg-logo="https://i.imgur.com/LgnTVUD.png" group-title="REDE STAR",FX HD
+http://cloud-nany.cc:80/user/pass/8056
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HD1" tvg-logo="https://i.imgur.com/LgnTVUD.png" group-title="REDE STAR",FX HD1
+http://cloud-nany.cc:80/user/pass/4654
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX SD" tvg-logo="https://i.imgur.com/LgnTVUD.png" group-title="REDE STAR",FX SD
+http://cloud-nany.cc:80/user/pass/8057
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM HD" tvg-logo="https://i.imgur.com/QzYFhta.png" group-title="REDE GLOBOSAT",TELECINE PREMIUM HD
+http://cloud-nany.cc:80/user/pass/7913
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM HD1" tvg-logo="https://i.imgur.com/QzYFhta.png" group-title="REDE GLOBOSAT",TELECINE PREMIUM HD1
+http://cloud-nany.cc:80/user/pass/1102
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM HD LEG" tvg-logo="https://i.imgur.com/QzYFhta.png" group-title="CANAIS LEGENDADOS",TELECINE PREMIUM HD LEG
+http://cloud-nany.cc:80/user/pass/50706
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM SD" tvg-logo="https://i.imgur.com/QzYFhta.png" group-title="REDE GLOBOSAT",TELECINE PREMIUM SD
+http://cloud-nany.cc:80/user/pass/7914
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA HD" tvg-logo="https://i.imgur.com/SKJNOyn.png" group-title="REDE GLOBOSAT",TELECINE PIPOCA HD
+http://cloud-nany.cc:80/user/pass/7915
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA HD1" tvg-logo="https://i.imgur.com/SKJNOyn.png" group-title="REDE GLOBOSAT",TELECINE PIPOCA HD1
+http://cloud-nany.cc:80/user/pass/1104
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA SD" tvg-logo="https://i.imgur.com/SKJNOyn.png" group-title="REDE GLOBOSAT",TELECINE PIPOCA SD
+http://cloud-nany.cc:80/user/pass/7916
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA HD LEG" tvg-logo="https://i.imgur.com/SKJNOyn.png" group-title="CANAIS LEGENDADOS",TELECINE PIPOCA HD LEG
+http://cloud-nany.cc:80/user/pass/50708
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION HD" tvg-logo="https://i.imgur.com/9EiOsld.png" group-title="REDE GLOBOSAT",TELECINE ACTION HD
+http://cloud-nany.cc:80/user/pass/7921
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION HD1" tvg-logo="https://i.imgur.com/9EiOsld.png" group-title="REDE GLOBOSAT",TELECINE ACTION HD1
+http://cloud-nany.cc:80/user/pass/1110
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION SD" tvg-logo="https://i.imgur.com/9EiOsld.png" group-title="REDE GLOBOSAT",TELECINE ACTION SD
+http://cloud-nany.cc:80/user/pass/7922
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION HD LEG" tvg-logo="https://i.imgur.com/9EiOsld.png" group-title="CANAIS LEGENDADOS",TELECINE ACTION HD LEG
+http://cloud-nany.cc:80/user/pass/50712
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN HD" tvg-logo="https://i.imgur.com/W31YdgV.png" group-title="REDE GLOBOSAT",TELECINE FUN HD
+http://cloud-nany.cc:80/user/pass/7917
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN HD1" tvg-logo="https://i.imgur.com/W31YdgV.png" group-title="REDE GLOBOSAT",TELECINE FUN HD1
+http://cloud-nany.cc:80/user/pass/1106
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN SD" tvg-logo="https://i.imgur.com/W31YdgV.png" group-title="REDE GLOBOSAT",TELECINE FUN SD
+http://cloud-nany.cc:80/user/pass/7918
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN HD LEG" tvg-logo="https://i.imgur.com/W31YdgV.png" group-title="CANAIS LEGENDADOS",TELECINE FUN HD LEG
+http://cloud-nany.cc:80/user/pass/50710
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH HD" tvg-logo="https://i.imgur.com/KJQ9kep.png" group-title="REDE GLOBOSAT",TELECINE TOUCH HD
+http://cloud-nany.cc:80/user/pass/7911
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH HD1" tvg-logo="https://i.imgur.com/KJQ9kep.png" group-title="REDE GLOBOSAT",TELECINE TOUCH HD1
+http://cloud-nany.cc:80/user/pass/1100
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH SD" tvg-logo="https://i.imgur.com/KJQ9kep.png" group-title="REDE GLOBOSAT",TELECINE TOUCH SD
+http://cloud-nany.cc:80/user/pass/7912
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH HD LEG" tvg-logo="https://i.imgur.com/KJQ9kep.png" group-title="CANAIS LEGENDADOS",TELECINE TOUCH HD LEG
+http://cloud-nany.cc:80/user/pass/50704
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT HD" tvg-logo="https://i.imgur.com/DqXq28p.png" group-title="REDE GLOBOSAT",TELECINE CULT HD
+http://cloud-nany.cc:80/user/pass/7919
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT HD1" tvg-logo="https://i.imgur.com/DqXq28p.png" group-title="REDE GLOBOSAT",TELECINE CULT HD1
+http://cloud-nany.cc:80/user/pass/1108
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT SD" tvg-logo="https://i.imgur.com/DqXq28p.png" group-title="REDE GLOBOSAT",TELECINE CULT SD
+http://cloud-nany.cc:80/user/pass/7920
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX HD" tvg-logo="https://i.imgur.com/oDWyzmv.png" group-title="REDE GLOBOSAT",MEGAPIX HD
+http://cloud-nany.cc:80/user/pass/7990
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX HD1" tvg-logo="https://i.imgur.com/oDWyzmv.png" group-title="REDE GLOBOSAT",MEGAPIX HD1
+http://cloud-nany.cc:80/user/pass/1174
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX HD LEG" tvg-logo="https://i.imgur.com/oDWyzmv.png" group-title="CANAIS LEGENDADOS",MEGAPIX HD LEG
+http://cloud-nany.cc:80/user/pass/50697
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX SD" tvg-logo="https://i.imgur.com/oDWyzmv.png" group-title="REDE GLOBOSAT",MEGAPIX SD
+http://cloud-nany.cc:80/user/pass/7991
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY HD" tvg-logo="https://i.imgur.com/BZlUDYx.png" group-title="REDE GLOBOSAT",SYFY HD
+http://cloud-nany.cc:80/user/pass/7938
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY HD1" tvg-logo="https://i.imgur.com/9AF0NWJ.png" group-title="REDE GLOBOSAT",SYFY HD1
+http://cloud-nany.cc:80/user/pass/1112
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY SD" tvg-logo="https://i.imgur.com/BZlUDYx.png" group-title="REDE GLOBOSAT",SYFY SD
+http://cloud-nany.cc:80/user/pass/7939
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://i.imgur.com/KhnVNHM.png" group-title="REDE GLOBOSAT",STUDIO UNIVERSAL HD
+http://cloud-nany.cc:80/user/pass/7928
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL HD1" tvg-logo="https://i.imgur.com/KhnVNHM.png" group-title="REDE GLOBOSAT",STUDIO UNIVERSAL HD1
+http://cloud-nany.cc:80/user/pass/49137
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL SD" tvg-logo="https://i.imgur.com/KhnVNHM.png" group-title="REDE GLOBOSAT",STUDIO UNIVERSAL SD
+http://cloud-nany.cc:80/user/pass/7929
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL TV HD" tvg-logo="https://i.imgur.com/jDpPint.png" group-title="REDE GLOBOSAT",UNIVERSAL TV HD
+http://cloud-nany.cc:80/user/pass/7890
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL TV SD" tvg-logo="https://i.imgur.com/jDpPint.png" group-title="REDE GLOBOSAT",UNIVERSAL TV SD
+http://cloud-nany.cc:80/user/pass/7891
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL HD" tvg-logo="https://i.imgur.com/G3xv8ol.png" group-title="REDE GLOBOSAT",CANAL BRASIL HD
+http://cloud-nany.cc:80/user/pass/8127
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL SD" tvg-logo="https://i.imgur.com/G3xv8ol.png" group-title="REDE GLOBOSAT",CANAL BRASIL SD
+http://cloud-nany.cc:80/user/pass/8128
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD" tvg-logo="https://i.imgur.com/dgH054u.png" group-title="REDE HBO",HBO HD
+http://cloud-nany.cc:80/user/pass/8012
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD1" tvg-logo="https://i.imgur.com/dgH054u.png" group-title="REDE HBO",HBO HD1
+http://cloud-nany.cc:80/user/pass/7164
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD LEG" tvg-logo="https://i.imgur.com/dgH054u.png" group-title="CANAIS LEGENDADOS",HBO HD LEG
+http://cloud-nany.cc:80/user/pass/50718
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO SD" tvg-logo="https://i.imgur.com/dgH054u.png" group-title="REDE HBO",HBO SD
+http://cloud-nany.cc:80/user/pass/8017
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO2 HD" tvg-logo="https://i.imgur.com/2dM0BhP.png" group-title="REDE HBO",HBO2 HD
+http://cloud-nany.cc:80/user/pass/8015
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO2 HD1" tvg-logo="https://i.imgur.com/2dM0BhP.png" group-title="REDE HBO",HBO2 HD1
+http://cloud-nany.cc:80/user/pass/1192
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO2 SD" tvg-logo="https://i.imgur.com/2dM0BhP.png" group-title="REDE HBO",HBO2 SD
+http://cloud-nany.cc:80/user/pass/8016
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY HD" tvg-logo="https://i.imgur.com/QiZ232p.png" group-title="REDE HBO",HBO FAMILY HD
+http://cloud-nany.cc:80/user/pass/8013
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY HD1" tvg-logo="https://i.imgur.com/QiZ232p.png" group-title="REDE HBO",HBO FAMILY HD1
+http://cloud-nany.cc:80/user/pass/1190
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY SD" tvg-logo="https://i.imgur.com/QiZ232p.png" group-title="REDE HBO",HBO FAMILY SD
+http://cloud-nany.cc:80/user/pass/8014
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS HD" tvg-logo="https://i.imgur.com/kjCSGvS.png" group-title="REDE HBO",HBO PLUS HD
+http://cloud-nany.cc:80/user/pass/8009
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS HD1" tvg-logo="https://i.imgur.com/kjCSGvS.png" group-title="REDE HBO",HBO PLUS HD1
+http://cloud-nany.cc:80/user/pass/1187
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS SD" tvg-logo="https://i.imgur.com/kjCSGvS.png" group-title="REDE HBO",HBO PLUS SD
+http://cloud-nany.cc:80/user/pass/8011
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS HD LEG" tvg-logo="https://i.imgur.com/kjCSGvS.png" group-title="CANAIS LEGENDADOS",HBO PLUS HD LEG
+http://cloud-nany.cc:80/user/pass/50716
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE HD" tvg-logo="https://i.imgur.com/zk3ZPZW.png" group-title="REDE HBO",HBO SIGNATURE HD
+http://cloud-nany.cc:80/user/pass/8007
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE HD1" tvg-logo="https://i.imgur.com/zk3ZPZW.png" group-title="REDE HBO",HBO SIGNATURE HD1
+http://cloud-nany.cc:80/user/pass/1183
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE SD" tvg-logo="https://i.imgur.com/zk3ZPZW.png" group-title="REDE HBO",HBO SIGNATURE SD
+http://cloud-nany.cc:80/user/pass/8008
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI HD" tvg-logo="https://i.imgur.com/5nZVEam.png" group-title="REDE HBO",HBO MUNDI HD
+http://cloud-nany.cc:80/user/pass/7997
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI HD1" tvg-logo="https://i.imgur.com/5nZVEam.png" group-title="REDE HBO",HBO MUNDI HD1
+http://cloud-nany.cc:80/user/pass/1178
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI SD" tvg-logo="https://i.imgur.com/5nZVEam.png" group-title="REDE HBO",HBO MUNDI SD
+http://cloud-nany.cc:80/user/pass/1027
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI SD LEG" tvg-logo="https://i.imgur.com/5nZVEam.png" group-title="CANAIS LEGENDADOS",HBO MUNDI SD LEG
+http://cloud-nany.cc:80/user/pass/50714
+#EXTINF:-1 tvg-id="Maxuphd.br" tvg-name="HBO POP HD" tvg-logo="https://i.imgur.com/UZVT9xO.png" group-title="REDE HBO",HBO POP HD
+http://cloud-nany.cc:80/user/pass/7992
+#EXTINF:-1 tvg-id="Maxuphd.br" tvg-name="HBO POP HD1" tvg-logo="https://i.imgur.com/UZVT9xO.png" group-title="REDE HBO",HBO POP HD1
+http://cloud-nany.cc:80/user/pass/1175
+#EXTINF:-1 tvg-id="Maxuphd.br" tvg-name="HBO POP SD" tvg-logo="https://i.imgur.com/UZVT9xO.png" group-title="REDE HBO",HBO POP SD
+http://cloud-nany.cc:80/user/pass/7993
+#EXTINF:-1 tvg-id="Maxuphd.br" tvg-name="HBO POP SD LEG" tvg-logo="https://i.imgur.com/UZVT9xO.png" group-title="CANAIS LEGENDADOS",HBO POP SD LEG
+http://cloud-nany.cc:80/user/pass/50698
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME HD" tvg-logo="https://i.imgur.com/YXPJkwt.png" group-title="REDE HBO",HBO XTREME HD
+http://cloud-nany.cc:80/user/pass/7994
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME HD1" tvg-logo="https://i.imgur.com/YXPJkwt.png" group-title="REDE HBO",HBO XTREME HD1
+http://cloud-nany.cc:80/user/pass/1176
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME SD" tvg-logo="https://i.imgur.com/YXPJkwt.png" group-title="REDE HBO",HBO XTREME SD
+http://cloud-nany.cc:80/user/pass/7996
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME SD LEG" tvg-logo="https://i.imgur.com/YXPJkwt.png" group-title="CANAIS LEGENDADOS",HBO XTREME SD LEG
+http://cloud-nany.cc:80/user/pass/50715
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE HD" tvg-logo="https://i.imgur.com/kpSJABM.png" group-title="ESPORTES GLOBOSAT",COMBATE HD
+http://cloud-nany.cc:80/user/pass/8118
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE HD1" tvg-logo="https://i.imgur.com/kpSJABM.png" group-title="ESPORTES GLOBOSAT",COMBATE HD1
+http://cloud-nany.cc:80/user/pass/6715
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE SD" tvg-logo="https://i.imgur.com/kpSJABM.png" group-title="ESPORTES GLOBOSAT",COMBATE SD
+http://cloud-nany.cc:80/user/pass/8119
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD" tvg-logo="https://i.imgur.com/HqQ8H8o.png" group-title="ESPORTES GLOBOSAT",SPORTV HD
+http://cloud-nany.cc:80/user/pass/7930
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD1" tvg-logo="https://i.imgur.com/HqQ8H8o.png" group-title="ESPORTES GLOBOSAT",SPORTV HD1
+http://cloud-nany.cc:80/user/pass/1119
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV SD" tvg-logo="https://i.imgur.com/HqQ8H8o.png" group-title="ESPORTES GLOBOSAT",SPORTV SD
+http://cloud-nany.cc:80/user/pass/7935
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV SD1" tvg-logo="https://i.imgur.com/HqQ8H8o.png" group-title="ESPORTES GLOBOSAT",SPORTV SD1
+http://cloud-nany.cc:80/user/pass/7062
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 HD" tvg-logo="https://i.imgur.com/aBPiw05.png" group-title="ESPORTES GLOBOSAT",SPORTV 2 HD
+http://cloud-nany.cc:80/user/pass/7933
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 HD1" tvg-logo="https://i.imgur.com/aBPiw05.png" group-title="ESPORTES GLOBOSAT",SPORTV 2 HD1
+http://cloud-nany.cc:80/user/pass/1123
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 SD" tvg-logo="https://i.imgur.com/aBPiw05.png" group-title="ESPORTES GLOBOSAT",SPORTV 2 SD
+http://cloud-nany.cc:80/user/pass/7934
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 HD" tvg-logo="https://i.imgur.com/Csz4ulq.png" group-title="ESPORTES GLOBOSAT",SPORTV 3 HD
+http://cloud-nany.cc:80/user/pass/7931
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 HD1" tvg-logo="https://i.imgur.com/Csz4ulq.png" group-title="ESPORTES GLOBOSAT",SPORTV 3 HD1
+http://cloud-nany.cc:80/user/pass/1121
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 SD" tvg-logo="https://i.imgur.com/Csz4ulq.png" group-title="ESPORTES GLOBOSAT",SPORTV 3 SD
+http://cloud-nany.cc:80/user/pass/7932
+#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF HD" tvg-logo="https://i.imgur.com/BH9075Y.png" group-title="ESPORTES GLOBOSAT",OFF HD
+http://cloud-nany.cc:80/user/pass/7971
+#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF HD1" tvg-logo="https://i.imgur.com/BH9075Y.png" group-title="ESPORTES GLOBOSAT",OFF HD1
+http://cloud-nany.cc:80/user/pass/1160
+#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF SD" tvg-logo="https://i.imgur.com/BH9075Y.png" group-title="ESPORTES GLOBOSAT",OFF SD
+http://cloud-nany.cc:80/user/pass/7972
+#EXTINF:-1 tvg-id="" tvg-name="MOSAICO MULTI PROGRAMAS" tvg-logo="https://i.imgur.com/6xmm6Gp.png" group-title="PREMIERE FUTEBOL",MOSAICO MULTI PROGRAMAS
+http://cloud-nany.cc:80/user/pass/139184
+#EXTINF:-1 tvg-id="MosaicoPremiere" tvg-name="MOSAICO PREMIERE HD " tvg-logo="https://i.imgur.com/AKZOKix.png" group-title="PREMIERE FUTEBOL",MOSAICO PREMIERE HD 
+http://cloud-nany.cc:80/user/pass/66712
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES HD" tvg-logo="https://i.imgur.com/9ro74RY.png" group-title="PREMIERE FUTEBOL",PREMIERE CLUBES HD
+http://cloud-nany.cc:80/user/pass/7955
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES HD1" tvg-logo="https://i.imgur.com/9ro74RY.png" group-title="PREMIERE FUTEBOL",PREMIERE CLUBES HD1
+http://cloud-nany.cc:80/user/pass/1155
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES HD2" tvg-logo="https://i.imgur.com/9ro74RY.png" group-title="PREMIERE FUTEBOL",PREMIERE CLUBES HD2
+http://cloud-nany.cc:80/user/pass/42424
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES SD" tvg-logo="https://i.imgur.com/9ro74RY.png" group-title="PREMIERE FUTEBOL",PREMIERE CLUBES SD
+http://cloud-nany.cc:80/user/pass/1158
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES SD1" tvg-logo="https://i.imgur.com/9ro74RY.png" group-title="PREMIERE FUTEBOL",PREMIERE CLUBES SD1
+http://cloud-nany.cc:80/user/pass/7956
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 HD" tvg-logo="https://i.imgur.com/AKZOKix.png" group-title="PREMIERE FUTEBOL",PREMIERE 2 HD
+http://cloud-nany.cc:80/user/pass/7967
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 HD1" tvg-logo="https://i.imgur.com/AKZOKix.png" group-title="PREMIERE FUTEBOL",PREMIERE 2 HD1
+http://cloud-nany.cc:80/user/pass/4494
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 SD" tvg-logo="https://i.imgur.com/AKZOKix.png" group-title="PREMIERE FUTEBOL",PREMIERE 2 SD
+http://cloud-nany.cc:80/user/pass/7968
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 HD" tvg-logo="https://i.imgur.com/AKZOKix.png" group-title="PREMIERE FUTEBOL",PREMIERE 3 HD
+http://cloud-nany.cc:80/user/pass/7965
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 HD1" tvg-logo="https://i.imgur.com/AKZOKix.png" group-title="PREMIERE FUTEBOL",PREMIERE 3 HD1
+http://cloud-nany.cc:80/user/pass/5798
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 SD" tvg-logo="https://i.imgur.com/AKZOKix.png" group-title="PREMIERE FUTEBOL",PREMIERE 3 SD
+http://cloud-nany.cc:80/user/pass/7966
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 HD" tvg-logo="https://i.imgur.com/AKZOKix.png" group-title="PREMIERE FUTEBOL",PREMIERE 4 HD
+http://cloud-nany.cc:80/user/pass/7963
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 HD1" tvg-logo="https://i.imgur.com/AKZOKix.png" group-title="PREMIERE FUTEBOL",PREMIERE 4 HD1
+http://cloud-nany.cc:80/user/pass/1151
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 SD" tvg-logo="https://i.imgur.com/AKZOKix.png" group-title="PREMIERE FUTEBOL",PREMIERE 4 SD
+http://cloud-nany.cc:80/user/pass/992
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 HD" tvg-logo="https://i.imgur.com/AKZOKix.png" group-title="PREMIERE FUTEBOL",PREMIERE 5 HD
+http://cloud-nany.cc:80/user/pass/7961
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 HD1" tvg-logo="https://i.imgur.com/AKZOKix.png" group-title="PREMIERE FUTEBOL",PREMIERE 5 HD1
+http://cloud-nany.cc:80/user/pass/7098
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 SD" tvg-logo="https://i.imgur.com/AKZOKix.png" group-title="PREMIERE FUTEBOL",PREMIERE 5 SD
+http://cloud-nany.cc:80/user/pass/991
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 HD" tvg-logo="https://i.imgur.com/AKZOKix.png" group-title="PREMIERE FUTEBOL",PREMIERE 6 HD
+http://cloud-nany.cc:80/user/pass/7959
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 HD1" tvg-logo="https://i.imgur.com/AKZOKix.png" group-title="PREMIERE FUTEBOL",PREMIERE 6 HD1
+http://cloud-nany.cc:80/user/pass/4495
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 SD" tvg-logo="https://i.imgur.com/AKZOKix.png" group-title="PREMIERE FUTEBOL",PREMIERE 6 SD
+http://cloud-nany.cc:80/user/pass/7960
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 HD" tvg-logo="https://i.imgur.com/AKZOKix.png" group-title="PREMIERE FUTEBOL",PREMIERE 7 HD
+http://cloud-nany.cc:80/user/pass/7957
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 HD1" tvg-logo="https://i.imgur.com/AKZOKix.png" group-title="PREMIERE FUTEBOL",PREMIERE 7 HD1
+http://cloud-nany.cc:80/user/pass/49126
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 SD" tvg-logo="https://i.imgur.com/AKZOKix.png" group-title="PREMIERE FUTEBOL",PREMIERE 7 SD
+http://cloud-nany.cc:80/user/pass/7958
+#EXTINF:-1 tvg-id="Premiere8.br" tvg-name="PREMIERE 8 SD" tvg-logo="https://i.imgur.com/AKZOKix.png" group-title="PREMIERE FUTEBOL",PREMIERE 8 SD
+http://cloud-nany.cc:80/user/pass/42423
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS HD" tvg-logo="https://i.imgur.com/9bcU4C5.png" group-title="ESPORTES",FOX SPORTS HD
+http://cloud-nany.cc:80/user/pass/8062
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS HD1" tvg-logo="https://i.imgur.com/9bcU4C5.png" group-title="ESPORTES",FOX SPORTS HD1
+http://cloud-nany.cc:80/user/pass/1215
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS SD" tvg-logo="https://i.imgur.com/9bcU4C5.png" group-title="ESPORTES",FOX SPORTS SD
+http://cloud-nany.cc:80/user/pass/8063
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 HD" tvg-logo="https://i.imgur.com/kG5nXor.png" group-title="ESPORTES",FOX SPORTS 2 HD
+http://cloud-nany.cc:80/user/pass/8060
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 HD1" tvg-logo="https://i.imgur.com/kG5nXor.png" group-title="ESPORTES",FOX SPORTS 2 HD1
+http://cloud-nany.cc:80/user/pass/1217
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 SD" tvg-logo="https://i.imgur.com/kG5nXor.png" group-title="ESPORTES",FOX SPORTS 2 SD
+http://cloud-nany.cc:80/user/pass/8061
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN HD" tvg-logo="https://i.imgur.com/VlyX9nW.png" group-title="ESPORTES",ESPN HD
+http://cloud-nany.cc:80/user/pass/8082
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN HD1" tvg-logo="https://i.imgur.com/VlyX9nW.png" group-title="ESPORTES",ESPN HD1
+http://cloud-nany.cc:80/user/pass/1227
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN SD" tvg-logo="https://i.imgur.com/VlyX9nW.png" group-title="ESPORTES",ESPN SD
+http://cloud-nany.cc:80/user/pass/8089
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN2 HD" tvg-logo="https://i.imgur.com/cIrkTSH.png" group-title="ESPORTES",ESPN2 HD
+http://cloud-nany.cc:80/user/pass/49132
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN2 HD1" tvg-logo="https://i.imgur.com/cIrkTSH.png" group-title="ESPORTES",ESPN2 HD1
+http://cloud-nany.cc:80/user/pass/49131
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN2 SD" tvg-logo="https://i.imgur.com/cIrkTSH.png" group-title="ESPORTES",ESPN2 SD
+http://cloud-nany.cc:80/user/pass/49133
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA HD" tvg-logo="https://i.imgur.com/ohpvOhH.png" group-title="ESPORTES",ESPN EXTRA HD
+http://cloud-nany.cc:80/user/pass/8083
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA HD ALT" tvg-logo="https://i.imgur.com/ohpvOhH.png" group-title="ESPORTES",ESPN EXTRA HD ALT
+http://cloud-nany.cc:80/user/pass/139181
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA SD" tvg-logo="https://i.imgur.com/ohpvOhH.png" group-title="ESPORTES",ESPN EXTRA SD
+http://cloud-nany.cc:80/user/pass/8084
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL HD" tvg-logo="https://i.imgur.com/6oPdk7P.png" group-title="ESPORTES",ESPN BRASIL HD
+http://cloud-nany.cc:80/user/pass/8085
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL HD1" tvg-logo="https://i.imgur.com/6oPdk7P.png" group-title="ESPORTES",ESPN BRASIL HD1
+http://cloud-nany.cc:80/user/pass/1229
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL SD" tvg-logo="https://i.imgur.com/6oPdk7P.png" group-title="ESPORTES",ESPN BRASIL SD
+http://cloud-nany.cc:80/user/pass/8086
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS HD" tvg-logo="https://i.imgur.com/bvRubp2.png" group-title="ESPORTES",BAND SPORTS HD
+http://cloud-nany.cc:80/user/pass/8134
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS HD1" tvg-logo="https://i.imgur.com/bvRubp2.png" group-title="ESPORTES",BAND SPORTS HD1
+http://cloud-nany.cc:80/user/pass/24203
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS SD" tvg-logo="https://i.imgur.com/bvRubp2.png" group-title="ESPORTES",BAND SPORTS SD
+http://cloud-nany.cc:80/user/pass/8135
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV HD" tvg-logo="https://i.imgur.com/knViQD5.png" group-title="ESPORTES",FISH TV HD
+http://cloud-nany.cc:80/user/pass/8074
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV SD" tvg-logo="https://i.imgur.com/knViQD5.png" group-title="ESPORTES",FISH TV SD
+http://cloud-nany.cc:80/user/pass/8075
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO HD" tvg-logo="https://i.imgur.com/Qp6kIan.png" group-title="ESPORTES",WOOHOO HD
+http://cloud-nany.cc:80/user/pass/7881
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO SD" tvg-logo="https://i.imgur.com/Qp6kIan.png" group-title="ESPORTES",WOOHOO SD
+http://cloud-nany.cc:80/user/pass/7882
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX CHAMPIONS LEAGUE 1" tvg-logo="https://i.imgur.com/YHi17w9.png" group-title="ESPORTES - PAY PER VIEW",HBO MAX CHAMPIONS LEAGUE 1
+http://cloud-nany.cc:80/user/pass/139421
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX CHAMPIONS LEAGUE 2" tvg-logo="https://i.imgur.com/YHi17w9.png" group-title="ESPORTES - PAY PER VIEW",HBO MAX CHAMPIONS LEAGUE 2
+http://cloud-nany.cc:80/user/pass/139420
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX CHAMPIONS LEAGUE 3" tvg-logo="https://i.imgur.com/YHi17w9.png" group-title="ESPORTES - PAY PER VIEW",HBO MAX CHAMPIONS LEAGUE 3
+http://cloud-nany.cc:80/user/pass/139419
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX CHAMPIONS LEAGUE 4" tvg-logo="https://i.imgur.com/YHi17w9.png" group-title="ESPORTES - PAY PER VIEW",HBO MAX CHAMPIONS LEAGUE 4
+http://cloud-nany.cc:80/user/pass/139418
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX CHAMPIONS LEAGUE 5" tvg-logo="https://i.imgur.com/YHi17w9.png" group-title="ESPORTES - PAY PER VIEW",HBO MAX CHAMPIONS LEAGUE 5
+http://cloud-nany.cc:80/user/pass/139417
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX CHAMPIONS LEAGUE 1 ALT" tvg-logo="https://i.imgur.com/YHi17w9.png" group-title="ESPORTES - PAY PER VIEW",HBO MAX CHAMPIONS LEAGUE 1 ALT
+http://cloud-nany.cc:80/user/pass/139433
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX CHAMPIONS LEAGUE 2 ALT" tvg-logo="https://i.imgur.com/YHi17w9.png" group-title="ESPORTES - PAY PER VIEW",HBO MAX CHAMPIONS LEAGUE 2 ALT
+http://cloud-nany.cc:80/user/pass/139432
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX CHAMPIONS LEAGUE 3 ALT" tvg-logo="https://i.imgur.com/YHi17w9.png" group-title="ESPORTES - PAY PER VIEW",HBO MAX CHAMPIONS LEAGUE 3 ALT
+http://cloud-nany.cc:80/user/pass/139431
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX CHAMPIONS LEAGUE 4 ALT" tvg-logo="https://i.imgur.com/YHi17w9.png" group-title="ESPORTES - PAY PER VIEW",HBO MAX CHAMPIONS LEAGUE 4 ALT
+http://cloud-nany.cc:80/user/pass/139430
+#EXTINF:-1 tvg-id="" tvg-name="STAR + HD 1" tvg-logo="https://i.imgur.com/PyJbM6l.png" group-title="ESPORTES - PAY PER VIEW",STAR + HD 1
+http://cloud-nany.cc:80/user/pass/139180
+#EXTINF:-1 tvg-id="" tvg-name="STAR + HD 2" tvg-logo="https://i.imgur.com/PyJbM6l.png" group-title="ESPORTES - PAY PER VIEW",STAR + HD 2
+http://cloud-nany.cc:80/user/pass/139435
+#EXTINF:-1 tvg-id="" tvg-name="STAR + HD 3" tvg-logo="https://i.imgur.com/PyJbM6l.png" group-title="ESPORTES - PAY PER VIEW",STAR + HD 3
+http://cloud-nany.cc:80/user/pass/139434
+#EXTINF:-1 tvg-id="CONMEBOL TV 1" tvg-name="CONMEBOL TV HD (JOGO 1)" tvg-logo="https://i.imgur.com/bjYTlZe.png" group-title="ESPORTES - PAY PER VIEW",CONMEBOL TV HD (JOGO 1)
+http://cloud-nany.cc:80/user/pass/66478
+#EXTINF:-1 tvg-id="CONMEBOL TV 1" tvg-name="CONMEBOL TV SD (JOGO 1)" tvg-logo="https://i.imgur.com/bjYTlZe.png" group-title="ESPORTES - PAY PER VIEW",CONMEBOL TV SD (JOGO 1)
+http://cloud-nany.cc:80/user/pass/66483
+#EXTINF:-1 tvg-id="CONMEBOL TV 2" tvg-name="CONMEBOL TV HD (JOGO 2)" tvg-logo="https://i.imgur.com/bjYTlZe.png" group-title="ESPORTES - PAY PER VIEW",CONMEBOL TV HD (JOGO 2)
+http://cloud-nany.cc:80/user/pass/66479
+#EXTINF:-1 tvg-id="CONMEBOL TV 2" tvg-name="CONMEBOL TV SD (JOGO 2)" tvg-logo="https://i.imgur.com/bjYTlZe.png" group-title="ESPORTES - PAY PER VIEW",CONMEBOL TV SD (JOGO 2)
+http://cloud-nany.cc:80/user/pass/66482
+#EXTINF:-1 tvg-id="CONMEBOL TV 3" tvg-name="CONMEBOL TV HD (JOGO 3) " tvg-logo="https://i.imgur.com/bjYTlZe.png" group-title="ESPORTES - PAY PER VIEW",CONMEBOL TV HD (JOGO 3) 
+http://cloud-nany.cc:80/user/pass/66499
+#EXTINF:-1 tvg-id="CONMEBOL TV 3" tvg-name="CONMEBOL TV SD (JOGO 3)" tvg-logo="https://i.imgur.com/bjYTlZe.png" group-title="ESPORTES - PAY PER VIEW",CONMEBOL TV SD (JOGO 3)
+http://cloud-nany.cc:80/user/pass/66481
+#EXTINF:-1 tvg-id="CONMEBOL TV 4" tvg-name="CONMEBOL TV HD (JOGO 4) " tvg-logo="https://i.imgur.com/bjYTlZe.png" group-title="ESPORTES - PAY PER VIEW",CONMEBOL TV HD (JOGO 4) 
+http://cloud-nany.cc:80/user/pass/66498
+#EXTINF:-1 tvg-id="CONMEBOL TV 4" tvg-name="CONMEBOL TV SD (JOGO 4)" tvg-logo="https://i.imgur.com/bjYTlZe.png" group-title="ESPORTES - PAY PER VIEW",CONMEBOL TV SD (JOGO 4)
+http://cloud-nany.cc:80/user/pass/66480
+#EXTINF:-1 tvg-id="LiveEI" tvg-name="TNT SPORTS 1 HD" tvg-logo="https://i.imgur.com/p5woS9I.png" group-title="ESPORTES - PAY PER VIEW",TNT SPORTS 1 HD
+http://cloud-nany.cc:80/user/pass/50326
+#EXTINF:-1 tvg-id="LiveEI" tvg-name="TNT SPORTS 2 HD" tvg-logo="https://i.imgur.com/p5woS9I.png" group-title="ESPORTES - PAY PER VIEW",TNT SPORTS 2 HD
+http://cloud-nany.cc:80/user/pass/65644
+#EXTINF:-1 tvg-id="LiveEI" tvg-name="TNT SPORTS 2 HD ALT" tvg-logo="https://i.imgur.com/p5woS9I.png" group-title="ESPORTES - PAY PER VIEW",TNT SPORTS 2 HD ALT
+http://cloud-nany.cc:80/user/pass/133961
+#EXTINF:-1 tvg-id="LiveEI" tvg-name="TNT SPORTS 3 HD" tvg-logo="https://i.imgur.com/p5woS9I.png" group-title="ESPORTES - PAY PER VIEW",TNT SPORTS 3 HD
+http://cloud-nany.cc:80/user/pass/50322
+#EXTINF:-1 tvg-id="LiveEI" tvg-name="TNT SPORTS 3 HD ALT" tvg-logo="https://i.imgur.com/p5woS9I.png" group-title="ESPORTES - PAY PER VIEW",TNT SPORTS 3 HD ALT
+http://cloud-nany.cc:80/user/pass/65643
+#EXTINF:-1 tvg-id="LiveEI" tvg-name="TNT SPORTS 4 HD" tvg-logo="https://i.imgur.com/p5woS9I.png" group-title="ESPORTES - PAY PER VIEW",TNT SPORTS 4 HD
+http://cloud-nany.cc:80/user/pass/50321
+#EXTINF:-1 tvg-id="LiveEI" tvg-name="TNT SPORTS 4 SD" tvg-logo="https://i.imgur.com/p5woS9I.png" group-title="ESPORTES - PAY PER VIEW",TNT SPORTS 4 SD
+http://cloud-nany.cc:80/user/pass/65642
+#EXTINF:-1 tvg-id="LiveEI" tvg-name="TNT SPORTS 5 HD" tvg-logo="https://i.imgur.com/p5woS9I.png" group-title="ESPORTES - PAY PER VIEW",TNT SPORTS 5 HD
+http://cloud-nany.cc:80/user/pass/50324
+#EXTINF:-1 tvg-id="LiveEI" tvg-name="TNT SPORTS 5 HD ALT" tvg-logo="https://i.imgur.com/p5woS9I.png" group-title="ESPORTES - PAY PER VIEW",TNT SPORTS 5 HD ALT
+http://cloud-nany.cc:80/user/pass/65641
+#EXTINF:-1 tvg-id="LiveEI" tvg-name="TNT SPORTS 6 HD" tvg-logo="https://i.imgur.com/p5woS9I.png" group-title="ESPORTES - PAY PER VIEW",TNT SPORTS 6 HD
+http://cloud-nany.cc:80/user/pass/50323
+#EXTINF:-1 tvg-id="LiveEI" tvg-name="TNT SPORTS 6 SD" tvg-logo="https://i.imgur.com/p5woS9I.png" group-title="ESPORTES - PAY PER VIEW",TNT SPORTS 6 SD
+http://cloud-nany.cc:80/user/pass/65640
+#EXTINF:-1 tvg-id="LiveEI" tvg-name="TNT SPORTS 7 HD" tvg-logo="https://i.imgur.com/p5woS9I.png" group-title="ESPORTES - PAY PER VIEW",TNT SPORTS 7 HD
+http://cloud-nany.cc:80/user/pass/133965
+#EXTINF:-1 tvg-id="LiveEI" tvg-name="TNT SPORTS 7 SD" tvg-logo="https://i.imgur.com/p5woS9I.png" group-title="ESPORTES - PAY PER VIEW",TNT SPORTS 7 SD
+http://cloud-nany.cc:80/user/pass/133964
+#EXTINF:-1 tvg-id="LiveEI" tvg-name="TNT SPORTS 8 HD" tvg-logo="https://i.imgur.com/p5woS9I.png" group-title="ESPORTES - PAY PER VIEW",TNT SPORTS 8 HD
+http://cloud-nany.cc:80/user/pass/133963
+#EXTINF:-1 tvg-id="LiveEI" tvg-name="TNT SPORTS 8 SD" tvg-logo="https://i.imgur.com/p5woS9I.png" group-title="ESPORTES - PAY PER VIEW",TNT SPORTS 8 SD
+http://cloud-nany.cc:80/user/pass/133962
+#EXTINF:-1 tvg-id="" tvg-name="RAI INTERNACIONAL HD" tvg-logo="https://i.imgur.com/6zYpgyy.png" group-title="ESPORTES - PAY PER VIEW",RAI INTERNACIONAL HD
+http://cloud-nany.cc:80/user/pass/64877
+#EXTINF:-1 tvg-id="DAZN 1" tvg-name="LIVE: DAZN 01" tvg-logo="https://i.imgur.com/yUXYVQx.jpg" group-title="ESPORTES - PAY PER VIEW",LIVE: DAZN 01
+http://cloud-nany.cc:80/user/pass/50198
+#EXTINF:-1 tvg-id="DAZN 2" tvg-name="LIVE: DAZN 02" tvg-logo="https://i.imgur.com/yUXYVQx.jpg" group-title="ESPORTES - PAY PER VIEW",LIVE: DAZN 02
+http://cloud-nany.cc:80/user/pass/50495
+#EXTINF:-1 tvg-id="DAZN 3" tvg-name="LIVE: DAZN 03" tvg-logo="https://i.imgur.com/yUXYVQx.jpg" group-title="ESPORTES - PAY PER VIEW",LIVE: DAZN 03
+http://cloud-nany.cc:80/user/pass/59268
+#EXTINF:-1 tvg-id="DAZN 4" tvg-name="LIVE: DAZN 04" tvg-logo="https://i.imgur.com/yUXYVQx.jpg" group-title="ESPORTES - PAY PER VIEW",LIVE: DAZN 04
+http://cloud-nany.cc:80/user/pass/59269
+#EXTINF:-1 tvg-id="LiveCopalibertadores" tvg-name="COPA LIBERTADORES 1 HD" tvg-logo="https://i.imgur.com/r167Ehr.png" group-title="ESPORTES - PAY PER VIEW",COPA LIBERTADORES 1 HD
+http://cloud-nany.cc:80/user/pass/52934
+#EXTINF:-1 tvg-id="" tvg-name="FURACÃO TV" tvg-logo="https://i.imgur.com/zKvBFBX.png" group-title="ESPORTES - PAY PER VIEW",FURACÃO TV
+http://cloud-nany.cc:80/user/pass/66081
+#EXTINF:-1 tvg-id="" tvg-name="LIGA NACIONAL DE FUTSAL 2021" tvg-logo="https://i.imgur.com/6i76O4U.png" group-title="ESPORTES - PAY PER VIEW",LIGA NACIONAL DE FUTSAL 2021
+http://cloud-nany.cc:80/user/pass/66080
+#EXTINF:-1 tvg-id="GLOBOESPORTE" tvg-name="LIVE: GLOBO ESPORTE" tvg-logo="https://i.imgur.com/6qKiZN6.png" group-title="ESPORTES - PAY PER VIEW",LIVE: GLOBO ESPORTE
+http://cloud-nany.cc:80/user/pass/57990
+#EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN BRASIL HD" tvg-logo="https://i.imgur.com/rxL0WKU.png" group-title="NOTICIAS",CNN BRASIL HD
+http://cloud-nany.cc:80/user/pass/59729
+#EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN BRASIL HD1" tvg-logo="https://i.imgur.com/rxL0WKU.png" group-title="NOTICIAS",CNN BRASIL HD1
+http://cloud-nany.cc:80/user/pass/60418
+#EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN BRASIL SD" tvg-logo="https://i.imgur.com/rxL0WKU.png" group-title="NOTICIAS",CNN BRASIL SD
+http://cloud-nany.cc:80/user/pass/59730
+#EXTINF:-1 tvg-id="" tvg-name="JOVEM PAN NEWS HD" tvg-logo="https://i.imgur.com/cS4AzBD.png" group-title="NOTICIAS",JOVEM PAN NEWS HD
+http://cloud-nany.cc:80/user/pass/140224
+#EXTINF:-1 tvg-id="" tvg-name="JOVEM PAN NEWS HD1" tvg-logo="https://i.imgur.com/cS4AzBD.png" group-title="NOTICIAS",JOVEM PAN NEWS HD1
+http://cloud-nany.cc:80/user/pass/140850
+#EXTINF:-1 tvg-id="" tvg-name="JOVEM PAN NEWS SD" tvg-logo="https://i.imgur.com/cS4AzBD.png" group-title="NOTICIAS",JOVEM PAN NEWS SD
+http://cloud-nany.cc:80/user/pass/140851
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS HD" tvg-logo="https://i.imgur.com/jV9A1JT.png" group-title="NOTICIAS",GLOBO NEWS HD
+http://cloud-nany.cc:80/user/pass/8046
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS HD1" tvg-logo="https://i.imgur.com/6tJ9Ap5.png" group-title="NOTICIAS",GLOBO NEWS HD1
+http://cloud-nany.cc:80/user/pass/1204
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/GloboNews_logo.svg/200px-GloboNews_logo.svg.png" group-title="NOTICIAS",GLOBO NEWS SD
+http://cloud-nany.cc:80/user/pass/8047
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS SD1" tvg-logo="https://i.imgur.com/uv7Ra9V.png" group-title="NOTICIAS",GLOBO NEWS SD1
+http://cloud-nany.cc:80/user/pass/3045
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS HD" tvg-logo="https://i.imgur.com/HB6u7J0.png" group-title="NOTICIAS",BAND NEWS HD
+http://cloud-nany.cc:80/user/pass/8136
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS SD" tvg-logo="https://i.imgur.com/HB6u7J0.png" group-title="NOTICIAS",BAND NEWS SD
+http://cloud-nany.cc:80/user/pass/8137
+#EXTINF:-1 tvg-id="" tvg-name="REDE RECORD BELEM HD" tvg-logo="https://i.imgur.com/ia8NjNR.jpg" group-title="REDE RECORD",REDE RECORD BELEM HD
+http://cloud-nany.cc:80/user/pass/54270
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS HD" tvg-logo="https://i.imgur.com/TDb4SXh.png" group-title="NOTICIAS",RECORD NEWS HD
+http://cloud-nany.cc:80/user/pass/7949
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS SD" tvg-logo="https://i.imgur.com/TDb4SXh.png" group-title="NOTICIAS",RECORD NEWS SD
+http://cloud-nany.cc:80/user/pass/7950
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK HD" tvg-logo="https://i.imgur.com/yyLYPZx.png" group-title="INFANTIL",CARTOON NETWORK HD
+http://cloud-nany.cc:80/user/pass/8122
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK HD1" tvg-logo="https://i.imgur.com/yyLYPZx.png" group-title="INFANTIL",CARTOON NETWORK HD1
+http://cloud-nany.cc:80/user/pass/24205
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK SD" tvg-logo="https://i.imgur.com/yyLYPZx.png" group-title="INFANTIL",CARTOON NETWORK SD
+http://cloud-nany.cc:80/user/pass/8123
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS HD" tvg-logo="https://i.imgur.com/Pv4zEEU.png" group-title="INFANTIL",DISCOVERY KIDS HD
+http://cloud-nany.cc:80/user/pass/8106
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS HD1" tvg-logo="https://i.imgur.com/Pv4zEEU.png" group-title="INFANTIL",DISCOVERY KIDS HD1
+http://cloud-nany.cc:80/user/pass/7239
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS SD" tvg-logo="https://i.imgur.com/Pv4zEEU.png" group-title="INFANTIL",DISCOVERY KIDS SD
+http://cloud-nany.cc:80/user/pass/8107
+#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JR HD" tvg-logo="https://i.imgur.com/kFxCvdV.png" group-title="INFANTIL",DISNEY JR HD
+http://cloud-nany.cc:80/user/pass/13069
+#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JR HD1" tvg-logo="https://i.imgur.com/kFxCvdV.png" group-title="INFANTIL",DISNEY JR HD1
+http://cloud-nany.cc:80/user/pass/7225
+#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JR SD" tvg-logo="https://i.imgur.com/kFxCvdV.png" group-title="INFANTIL",DISNEY JR SD
+http://cloud-nany.cc:80/user/pass/8095
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL HD" tvg-logo="https://i.imgur.com/CmpWFRp.png" group-title="INFANTIL",DISNEY CHANNEL HD
+http://cloud-nany.cc:80/user/pass/8096
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL HD1" tvg-logo="https://i.imgur.com/CmpWFRp.png" group-title="INFANTIL",DISNEY CHANNEL HD1
+http://cloud-nany.cc:80/user/pass/1240
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL SD" tvg-logo="https://i.imgur.com/CmpWFRp.png" group-title="INFANTIL",DISNEY CHANNEL SD
+http://cloud-nany.cc:80/user/pass/8097
+#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="DISNEY XD SD" tvg-logo="https://i.imgur.com/L9ej6r1.png" group-title="INFANTIL",DISNEY XD SD
+http://cloud-nany.cc:80/user/pass/8094
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG HD" tvg-logo="https://i.imgur.com/lpSxAIj.png" group-title="INFANTIL",BOOMERANG HD
+http://cloud-nany.cc:80/user/pass/8129
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG SD" tvg-logo="https://i.imgur.com/lpSxAIj.png" group-title="INFANTIL",BOOMERANG SD
+http://cloud-nany.cc:80/user/pass/8130
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB HD" tvg-logo="https://i.imgur.com/tb8cPTA.png" group-title="INFANTIL",GLOOB HD
+http://cloud-nany.cc:80/user/pass/8024
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB HD1" tvg-logo="https://i.imgur.com/tb8cPTA.png" group-title="INFANTIL",GLOOB HD1
+http://cloud-nany.cc:80/user/pass/5811
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB SD" tvg-logo="https://i.imgur.com/tb8cPTA.png" group-title="INFANTIL",GLOOB SD
+http://cloud-nany.cc:80/user/pass/8025
+#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO HD" tvg-logo="https://i.imgur.com/r3Bti3U.png" group-title="INFANTIL",GLOOBINHO HD
+http://cloud-nany.cc:80/user/pass/8023
+#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO SD" tvg-logo="https://i.imgur.com/r3Bti3U.png" group-title="INFANTIL",GLOOBINHO SD
+http://cloud-nany.cc:80/user/pass/8022
+#EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="NATGEO KIDS HD" tvg-logo="https://i.imgur.com/dNJldV5.png" group-title="INFANTIL",NATGEO KIDS HD
+http://cloud-nany.cc:80/user/pass/7980
+#EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="NATGEO KIDS HD1" tvg-logo="https://i.imgur.com/dNJldV5.png" group-title="INFANTIL",NATGEO KIDS HD1
+http://cloud-nany.cc:80/user/pass/7129
+#EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="NATGEO KIDS SD" tvg-logo="https://i.imgur.com/dNJldV5.png" group-title="INFANTIL",NATGEO KIDS SD
+http://cloud-nany.cc:80/user/pass/7981
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICK HD" tvg-logo="https://i.imgur.com/aoH6AnI.png" group-title="INFANTIL",NICK HD
+http://cloud-nany.cc:80/user/pass/7973
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICK HD1" tvg-logo="https://i.imgur.com/aoH6AnI.png" group-title="INFANTIL",NICK HD1
+http://cloud-nany.cc:80/user/pass/1162
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICK SD" tvg-logo="https://i.imgur.com/aoH6AnI.png" group-title="INFANTIL",NICK SD
+http://cloud-nany.cc:80/user/pass/7974
+#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR HD" tvg-logo="https://i.imgur.com/mSxkyPK.png" group-title="INFANTIL",NICK JR HD
+http://cloud-nany.cc:80/user/pass/7975
+#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR HD1" tvg-logo="https://i.imgur.com/mSxkyPK.png" group-title="INFANTIL",NICK JR HD1
+http://cloud-nany.cc:80/user/pass/7121
+#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR SD" tvg-logo="https://i.imgur.com/mSxkyPK.png" group-title="INFANTIL",NICK JR SD
+http://cloud-nany.cc:80/user/pass/7976
+#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="TOONCAST HD" tvg-logo="https://i.imgur.com/atOLXgX.png" group-title="INFANTIL",TOONCAST HD
+http://cloud-nany.cc:80/user/pass/7025
+#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="TOONCAST SD" tvg-logo="https://i.imgur.com/atOLXgX.png" group-title="INFANTIL",TOONCAST SD
+http://cloud-nany.cc:80/user/pass/7903
+#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABY TV HD" tvg-logo="https://i.imgur.com/DTDXIfY.png" group-title="INFANTIL",BABY TV HD
+http://cloud-nany.cc:80/user/pass/61961
+#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABY TV SD" tvg-logo="https://i.imgur.com/DTDXIfY.png" group-title="INFANTIL",BABY TV SD
+http://cloud-nany.cc:80/user/pass/8140
+#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV RA-TIM-BUM HD" tvg-logo="https://i.imgur.com/Xn2gHc4.png" group-title="INFANTIL",TV RA-TIM-BUM HD
+http://cloud-nany.cc:80/user/pass/7894
+#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV RA-TIM-BUM SD" tvg-logo="https://i.imgur.com/Xn2gHc4.png" group-title="INFANTIL",TV RA-TIM-BUM SD
+http://cloud-nany.cc:80/user/pass/7895
+#EXTINF:-1 tvg-id="" tvg-name="PLAYKIDS HD" tvg-logo="https://i.imgur.com/Y4HunzZ.png" group-title="INFANTIL",PLAYKIDS HD
+http://cloud-nany.cc:80/user/pass/16753
+#EXTINF:-1 tvg-id="" tvg-name="PLAYKIDS SD" tvg-logo="https://i.imgur.com/Y4HunzZ.png" group-title="INFANTIL",PLAYKIDS SD
+http://cloud-nany.cc:80/user/pass/16754
+#EXTINF:-1 tvg-id="Zoomoo.br" tvg-name="ZOOMOO SD" tvg-logo="https://i.imgur.com/y45ruLI.png" group-title="INFANTIL",ZOOMOO SD
+http://cloud-nany.cc:80/user/pass/7007
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="https://i.imgur.com/3kUMILT.png" group-title="DOCUMENTARIOS",ANIMAL PLANET HD
+http://cloud-nany.cc:80/user/pass/8145
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET HD1" tvg-logo="https://i.imgur.com/3kUMILT.png" group-title="DOCUMENTARIOS",ANIMAL PLANET HD1
+http://cloud-nany.cc:80/user/pass/1283
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET SD" tvg-logo="https://i.imgur.com/3kUMILT.png" group-title="DOCUMENTARIOS",ANIMAL PLANET SD
+http://cloud-nany.cc:80/user/pass/8146
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://i.imgur.com/ikSBWKz.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL HD
+http://cloud-nany.cc:80/user/pass/8112
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL HD1" tvg-logo="https://i.imgur.com/ikSBWKz.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL HD1
+http://cloud-nany.cc:80/user/pass/24208
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL SD" tvg-logo="https://i.imgur.com/ikSBWKz.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL SD
+http://cloud-nany.cc:80/user/pass/8113
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://i.imgur.com/nf3QoBH.png" group-title="DOCUMENTARIOS",DISCOVERY TURBO HD
+http://cloud-nany.cc:80/user/pass/8100
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO HD1" tvg-logo="https://i.imgur.com/nf3QoBH.png" group-title="DOCUMENTARIOS",DISCOVERY TURBO HD1
+http://cloud-nany.cc:80/user/pass/1242
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO SD" tvg-logo="https://i.imgur.com/nf3QoBH.png" group-title="DOCUMENTARIOS",DISCOVERY TURBO SD
+http://cloud-nany.cc:80/user/pass/8101
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER HD" tvg-logo="https://i.imgur.com/I5FO01n.png" group-title="DOCUMENTARIOS",DISCOVERY THEATER HD
+http://cloud-nany.cc:80/user/pass/8102
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER HD1" tvg-logo="https://i.imgur.com/I5FO01n.png" group-title="DOCUMENTARIOS",DISCOVERY THEATER HD1
+http://cloud-nany.cc:80/user/pass/1243
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER SD" tvg-logo="https://i.imgur.com/I5FO01n.png" group-title="DOCUMENTARIOS",DISCOVERY THEATER SD
+http://cloud-nany.cc:80/user/pass/8103
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV HD" tvg-logo="https://i.imgur.com/HnAi9Sz.png" group-title="DOCUMENTARIOS",HGTV HD
+http://cloud-nany.cc:80/user/pass/8110
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV HD1" tvg-logo="https://i.imgur.com/HnAi9Sz.png" group-title="DOCUMENTARIOS",HGTV HD1
+http://cloud-nany.cc:80/user/pass/1248
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV SD" tvg-logo="https://i.imgur.com/HnAi9Sz.png" group-title="DOCUMENTARIOS",HGTV SD
+http://cloud-nany.cc:80/user/pass/8111
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="https://i.imgur.com/VBnnhPE.png" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE HD
+http://cloud-nany.cc:80/user/pass/8104
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE HD1" tvg-logo="https://i.imgur.com/VBnnhPE.png" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE HD1
+http://cloud-nany.cc:80/user/pass/5792
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE SD" tvg-logo="https://i.imgur.com/VBnnhPE.png" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE SD
+http://cloud-nany.cc:80/user/pass/8105
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY H&amp;H HD" tvg-logo="https://i.imgur.com/Qk44xUU.png" group-title="DOCUMENTARIOS",DISCOVERY H&amp;H HD
+http://cloud-nany.cc:80/user/pass/8108
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY H&amp;H HD1" tvg-logo="https://i.imgur.com/Qk44xUU.png" group-title="DOCUMENTARIOS",DISCOVERY H&amp;H HD1
+http://cloud-nany.cc:80/user/pass/1247
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY H&amp;H SD" tvg-logo="https://i.imgur.com/Qk44xUU.png" group-title="DOCUMENTARIOS",DISCOVERY H&amp;H SD
+http://cloud-nany.cc:80/user/pass/8109
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD HD" tvg-logo="https://i.imgur.com/8iRoTpO.png" group-title="DOCUMENTARIOS",DISCOVERY WORLD HD
+http://cloud-nany.cc:80/user/pass/8098
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD HD¹" tvg-logo="https://i.imgur.com/8iRoTpO.png" group-title="DOCUMENTARIOS",DISCOVERY WORLD HD¹
+http://cloud-nany.cc:80/user/pass/1241
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD SD" tvg-logo="https://i.imgur.com/8iRoTpO.png" group-title="DOCUMENTARIOS",DISCOVERY WORLD SD
+http://cloud-nany.cc:80/user/pass/8099
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID - INVESTIGACAO DISCOVERY HD" tvg-logo="https://i.imgur.com/8fOeUpg.png" group-title="DOCUMENTARIOS",ID - INVESTIGACAO DISCOVERY HD
+http://cloud-nany.cc:80/user/pass/8003
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID - INVESTIGACAO DISCOVERY HD1" tvg-logo="https://i.imgur.com/8fOeUpg.png" group-title="DOCUMENTARIOS",ID - INVESTIGACAO DISCOVERY HD1
+http://cloud-nany.cc:80/user/pass/1180
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID - INVESTIGACAO DISCOVERY SD" tvg-logo="https://i.imgur.com/8fOeUpg.png" group-title="DOCUMENTARIOS",ID - INVESTIGACAO DISCOVERY SD
+http://cloud-nany.cc:80/user/pass/8004
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY CHANNEL HD" tvg-logo="https://i.imgur.com/013fpEW.png" group-title="DOCUMENTARIOS",HISTORY CHANNEL HD
+http://cloud-nany.cc:80/user/pass/8005
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY CHANNEL HD1" tvg-logo="https://i.imgur.com/c4HsEUo.png" group-title="DOCUMENTARIOS",HISTORY CHANNEL HD1
+http://cloud-nany.cc:80/user/pass/1097
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY CHANNEL SD" tvg-logo="https://i.imgur.com/013fpEW.png" group-title="DOCUMENTARIOS",HISTORY CHANNEL SD
+http://cloud-nany.cc:80/user/pass/8006
+#EXTINF:-1 tvg-id="H2.br" tvg-name="H2 HD" tvg-logo="https://i.imgur.com/ikThPFd.png" group-title="DOCUMENTARIOS",H2 HD
+http://cloud-nany.cc:80/user/pass/8018
+#EXTINF:-1 tvg-id="H2.br" tvg-name="H2 HD1" tvg-logo="https://i.imgur.com/ikThPFd.png" group-title="DOCUMENTARIOS",H2 HD1
+http://cloud-nany.cc:80/user/pass/5626
+#EXTINF:-1 tvg-id="H2.br" tvg-name="H2 SD" tvg-logo="https://i.imgur.com/ikThPFd.png" group-title="DOCUMENTARIOS",H2 SD
+http://cloud-nany.cc:80/user/pass/8019
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NAT GEO HD" tvg-logo="https://i.imgur.com/FvE6p6P.png" group-title="DOCUMENTARIOS",NAT GEO HD
+http://cloud-nany.cc:80/user/pass/7982
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NAT GEO HD1" tvg-logo="https://i.imgur.com/FvE6p6P.png" group-title="DOCUMENTARIOS",NAT GEO HD1
+http://cloud-nany.cc:80/user/pass/1167
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NAT GEO SD" tvg-logo="https://i.imgur.com/FvE6p6P.png" group-title="DOCUMENTARIOS",NAT GEO SD
+http://cloud-nany.cc:80/user/pass/7983
+#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NAT GEO WILD HD" tvg-logo="https://i.imgur.com/JObgBxU.png" group-title="DOCUMENTARIOS",NAT GEO WILD HD
+http://cloud-nany.cc:80/user/pass/7979
+#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NAT GEO WILD HD1" tvg-logo="https://i.imgur.com/JObgBxU.png" group-title="DOCUMENTARIOS",NAT GEO WILD HD1
+http://cloud-nany.cc:80/user/pass/1165
+#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NAT GEO WILD SD" tvg-logo="https://i.imgur.com/JObgBxU.png" group-title="DOCUMENTARIOS",NAT GEO WILD SD
+http://cloud-nany.cc:80/user/pass/7978
+#EXTINF:-1 tvg-id="Polishop.br" tvg-name="POLISHOP TV SD" tvg-logo="https://i.imgur.com/I7GGcp0.png" group-title="VARIEDADES",POLISHOP TV SD
+http://cloud-nany.cc:80/user/pass/55691
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="+GLOBOSAT HD" tvg-logo="https://i.imgur.com/f01kOkt.png" group-title="VARIEDADES",+GLOBOSAT HD
+http://cloud-nany.cc:80/user/pass/7999
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="+GLOBOSAT HD1" tvg-logo="https://i.imgur.com/Vz2CECq.png" group-title="VARIEDADES",+GLOBOSAT HD1
+http://cloud-nany.cc:80/user/pass/1196
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="+GLOBOSAT SD" tvg-logo="https://i.imgur.com/f01kOkt.png" group-title="VARIEDADES",+GLOBOSAT SD
+http://cloud-nany.cc:80/user/pass/8000
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA HD" tvg-logo="https://i.imgur.com/Y22Kk5b.png" group-title="VARIEDADES",VIVA HD
+http://cloud-nany.cc:80/user/pass/7885
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA HD1" tvg-logo="https://i.imgur.com/Y22Kk5b.png" group-title="VARIEDADES",VIVA HD1
+http://cloud-nany.cc:80/user/pass/1071
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA SD" tvg-logo="https://i.imgur.com/Y22Kk5b.png" group-title="VARIEDADES",VIVA SD
+http://cloud-nany.cc:80/user/pass/7886
+#EXTINF:-1 tvg-id="Trutv.br" tvg-name="TruTV HD" tvg-logo="https://i.imgur.com/J5TMZ7e.png" group-title="VARIEDADES",TruTV HD
+http://cloud-nany.cc:80/user/pass/7892
+#EXTINF:-1 tvg-id="Trutv.br" tvg-name="TruTV SD" tvg-logo="https://i.imgur.com/8OI38uD.png" group-title="VARIEDADES",TruTV SD
+http://cloud-nany.cc:80/user/pass/7893
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK HD" tvg-logo="https://i.imgur.com/AkJ4ix2.png" group-title="VARIEDADES",FOOD NETWORK HD
+http://cloud-nany.cc:80/user/pass/8072
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK HD1" tvg-logo="https://i.imgur.com/AkJ4ix2.png" group-title="VARIEDADES",FOOD NETWORK HD1
+http://cloud-nany.cc:80/user/pass/7205
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK SD" tvg-logo="https://i.imgur.com/AkJ4ix2.png" group-title="VARIEDADES",FOOD NETWORK SD
+http://cloud-nany.cc:80/user/pass/8073
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT HD" tvg-logo="https://i.imgur.com/RO4riqF.png" group-title="VARIEDADES",GNT HD
+http://cloud-nany.cc:80/user/pass/8020
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT HD1" tvg-logo="https://i.imgur.com/RO4riqF.png" group-title="VARIEDADES",GNT HD1
+http://cloud-nany.cc:80/user/pass/7174
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT SD" tvg-logo="https://i.imgur.com/RO4riqF.png" group-title="VARIEDADES",GNT SD
+http://cloud-nany.cc:80/user/pass/8021
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! ENTERTAINMENT TELEVISION HD" tvg-logo="https://i.imgur.com/h0LkXsw.png" group-title="VARIEDADES",E! ENTERTAINMENT TELEVISION HD
+http://cloud-nany.cc:80/user/pass/8090
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! ENTERTAINMENT TELEVISION HD1" tvg-logo="https://i.imgur.com/h0LkXsw.png" group-title="VARIEDADES",E! ENTERTAINMENT TELEVISION HD1
+http://cloud-nany.cc:80/user/pass/7221
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! ENTERTAINMENT TELEVISION SD" tvg-logo="https://i.imgur.com/h0LkXsw.png" group-title="VARIEDADES",E! ENTERTAINMENT TELEVISION SD
+http://cloud-nany.cc:80/user/pass/8091
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME HD" tvg-logo="https://i.imgur.com/rn1gjTZ.png" group-title="VARIEDADES",LIFETIME HD
+http://cloud-nany.cc:80/user/pass/8001
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME HD1" tvg-logo="https://i.imgur.com/rn1gjTZ.png" group-title="VARIEDADES",LIFETIME HD1
+http://cloud-nany.cc:80/user/pass/7150
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME SD" tvg-logo="https://i.imgur.com/rn1gjTZ.png" group-title="VARIEDADES",LIFETIME SD
+http://cloud-nany.cc:80/user/pass/8002
+#EXTINF:-1 tvg-id="Curta!" tvg-name="CURTA! HD" tvg-logo="https://i.imgur.com/zNtHJGh.png" group-title="VARIEDADES",CURTA! HD
+http://cloud-nany.cc:80/user/pass/8114
+#EXTINF:-1 tvg-id="Curta!" tvg-name="CURTA! SD" tvg-logo="https://i.imgur.com/zNtHJGh.png" group-title="VARIEDADES",CURTA! SD
+http://cloud-nany.cc:80/user/pass/8115
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC HD1" tvg-logo="https://i.imgur.com/lUvnfR1.png" group-title="VARIEDADES",TLC HD1
+http://cloud-nany.cc:80/user/pass/1096
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC HD" tvg-logo="https://i.imgur.com/lUvnfR1.png" group-title="VARIEDADES",TLC HD
+http://cloud-nany.cc:80/user/pass/7908
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC SD" tvg-logo="https://i.imgur.com/lUvnfR1.png" group-title="VARIEDADES",TLC SD
+http://cloud-nany.cc:80/user/pass/7909
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW HD" tvg-logo="https://i.imgur.com/GRj46dh.png" group-title="MUSICAS",MULTISHOW HD
+http://cloud-nany.cc:80/user/pass/7986
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW HD1" tvg-logo="https://i.imgur.com/p8dxcrL.png" group-title="MUSICAS",MULTISHOW HD1
+http://cloud-nany.cc:80/user/pass/1170
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW SD" tvg-logo="https://i.imgur.com/GRj46dh.png" group-title="MUSICAS",MULTISHOW SD
+http://cloud-nany.cc:80/user/pass/7987
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV HD" tvg-logo="https://i.imgur.com/CswLA7E.png" group-title="MUSICAS",MTV HD
+http://cloud-nany.cc:80/user/pass/7988
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV HD1" tvg-logo="https://i.imgur.com/yBSbuW1.png" group-title="MUSICAS",MTV HD1
+http://cloud-nany.cc:80/user/pass/1173
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV SD" tvg-logo="https://i.imgur.com/CswLA7E.png" group-title="MUSICAS",MTV SD
+http://cloud-nany.cc:80/user/pass/7989
+#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS HD" tvg-logo="https://i.imgur.com/mCJkumd.png" group-title="MUSICAS",BIS HD
+http://cloud-nany.cc:80/user/pass/8132
+#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS HD1" tvg-logo="https://i.imgur.com/mCJkumd.png" group-title="MUSICAS",BIS HD1
+http://cloud-nany.cc:80/user/pass/7278
+#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS SD" tvg-logo="https://i.imgur.com/mCJkumd.png" group-title="MUSICAS",BIS SD
+http://cloud-nany.cc:80/user/pass/8133
+#EXTINF:-1 tvg-id="VH1HD.br" tvg-name="VH1 HD" tvg-logo="https://i.imgur.com/8LD7KxD.png" group-title="MUSICAS",VH1 HD
+http://cloud-nany.cc:80/user/pass/7888
+#EXTINF:-1 tvg-id="VH1MegaHits.br" tvg-name="VH1 MEGA HITS HD1" tvg-logo="https://i.imgur.com/8LD7KxD.png" group-title="MUSICAS",VH1 MEGA HITS HD1
+http://cloud-nany.cc:80/user/pass/1073
+#EXTINF:-1 tvg-id="VH1HD.br" tvg-name="VH1 SD" tvg-logo="https://i.imgur.com/8LD7KxD.png" group-title="MUSICAS",VH1 SD
+http://cloud-nany.cc:80/user/pass/7889
+#EXTINF:-1 tvg-id="VH1MegaHits.br" tvg-name="VH1 MEGA HITS SD" tvg-logo="https://i.imgur.com/8LD7KxD.png" group-title="MUSICAS",VH1 MEGA HITS SD
+http://cloud-nany.cc:80/user/pass/7887
+#EXTINF:-1 tvg-id="Prime Box Brazil" tvg-name="PRIME BOX BRASIL HD" tvg-logo="https://i.imgur.com/ZqpCJUf.png" group-title="MUSICAS",PRIME BOX BRASIL HD
+http://cloud-nany.cc:80/user/pass/7953
+#EXTINF:-1 tvg-id="Prime Box Brazil" tvg-name="PRIME BOX BRASIL SD" tvg-logo="https://i.imgur.com/ZqpCJUf.png" group-title="MUSICAS",PRIME BOX BRASIL SD
+http://cloud-nany.cc:80/user/pass/7954
+#EXTINF:-1 tvg-id="Music Box Brasil HD" tvg-name="MUSIC BOX BRASIL HD" tvg-logo="https://i.imgur.com/75XDovs.png" group-title="MUSICAS",MUSIC BOX BRASIL HD
+http://cloud-nany.cc:80/user/pass/7984
+#EXTINF:-1 tvg-id="Music Box Brasil HD" tvg-name="MUSIC BOX BRASIL SD" tvg-logo="https://i.imgur.com/75XDovs.png" group-title="MUSICAS",MUSIC BOX BRASIL SD
+http://cloud-nany.cc:80/user/pass/7985
+#EXTINF:-1 tvg-id="CancaoNova.br" tvg-name="CANCAO NOVA SD" tvg-logo="https://i.imgur.com/hobOTr8.png" group-title="RELIGIOSOS",CANCAO NOVA SD
+http://cloud-nany.cc:80/user/pass/8124
+#EXTINF:-1 tvg-id="Redevida.br" tvg-name="REDE VIDA HD" tvg-logo="https://i.imgur.com/D47ftNG.png" group-title="RELIGIOSOS",REDE VIDA HD
+http://cloud-nany.cc:80/user/pass/14993
+#EXTINF:-1 tvg-id="Redevida.br" tvg-name="REDE VIDA SD" tvg-logo="https://i.imgur.com/D47ftNG.png" group-title="RELIGIOSOS",REDE VIDA SD
+http://cloud-nany.cc:80/user/pass/7943
+#EXTINF:-1 tvg-id="NovoTempo.br" tvg-name="TV NOVO TEMPO SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/0/07/Logo_2015_-_TV_Novo_Tempo.png/200px-Logo_2015_-_TV_Novo_Tempo.png" group-title="RELIGIOSOS",TV NOVO TEMPO SD
+http://cloud-nany.cc:80/user/pass/1008
+#EXTINF:-1 tvg-id="iSat.br" tvg-name="I-SAT SD" tvg-logo="https://i.imgur.com/0UicRvO.png" group-title="FILMES/SERIES",I-SAT SD
+http://cloud-nany.cc:80/user/pass/1181
+#EXTINF:-1 tvg-id="" tvg-name="CANAL DO BOI HD" tvg-logo="https://i.imgur.com/NLvsMDe.png" group-title="AGRONEGÓCIOS",CANAL DO BOI HD
+http://cloud-nany.cc:80/user/pass/107683
+#EXTINF:-1 tvg-id="CanaldoBoi.br" tvg-name="CANAL DO BOI" tvg-logo="https://i.imgur.com/NLvsMDe.png" group-title="AGRONEGÓCIOS",CANAL DO BOI
+http://cloud-nany.cc:80/user/pass/4896
+#EXTINF:-1 tvg-id="" tvg-name="TV PANTANAL MS" tvg-logo="http://3.bp.blogspot.com/-JdbIqgJsOZI/WMk1sl_BHnI/AAAAAAAAAuo/3WIBnnRPLU0A3Z-iP7JGeot7xqxgW-jjgCK4B/s142/logo%2Btv%2Bpantanal.png" group-title="ABERTOS",TV PANTANAL MS
+http://cloud-nany.cc:80/user/pass/2032
+#EXTINF:-1 tvg-id="" tvg-name="RETRO TV SD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/retro_tv.png" group-title="MUSICAS",RETRO TV SD
+http://cloud-nany.cc:80/user/pass/4208
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 HD" tvg-logo="https://i.imgur.com/ZIoEeMr.png" group-title="DOCUMENTARIOS",ARTE 1 HD
+http://cloud-nany.cc:80/user/pass/8143
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 SD" tvg-logo="https://i.imgur.com/ZIoEeMr.png" group-title="DOCUMENTARIOS",ARTE 1 SD
+http://cloud-nany.cc:80/user/pass/8144
+#EXTINF:-1 tvg-id="" tvg-name="TV TERCEIRO ANJO SD" tvg-logo="http://i.imgur.com/zW83GGD.png" group-title="RELIGIOSOS",TV TERCEIRO ANJO SD
+http://cloud-nany.cc:80/user/pass/7004
+#EXTINF:-1 tvg-id="Tvaparecida.br" tvg-name="TV APARECIDA SD" tvg-logo="https://i.imgur.com/dxqXS0O.png" group-title="RELIGIOSOS",TV APARECIDA SD
+http://cloud-nany.cc:80/user/pass/7900
+#EXTINF:-1 tvg-id="TVCamara.br" tvg-name="TV CAMARA SD" tvg-logo="https://i.imgur.com/7JvzKkG.png" group-title="NOTICIAS",TV CAMARA SD
+http://cloud-nany.cc:80/user/pass/7898
+#EXTINF:-1 tvg-id="Tvjustica.br" tvg-name="TV JUSTICA SD" tvg-logo="https://i.imgur.com/nbN3E8U.png" group-title="NOTICIAS",TV JUSTICA SD
+http://cloud-nany.cc:80/user/pass/7901
+#EXTINF:-1 tvg-id="Tvsenado.br" tvg-name="TV SENADO SD" tvg-logo="https://i.imgur.com/Pwd0nRR.png" group-title="NOTICIAS",TV SENADO SD
+http://cloud-nany.cc:80/user/pass/7902
+#EXTINF:-1 tvg-id="RedeBrasil.br" tvg-name="REDE BRASIL SD" tvg-logo="https://i.imgur.com/iAyQhYi.png" group-title="VARIEDADES",REDE BRASIL SD
+http://cloud-nany.cc:80/user/pass/7946
+#EXTINF:-1 tvg-id="" tvg-name="TERRA VIVA SD" tvg-logo="https://i.imgur.com/mkFJRUl.png" group-title="VARIEDADES",TERRA VIVA SD
+http://cloud-nany.cc:80/user/pass/7910
+#EXTINF:-1 tvg-id="" tvg-name="REDE SUPER SD" tvg-logo="https://i.imgur.com/6JZleHB.png" group-title="RELIGIOSOS",REDE SUPER SD
+http://cloud-nany.cc:80/user/pass/14928
+#EXTINF:-1 tvg-id="" tvg-name="RIT TV SD" tvg-logo="https://i.imgur.com/tN4WdEA.png" group-title="RELIGIOSOS",RIT TV SD
+http://cloud-nany.cc:80/user/pass/49468
+#EXTINF:-1 tvg-id="" tvg-name="TV PARANAIBA HD" tvg-logo="https://i.imgur.com/zGNfVta.png" group-title="ABERTOS",TV PARANAIBA HD
+http://cloud-nany.cc:80/user/pass/59019
+#EXTINF:-1 tvg-id="" tvg-name="RECORD TV SANTA CATARINA HD" tvg-logo="https://i.imgur.com/rK4Bwzs.png" group-title="REDE RECORD",RECORD TV SANTA CATARINA HD
+http://cloud-nany.cc:80/user/pass/59021
+#EXTINF:-1 tvg-id="" tvg-name="RECORD TV PARANA HD" tvg-logo="https://i.imgur.com/rK4Bwzs.png" group-title="REDE RECORD",RECORD TV PARANA HD
+http://cloud-nany.cc:80/user/pass/59026
+#EXTINF:-1 tvg-id="" tvg-name="REDE RECORD BELEM SD" tvg-logo="https://i.imgur.com/ia8NjNR.jpg" group-title="REDE RECORD",REDE RECORD BELEM SD
+http://cloud-nany.cc:80/user/pass/58977
+#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="GAZETA SP HD" tvg-logo="https://i.imgur.com/hS2ZGEH.png" group-title="ABERTOS",GAZETA SP HD
+http://cloud-nany.cc:80/user/pass/54269
+#EXTINF:-1 tvg-id="" tvg-name="REDE RECORD TV LITORAL HD" tvg-logo="https://i.imgur.com/MQ1Ui8g.png" group-title="REDE RECORD",REDE RECORD TV LITORAL HD
+http://cloud-nany.cc:80/user/pass/58981
+#EXTINF:-1 tvg-id="CPNordeste" tvg-name="COPA NORDESTE 1" tvg-logo="https://i.imgur.com/ZUthoai.png" group-title="ESPORTES - PAY PER VIEW",COPA NORDESTE 1
+http://cloud-nany.cc:80/user/pass/58982
+#EXTINF:-1 tvg-id="CPNordeste" tvg-name="COPA NORDESTE 3" tvg-logo="https://i.imgur.com/ZUthoai.png" group-title="ESPORTES - PAY PER VIEW",COPA NORDESTE 3
+http://cloud-nany.cc:80/user/pass/58983
+#EXTINF:-1 tvg-id="CPNordeste" tvg-name="COPA NORDESTE 2" tvg-logo="https://i.imgur.com/ZUthoai.png" group-title="ESPORTES - PAY PER VIEW",COPA NORDESTE 2
+http://cloud-nany.cc:80/user/pass/58984
+#EXTINF:-1 tvg-id="CPNordeste" tvg-name="COPA NORDESTE 4" tvg-logo="https://i.imgur.com/ZUthoai.png" group-title="ESPORTES - PAY PER VIEW",COPA NORDESTE 4
+http://cloud-nany.cc:80/user/pass/65148
+#EXTINF:-1 tvg-id="CPNordeste" tvg-name="COPA NORDESTE 5" tvg-logo="https://i.imgur.com/ZUthoai.png" group-title="ESPORTES - PAY PER VIEW",COPA NORDESTE 5
+http://cloud-nany.cc:80/user/pass/65149
+#EXTINF:-1 tvg-id="CPNordeste" tvg-name="COPA NORDESTE 6" tvg-logo="https://i.imgur.com/ZUthoai.png" group-title="ESPORTES - PAY PER VIEW",COPA NORDESTE 6
+http://cloud-nany.cc:80/user/pass/65150
+#EXTINF:-1 tvg-id="" tvg-name="CHEF TV HD" tvg-logo="https://i.imgur.com/hunGWXh.png" group-title="VARIEDADES",CHEF TV HD
+http://cloud-nany.cc:80/user/pass/58987
+#EXTINF:-1 tvg-id="CPCatarinense" tvg-name="CATARINENSE 1" tvg-logo="https://i.imgur.com/vODNdGa.png" group-title="ESPORTES - PAY PER VIEW",CATARINENSE 1
+http://cloud-nany.cc:80/user/pass/59298
+#EXTINF:-1 tvg-id="CPCatarinense" tvg-name="CATARINENSE 2" tvg-logo="https://i.imgur.com/vODNdGa.png" group-title="ESPORTES - PAY PER VIEW",CATARINENSE 2
+http://cloud-nany.cc:80/user/pass/59299
+#EXTINF:-1 tvg-id="CPCatarinense" tvg-name="CATARINENSE 3" tvg-logo="https://i.imgur.com/vODNdGa.png" group-title="ESPORTES - PAY PER VIEW",CATARINENSE 3
+http://cloud-nany.cc:80/user/pass/108792
+#EXTINF:-1 tvg-id="CPCatarinense" tvg-name="CATARINENSE 4" tvg-logo="https://i.imgur.com/vODNdGa.png" group-title="ESPORTES - PAY PER VIEW",CATARINENSE 4
+http://cloud-nany.cc:80/user/pass/108793
+#EXTINF:-1 tvg-id="CPSergipano" tvg-name="CAMPEONATO SERGIPANO (JOGO 1)" tvg-logo="https://i.imgur.com/lQTdHLu.png" group-title="ESPORTES - PAY PER VIEW",CAMPEONATO SERGIPANO (JOGO 1)
+http://cloud-nany.cc:80/user/pass/108798
+#EXTINF:-1 tvg-id="CPSergipano" tvg-name="CAMPEONATO SERGIPANO (JOGO 2)" tvg-logo="https://i.imgur.com/lQTdHLu.png" group-title="ESPORTES - PAY PER VIEW",CAMPEONATO SERGIPANO (JOGO 2)
+http://cloud-nany.cc:80/user/pass/108797
+#EXTINF:-1 tvg-id="" tvg-name="PLAY TV HD" tvg-logo="" group-title="MUSICAS",PLAY TV HD
+http://cloud-nany.cc:80/user/pass/60353
+#EXTINF:-1 tvg-id="Playtv.br" tvg-name="PLAY TV SD" tvg-logo="https://i.imgur.com/XkwvUIz.png" group-title="MUSICAS",PLAY TV SD
+http://cloud-nany.cc:80/user/pass/42045
+#EXTINF:-1 tvg-id="DOGTV.br" tvg-name="DOGTV HD" tvg-logo="https://i.imgur.com/P4VTZIc.png" group-title="VARIEDADES",DOGTV HD
+http://cloud-nany.cc:80/user/pass/60684
+#EXTINF:-1 tvg-id="" tvg-name="TV EDUCACAO SD" tvg-logo="https://i.imgur.com/TpsFtH2.jpg" group-title="VARIEDADES",TV EDUCACAO SD
+http://cloud-nany.cc:80/user/pass/63101
+#EXTINF:-1 tvg-id="Cine SKY" tvg-name="CINE SKY 1" tvg-logo="https://i.imgur.com/MfJ9mwQ.png" group-title="FILMES/SERIES",CINE SKY 1
+http://cloud-nany.cc:80/user/pass/64045
+#EXTINF:-1 tvg-id="Cine SKY" tvg-name="CINE SKY 2" tvg-logo="https://i.imgur.com/MfJ9mwQ.png" group-title="FILMES/SERIES",CINE SKY 2
+http://cloud-nany.cc:80/user/pass/64046
+#EXTINF:-1 tvg-id="Cine SKY" tvg-name="CINE SKY 3" tvg-logo="https://i.imgur.com/MfJ9mwQ.png" group-title="FILMES/SERIES",CINE SKY 3
+http://cloud-nany.cc:80/user/pass/64048
+#EXTINF:-1 tvg-id="Cine SKY" tvg-name="CINE SKY 4" tvg-logo="https://i.imgur.com/MfJ9mwQ.png" group-title="FILMES/SERIES",CINE SKY 4
+http://cloud-nany.cc:80/user/pass/64049
+#EXTINF:-1 tvg-id="Cine SKY" tvg-name="CINE SKY 5" tvg-logo="https://i.imgur.com/MfJ9mwQ.png" group-title="FILMES/SERIES",CINE SKY 5
+http://cloud-nany.cc:80/user/pass/64047
+#EXTINF:-1 tvg-id="Cine SKY" tvg-name="CINE SKY 6" tvg-logo="https://i.imgur.com/MfJ9mwQ.png" group-title="FILMES/SERIES",CINE SKY 6
+http://cloud-nany.cc:80/user/pass/64184
+#EXTINF:-1 tvg-id="Cine SKY" tvg-name="CINE SKY 7" tvg-logo="https://i.imgur.com/MfJ9mwQ.png" group-title="FILMES/SERIES",CINE SKY 7
+http://cloud-nany.cc:80/user/pass/64185
+#EXTINF:-1 tvg-id="Cine SKY" tvg-name="CINE SKY 8" tvg-logo="https://i.imgur.com/MfJ9mwQ.png" group-title="FILMES/SERIES",CINE SKY 8
+http://cloud-nany.cc:80/user/pass/64186
+#EXTINF:-1 tvg-id="Cine SKY" tvg-name="CINE SKY 9" tvg-logo="https://i.imgur.com/MfJ9mwQ.png" group-title="FILMES/SERIES",CINE SKY 9
+http://cloud-nany.cc:80/user/pass/64187
+#EXTINF:-1 tvg-id="Cine SKY" tvg-name="CINE SKY 10" tvg-logo="https://i.imgur.com/MfJ9mwQ.png" group-title="FILMES/SERIES",CINE SKY 10
+http://cloud-nany.cc:80/user/pass/64188
+#EXTINF:-1 tvg-id="" tvg-name="TVB RECORD CAMPINAS HD" tvg-logo="https://i.imgur.com/RgPlZUW.png" group-title="REDE RECORD",TVB RECORD CAMPINAS HD
+http://cloud-nany.cc:80/user/pass/59020
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="TV CULTURA HD" tvg-logo="https://i.imgur.com/YVMgq2x.png" group-title="ABERTOS",TV CULTURA HD
+http://cloud-nany.cc:80/user/pass/96883
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="TV CULTURA SD" tvg-logo="https://i.imgur.com/YVMgq2x.png" group-title="ABERTOS",TV CULTURA SD
+http://cloud-nany.cc:80/user/pass/96882
+#EXTINF:-1 tvg-id="RedeTV! SP" tvg-name="REDETV! HD" tvg-logo="https://i.imgur.com/npvG194.png" group-title="ABERTOS",REDETV! HD
+http://cloud-nany.cc:80/user/pass/96879
+#EXTINF:-1 tvg-id="RedeTV! SP" tvg-name="REDETV! SD" tvg-logo="https://i.imgur.com/npvG194.png" group-title="ABERTOS",REDETV! SD
+http://cloud-nany.cc:80/user/pass/96878
+#EXTINF:-1 tvg-id="CancaoNova.br" tvg-name="CANCAO NOVA ES SD" tvg-logo="https://i.imgur.com/hobOTr8.png" group-title="RELIGIOSOS",CANCAO NOVA ES SD
+http://cloud-nany.cc:80/user/pass/66708
+#EXTINF:-1 tvg-id="" tvg-name="CANCAO NOVA ES HD" tvg-logo="https://i.imgur.com/hobOTr8.png" group-title="RELIGIOSOS",CANCAO NOVA ES HD
+http://cloud-nany.cc:80/user/pass/66707
+#EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV BRASIL HD" tvg-logo="https://i.imgur.com/jYqzPir.png" group-title="ABERTOS",TV BRASIL HD
+http://cloud-nany.cc:80/user/pass/67170
+#EXTINF:-1 tvg-id="" tvg-name="AGRO CANAL HD" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ddf87ee412553236ff71fdb6a2f5d8ce.jpg" group-title="AGRONEGÓCIOS",AGRO CANAL HD
+http://cloud-nany.cc:80/user/pass/69944
+#EXTINF:-1 tvg-id="" tvg-name="CANAL RURAL SD" tvg-logo="https://64.media.tumblr.com/06e405db419316432b2d97f1b4ce1e24/tumblr_inline_pk07xw53ef1qcq4u4_500.png" group-title="AGRONEGÓCIOS",CANAL RURAL SD
+http://cloud-nany.cc:80/user/pass/69943
+#EXTINF:-1 tvg-id="" tvg-name="CEAK TV" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c7c9d0ae43a712d684f15791e62e4f42.png" group-title="RELIGIOSOS",CEAK TV
+http://cloud-nany.cc:80/user/pass/70002
+#EXTINF:-1 tvg-id="" tvg-name="TV ESPIRITA DO PARANA" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3273e6ac3e1898fe443ef9182133054a.png" group-title="RELIGIOSOS",TV ESPIRITA DO PARANA
+http://cloud-nany.cc:80/user/pass/70001
+#EXTINF:-1 tvg-id="" tvg-name="EWTN (CANADA)" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b4f93c138ac3aa5cc655b722d26611c7.jpg" group-title="RELIGIOSOS",EWTN (CANADA)
+http://cloud-nany.cc:80/user/pass/69999
+#EXTINF:-1 tvg-id="" tvg-name="CATHOLIC TV (USA)" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/38dbddfa9e6e6853bf80b6f12f3f2299.jpg" group-title="RELIGIOSOS",CATHOLIC TV (USA)
+http://cloud-nany.cc:80/user/pass/69998
+#EXTINF:-1 tvg-id="" tvg-name="TV COMUNIDADE RESTAURAÇÃO" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9910c09c5a205cc3e6cee0b3b97ac6c6.png" group-title="RELIGIOSOS",TV COMUNIDADE RESTAURAÇÃO
+http://cloud-nany.cc:80/user/pass/69992
+#EXTINF:-1 tvg-id="" tvg-name="TV VIANNEY" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/4ab1516236c11b949d064a330410b422.png" group-title="RELIGIOSOS",TV VIANNEY
+http://cloud-nany.cc:80/user/pass/69990
+#EXTINF:-1 tvg-id="" tvg-name="TV NOVO MILENIO" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/4336ae3d904a81fd626e9039a5e4a75c.jpg" group-title="RELIGIOSOS",TV NOVO MILENIO
+http://cloud-nany.cc:80/user/pass/69985
+#EXTINF:-1 tvg-id="" tvg-name="Tele Padre Pio" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/442c4cd4001f3c5e1f082def5982fe8c.png" group-title="RELIGIOSOS",Tele Padre Pio
+http://cloud-nany.cc:80/user/pass/69977
+#EXTINF:-1 tvg-id="" tvg-name="TV EVANGELIZAR (MARINGÁ)" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/95b87ff88cf146e5fac1f609cc0fa419.png" group-title="RELIGIOSOS",TV EVANGELIZAR (MARINGÁ)
+http://cloud-nany.cc:80/user/pass/69970
+#EXTINF:-1 tvg-id="" tvg-name="TV J.SID" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f24b1cd1064865c050503ea604e4526a.jpg" group-title="RELIGIOSOS",TV J.SID
+http://cloud-nany.cc:80/user/pass/69967
+#EXTINF:-1 tvg-id="" tvg-name="TV SECULO 21" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/22f3a969d2397bff78f2684767dce752.png" group-title="RELIGIOSOS",TV SECULO 21
+http://cloud-nany.cc:80/user/pass/69966
+#EXTINF:-1 tvg-id="" tvg-name="TV PAI ETERNO" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/6ea19e674e731e9eef76b96ab954e4b1.png" group-title="RELIGIOSOS",TV PAI ETERNO
+http://cloud-nany.cc:80/user/pass/69962
+#EXTINF:-1 tvg-id="" tvg-name="AGRO MAIS HD" tvg-logo="https://agrosaber.com.br/wp-content/uploads/2020/06/AgroMais.jpg" group-title="AGRONEGÓCIOS",AGRO MAIS HD
+http://cloud-nany.cc:80/user/pass/107682
+#EXTINF:-1 tvg-id="" tvg-name="AGRO MAIS" tvg-logo="https://agrosaber.com.br/wp-content/uploads/2020/06/AgroMais.jpg" group-title="AGRONEGÓCIOS",AGRO MAIS
+http://cloud-nany.cc:80/user/pass/69946
+#EXTINF:-1 tvg-id="VascoTV" tvg-name="VASCO TV" tvg-logo="https://i.imgur.com/XTVXQ50.png" group-title="ESPORTES - PAY PER VIEW",VASCO TV
+http://cloud-nany.cc:80/user/pass/70092
+#EXTINF:-1 tvg-id="FlaTV" tvg-name="FlaTV+" tvg-logo="https://i.imgur.com/h82pUUp.png" group-title="ESPORTES - PAY PER VIEW",FlaTV+
+http://cloud-nany.cc:80/user/pass/64799
+#EXTINF:-1 tvg-id="FlaTV" tvg-name="FlaTV+ ALT" tvg-logo="https://i.imgur.com/h82pUUp.png" group-title="ESPORTES - PAY PER VIEW",FlaTV+ ALT
+http://cloud-nany.cc:80/user/pass/64800
+#EXTINF:-1 tvg-id="Carioca" tvg-name="CAMPEONATO CARIOCA HD" tvg-logo="https://i.imgur.com/VKLFz1A.jpg" group-title="ESPORTES - PAY PER VIEW",CAMPEONATO CARIOCA HD
+http://cloud-nany.cc:80/user/pass/122197
+#EXTINF:-1 tvg-id="Carioca" tvg-name="CAMPEONATO CARIOCA SD" tvg-logo="https://i.imgur.com/VKLFz1A.jpg" group-title="ESPORTES - PAY PER VIEW",CAMPEONATO CARIOCA SD
+http://cloud-nany.cc:80/user/pass/134046
+#EXTINF:-1 tvg-id="Carioca" tvg-name="CAMPEONATO CARIOCA 2 SD" tvg-logo="https://i.imgur.com/VKLFz1A.jpg" group-title="ESPORTES - PAY PER VIEW",CAMPEONATO CARIOCA 2 SD
+http://cloud-nany.cc:80/user/pass/132025
+#EXTINF:-1 tvg-id="Carioca" tvg-name="CAMPEONATO CARIOCA 2 HD" tvg-logo="https://i.imgur.com/VKLFz1A.jpg" group-title="ESPORTES - PAY PER VIEW",CAMPEONATO CARIOCA 2 HD
+http://cloud-nany.cc:80/user/pass/132024
+#EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV BRASIL SD" tvg-logo="https://i.imgur.com/jYqzPir.png" group-title="ABERTOS",TV BRASIL SD
+http://cloud-nany.cc:80/user/pass/67169
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURA HD LEGENDADO" tvg-logo="https://i.imgur.com/fxfMW8o.png" group-title="CANAIS LEGENDADOS",HBO SIGNATURA HD LEGENDADO
+http://cloud-nany.cc:80/user/pass/63551
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI HD LEG" tvg-logo="https://i.imgur.com/5nZVEam.png" group-title="CANAIS LEGENDADOS",HBO MUNDI HD LEG
+http://cloud-nany.cc:80/user/pass/92330
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREAM HD LEG" tvg-logo="https://i.imgur.com/3Lbzn9f.png" group-title="CANAIS LEGENDADOS",HBO XTREAM HD LEG
+http://cloud-nany.cc:80/user/pass/92328
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE HD LEG" tvg-logo="https://i.imgur.com/zk3ZPZW.png" group-title="CANAIS LEGENDADOS",HBO SIGNATURE HD LEG
+http://cloud-nany.cc:80/user/pass/92332
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY HD LEG" tvg-logo="https://i.imgur.com/eQEepTd.png" group-title="CANAIS LEGENDADOS",SYFY HD LEG
+http://cloud-nany.cc:80/user/pass/63747
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL TV HD LEG" tvg-logo="https://i.imgur.com/jDpPint.png" group-title="CANAIS LEGENDADOS",UNIVERSAL TV HD LEG
+http://cloud-nany.cc:80/user/pass/63560
+#EXTINF:-1 tvg-id="NBATV" tvg-name="US:  NBA TV HD" tvg-logo="https://i.ibb.co/t2jYRjf/NBA-TV.png" group-title="ESPORTES - PAY PER VIEW",US:  NBA TV HD
+http://cloud-nany.cc:80/user/pass/94843
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="REDE RECORD SP SD1" tvg-logo="https://i.imgur.com/2DTdcJM.png" group-title="REDE RECORD",REDE RECORD SP SD1
+http://cloud-nany.cc:80/user/pass/49142
+#EXTINF:-1 tvg-id="Baiano" tvg-name="CAMPEONATO BAIANO" tvg-logo="https://i.imgur.com/rVQeSip.png" group-title="ESPORTES - PAY PER VIEW",CAMPEONATO BAIANO
+http://cloud-nany.cc:80/user/pass/109157
+#EXTINF:-1 tvg-id="" tvg-name="GOLF CHANNEL HD" tvg-logo="https://i.imgur.com/yf95W9a.png" group-title="ESPORTES",GOLF CHANNEL HD
+http://cloud-nany.cc:80/user/pass/135568
+#EXTINF:-1 tvg-id="" tvg-name="GOLF CHANNEL SD" tvg-logo="https://i.imgur.com/yf95W9a.png" group-title="ESPORTES",GOLF CHANNEL SD
+http://cloud-nany.cc:80/user/pass/135567
+#EXTINF:-1 tvg-id="" tvg-name="SMITHSONIAN CHANNEL HD" tvg-logo="https://i.imgur.com/SnDIxxr.png" group-title="DOCUMENTARIOS",SMITHSONIAN CHANNEL HD
+http://cloud-nany.cc:80/user/pass/131588
+#EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT PASS FHD" tvg-logo="https://i.imgur.com/P4AR3NZ.jpeg" group-title="ESPORTES - PAY PER VIEW",UFC FIGHT PASS FHD
+http://cloud-nany.cc:80/user/pass/136807
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS CHANNEL (JOGO 1)" tvg-logo="https://i.imgur.com/Pvz20KN.png" group-title="ESPORTES - PAY PER VIEW",ELEVEN SPORTS CHANNEL (JOGO 1)
+http://cloud-nany.cc:80/user/pass/136884
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS CHANNEL (JOGO 2)" tvg-logo="https://i.imgur.com/Pvz20KN.png" group-title="ESPORTES - PAY PER VIEW",ELEVEN SPORTS CHANNEL (JOGO 2)
+http://cloud-nany.cc:80/user/pass/136883
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS CHANNEL (JOGO 3)" tvg-logo="https://i.imgur.com/Pvz20KN.png" group-title="ESPORTES - PAY PER VIEW",ELEVEN SPORTS CHANNEL (JOGO 3)
+http://cloud-nany.cc:80/user/pass/136882
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS CHANNEL (JOGO 5)" tvg-logo="https://i.imgur.com/Pvz20KN.png" group-title="ESPORTES - PAY PER VIEW",ELEVEN SPORTS CHANNEL (JOGO 5)
+http://cloud-nany.cc:80/user/pass/136880
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS CHANNEL (JOGO 6)" tvg-logo="https://i.imgur.com/Pvz20KN.png" group-title="ESPORTES - PAY PER VIEW",ELEVEN SPORTS CHANNEL (JOGO 6)
+http://cloud-nany.cc:80/user/pass/136879
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS CHANNEL (JOGO 7)" tvg-logo="https://i.imgur.com/Pvz20KN.png" group-title="ESPORTES - PAY PER VIEW",ELEVEN SPORTS CHANNEL (JOGO 7)
+http://cloud-nany.cc:80/user/pass/136878
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS CHANNELL (JOGO 8)" tvg-logo="https://i.imgur.com/Pvz20KN.png" group-title="ESPORTES - PAY PER VIEW",ELEVEN SPORTS CHANNELL (JOGO 8)
+http://cloud-nany.cc:80/user/pass/136877
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS CHANNELL (JOGO 9)" tvg-logo="https://i.imgur.com/Pvz20KN.png" group-title="ESPORTES - PAY PER VIEW",ELEVEN SPORTS CHANNELL (JOGO 9)
+http://cloud-nany.cc:80/user/pass/136876
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS CHANNEL (JOGO 10)" tvg-logo="https://i.imgur.com/Pvz20KN.png" group-title="ESPORTES - PAY PER VIEW",ELEVEN SPORTS CHANNEL (JOGO 10)
+http://cloud-nany.cc:80/user/pass/136875
+#EXTINF:-1 tvg-id="" tvg-name="TV NSPORTS (JOGO 1)" tvg-logo="https://i.imgur.com/NJjcjVB.jpg" group-title="ESPORTES - PAY PER VIEW",TV NSPORTS (JOGO 1)
+http://cloud-nany.cc:80/user/pass/136874
+#EXTINF:-1 tvg-id="" tvg-name="TV NSPORTS (JOGO 2)" tvg-logo="https://i.imgur.com/NJjcjVB.jpg" group-title="ESPORTES - PAY PER VIEW",TV NSPORTS (JOGO 2)
+http://cloud-nany.cc:80/user/pass/136873
+#EXTINF:-1 tvg-id="" tvg-name="TV NSPORTS (JOGO 3)" tvg-logo="https://i.imgur.com/NJjcjVB.jpg" group-title="ESPORTES - PAY PER VIEW",TV NSPORTS (JOGO 3)
+http://cloud-nany.cc:80/user/pass/136872
+#EXTINF:-1 tvg-id="" tvg-name="LIVE: DAZN 02 [ALTER]" tvg-logo="https://i.imgur.com/yUXYVQx.jpg" group-title="ESPORTES - PAY PER VIEW",LIVE: DAZN 02 [ALTER]
+http://cloud-nany.cc:80/user/pass/137805
+#EXTINF:-1 tvg-id="" tvg-name="LIVE: DAZN 01 [ALTER]" tvg-logo="https://i.imgur.com/yUXYVQx.jpg" group-title="ESPORTES - PAY PER VIEW",LIVE: DAZN 01 [ALTER]
+http://cloud-nany.cc:80/user/pass/137803
+#EXTINF:-1 tvg-id="Travel Box Brazil" tvg-name="TRAVEL BOX BRASIL FHD H264" tvg-logo="https://i.imgur.com/brFkc55.png" group-title="VARIEDADES",TRAVEL BOX BRASIL FHD H264
+http://cloud-nany.cc:80/user/pass/92458
+#EXTINF:-1 tvg-id="Travel Box Brazil" tvg-name="TRAVEL BOX BRASIL HD" tvg-logo="https://i.imgur.com/brFkc55.png" group-title="VARIEDADES",TRAVEL BOX BRASIL HD
+http://cloud-nany.cc:80/user/pass/136934
