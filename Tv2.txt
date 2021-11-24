@@ -10,42 +10,42 @@
 
 <item>
 <title>[B][COLOR white]BAND[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://player.aovivotv.xyz/channels/band.m3u8</link>
+<link>https://player.aovivotv.xyz/channels/band</link>
 <epgid></epgid>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/band.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]GLOBO NORDESTE[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://player.aovivotv.xyz/channels/globonordeste.m3u8</link>
+<link>https://player.aovivotv.xyz/channels/globonordeste</link>
 <epgid></epgid>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/band.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]GLOBO RJ[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://player.aovivotv.xyz/channels/globorj.m3u8</link>
+<link>https://player.aovivotv.xyz/channels/globorj</link>
 <epgid></epgid>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/band.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]GLOBO SP[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://player.aovivotv.xyz/channels/globosp.m3u8</link>
+<link>https://player.aovivotv.xyz/channels/globosp</link>
 <epgid></epgid>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/band.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]RECORD[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://player.aovivotv.xyz/channels/record.m3u8</link>
+<link>https://player.aovivotv.xyz/channels/record</link>
 <epgid></epgid>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/record.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]SBT SP[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://player.aovivotv.xyz/channels/sbtsp.m3u8</link>
+<link>https://player.aovivotv.xyz/channels/sbtsp</link>
 <epgid></epgid>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/sbt.png</thumbnail>
 </item>
@@ -58,63 +58,63 @@
 
 <item>
 <title>[B][COLOR white]ANIMAL PLANET[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://player.aovivotv.xyz/channels/animalplanet.m3u8</link>
+<link>https://player.aovivotv.xyz/channels/animalplanet</link>
 <epgid></epgid>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/animal_planet.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]DISCOVERY CHANNEL[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://player.aovivotv.xyz/channels/discoverychannel.m3u8</link>
+<link>https://player.aovivotv.xyz/channels/discoverychannel</link>
 <epgid></epgid>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/discovery_channel.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]DISCOVERY SCIENCE[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://player.aovivotv.xyz/channels/discoveryscience.m3u8</link>
+<link>https://player.aovivotv.xyz/channels/discoveryscience</link>
 <epgid></epgid>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/discovery_science.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]DISCOVERY TURBO[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://player.aovivotv.xyz/channels/discoveryturbo.m3u8</link>
+<link>https://player.aovivotv.xyz/channels/discoveryturbo</link>
 <epgid></epgid>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/discovery_turbo.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]DISCOVERY WORLD[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://player.aovivotv.xyz/channels/discoveryworld.m3u8</link>
+<link>https://player.aovivotv.xyz/channels/discoveryworld</link>
 <epgid></epgid>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/discovery_world.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]HISTORY[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://player.aovivotv.xyz/channels/history.m3u8</link>
+<link>https://player.aovivotv.xyz/channels/history</link>
 <epgid></epgid>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/history.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]H2[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://player.aovivotv.xyz/channels/h2.m3u8</link>
+<link>https://player.aovivotv.xyz/channels/h2</link>
 <epgid></epgid>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/h2.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]NAT GEO[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://player.aovivotv.xyz/channels/nationalgeographic.m3u8</link>
+<link>https://player.aovivotv.xyz/channels/nationalgeographic</link>
 <epgid></epgid>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/natgeo.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]NAT GEO WILD[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://player.aovivotv.xyz/channels/natgeowild.m3u8</link>
+<link>https://player.aovivotv.xyz/channels/natgeowild</link>
 <epgid></epgid>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/natgeo_wild.png</thumbnail>
 </item>
@@ -127,91 +127,91 @@
 
 <item>
 <title>[B][COLOR white]BAND SPORTS[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://player.aovivotv.xyz/channels/bandsports.m3u8</link>
+<link>https://player.aovivotv.xyz/channels/bandsports</link>
 <epgid></epgid>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/bandsports.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]COMBATE[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://player.aovivotv.xyz/channels/combate.m3u8</link>
+<link>https://player.aovivotv.xyz/channels/combate</link>
 <epgid></epgid>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/combate.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]ESPN[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://player.aovivotv.xyz/channels/espn.m3u8</link>
+<link>https://player.aovivotv.xyz/channels/espn</link>
 <epgid></epgid>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/espn.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]ESPN 2[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://player.aovivotv.xyz/channels/espn2.m3u8</link>
+<link>https://player.aovivotv.xyz/channels/espn2</link>
 <epgid></epgid>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/espn.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]ESPN BRASIL[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://player.aovivotv.xyz/channels/espnbrasil.m3u8</link>
+<link>https://player.aovivotv.xyz/channels/espnbrasil</link>
 <epgid></epgid>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/espn_brasil.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]ESPN EXTRA[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://player.aovivotv.xyz/channels/espnextra.m3u8</link>
+<link>https://player.aovivotv.xyz/channels/espnextra</link>
 <epgid></epgid>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/espn_extra.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]FOX SPORTS[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://player.aovivotv.xyz/channels/foxsports.m3u8</link>
+<link>https://player.aovivotv.xyz/channels/foxsports</link>
 <epgid></epgid>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/foxsports.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]FOX SPORTS 2[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://player.aovivotv.xyz/channels/foxsports2.m3u8</link>
+<link>https://player.aovivotv.xyz/channels/foxsports2</link>
 <epgid></epgid>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/foxsports2.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]PREMIERE CLUBES[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://player.aovivotv.xyz/channels/premiereclubes.m3u8</link>
+<link>https://player.aovivotv.xyz/channels/premiereclubes</link>
 <epgid></epgid>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/premiere.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]PREMIERE 2[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://player.aovivotv.xyz/channels/premiere2.m3u8</link>
+<link>https://player.aovivotv.xyz/channels/premiere2</link>
 <epgid></epgid>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/premiere.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]SPORTV[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://player.aovivotv.xyz/channels/sportv.m3u8</link>
+<link>https://player.aovivotv.xyz/channels/sportv</link>
 <epgid></epgid>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/sportv.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]SPORTV 2[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://player.aovivotv.xyz/channels/sportv2.m3u8</link>
+<link>https://player.aovivotv.xyz/channels/sportv2</link>
 <epgid></epgid>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/sportv.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]SPORTV 3[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://player.aovivotv.xyz/channels/sportv3.m3u8</link>
+<link>https://player.aovivotv.xyz/channels/sportv3</link>
 <epgid></epgid>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/sportv.png</thumbnail>
 </item>
@@ -224,224 +224,224 @@
 
 <item>
 <title>[B][COLOR white]A&E[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://player.aovivotv.xyz/channels/aemundo.m3u8</link>
+<link>https://player.aovivotv.xyz/channels/aemundo</link>
 <epgid></epgid>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/amc.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]AMC[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://player.aovivotv.xyz/channels/amcbrasil.m3u8</link>
+<link>https://player.aovivotv.xyz/channels/amcbrasil</link>
 <epgid></epgid>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/axn.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]AXN[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://player.aovivotv.xyz/channels/axn.m3u8</link>
+<link>https://player.aovivotv.xyz/channels/axn</link>
 <epgid></epgid>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/axn.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]CINEMAX[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://player.aovivotv.xyz/channels/cinemax.m3u8</link>
+<link>https://player.aovivotv.xyz/channels/cinemax</link>
 <epgid></epgid>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/cinemax.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]STAR CHANNEL[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://player.aovivotv.xyz/channels/starchannel.m3u8</link>
+<link>https://player.aovivotv.xyz/channels/starchannel</link>
 <epgid></epgid>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/star_channel.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]STAR HITS 1[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://player.aovivotv.xyz/channels/starhits.m3u8</link>
+<link>https://player.aovivotv.xyz/channels/starhits</link>
 <epgid></epgid>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/star_hits.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]STAR HITS 2[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://player.aovivotv.xyz/channels/starhits2.m3u8</link>
+<link>https://player.aovivotv.xyz/channels/starhits2</link>
 <epgid></epgid>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/star_hits.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]STAR LIFE[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://player.aovivotv.xyz/channels/starlife.m3u8</link>
+<link>https://player.aovivotv.xyz/channels/starlife</link>
 <epgid></epgid>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/star_life.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]STUDIO UNIVERSAL[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://player.aovivotv.xyz/channels/studiouniversal.m3u8</link>
+<link>https://player.aovivotv.xyz/channels/studiouniversal</link>
 <epgid></epgid>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/studio_universal.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]FX[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://player.aovivotv.xyz/channels/fx.m3u8</link>
+<link>https://player.aovivotv.xyz/channels/fx</link>
 <epgid></epgid>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/fx.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]HBO[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://player.aovivotv.xyz/channels/hbo.m3u8</link>
+<link>https://player.aovivotv.xyz/channels/hbo</link>
 <epgid></epgid>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/hbo.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]HBO 2[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://player.aovivotv.xyz/channels/hbo2.m3u8</link>
+<link>https://player.aovivotv.xyz/channels/hbo2</link>
 <epgid></epgid>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/hbo2.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]HBO FAMILY[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://player.aovivotv.xyz/channels/hbofamily.m3u8</link>
+<link>https://player.aovivotv.xyz/channels/hbofamily</link>
 <epgid></epgid>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/hbo_family.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]HBO MUNDI[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://player.aovivotv.xyz/channels/hbomundi.m3u8</link>
+<link>https://player.aovivotv.xyz/channels/hbomundi</link>
 <epgid></epgid>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/hbo_mundi.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]HBO PLUS[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://player.aovivotv.xyz/channels/hboplus.m3u8</link>
+<link>https://player.aovivotv.xyz/channels/hboplus</link>
 <epgid></epgid>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/hbo_plus.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]HBO POP[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://player.aovivotv.xyz/channels/hbopop.m3u8</link>
+<link>https://player.aovivotv.xyz/channels/hbopop</link>
 <epgid></epgid>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/hbo_pop.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]HBO SIGNATURE[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://player.aovivotv.xyz/channels/hbosignature.m3u8</link>
+<link>https://player.aovivotv.xyz/channels/hbosignature</link>
 <epgid></epgid>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/hbo_signature.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]HBO XTREME[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://player.aovivotv.xyz/channels/hboxtreme.m3u8</link>
+<link>https://player.aovivotv.xyz/channels/hboxtreme</link>
 <epgid></epgid>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/hbo_xtreme.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]MEGAPIX[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://player.aovivotv.xyz/channels/megapix.m3u8</link>
+<link>https://player.aovivotv.xyz/channels/megapix</link>
 <epgid></epgid>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/megapix.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]PARAMOUNT[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://player.aovivotv.xyz/channels/paramountchannel.m3u8</link>
+<link>https://player.aovivotv.xyz/channels/paramountchannel</link>
 <epgid></epgid>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/paramount.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]SONY[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://player.aovivotv.xyz/channels/sony.m3u8</link>
+<link>https://player.aovivotv.xyz/channels/sony</link>
 <epgid></epgid>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/sony.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]SPACE[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://player.aovivotv.xyz/channels/space.m3u8</link>
+<link>https://player.aovivotv.xyz/channels/space</link>
 <epgid></epgid>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/space.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]SYFY[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://player.aovivotv.xyz/channels/syfy.m3u8</link>
+<link>https://player.aovivotv.xyz/channels/syfy</link>
 <epgid></epgid>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/syfy.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]TELECINE ACTION[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://player.aovivotv.xyz/channels/telecineaction.m3u8</link>
+<link>https://player.aovivotv.xyz/channels/telecineaction</link>
 <epgid></epgid>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/tc_action.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]TELECINE CULT[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://player.aovivotv.xyz/channels/telecinecult.m3u8</link>
+<link>https://player.aovivotv.xyz/channels/telecinecult</link>
 <epgid></epgid>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/tc_cult.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]TELECINE PREMIUM[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://player.aovivotv.xyz/channels/telecinepremium.m3u8</link>
+<link>https://player.aovivotv.xyz/channels/telecinepremium</link>
 <epgid></epgid>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/tc_premium.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]TELECINE PIPOCA[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://player.aovivotv.xyz/channels/telecinepipoca.m3u8</link>
+<link>https://player.aovivotv.xyz/channels/telecinepipoca</link>
 <epgid></epgid>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/tc_pipoca.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]TELECINE FUN[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://player.aovivotv.xyz/channels/telecinefun.m3u8</link>
+<link>https://player.aovivotv.xyz/channels/telecinefun</link>
 <epgid></epgid>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/tc_fun.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]TELECINE TOUCH[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://player.aovivotv.xyz/channels/telecinetouch.m3u8</link>
+<link>https://player.aovivotv.xyz/channels/telecinetouch</link>
 <epgid></epgid>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/tc_touch.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]TNT[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://player.aovivotv.xyz/channels/tnt.m3u8</link>
+<link>https://player.aovivotv.xyz/channels/tnt</link>
 <epgid></epgid>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/tnt.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]TNT SÃRIES[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://player.aovivotv.xyz/channels/tntseries.m3u8</link>
+<link>https://player.aovivotv.xyz/channels/tntseries</link>
 <epgid></epgid>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/tnt_series.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]WARNER[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://player.aovivotv.xyz/channels/warnerchannel.m3u8</link>
+<link>https://player.aovivotv.xyz/channels/warnerchannel</link>
 <epgid></epgid>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/warner_channel.png</thumbnail>
 </item>
@@ -454,70 +454,70 @@
 
 <item>
 <title>[B][COLOR white]BOOMERANG[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://player.aovivotv.xyz/channels/boomerang.m3u8</link>
+<link>https://player.aovivotv.xyz/channels/boomerang</link>
 <epgid></epgid>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/boomerang.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]CARTOON NETWORK[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://player.aovivotv.xyz/channels/cartoonnetwork.m3u8</link>
+<link>https://player.aovivotv.xyz/channels/cartoonnetwork</link>
 <epgid></epgid>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/cartoon_network.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]DISCOVERY KIDS[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://player.aovivotv.xyz/channels/discoverykids.m3u8</link>
+<link>https://player.aovivotv.xyz/channels/discoverykids</link>
 <epgid></epgid>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/discovery_kids.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]DISNEY CHANNEL[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://player.aovivotv.xyz/channels/disneychannel.m3u8</link>
+<link>https://player.aovivotv.xyz/channels/disneychannel</link>
 <epgid></epgid>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/disney_channel.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]DISNEY JUNIOR[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://player.aovivotv.xyz/channels/disneyjunior.m3u8</link>
+<link>https://player.aovivotv.xyz/channels/disneyjunior</link>
 <epgid></epgid>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/disney_junior.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]DISNEY XD[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://player.aovivotv.xyz/channels/disneyxd.m3u8</link>
+<link>https://player.aovivotv.xyz/channels/disneyxd</link>
 <epgid></epgid>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/disney_xd.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]GLOOB[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://player.aovivotv.xyz/channels/gloob.m3u8</link>
+<link>https://player.aovivotv.xyz/channels/gloob</link>
 <epgid></epgid>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/gloob.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]NICK[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://player.aovivotv.xyz/channels/nickelodeon.m3u8</link>
+<link>https://player.aovivotv.xyz/channels/nickelodeon</link>
 <epgid></epgid>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/nick.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]NICK JR[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://player.aovivotv.xyz/channels/nickjr.m3u8</link>
+<link>https://player.aovivotv.xyz/channels/nickjr</link>
 <epgid></epgid>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/nick_jr.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]TOONCAST[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://player.aovivotv.xyz/channels/tooncast.m3u8</link>
+<link>https://player.aovivotv.xyz/channels/tooncast</link>
 <epgid></epgid>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/tooncast.png</thumbnail>
 </item>
@@ -530,91 +530,91 @@
 
 <item>
 <title>[B][COLOR white]BIS[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://player.aovivotv.xyz/channels/bis.m3u8</link>
+<link>https://player.aovivotv.xyz/channels/bis</link>
 <epgid></epgid>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/bis.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]COMEDY CENTRAL[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://player.aovivotv.xyz/channels/comedycentral.m3u8</link>
+<link>https://player.aovivotv.xyz/channels/comedycentral</link>
 <epgid></epgid>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/comedy_central.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]DISCOVERY HOME & HEALTH[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://player.aovivotv.xyz/channels/discoveryhomehealth.m3u8</link>
+<link>https://player.aovivotv.xyz/channels/discoveryhomehealth</link>
 <epgid></epgid>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/discovery_home_health.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]E![/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://player.aovivotv.xyz/channels/eentertainment.m3u8</link>
+<link>https://player.aovivotv.xyz/channels/eentertainment</link>
 <epgid></epgid>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/discovery_home_health.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]FOOD NETWORK[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://player.aovivotv.xyz/channels/foodnetwork.m3u8</link>
+<link>https://player.aovivotv.xyz/channels/foodnetwork</link>
 <epgid></epgid>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/food_network.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]GNT[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://player.aovivotv.xyz/channels/gnt.m3u8</link>
+<link>https://player.aovivotv.xyz/channels/gnt</link>
 <epgid></epgid>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/gnt.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]ID[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://player.aovivotv.xyz/channels/investigacaodiscovery.m3u8</link>
+<link>https://player.aovivotv.xyz/channels/investigacaodiscovery</link>
 <epgid></epgid>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/discovery_investigation.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]LIFETIME[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://player.aovivotv.xyz/channels/lifetime.m3u8</link>
+<link>https://player.aovivotv.xyz/channels/lifetime</link>
 <epgid></epgid>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/lifetime.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]GLOBOSAT[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://player.aovivotv.xyz/channels/globosat.m3u8</link>
+<link>https://player.aovivotv.xyz/channels/globosat</link>
 <epgid></epgid>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/mais_globosat.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]MTV[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://player.aovivotv.xyz/channels/mtvbrasil.m3u8</link>
+<link>https://player.aovivotv.xyz/channels/mtvbrasil</link>
 <epgid></epgid>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/mtv.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]MULTISHOW[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://player.aovivotv.xyz/channels/multishow.m3u8</link>
+<link>https://player.aovivotv.xyz/channels/multishow</link>
 <epgid></epgid>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/multishow.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]TLC[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://player.aovivotv.xyz/channels/tlc.m3u8</link>
+<link>https://player.aovivotv.xyz/channels/tlc</link>
 <epgid></epgid>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/tlc.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]VIVA[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://player.aovivotv.xyz/channels/viva.m3u8</link>
+<link>https://player.aovivotv.xyz/channels/viva</link>
 <epgid></epgid>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/viva.png</thumbnail>
 </item>
@@ -627,28 +627,28 @@
 
 <item>
 <title>[B][COLOR white]CNN BRASIL[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://player.aovivotv.xyz/channels/cnnbrasil.m3u8</link>
+<link>https://player.aovivotv.xyz/channels/cnnbrasil</link>
 <epgid></epgid>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/cnn_brasil.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]GLOBO NEWS[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://player.aovivotv.xyz/channels/globonews.m3u8</link>
+<link>https://player.aovivotv.xyz/channels/globonews</link>
 <epgid></epgid>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/globonews.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]BAND NEWS[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://player.aovivotv.xyz/channels/bandnews.m3u8</link>
+<link>https://player.aovivotv.xyz/channels/bandnews</link>
 <epgid></epgid>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/band_news.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]RECORD NEWS[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://player.aovivotv.xyz/channels/recordnews.m3u8</link>
+<link>https://player.aovivotv.xyz/channels/recordnews</link>
 <epgid></epgid>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/record_news.png</thumbnail>
 </item>
