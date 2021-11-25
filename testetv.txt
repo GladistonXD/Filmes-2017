@@ -1,0 +1,130 @@
+#EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/ae-television-vector-logo-free-download-11573980609atnqzvvwo5.png",A&E
+https://d1wwtskvr1r98k.cloudfront.net/3c9cf3a801dd4728a868f96f1ed032d2/index.m3u8
+#EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/ae-television-vector-logo-free-download-11573980609atnqzvvwo5.png",A&E¹
+https://d1wwtskvr1r98k.cloudfront.net/3c9cf3a801dd4728a868f96f1ed032d2/index_1.m3u8
+#EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/ae-television-vector-logo-free-download-11573980609atnqzvvwo5.png",A&E²
+https://d1wwtskvr1r98k.cloudfront.net/3c9cf3a801dd4728a868f96f1ed032d2/index_2.m3u8
+#EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/ae-television-vector-logo-free-download-11573980609atnqzvvwo5.png",A&E³
+https://d1wwtskvr1r98k.cloudfront.net/3c9cf3a801dd4728a868f96f1ed032d2/index_3.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Arte_1_logo.svg/1200px-Arte_1_logo.svg.png",Arte1
+https://d1wwtskvr1r98k.cloudfront.net/522752a704da4d93b18eeb077042ccff/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Arte_1_logo.svg/1200px-Arte_1_logo.svg.png",Arte1¹
+https://d1wwtskvr1r98k.cloudfront.net/522752a704da4d93b18eeb077042ccff/index_1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Arte_1_logo.svg/1200px-Arte_1_logo.svg.png",Arte1²
+https://d1wwtskvr1r98k.cloudfront.net/522752a704da4d93b18eeb077042ccff/index_2.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Arte_1_logo.svg/1200px-Arte_1_logo.svg.png",Arte1³
+https://d1wwtskvr1r98k.cloudfront.net/522752a704da4d93b18eeb077042ccff/index_3.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/kNNpfSN.png",AXN
+http://d31ii3fk8fd7mh.cloudfront.net/3b3c200d68af40e6aeac65f4d8782516/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/kNNpfSN.png",AXN¹
+http://d31ii3fk8fd7mh.cloudfront.net/3b3c200d68af40e6aeac65f4d8782516/index_1.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/kNNpfSN.png",AXN²
+http://d31ii3fk8fd7mh.cloudfront.net/3b3c200d68af40e6aeac65f4d8782516/index_2.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/kNNpfSN.png",AXN³
+http://d31ii3fk8fd7mh.cloudfront.net/3b3c200d68af40e6aeac65f4d8782516/index_3.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Logo_CNT.png",CNT (Americana)
+https://dd8umsy8yf96u.cloudfront.net/live/cnt-americana_240p414k/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Logo_CNT.png",CNT (Caxias)
+http://d1s664t39qub1o.cloudfront.net/live/cnt-caxias_240p414k/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Logo_CNT.png",CNT (Curitiba)
+http://dd8umsy8yf96u.cloudfront.net/live/cnt-curitiba_240p414k/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Logo_CNT.png",CNT (Londrina)
+https://d1s664t39qub1o.cloudfront.net/live/cnt-londrina_240p414k/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Logo_CNT.png",CNT (Manaus)
+http://d1s664t39qub1o.cloudfront.net/live/cnt-manaus_240p414k/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Logo_CNT.png",CNT (Rio)
+http://dd8umsy8yf96u.cloudfront.net/live/cnt-rio_240p414k/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Logo_CNT.png",CNT (Salvador)
+http://dd8umsy8yf96u.cloudfront.net/live/cnt-salvador_240p414k/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/OAm1Jy6.png",Comedy Central
+http://d1wwtskvr1r98k.cloudfront.net/e957ddc8e14c4fe1a45bb76ead75006f/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/OAm1Jy6.png",Comedy Central¹
+http://d1wwtskvr1r98k.cloudfront.net/e957ddc8e14c4fe1a45bb76ead75006f/index_1.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/OAm1Jy6.png",Comedy Central²
+http://d1wwtskvr1r98k.cloudfront.net/e957ddc8e14c4fe1a45bb76ead75006f/index_2.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/OAm1Jy6.png",Comedy Central³
+http://d1wwtskvr1r98k.cloudfront.net/e957ddc8e14c4fe1a45bb76ead75006f/index_3.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Vkg12Kw.png",E!
+http://d1wwtskvr1r98k.cloudfront.net/637de7ec0ab74fdc95ce3382677e2eb1/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Vkg12Kw.png",E!¹
+http://d1wwtskvr1r98k.cloudfront.net/637de7ec0ab74fdc95ce3382677e2eb1/index_1.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Vkg12Kw.png",E!²
+http://d1wwtskvr1r98k.cloudfront.net/637de7ec0ab74fdc95ce3382677e2eb1/index_2.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Vkg12Kw.png",E!³
+http://d1wwtskvr1r98k.cloudfront.net/637de7ec0ab74fdc95ce3382677e2eb1/index_3.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/0oZXoaE.png",History
+http://d31ii3fk8fd7mh.cloudfront.net/b8d778839c0f4b88948bd24b1ec81ac9/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/0oZXoaE.png",History¹
+http://d31ii3fk8fd7mh.cloudfront.net/b8d778839c0f4b88948bd24b1ec81ac9/index_1.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/0oZXoaE.png",History²
+http://d31ii3fk8fd7mh.cloudfront.net/b8d778839c0f4b88948bd24b1ec81ac9/index_1.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/0oZXoaE.png",History³
+http://d31ii3fk8fd7mh.cloudfront.net/b8d778839c0f4b88948bd24b1ec81ac9/index_3.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/4P92vil.png",History 2
+https://d1wwtskvr1r98k.cloudfront.net/a3f915286ca6481d9a63ca0b0da41c79/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/4P92vil.png",History 2¹
+http://d1wwtskvr1r98k.cloudfront.net/a3f915286ca6481d9a63ca0b0da41c79/index_1.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/4P92vil.png",History 2²
+http://d1wwtskvr1r98k.cloudfront.net/a3f915286ca6481d9a63ca0b0da41c79/index_2.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/4P92vil.png",History 2³
+http://d1wwtskvr1r98k.cloudfront.net/a3f915286ca6481d9a63ca0b0da41c79/index_3.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Bt7sDyU.png",Lifetime
+http://d31ii3fk8fd7mh.cloudfront.net/e99907efe2284822af0f0953d29a88a3/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Bt7sDyU.png",Lifetime¹
+http://d31ii3fk8fd7mh.cloudfront.net/e99907efe2284822af0f0953d29a88a3/index_1.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Bt7sDyU.png",Lifetime²
+http://d31ii3fk8fd7mh.cloudfront.net/e99907efe2284822af0f0953d29a88a3/index_2.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Bt7sDyU.png",Lifetime³
+http://d31ii3fk8fd7mh.cloudfront.net/e99907efe2284822af0f0953d29a88a3/index_3.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/U6Rgjqs.png",MTV
+http://d31ii3fk8fd7mh.cloudfront.net/645d9a8a67e84aa88d4fa264e1a8cfd7/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/U6Rgjqs.png",MTV¹
+http://d31ii3fk8fd7mh.cloudfront.net/645d9a8a67e84aa88d4fa264e1a8cfd7/index_1.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/U6Rgjqs.png",MTV²
+http://d31ii3fk8fd7mh.cloudfront.net/645d9a8a67e84aa88d4fa264e1a8cfd7/index_2.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/U6Rgjqs.png",MTV³
+http://d31ii3fk8fd7mh.cloudfront.net/645d9a8a67e84aa88d4fa264e1a8cfd7/index_3.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/6vVmJJf.png",Nick Jr.
+http://d1wwtskvr1r98k.cloudfront.net/629363a30ff040d5adaafc49ee84f17c/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/6vVmJJf.png",Nick Jr.¹
+http://d1wwtskvr1r98k.cloudfront.net/629363a30ff040d5adaafc49ee84f17c/index_1.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/6vVmJJf.png",Nick Jr.²
+http://d1wwtskvr1r98k.cloudfront.net/629363a30ff040d5adaafc49ee84f17c/index_2.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/6vVmJJf.png",Nick Jr.³
+http://d1wwtskvr1r98k.cloudfront.net/629363a30ff040d5adaafc49ee84f17c/index_3.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ZjLSLiY.png",Nickelodeon
+http://d1wwtskvr1r98k.cloudfront.net/dedf178260b54137904feebc16e3ac47/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ZjLSLiY.png",Nickelodeon¹
+http://d1wwtskvr1r98k.cloudfront.net/dedf178260b54137904feebc16e3ac47/index_1.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ZjLSLiY.png",Nickelodeon²
+http://d1wwtskvr1r98k.cloudfront.net/dedf178260b54137904feebc16e3ac47/index_2.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ZjLSLiY.png",Nickelodeon³
+http://d1wwtskvr1r98k.cloudfront.net/dedf178260b54137904feebc16e3ac47/index_3.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/yScrn6s.png",Paramount Network
+http://d31ii3fk8fd7mh.cloudfront.net/89192ec7abc24480bac975aa4ab2dffe/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/yScrn6s.png",Paramount Network¹
+http://d31ii3fk8fd7mh.cloudfront.net/89192ec7abc24480bac975aa4ab2dffe/index_1.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/yScrn6s.png",Paramount Network²
+http://d31ii3fk8fd7mh.cloudfront.net/89192ec7abc24480bac975aa4ab2dffe/index_2.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/yScrn6s.png",Paramount Network³
+http://d31ii3fk8fd7mh.cloudfront.net/89192ec7abc24480bac975aa4ab2dffe/index_3.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/KjvoSeG.png",Sony Channel
+http://d31ii3fk8fd7mh.cloudfront.net/9fdb3c3ec36c48a1847cbd25e8e763c6/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/KjvoSeG.png",Sony Channel¹
+http://d31ii3fk8fd7mh.cloudfront.net/9fdb3c3ec36c48a1847cbd25e8e763c6/index_1.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/KjvoSeG.png",Sony Channel²
+http://d31ii3fk8fd7mh.cloudfront.net/9fdb3c3ec36c48a1847cbd25e8e763c6/index_2.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/KjvoSeG.png",Sony Channel³
+http://d31ii3fk8fd7mh.cloudfront.net/9fdb3c3ec36c48a1847cbd25e8e763c6/index_3.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/HBaycf4.png",Warner Channel
+https://d1wwtskvr1r98k.cloudfront.net/2725d7761f9b462997b6ab804a13ee19/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/HBaycf4.png",Warner Channel¹
+http://d1wwtskvr1r98k.cloudfront.net/2725d7761f9b462997b6ab804a13ee19/index_1.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/HBaycf4.png",Warner Channel²
+http://d1wwtskvr1r98k.cloudfront.net/2725d7761f9b462997b6ab804a13ee19/index_2.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/HBaycf4.png",Warner Channel³
+http://d1wwtskvr1r98k.cloudfront.net/2725d7761f9b462997b6ab804a13ee19/index_3.m3u8
+#EXTINF:-1 tvg-logo="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:auto/h:auto/q:75/https://bleedingcool.com/wp-content/uploads/2020/11/Plus-1.jpg",Impact! + Plus
+https://d2tuwvs0ja335j.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/WPT_600x600.png?raw=true",World Poker Tour (Irvine-USA)
+https://dth07jsr8atug.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-Plex/171.m3u8
