@@ -1,6 +1,4 @@
-background:url(./imgs-videos/Canais/afazenda.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>A Fazenda 13</span></div></a></li><li data-v-24135996><a href="?video=afazenda" data-v-24135996>
 
-<form id="myForm" method="post" target="_parent" name="afazenda" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=afazenda&
 background:url(./imgs-videos/Canais/aie.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>A&E</span></div></a></li><li data-v-24135996><a href="?video=aie" data-v-24135996>
 
 <form id="myForm" method="post" target="_parent" name="aie" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=aie&
@@ -331,3 +329,7 @@ background:url(./imgs-videos/Canais/viva.jpg) no-repeat center center;-webkit-ba
 background:url(./imgs-videos/Canais/warner.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>Warner TV</span></div></a></li><li data-v-24135996><a href="?video=warner" data-v-24135996>
 
 <form id="myForm" method="post" target="_parent" name="warner" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=warner&
+
+background:url(./imgs-videos/Canais/afazenda.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>A Fazenda 13</span></div></a></li><li data-v-24135996><a href="?video=afazenda" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="afazenda" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=afazenda&
