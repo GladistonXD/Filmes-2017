@@ -1,130 +1,333 @@
-#EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/ae-television-vector-logo-free-download-11573980609atnqzvvwo5.png",A&E
-https://d1wwtskvr1r98k.cloudfront.net/3c9cf3a801dd4728a868f96f1ed032d2/index.m3u8
-#EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/ae-television-vector-logo-free-download-11573980609atnqzvvwo5.png",A&E¹
-https://d1wwtskvr1r98k.cloudfront.net/3c9cf3a801dd4728a868f96f1ed032d2/index_1.m3u8
-#EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/ae-television-vector-logo-free-download-11573980609atnqzvvwo5.png",A&E²
-https://d1wwtskvr1r98k.cloudfront.net/3c9cf3a801dd4728a868f96f1ed032d2/index_2.m3u8
-#EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/ae-television-vector-logo-free-download-11573980609atnqzvvwo5.png",A&E³
-https://d1wwtskvr1r98k.cloudfront.net/3c9cf3a801dd4728a868f96f1ed032d2/index_3.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Arte_1_logo.svg/1200px-Arte_1_logo.svg.png",Arte1
-https://d1wwtskvr1r98k.cloudfront.net/522752a704da4d93b18eeb077042ccff/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Arte_1_logo.svg/1200px-Arte_1_logo.svg.png",Arte1¹
-https://d1wwtskvr1r98k.cloudfront.net/522752a704da4d93b18eeb077042ccff/index_1.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Arte_1_logo.svg/1200px-Arte_1_logo.svg.png",Arte1²
-https://d1wwtskvr1r98k.cloudfront.net/522752a704da4d93b18eeb077042ccff/index_2.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Arte_1_logo.svg/1200px-Arte_1_logo.svg.png",Arte1³
-https://d1wwtskvr1r98k.cloudfront.net/522752a704da4d93b18eeb077042ccff/index_3.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/kNNpfSN.png",AXN
-http://d31ii3fk8fd7mh.cloudfront.net/3b3c200d68af40e6aeac65f4d8782516/index.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/kNNpfSN.png",AXN¹
-http://d31ii3fk8fd7mh.cloudfront.net/3b3c200d68af40e6aeac65f4d8782516/index_1.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/kNNpfSN.png",AXN²
-http://d31ii3fk8fd7mh.cloudfront.net/3b3c200d68af40e6aeac65f4d8782516/index_2.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/kNNpfSN.png",AXN³
-http://d31ii3fk8fd7mh.cloudfront.net/3b3c200d68af40e6aeac65f4d8782516/index_3.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Logo_CNT.png",CNT (Americana)
-https://dd8umsy8yf96u.cloudfront.net/live/cnt-americana_240p414k/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Logo_CNT.png",CNT (Caxias)
-http://d1s664t39qub1o.cloudfront.net/live/cnt-caxias_240p414k/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Logo_CNT.png",CNT (Curitiba)
-http://dd8umsy8yf96u.cloudfront.net/live/cnt-curitiba_240p414k/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Logo_CNT.png",CNT (Londrina)
-https://d1s664t39qub1o.cloudfront.net/live/cnt-londrina_240p414k/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Logo_CNT.png",CNT (Manaus)
-http://d1s664t39qub1o.cloudfront.net/live/cnt-manaus_240p414k/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Logo_CNT.png",CNT (Rio)
-http://dd8umsy8yf96u.cloudfront.net/live/cnt-rio_240p414k/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Logo_CNT.png",CNT (Salvador)
-http://dd8umsy8yf96u.cloudfront.net/live/cnt-salvador_240p414k/index.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/OAm1Jy6.png",Comedy Central
-http://d1wwtskvr1r98k.cloudfront.net/e957ddc8e14c4fe1a45bb76ead75006f/index.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/OAm1Jy6.png",Comedy Central¹
-http://d1wwtskvr1r98k.cloudfront.net/e957ddc8e14c4fe1a45bb76ead75006f/index_1.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/OAm1Jy6.png",Comedy Central²
-http://d1wwtskvr1r98k.cloudfront.net/e957ddc8e14c4fe1a45bb76ead75006f/index_2.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/OAm1Jy6.png",Comedy Central³
-http://d1wwtskvr1r98k.cloudfront.net/e957ddc8e14c4fe1a45bb76ead75006f/index_3.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Vkg12Kw.png",E!
-http://d1wwtskvr1r98k.cloudfront.net/637de7ec0ab74fdc95ce3382677e2eb1/index.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Vkg12Kw.png",E!¹
-http://d1wwtskvr1r98k.cloudfront.net/637de7ec0ab74fdc95ce3382677e2eb1/index_1.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Vkg12Kw.png",E!²
-http://d1wwtskvr1r98k.cloudfront.net/637de7ec0ab74fdc95ce3382677e2eb1/index_2.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Vkg12Kw.png",E!³
-http://d1wwtskvr1r98k.cloudfront.net/637de7ec0ab74fdc95ce3382677e2eb1/index_3.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/0oZXoaE.png",History
-http://d31ii3fk8fd7mh.cloudfront.net/b8d778839c0f4b88948bd24b1ec81ac9/index.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/0oZXoaE.png",History¹
-http://d31ii3fk8fd7mh.cloudfront.net/b8d778839c0f4b88948bd24b1ec81ac9/index_1.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/0oZXoaE.png",History²
-http://d31ii3fk8fd7mh.cloudfront.net/b8d778839c0f4b88948bd24b1ec81ac9/index_1.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/0oZXoaE.png",History³
-http://d31ii3fk8fd7mh.cloudfront.net/b8d778839c0f4b88948bd24b1ec81ac9/index_3.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/4P92vil.png",History 2
-https://d1wwtskvr1r98k.cloudfront.net/a3f915286ca6481d9a63ca0b0da41c79/index.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/4P92vil.png",History 2¹
-http://d1wwtskvr1r98k.cloudfront.net/a3f915286ca6481d9a63ca0b0da41c79/index_1.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/4P92vil.png",History 2²
-http://d1wwtskvr1r98k.cloudfront.net/a3f915286ca6481d9a63ca0b0da41c79/index_2.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/4P92vil.png",History 2³
-http://d1wwtskvr1r98k.cloudfront.net/a3f915286ca6481d9a63ca0b0da41c79/index_3.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Bt7sDyU.png",Lifetime
-http://d31ii3fk8fd7mh.cloudfront.net/e99907efe2284822af0f0953d29a88a3/index.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Bt7sDyU.png",Lifetime¹
-http://d31ii3fk8fd7mh.cloudfront.net/e99907efe2284822af0f0953d29a88a3/index_1.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Bt7sDyU.png",Lifetime²
-http://d31ii3fk8fd7mh.cloudfront.net/e99907efe2284822af0f0953d29a88a3/index_2.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Bt7sDyU.png",Lifetime³
-http://d31ii3fk8fd7mh.cloudfront.net/e99907efe2284822af0f0953d29a88a3/index_3.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/U6Rgjqs.png",MTV
-http://d31ii3fk8fd7mh.cloudfront.net/645d9a8a67e84aa88d4fa264e1a8cfd7/index.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/U6Rgjqs.png",MTV¹
-http://d31ii3fk8fd7mh.cloudfront.net/645d9a8a67e84aa88d4fa264e1a8cfd7/index_1.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/U6Rgjqs.png",MTV²
-http://d31ii3fk8fd7mh.cloudfront.net/645d9a8a67e84aa88d4fa264e1a8cfd7/index_2.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/U6Rgjqs.png",MTV³
-http://d31ii3fk8fd7mh.cloudfront.net/645d9a8a67e84aa88d4fa264e1a8cfd7/index_3.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/6vVmJJf.png",Nick Jr.
-http://d1wwtskvr1r98k.cloudfront.net/629363a30ff040d5adaafc49ee84f17c/index.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/6vVmJJf.png",Nick Jr.¹
-http://d1wwtskvr1r98k.cloudfront.net/629363a30ff040d5adaafc49ee84f17c/index_1.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/6vVmJJf.png",Nick Jr.²
-http://d1wwtskvr1r98k.cloudfront.net/629363a30ff040d5adaafc49ee84f17c/index_2.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/6vVmJJf.png",Nick Jr.³
-http://d1wwtskvr1r98k.cloudfront.net/629363a30ff040d5adaafc49ee84f17c/index_3.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ZjLSLiY.png",Nickelodeon
-http://d1wwtskvr1r98k.cloudfront.net/dedf178260b54137904feebc16e3ac47/index.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ZjLSLiY.png",Nickelodeon¹
-http://d1wwtskvr1r98k.cloudfront.net/dedf178260b54137904feebc16e3ac47/index_1.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ZjLSLiY.png",Nickelodeon²
-http://d1wwtskvr1r98k.cloudfront.net/dedf178260b54137904feebc16e3ac47/index_2.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ZjLSLiY.png",Nickelodeon³
-http://d1wwtskvr1r98k.cloudfront.net/dedf178260b54137904feebc16e3ac47/index_3.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/yScrn6s.png",Paramount Network
-http://d31ii3fk8fd7mh.cloudfront.net/89192ec7abc24480bac975aa4ab2dffe/index.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/yScrn6s.png",Paramount Network¹
-http://d31ii3fk8fd7mh.cloudfront.net/89192ec7abc24480bac975aa4ab2dffe/index_1.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/yScrn6s.png",Paramount Network²
-http://d31ii3fk8fd7mh.cloudfront.net/89192ec7abc24480bac975aa4ab2dffe/index_2.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/yScrn6s.png",Paramount Network³
-http://d31ii3fk8fd7mh.cloudfront.net/89192ec7abc24480bac975aa4ab2dffe/index_3.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/KjvoSeG.png",Sony Channel
-http://d31ii3fk8fd7mh.cloudfront.net/9fdb3c3ec36c48a1847cbd25e8e763c6/index.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/KjvoSeG.png",Sony Channel¹
-http://d31ii3fk8fd7mh.cloudfront.net/9fdb3c3ec36c48a1847cbd25e8e763c6/index_1.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/KjvoSeG.png",Sony Channel²
-http://d31ii3fk8fd7mh.cloudfront.net/9fdb3c3ec36c48a1847cbd25e8e763c6/index_2.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/KjvoSeG.png",Sony Channel³
-http://d31ii3fk8fd7mh.cloudfront.net/9fdb3c3ec36c48a1847cbd25e8e763c6/index_3.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/HBaycf4.png",Warner Channel
-https://d1wwtskvr1r98k.cloudfront.net/2725d7761f9b462997b6ab804a13ee19/index.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/HBaycf4.png",Warner Channel¹
-http://d1wwtskvr1r98k.cloudfront.net/2725d7761f9b462997b6ab804a13ee19/index_1.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/HBaycf4.png",Warner Channel²
-http://d1wwtskvr1r98k.cloudfront.net/2725d7761f9b462997b6ab804a13ee19/index_2.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/HBaycf4.png",Warner Channel³
-http://d1wwtskvr1r98k.cloudfront.net/2725d7761f9b462997b6ab804a13ee19/index_3.m3u8
-#EXTINF:-1 tvg-logo="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:auto/h:auto/q:75/https://bleedingcool.com/wp-content/uploads/2020/11/Plus-1.jpg",Impact! + Plus
-https://d2tuwvs0ja335j.cloudfront.net/hls/main.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/WPT_600x600.png?raw=true",World Poker Tour (Irvine-USA)
-https://dth07jsr8atug.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-Plex/171.m3u8
+background:url(./imgs-videos/Canais/thumb-afazenda.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>A Fazenda 13</span></div></a></li><li data-v-24135996><a href="?video=afazenda" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="afazenda" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=afazenda&
+background:url(./imgs-videos/Canais/thumb-aie.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>A&E</span></div></a></li><li data-v-24135996><a href="?video=aie" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="aie" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=aie&
+background:url(./imgs-videos/Canais/thumb-amc.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>AMC</span></div></a></li><li data-v-24135996><a href="?video=amc" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="amc" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=amc&
+background:url(./imgs-videos/Canais/thumb-animalplanet.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>Animal Planet</span></div></a></li><li data-v-24135996><a href="?video=animalplanet" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="animalplanet" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=animalplanet&
+background:url(./imgs-videos/Canais/thumb-arte1.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>Arte 1</span></div></a></li><li data-v-24135996><a href="?video=arte1" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="arte1" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=arte1&
+background:url(./imgs-videos/Canais/thumb-axn.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>AXN</span></div></a></li><li data-v-24135996><a href="?video=axn" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="axn" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=axn&
+background:url(./imgs-videos/Canais/thumb-babytv.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>Baby TV</span></div></a></li><li data-v-24135996><a href="?video=babytv" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="babytv" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=babytv&
+background:url(./imgs-videos/Canais/thumb-band.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>Band</span></div></a></li><li data-v-24135996><a href="?video=band" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="band" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=band&
+background:url(./imgs-videos/Canais/thumb-bandnews.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>Band News</span></div></a></li><li data-v-24135996><a href="?video=bandnews" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="bandnews" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=bandnews&
+background:url(./imgs-videos/Canais/thumb-bandsports.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>Band Sports</span></div></a></li><li data-v-24135996><a href="?video=bandsports" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="bandsports" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=bandsports&
+background:url(./imgs-videos/Canais/thumb-bis.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>BIS</span></div></a></li><li data-v-24135996><a href="?video=bis" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="bis" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=bis&
+background:url(./imgs-videos/Canais/thumb-boomerang.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>Boomerang</span></div></a></li><li data-v-24135996><a href="?video=boomerang" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="boomerang" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=boomerang&
+background:url(./imgs-videos/Canais/thumb-canalbrasil.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>Canal Brasil</span></div></a></li><li data-v-24135996><a href="?video=canalbrasil" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="canalbrasil" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=canalbrasil&
+background:url(./imgs-videos/Canais/thumb-cancaonova.jpg?2) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>Canção Nova</span></div></a></li><li data-v-24135996><a href="?video=cancaonova" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="cancaonova" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=cancaonova&
+background:url(./imgs-videos/Canais/thumb-cartoon.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>Cartoon Network</span></div></a></li><li data-v-24135996><a href="?video=cartoon" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="cartoon" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=cartoon&
+background:url(./imgs-videos/Canais/thumb-cinemax.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>Cinemax</span></div></a></li><li data-v-24135996><a href="?video=cinemax" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="cinemax" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=cinemax&
+background:url(./imgs-videos/Canais/thumb-cnnbrasil.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>CNN Brasil</span></div></a></li><li data-v-24135996><a href="?video=cnnbrasil" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="cnnbrasil" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=cnnbrasil&
+background:url(./imgs-videos/Canais/thumb-combate.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>Combate</span></div></a></li><li data-v-24135996><a href="?video=Combate" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="combate" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=combate&
+background:url(./imgs-videos/Canais/thumb-comedycentral.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>Comedy Central</span></div></a></li><li data-v-24135996><a href="?video=comedycentral" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="comedycentral" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=comedycentral&
+background:url(./imgs-videos/Canais/thumb-curta.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>Curta!</span></div></a></li><li data-v-24135996><a href="?video=curta" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="curta" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=curta&
+background:url(./imgs-videos/Canais/thumb-discovery.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>Discovery Channel</span></div></a></li><li data-v-24135996><a href="?video=discovery" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="discovery" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=discovery&
+background:url(./imgs-videos/Canais/thumb-discoveryhomeihealth.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>Discovery Home & Health</span></div></a></li><li data-v-24135996><a href="?video=discoveryhomeihealth" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="discoveryhomeihealth" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=discoveryhomeihealth&
+background:url(./imgs-videos/Canais/thumb-discoverysience.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>Discovery Science</span></div></a></li><li data-v-24135996><a href="?video=discoverysience" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="discoverysience" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=discoverysience&
+background:url(./imgs-videos/Canais/thumb-discoverytheater.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>Discovery Theater</span></div></a></li><li data-v-24135996><a href="?video=discoverytheater" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="discoverytheater" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=discoverytheater&
+background:url(./imgs-videos/Canais/thumb-discoveryturbo.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>Discovery Turbo</span></div></a></li><li data-v-24135996><a href="?video=discoveryturbo" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="discoveryturbo" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=discoveryturbo&
+background:url(./imgs-videos/Canais/thumb-discoveryworld.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>Discovery World</span></div></a></li><li data-v-24135996><a href="?video=discoveryworld" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="discoveryworld" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=discoveryworld&
+background:url(./imgs-videos/Canais/thumb-disney.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>Disney Channel</span></div></a></li><li data-v-24135996><a href="?video=disney" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="disney" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=disney&
+background:url(./imgs-videos/Canais/thumb-disneyjunior.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>Disney Junior</span></div></a></li><li data-v-24135996><a href="?video=disneyjunior" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="disneyjunior" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=disneyjunior&
+background:url(./imgs-videos/Canais/thumb-discoverykids.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>Discovery Kids</span></div></a></li><li data-v-24135996><a href="?video=discoverykids" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="discoverykids" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=discoverykids&
+background:url(./imgs-videos/Canais/thumb-disneyxd.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>Disney XD</span></div></a></li><li data-v-24135996><a href="?video=disneyxd" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="disneyxd" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=disneyxd&
+background:url(./imgs-videos/Canais/thumb-canale.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>E! Entertainment</span></div></a></li><li data-v-24135996><a href="?video=canale" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="canale" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=canale&
+background:url(./imgs-videos/Canais/thumb-espn.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>ESPN</span></div></a></li><li data-v-24135996><a href="?video=espn" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="espn" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=espn&
+background:url(./imgs-videos/Canais/thumb-espn2.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>ESPN 2</span></div></a></li><li data-v-24135996><a href="?video=espn2" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="espn2" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=espn2&
+background:url(./imgs-videos/Canais/thumb-espnbrasil.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>ESPN Brasil</span></div></a></li><li data-v-24135996><a href="?video=espnbrasil" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="espnbrasil" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=espnbrasil&
+background:url(./imgs-videos/Canais/thumb-espnextra.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>ESPN Extra</span></div></a></li><li data-v-24135996><a href="?video=espnextra" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="espnextra" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=espnextra&
+background:url(./imgs-videos/Canais/thumb-fishtv.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>Fish TV</span></div></a></li><li data-v-24135996><a href="?video=fishtv" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="fishtv" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=fishtv&
+background:url(./imgs-videos/Canais/thumb-foodnetwork.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>Food Network</span></div></a></li><li data-v-24135996><a href="?video=foodnetwork" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="foodnetwork" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=foodnetwork&
+background:url(./imgs-videos/Canais/thumb-foxlife.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>Star Life / Fox Life</span></div></a></li><li data-v-24135996><a href="?video=foxlife" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="foxlife" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=foxlife&
+background:url(./imgs-videos/Canais/thumb-fox.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>Star Channel / Fox Channel</span></div></a></li><li data-v-24135996><a href="?video=fox" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="fox" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=fox&
+background:url(./imgs-videos/Canais/thumb-foxpremium1.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>Star Hits / Fox Premium 1</span></div></a></li><li data-v-24135996><a href="?video=foxpremium1" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="foxpremium1" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=foxpremium1&
+background:url(./imgs-videos/Canais/thumb-foxpremium2.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>Star Hits 2 / Fox Premium 2</span></div></a></li><li data-v-24135996><a href="?video=foxpremium2" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="foxpremium2" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=foxpremium2&
+background:url(./imgs-videos/Canais/thumb-foxsports1.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>Fox Sports</span></div></a></li><li data-v-24135996><a href="?video=foxsports1" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="foxsports1" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=foxsports1&
+background:url(./imgs-videos/Canais/thumb-foxsports2.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>Fox Sports 2</span></div></a></li><li data-v-24135996><a href="?video=foxsports2" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="foxsports2" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=foxsports2&
+background:url(./imgs-videos/Canais/thumb-fx.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>FX</span></div></a></li><li data-v-24135996><a href="?video=fx" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="fx" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=fx&
+background:url(./imgs-videos/Canais/thumb-boborj.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>Rede Globo RJ</span></div></a></li><li data-v-24135996><a href="?video=boborj" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="boborj" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=boborj&
+background:url(./imgs-videos/Canais/thumb-bobosp.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>Rede Globo SP</span></div></a></li><li data-v-24135996><a href="?video=bobosp" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="bobosp" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=bobosp&
+background:url(./imgs-videos/Canais/thumb-bobonordeste.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>Rede Globo Nordeste</span></div></a></li><li data-v-24135996><a href="?video=bobonordeste" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="bobonordeste" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=bobonordeste&
+background:url(./imgs-videos/Canais/thumb-globonews.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>Globo News</span></div></a></li><li data-v-24135996><a href="?video=globonews" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="globonews" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=globonews&
+background:url(./imgs-videos/Canais/thumb-gloob.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>Gloob</span></div></a></li><li data-v-24135996><a href="?video=gloob" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="gloob" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=gloob&
+background:url(./imgs-videos/Canais/thumb-gloobinho.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>Gloobinho</span></div></a></li><li data-v-24135996><a href="?video=gloobinho" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="gloobinho" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=gloobinho&
+background:url(./imgs-videos/Canais/thumb-gnt.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>Gnt</span></div></a></li><li data-v-24135996><a href="?video=gnt" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="gnt" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=gnt&
+background:url(./imgs-videos/Canais/thumb-hbo.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>HBO</span></div></a></li><li data-v-24135996><a href="?video=hbo" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="hbo" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=hbo&
+background:url(./imgs-videos/Canais/thumb-hbo2.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>HBO 2</span></div></a></li><li data-v-24135996><a href="?video=hbo2" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="hbo2" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=hbo2&
+background:url(./imgs-videos/Canais/thumb-hbofamily.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>HBO Family</span></div></a></li><li data-v-24135996><a href="?video=hbofamily" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="hbofamily" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=hbofamily&
+background:url(./imgs-videos/Canais/thumb-hbomundi.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>HBO Mundi</span></div></a></li><li data-v-24135996><a href="?video=hbomundi" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="hbomundi" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=hbomundi&
+background:url(./imgs-videos/Canais/thumb-hboplus.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>HBO Plus</span></div></a></li><li data-v-24135996><a href="?video=hboplus" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="hboplus" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=hboplus&
+background:url(./imgs-videos/Canais/thumb-hbopop.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>HBO Pop</span></div></a></li><li data-v-24135996><a href="?video=hbopop" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="hbopop" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=hbopop&
+background:url(./imgs-videos/Canais/thumb-hbosignature.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>HBO Signature</span></div></a></li><li data-v-24135996><a href="?video=hbosignature" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="hbosignature" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=hbosignature&
+background:url(./imgs-videos/Canais/thumb-hboxtreme.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>HBO Xtreme</span></div></a></li><li data-v-24135996><a href="?video=hboxtreme" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="hboxtreme" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=hboxtreme&
+background:url(./imgs-videos/Canais/thumb-hgtv.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>HGTV</span></div></a></li><li data-v-24135996><a href="?video=hgtv" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="hgtv" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=hgtv&
+background:url(./imgs-videos/Canais/thumb-history.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>History Channel</span></div></a></li><li data-v-24135996><a href="?video=history" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="history" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=history&
+background:url(./imgs-videos/Canais/thumb-history2.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>History 2 - H2</span></div></a></li><li data-v-24135996><a href="?video=history2" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="history2" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=history2&
+background:url(./imgs-videos/Canais/thumb-investigacaodiscovery.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>Investigação Discovery</span></div></a></li><li data-v-24135996><a href="?video=investigacaodiscovery" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="investigacaodiscovery" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=investigacaodiscovery&
+background:url(./imgs-videos/Canais/thumb-lifetime.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>Lifetime</span></div></a></li><li data-v-24135996><a href="?video=lifetime" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="lifetime" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=lifetime&
+background:url(./imgs-videos/Canais/thumb-maisbobosat.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>Mais Globosat</span></div></a></li><li data-v-24135996><a href="?video=maisbobosat" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="maisbobosat" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=maisbobosat&
+background:url(./imgs-videos/Canais/thumb-megapix.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>Megapix</span></div></a></li><li data-v-24135996><a href="?video=megapix" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="megapix" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=megapix&
+background:url(./imgs-videos/Canais/thumb-mtv.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>MTV</span></div></a></li><li data-v-24135996><a href="?video=mtv" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="mtv" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=mtv&
+background:url(./imgs-videos/Canais/thumb-multishow.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>Multishow</span></div></a></li><li data-v-24135996><a href="?video=multishow" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="multishow" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=multishow&
+background:url(./imgs-videos/Canais/thumb-natgeo.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>National Geographic Channel</span></div></a></li><li data-v-24135996><a href="?video=natgeo" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="natgeo" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=natgeo&
+background:url(./imgs-videos/Canais/thumb-natgeokids.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>NateGeo Kids</span></div></a></li><li data-v-24135996><a href="?video=natgeokids" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="natgeokids" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=natgeokids&
+background:url(./imgs-videos/Canais/thumb-natgeowild.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>Nat Geo Wild</span></div></a></li><li data-v-24135996><a href="?video=natgeowild" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="natgeowild" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=natgeowild&
+background:url(./imgs-videos/Canais/thumb-nick.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>Nickelodeon: Nick</span></div></a></li><li data-v-24135996><a href="?video=nick" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="nick" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=nick&
+background:url(./imgs-videos/Canais/thumb-nickjr.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>Nick Jr.</span></div></a></li><li data-v-24135996><a href="?video=nickjr" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="nickjr" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=nickjr&
+background:url(./imgs-videos/Canais/thumb-off.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>Off</span></div></a></li><li data-v-24135996><a href="?video=off" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="off" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=off&
+background:url(./imgs-videos/Canais/thumb-paramount.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>Paramount Channel</span></div></a></li><li data-v-24135996><a href="?video=paramount" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="paramount" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=paramount&
+background:url(./imgs-videos/Canais/thumb-premiereclubes.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>Premiere - Clubes</span></div></a></li><li data-v-24135996><a href="?video=premiereclubes" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="premiereclubes" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=premiereclubes&
+background:url(./imgs-videos/Canais/thumb-premiere2.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>Premiere 2 </span></div></a></li><li data-v-24135996><a href="?video=premiere2" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="premiere2" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=premiere2&
+background:url(./imgs-videos/Canais/thumb-premiere3.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>Premiere 3</span></div></a></li><li data-v-24135996><a href="?video=premiere3" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="premiere3" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=premiere3&
+background:url(./imgs-videos/Canais/thumb-premiere4.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>Premiere 4</span></div></a></li><li data-v-24135996><a href="?video=premiere4" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="premiere4" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=premiere4&
+background:url(./imgs-videos/Canais/thumb-premiere5.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>Premiere 5</span></div></a></li><li data-v-24135996><a href="?video=premiere5" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="premiere5" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=premiere5&
+background:url(./imgs-videos/Canais/thumb-premiere6.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>Premiere 6</span></div></a></li><li data-v-24135996><a href="?video=premiere7" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="premiere6" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=premiere6&
+background:url(./imgs-videos/Canais/thumb-premiere7.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>Premiere 7</span></div></a></li><li data-v-24135996><a href="?video=premiere7" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="premiere7" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=premiere7&
+background:url(./imgs-videos/Canais/thumb-premiere8.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>Premiere 8</span></div></a></li><li data-v-24135996><a href="?video=premiere8" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="premiere8" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=premiere8&
+background:url(./imgs-videos/Canais/thumb-primeboxbrazil.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>Prime Box Brazil</span></div></a></li><li data-v-24135996><a href="?video=primeboxbrazil" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="primeboxbrazil" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=primeboxbrazil&
+background:url(./imgs-videos/Canais/thumb-recordsp.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>Record TV SP</span></div></a></li><li data-v-24135996><a href="?video=recordsp" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="recordsp" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=recordsp&
+background:url(./imgs-videos/Canais/thumb-recordnews.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>Record News</span></div></a></li><li data-v-24135996><a href="?video=recordnews" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="recordnews" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=recordnews&
+background:url(./imgs-videos/Canais/thumb-sbt.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>Sbt</span></div></a></li><li data-v-24135996><a href="?video=sbt" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="sbt" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=sbt&
+background:url(./imgs-videos/Canais/thumb-sony.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>Sony</span></div></a></li><li data-v-24135996><a href="?video=sony" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="sony" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=sony&
+background:url(./imgs-videos/Canais/thumb-space.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>Space</span></div></a></li><li data-v-24135996><a href="?video=space" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="space" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=space&
+background:url(./imgs-videos/Canais/thumb-sportv1.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>SporTV</span></div></a></li><li data-v-24135996><a href="?video=sportv1" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="sportv1" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=sportv1&
+background:url(./imgs-videos/Canais/thumb-sportv2.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>SporTV 2</span></div></a></li><li data-v-24135996><a href="?video=sportv2" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="sportv2" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=sportv2&
+background:url(./imgs-videos/Canais/thumb-sportv3.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>SporTV 3</span></div></a></li><li data-v-24135996><a href="?video=sportv3" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="sportv3" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=sportv3&
+background:url(./imgs-videos/Canais/thumb-studiouniversal.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>Studio Universal</span></div></a></li><li data-v-24135996><a href="?video=studiouniversal" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="studiouniversal" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=studiouniversal&
+background:url(./imgs-videos/Canais/thumb-syfy.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>Syfy</span></div></a></li><li data-v-24135996><a href="?video=syfy" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="syfy" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=syfy&
+background:url(./imgs-videos/Canais/thumb-tbs.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>TBS</span></div></a></li><li data-v-24135996><a href="?video=tbs" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="tbs" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=tbs&
+background:url(./imgs-videos/Canais/thumb-tcm.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>TCM</span></div></a></li><li data-v-24135996><a href="?video=tcm" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="tcm" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=tcm&
+background:url(./imgs-videos/Canais/thumb-tlc.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>TLC</span></div></a></li><li data-v-24135996><a href="?video=tlc" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="tlc" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=tlc&
+background:url(./imgs-videos/Canais/thumb-telecineaction.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>Telecine Action</span></div></a></li><li data-v-24135996><a href="?video=telecineaction" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="telecineaction" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=telecineaction&
+background:url(./imgs-videos/Canais/thumb-telecinecult.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>Telecine Cult</span></div></a></li><li data-v-24135996><a href="?video=telecinecult" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="telecinecult" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=telecinecult&
+background:url(./imgs-videos/Canais/thumb-telecinefun.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>Telecine Fun</span></div></a></li><li data-v-24135996><a href="?video=telecinefun" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="telecinefun" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=telecinefun&
+background:url(./imgs-videos/Canais/thumb-telecinepipoca.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>Telecine Pipoca</span></div></a></li><li data-v-24135996><a href="?video=telecinepipoca" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="telecinepipoca" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=telecinepipoca&
+background:url(./imgs-videos/Canais/thumb-telecinepremium.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>Telecine Premium</span></div></a></li><li data-v-24135996><a href="?video=telecinepremium" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="telecinepremium" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=telecinepremium&
+background:url(./imgs-videos/Canais/thumb-telecinetouch.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>Telecine Touch</span></div></a></li><li data-v-24135996><a href="?video=telecinetouch" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="telecinetouch" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=telecinetouch&
+background:url(./imgs-videos/Canais/thumb-tnt.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>TNT</span></div></a></li><li data-v-24135996><a href="?video=tnt" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="tnt" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=tnt&
+background:url(./imgs-videos/Canais/thumb-tntseries.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>TNT Series</span></div></a></li><li data-v-24135996><a href="?video=tntseries" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="tntseries" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=tntseries&
+background:url(./imgs-videos/Canais/thumb-tooncast.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>Tooncast</span></div></a></li><li data-v-24135996><a href="?video=tooncast" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="tooncast" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=tooncast&
+background:url(./imgs-videos/Canais/thumb-trutv.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>Tru TV</span></div></a></li><li data-v-24135996><a href="?video=trutv" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="trutv" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=trutv&
+background:url(./imgs-videos/Canais/thumb-tvgazeta.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>TV Gazeta</span></div></a></li><li data-v-24135996><a href="?video=tvgazeta" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="tvgazeta" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=tvgazeta&
+background:url(./imgs-videos/Canais/thumb-universal.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>Universal TV</span></div></a></li><li data-v-24135996><a href="?video=universal" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="universal" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=universal&
+background:url(./imgs-videos/Canais/thumb-viva.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>Viva</span></div></a></li><li data-v-24135996><a href="?video=viva" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="viva" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=viva&
+background:url(./imgs-videos/Canais/thumb-warner.jpg) no-repeat center center;-webkit-background-size:30%;-moz-background-size:30%;-o-background-size:100%;background-size:100%;" data-v-24135996></div> <div class="name-cam" data-v-24135996><span data-v-24135996>Warner TV</span></div></a></li><li data-v-24135996><a href="?video=warner" data-v-24135996>
+
+<form id="myForm" method="post" target="_parent" name="warner" action="https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/canaishlb.php?canal=warner&
