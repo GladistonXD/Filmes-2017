@@ -1,0 +1,107 @@
+<item>
+<title>[B][COLOR white]BAND[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist.m3u8</link>
+<epgid></epgid>
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/band.png</thumbnail>
+</item>
+
+
+<item>
+<title>[B][COLOR white]RECORD[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8</link>
+<epgid></epgid>
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/record.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]DOCUMENTÁRIOS[/COLOR][/B]</title>
+<link>#documentary</link>
+<thumbnail>https://i.imgur.com/pkYeL6E.png</thumbnail>
+</item>
+
+
+<item>
+<title>[B][COLOR white]H2[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>https://d1wwtskvr1r98k.cloudfront.net/a3f915286ca6481d9a63ca0b0da41c79/index.m3u8</link>
+<epgid></epgid>
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/h2.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]A&E[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>https://d1wwtskvr1r98k.cloudfront.net/3c9cf3a801dd4728a868f96f1ed032d2/index_1.m3u8</link>
+<epgid></epgid>
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/amc.png</thumbnail>
+</item>
+
+
+<item>
+<title>[B][COLOR white]PARAMOUNT[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>https://d31ii3fk8fd7mh.cloudfront.net/89192ec7abc24480bac975aa4ab2dffe/index_1.m3u8</link>
+<epgid></epgid>
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/paramount.png</thumbnail>
+</item>
+
+
+<item>
+<title>[B][COLOR white]NICK JR[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>https://d1wwtskvr1r98k.cloudfront.net/629363a30ff040d5adaafc49ee84f17c/index_2.m3u8</link>
+<epgid></epgid>
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/nick_jr.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]MÚSICAS & VARIEDADES[/COLOR][/B]</title>
+<link>here</link>
+<thumbnail>https://i.imgur.com/pkYeL6E.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]ARTE 1[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>https://d1wwtskvr1r98k.cloudfront.net/522752a704da4d93b18eeb077042ccff/index_3.m3u8</link>
+<epgid></epgid>
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/arte1.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]COMEDY CENTRAL[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>https://d1wwtskvr1r98k.cloudfront.net/e957ddc8e14c4fe1a45bb76ead75006f/index_2.m3u8</link>
+<epgid></epgid>
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/comedy_central.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]E![/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>https://d1wwtskvr1r98k.cloudfront.net/637de7ec0ab74fdc95ce3382677e2eb1/index.m3u8</link>
+<epgid></epgid>
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/discovery_home_health.png</thumbnail>
+</item>
+
+
+<item>
+<title>[B][COLOR white]LIFETIME[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>https://d31ii3fk8fd7mh.cloudfront.net/e99907efe2284822af0f0953d29a88a3/index_3.m3u8</link>
+<epgid></epgid>
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/lifetime.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]MTV[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>https://d31ii3fk8fd7mh.cloudfront.net/645d9a8a67e84aa88d4fa264e1a8cfd7/index_3.m3u8</link>
+<epgid></epgid>
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/mtv.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]BAND NEWS[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>https://d31ii3fk8fd7mh.cloudfront.net/d02c7cfb0fc5432fb5e4a103c836a2e3/index_3.m3u8</link>
+<epgid></epgid>
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/band_news.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]RECORD NEWS[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8</link>
+<epgid></epgid>
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/record_news.png</thumbnail>
+</item>
