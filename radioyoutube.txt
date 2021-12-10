@@ -29,5 +29,5 @@ plugin://plugin.video.youtube/play/?playlist_id=PLDZIMJooKojCrAwXNVEpz1iIHGg0voE
 #EXTINF:-1 tvg-id="[B][COLOR white]RADIO INTENSE INDIE[/COLOR][/B]" tvg-logo="https://m.media-amazon.com/images/I/81kUBLvzgBL._SS500_.jpg"group-title="RADIO", [B][COLOR white]RADIO INTENSE INDIE[/COLOR][/B]
 plugin://plugin.video.youtube/play/?playlist_id=PLOvc47UgH6TA0icm2q8KV2QLQWpHfc7lO&play=1&order=shuffle
 
-#EXTINF:-1 tvg-id="[B][COLOR white]RADIO HITS 2020[/COLOR][/B]" tvg-logo="https://pl.scdn.co/images/pl/default/93424d1c31774ff4b8e06c3739dc27d93c9e5dff"group-title="RADIO", [B][COLOR white]RADIO HITS 2020[/COLOR][/B]
+#EXTINF:-1 tvg-id="[B][COLOR white]RADIO HITS 2020[/COLOR][/B]" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTkSHr3b4ywJI-7sCl6wdG8NJe6uYCfm7LnvZmyWQ=s900-c-k-c0x00ffffff-no-rj"group-title="RADIO", [B][COLOR white]RADIO HITS 2020[/COLOR][/B]
 plugin://plugin.video.youtube/play/?playlist_id=PL9NY5axt700FjL6HlEhqlMFT1gjMGVBgy&play=1&order=shuffle
