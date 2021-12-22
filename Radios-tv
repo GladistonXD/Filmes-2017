@@ -47,8 +47,13 @@
 </item>
 
 <item>
+<item><#title>[B][COLOR white]VIRGIN TV ROCK[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link#>https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/virgintv.m3u8|Referer=https://live2-radio-mediaset-it.akamaized.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0 Win64 x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.45 Safari/537.36 Edg/79.0.309.30</link>
+<thumbnail#>https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/VirginTV.png</thumbnail>
+</item>
+<item>
 <item><title>[B][COLOR white]VIRGIN TV ROCK[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/virgintv.m3u8|Referer=https://live2-radio-mediaset-it.akamaized.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0 Win64 x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.45 Safari/537.36 Edg/79.0.309.30</link>
+<link>https://live3.msr.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(ew)/manifest.mpd</link>
 <thumbnail>https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/VirginTV.png</thumbnail>
 </item>
 <item>
