@@ -655,11 +655,6 @@
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/viva.png</thumbnail>
 </item>
 
-<item>
-<title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]NOTÃCIAS[/COLOR][/B]</title>
-<link>here</link>
-<thumbnail>https://i.imgur.com/pkYeL6E.png</thumbnail>
-</item>
 
 <item>
 <title>[B][COLOR white]CNN BRASIL[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
@@ -793,6 +788,27 @@
 <link>https://player.aovivotv.xyz/channels/canalcurta</link>
 <epgid></epgid>
 <thumbnail>https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/curta-png-8.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]REDE VIDA[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>https://player.aovivotv.xyz/channels/redevida</link>
+<epgid></epgid>
+<thumbnail>https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Rede_Vida_logo.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]CANÇÃO NOVA[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>https://player.aovivotv.xyz/channels/cancaonova</link>
+<epgid></epgid>
+<thumbnail>https://pea.fm/uploads/posts/2020-06/1592583432_cancao-nova.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]TV GAZETA[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>https://player.aovivotv.xyz/channels/tvgazetahd</link>
+<epgid></epgid>
+<thumbnail>https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Gazeta.PNG</thumbnail>
 </item>
 
 </div>
