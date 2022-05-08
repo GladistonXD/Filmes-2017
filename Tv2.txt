@@ -433,7 +433,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]TNT SÃRIES[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<title>[B][COLOR white]TNT SÉRIES[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
 <link>https://player.aovivotv.xyz/channels/tntseries</link>
 <epgid></epgid>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/tnt_series.png</thumbnail>
