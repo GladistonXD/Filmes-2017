@@ -196,6 +196,42 @@
 </item>
 
 <item>
+<title>[B][COLOR white]PREMIERE 3[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>https://player.aovivotv.xyz/channels/premiere2</link>
+<epgid></epgid>
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/premiere.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]PREMIERE 4[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>https://player.aovivotv.xyz/channels/premiere2</link>
+<epgid></epgid>
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/premiere.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]PREMIERE 5[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>https://player.aovivotv.xyz/channels/premiere2</link>
+<epgid></epgid>
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/premiere.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]PREMIERE 6[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>https://player.aovivotv.xyz/channels/premiere2</link>
+<epgid></epgid>
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/premiere.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]PREMIERE 7[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>https://player.aovivotv.xyz/channels/premiere2</link>
+<epgid></epgid>
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/premiere.png</thumbnail>
+</item>
+
+
+<item>
 <title>[B][COLOR white]SPORTV[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
 <link>https://player.aovivotv.xyz/channels/sportv</link>
 <epgid></epgid>
