@@ -788,4 +788,11 @@
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/woohoo.png</thumbnail>
 </item>
 
+<item>
+<title>[B][COLOR white]CURTA![/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>https://player.aovivotv.xyz/channels/canalcurta</link>
+<epgid></epgid>
+<thumbnail>https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/curta-png-8.png</thumbnail>
+</item>
+
 </div>
