@@ -553,7 +553,7 @@
 <title>[B][COLOR white]E![/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
 <link>https://player.aovivotv.xyz/channels/eentertainment</link>
 <epgid></epgid>
-<thumbnail>https://skyrisk.github.io/brazucaplay/logos/discovery_home_health.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/E!_HD_logo.png</thumbnail>
 </item>
 
 <item>
