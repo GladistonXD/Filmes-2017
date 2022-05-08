@@ -358,7 +358,7 @@
 
 <item>
 <title>[B][COLOR white]HBO PLUS[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://player.aovivotv.xyz/channels/hboplus</link>
+<link>https://player.aovivotv.xyz/channels/hboplushd</link>
 <epgid></epgid>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/hbo_plus.png</thumbnail>
 </item>
@@ -421,7 +421,7 @@
 
 <item>
 <title>[B][COLOR white]TELECINE ACTION[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://player.aovivotv.xyz/channels/telecineaction</link>
+<link>https://player.aovivotv.xyz/channels/telecineactionhd</link>
 <epgid></epgid>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/tc_action.png</thumbnail>
 </item>
@@ -435,14 +435,14 @@
 
 <item>
 <title>[B][COLOR white]TELECINE PREMIUM[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://player.aovivotv.xyz/channels/telecinepremium</link>
+<link>https://player.aovivotv.xyz/channels/telecinepremiumhd</link>
 <epgid></epgid>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/tc_premium.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]TELECINE PIPOCA[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://player.aovivotv.xyz/channels/telecinepipoca</link>
+<link>https://player.aovivotv.xyz/channels/telecinepipocahd</link>
 <epgid></epgid>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/tc_pipoca.png</thumbnail>
 </item>
