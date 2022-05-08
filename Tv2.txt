@@ -683,10 +683,109 @@
 </item>
 
 <item>
+<title>[B][COLOR white]OFF[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>https://player.aovivotv.xyz/channels/canaloff</link>
+<epgid></epgid>
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/off.png</thumbnail>
+</item>
+
+
+<item>
 <title>[B][COLOR white]RECORD NEWS[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
 <link>https://player.aovivotv.xyz/channels/recordnews</link>
 <epgid></epgid>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/record_news.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]ESPN 3[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>https://player.aovivotv.xyz/channels/espn3</link>
+<epgid></epgid>
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/espn.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]ESPN 4[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>https://player.aovivotv.xyz/channels/espn4</link>
+<epgid></epgid>
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/espn.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]TCM[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>https://player.aovivotv.xyz/channels/tcm</link>
+<epgid></epgid>
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/tcm.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]TBS[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>https://player.aovivotv.xyz/channels/tbs</link>
+<epgid></epgid>
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/tbs.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]UNIVERSAL CHANNEL[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>https://player.aovivotv.xyz/channels/universalchannel</link>
+<epgid></epgid>
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/universal_channel.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]ARTE 1[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>https://player.aovivotv.xyz/channels/arte1</link>
+<epgid></epgid>
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/arte1.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]NAT GEO KIDS[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>https://player.aovivotv.xyz/channels/natgeokids</link>
+<epgid></epgid>
+<thumbnail>https://cdn.mitvstatic.com/channels/br_nat-geo-kids-hd_m.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]HGTV[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>https://player.aovivotv.xyz/channels/hgtv</link>
+<epgid></epgid>
+<thumbnail>https://cdn.mitvstatic.com/channels/br_hgtv_m.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]DISCOVERY THEATER[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>https://player.aovivotv.xyz/channels/discoverytheater</link>
+<epgid></epgid>
+<thumbnail>https://cdn.mitvstatic.com/channels/br_discovery-theater-hd_m.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]DAZN[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>https://player.aovivotv.xyz/channels/dazn1</link>
+<epgid></epgid>
+<thumbnail>https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/dazn-de.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]FISH TV[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>https://player.aovivotv.xyz/channels/fishtv</link>
+<epgid></epgid>
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/fishtv.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]FUTURA[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>https://player.aovivotv.xyz/channels/futuralternativo</link>
+<epgid></epgid>
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/canalfutura.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]WOOHOO[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>https://player.aovivotv.xyz/channels/woohoo</link>
+<epgid></epgid>
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/woohoo.png</thumbnail>
 </item>
 
 </div>
