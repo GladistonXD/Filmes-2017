@@ -629,7 +629,7 @@
 
 <item>
 <title>[B][COLOR white]MTV[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://player.aovivotv.xyz/channels/mtvbrasil</link>
+<link>https://player.aovivotv.xyz/channels/mtvbrasilhd</link>
 <epgid></epgid>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/mtv.png</thumbnail>
 </item>
