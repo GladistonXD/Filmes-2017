@@ -73,16 +73,16 @@
 </item>
 <item>
 <item><title>[B][COLOR white]RADIO M2O[/COLOR] [COLOR lime]SD[/COLOR][/B]</title>
-<link>http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on</link>
-<thumbnail>https://h8m4h9t7.rocketcdn.me/wp-content/uploads/2018/08/m2o-logo-2.jpg</thumbnail>
+<link>https://streamcdnd2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b2816000.m3u8</link>
+<thumbnail>https://static-media.streema.com/media/cache/47/12/471277eb24aab6e2f6e5cf3608b4ee2c.jpg</thumbnail>
 </item>
 <item>
 <item><title>[B][COLOR white]RADIO CAPITAL[/COLOR] [COLOR lime]SD[/COLOR][/B]</title>
-<link>http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-b.m3u8?sd=10&rebase=on</link>
+<link>https://streamcdnd1-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/chunklist_b2304000.m3u8</link>
 <thumbnail>https://mytuner.global.ssl.fastly.net/media/tvos_radios/FmNGaY8AN4.jpg</thumbnail>
 </item>
 <item>
-<item><title>[B][COLOR white]RADIO ITALI VISION[/COLOR] [COLOR lime]SD[/COLOR][/B]</title>
+<item><tixtle>[B][COLOR white]RADIO ITALI VISION[/COLOR] [COLOR lime]SD[/COLOR][/B]</title>
 <link>http://livetr.teleromagna.it/lifestyle/live/live/lifestyle480/chunks.m3u8</link>
 <thumbnail>https://lh3.googleusercontent.com/UcvYoF3_Rd7wsiu1icQQVbNJOETV5KP3moqCwSVJldSTaSo104CYqD7ZUgHFpGWG-Cg</thumbnail>
 </item>
@@ -105,7 +105,7 @@
 <item>
 
 <item>
-<item><title>[B][COLOR white]RADIO KISS TV[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<item><tixtle>[B][COLOR white]RADIO KISS TV[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>https://fms-https1.mediadirect.ro/live3/_definst_/kiss.smil/chunklist_w1868089738_b1600000_1606.m3u8</link>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTBYAJbCL1FPZPIJlM6ZNJhRX8Gls_8pv1Uzw&usqp=CAU</thumbnail>
 </item>
@@ -188,8 +188,3 @@
 <thumbnail>https://is2-ssl.mzstatic.com/image/thumb/Purple71/v4/80/58/ef/8058ef9e-8702-ff81-6a5a-9481a69babae/source/512x512bb.jpg</thumbnail>
 </item>
 
-<item>
-<item><title>[B][COLOR white]TV DIARIO[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>plugin://plugin.video.dailymotion_com/?url=x7txn7q&mode=playLiveVideo</link>
-<thumbnail>https://2.bp.blogspot.com/-hZa3rQQWo_4/XAcZF2AYbOI/AAAAAAAAHII/8ps0FFFCq8oX08Vqu4o-DQ5MLXPFuBwvgCLcBGAs/s1600/TV%2BDiario.jpg</thumbnail>
-</item>
