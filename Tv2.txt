@@ -735,7 +735,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]NAT GEO KIDS[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<tixtle>[B][COLOR white]NAT GEO KIDS[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
 <link>https://player.aovivotv.xyz/channels/natgeokids</link>
 <epgid></epgid>
 <thumbnail>https://cdn.mitvstatic.com/channels/br_nat-geo-kids-hd_m.png</thumbnail>
