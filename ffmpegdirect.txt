@@ -26,7 +26,7 @@
           <default>1</default>
           <constraints>
             <minimum>0.10</minimum>
-            <step>0.25</step>
+            <step>0.10</step>
             <maximum>24</maximum>
           </constraints>
           <dependencies>
