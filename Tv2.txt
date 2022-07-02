@@ -262,14 +262,14 @@
 <title>[B][COLOR white]A&E[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
 <link>https://player.aovivotv.xyz/channels/aemundo</link>
 <epgid></epgid>
-<thumbnail>https://skyrisk.github.io/brazucaplay/logos/amc.png</thumbnail>
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/ae.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]AMC[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
 <link>https://player.aovivotv.xyz/channels/amcbrasil</link>
 <epgid></epgid>
-<thumbnail>https://skyrisk.github.io/brazucaplay/logos/axn.png</thumbnail>
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/amc.png</thumbnail>
 </item>
 
 <item>
