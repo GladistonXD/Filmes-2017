@@ -52,7 +52,7 @@ Nome=Globo Bahia HD, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PI
 Nome=Globo Cuaibá, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/GLOBO%20CUIABA.png, link=174388
 Nome=Globo FHD, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/Globo%20FHD.png, link=174394
 Nome=Globo Fortaleza HD, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/GLOBO%20TV%20VERDES%20MARES%20FORTALEZA.png, link=174395
-Nome=Globo Goiãnia TV, imagem=",, link=174396
+Nome=Globo Goiãnia TV, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/TV%20Globo.png, link=174396
 Nome=Globo Manaus HD, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/TV%20Globo.png, link=174398
 Nome=Globo News, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/GLOBO%20NEWS.png, link=166847
 Nome=Globo RBS RS TV FHD, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/GLOBO%20RBS%20PORTO%20ALEGRE.png, link=174403
