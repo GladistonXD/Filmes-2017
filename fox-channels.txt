@@ -1,0 +1,107 @@
+Nome=A&E, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/A%26E.png, link=166810
+Nome=AXN, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/AXN.png, link=166811
+Nome=Animal Planet, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/Animal%20Planet%20HD.png, link=166830
+Nome=Arte 1, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/ARTE%201.png, link=166839
+Nome=Band, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/BAND.png, link=166786
+Nome=Band News, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/BAND%20NEWS.png, link=166812
+Nome=Band Sports, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/BAND%20SPORTS.png, link=166813
+Nome=Boomerang, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/BOOMERANG%20HD.png, link=166787
+Nome=Canal Brasil, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/CANAL%20BRASIL.png, link=166784
+Nome=Canal Sony, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/Canal%20Sony.png, link=166844
+Nome=Cartoon Network, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/Cartoon%20Network.png, link=166831
+Nome=Cinemax, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/CINEMAX.png, link=166783
+Nome=Combate, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/COMBATE.png, link=166788
+Nome=Discovery Channel, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/DISCOVERY%20CHANNEL.png, link=166789
+Nome=Discovery Civilization, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/DISCOVERY%20CIVILIZATION.png, link=166790
+Nome=Discovery H&H, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/DISCOVERY%20H%26H.png, link=166791
+Nome=Discovery Kids, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/Discovery%20Kids.png, link=166845
+Nome=Discovery Science, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/DISCOVERY%20SCIENCE.png, link=166792
+Nome=Discovery Turbo, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/DISCOVERY%20TURBO.png, link=166793
+Nome=Disney Channel, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/DISNEY%20CHANNEL.png, link=166814
+Nome=Disney Junior, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/Disney%20Junior.png, link=166815
+Nome=Disney XD, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/Disney%20XD.png, link=166832
+Nome=E!, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/E%21.png, link=166846
+Nome=ESPN Brasil Sport, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/ESPN%20BRASIL%20SPORT.png, link=166794
+Nome=FOX, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/Fox.png, link=166795
+Nome=FX, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/FX.png, link=166833
+Nome=Fish TV, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/FISH%20TV.png, link=166803
+Nome=Fox Life, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/Fox%20Life.png, link=166816
+Nome=Fox Sports, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/Fox%20Sports%20Colombia%20HD.png, link=166797
+Nome=Fox Sports 2, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/Fox%20Sports%202%20HD.png, link=166796
+Nome=GLOBO AMAZONAS, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/GLOBO%20AMAZONAS.png, link=174383
+Nome=GLOBO ANHANGUERA GOIANIA, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/GLOBO%20ANHANGUERA%20GOIANIA.png, link=174385
+Nome=GLOBO BRASILIA, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/GLOBO%20BRASILIA.png, link=174387
+Nome=GLOBO CUIABA HD, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/GLOBO%20CUIABA.png, link=174389
+Nome=GLOBO EPTV CAMPINAS HD, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/GLOBO%20EPTV%20CAMPINAS.png, link=174390
+Nome=GLOBO EPTV RIBEIR HD, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/GLOBO%20EPTV%20RIBEIR.png, link=174391
+Nome=GLOBO EPTV Ribeirão PRETO HD, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/GLOBO%20EPTV%20RIBEIR%C3%83O%20PRETO.png, link=174392
+Nome=GLOBO EPTV SAO CARLOS, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/GLOBO%20EPTV%20SAO%20CARLOS.png, link=174393
+Nome=GLOBO INTERNACIONAL HD, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/TV%20Globo.png, link=174397
+Nome=GLOBO MINAS HD, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/GLOBO%20MINAS.png, link=174399
+Nome=GLOBO NEWS HD, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/GLOBO%20NEWS.png, link=174400
+Nome=GLOBO NORDESTE HD, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/GLOBO%20NORDESTE.png, link=174401
+Nome=GLOBO RIBEIR HD, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/GLOBO%20RIBEIR.png, link=174404
+Nome=GLOBO RIO, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/GLOBO%20RIO.png, link=174405
+Nome=GLOBO RPC TV HD, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/GLOBO%20RPC%20TV.png, link=174408
+Nome=GLOBO SP FHD, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/GLOBO%20SP.png, link=174409
+Nome=GLOBO TV BELEM, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/GLOBO%20TV%20BELEM.png, link=174410
+Nome=GLOBO TV TRIBUNA SANTOS HD, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/GLOBO%20TV%20TRIBUNA%20SANTOS.png, link=174416
+Nome=GLOBO TV VERDES MARES FORTALEZA HD, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/GLOBO%20TV%20VERDES%20MARES%20FORTALEZA.png, link=174417
+Nome=Globo Amazônica HD, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/GLOBO%20AMAZONAS.png, link=174384
+Nome=Globo Bahia HD, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/GLOBO%20BAHIA.png, link=174386
+Nome=Globo Cuaibá, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/GLOBO%20CUIABA.png, link=174388
+Nome=Globo FHD, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/Globo%20FHD.png, link=174394
+Nome=Globo Fortaleza HD, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/GLOBO%20TV%20VERDES%20MARES%20FORTALEZA.png, link=174395
+Nome=Globo Goiãnia TV, imagem=",, link=174396
+Nome=Globo Manaus HD, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/TV%20Globo.png, link=174398
+Nome=Globo News, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/GLOBO%20NEWS.png, link=166847
+Nome=Globo RBS RS TV FHD, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/GLOBO%20RBS%20PORTO%20ALEGRE.png, link=174403
+Nome=Globo RJ HD, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/GLOBO%20RJ.png, link=174406
+Nome=Globo RPC Paranu00e1 HD, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/GLOBO%20RPC%20TV.png, link=174407
+Nome=Globo Rbs Porto Alegre HD, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/GLOBO%20RBS%20PORTO%20ALEGRE.png, link=174402
+Nome=Globo SP, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/GLOBO%20SP.png, link=166785
+Nome=Globo TV Sergipe HD, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/Globo%20TV%20Sergipe%20HD.png, link=174411
+Nome=Globo TV TEM SJRP, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/GLOBO%20TV%20TEM%20SOROCABA.png, link=174413
+Nome=Globo TV Tem Bauru HD, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/GLOBO%20TV%20TEM%20SOROCABA.png, link=174412
+Nome=Globo TV Tem Sorocaba HD, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/GLOBO%20TV%20TEM%20SOROCABA.png, link=174414
+Nome=Globo TV Tribuna HD, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/GLOBO%20TV%20TRIBUNA%20SANTOS.png, link=174415
+Nome=Gloob, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/GLOOB.png, link=166840
+Nome=H2, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/H2.png, link=166834
+Nome=HBO, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/HBO.png, link=166817
+Nome=HBO 2, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/HBO%202.png, link=166818
+Nome=HBO Family, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/HBO%20Family.png, link=166819
+Nome=HBO Plus, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/HBO%20Plus.png, link=166820
+Nome=HBO Signature, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/HBO%20Signature.png, link=166821
+Nome=Investigau00e7u00e3o Discovery, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/Investiga%C3%A7%C3%A3o%20Discovery.png, link=166848
+Nome=Mais Globosat, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/MAIS%20GLOBO%20SA.png, link=166838
+Nome=Max, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/MAX.png, link=166822
+Nome=Max Prime, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/MAX%20PRIME.png, link=166824
+Nome=Max Up, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/Max%20Up.png, link=166823
+Nome=MegaPix, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/MegaPix.png, link=166841
+Nome=National Geographic, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/NATIONAL%20GEOGRAPHIC.png, link=166805
+Nome=Nick Jr, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/NICK%20JR.png, link=166807
+Nome=Nickelodeon, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/NICKELODEON.png, link=166806
+Nome=PFC, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/PFC.png, link=166849
+Nome=PREMIERE CLUBES HD, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/PREMIERE%20CLUBES.png, link=166802
+Nome=Premiere 1 HD, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/PREMIERE%201.png, link=166801
+Nome=Record News, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/RECORD%20NEWS.png, link=166835
+Nome=SporTV, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/SPORT%20TV%202.png, link=166798
+Nome=SporTV 2, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/SPORT%20TV%202.png, link=166799
+Nome=SporTV 3, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/SPORT%20TV%203.png, link=166800
+Nome=Studio Universal, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/SPORT%20TV.png, link=166850
+Nome=Syfy, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/SYFY.png, link=166842
+Nome=TCM, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/TCM%20HD.png, link=166836
+Nome=TNT, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/TNT.png, link=166837
+Nome=TV Brasil, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/TV%20Brasil.png, link=166782
+Nome=TV Globo, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/TV%20Globo.png, link=174381
+Nome=TV Globo Premium HD, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/TV%20Globo%20Premium.png, link=174382
+Nome=Telecine Action, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/TELECINE%20ACTION.png, link=166825
+Nome=Telecine Cult, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/TELECINE%20CULT.png, link=166826
+Nome=Telecine Fun, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/TELECINE%20FUN.png, link=166827
+Nome=Telecine Pipoca, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/TELECINE%20PIPOCA.png, link=166851
+Nome=Telecine Premium, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/TELECINE%20PREMIUM.png, link=166828
+Nome=Telecine Touch, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/TELECINE%20TOUCH.png, link=166829
+Nome=The History Channel, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/THE%20HISTORY%20CHANNEL.png, link=166804
+Nome=Tooncast, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/TOOCAST.png, link=166808
+Nome=Universal Channel, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/UNIVERSAL%20CHANNEL.png, link=166809
+Nome=Woohoo Brasil, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/WOOHOO%20BRASIL.png, link=166843
