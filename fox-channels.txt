@@ -22,7 +22,7 @@ Nome=Disney Junior, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PIC
 Nome=Disney XD, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/Disney%20XD.png, link=166832
 Nome=E!, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/E%21.png, link=166846
 Nome=ESPN Brasil Sport, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/ESPN%20BRASIL%20SPORT.png, link=166794
-Nome=FOX, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/Fox.png, link=166795
+Nome=Star Channel, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/Fox.png, link=166795
 Nome=FX, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/FX.png, link=166833
 Nome=Fish TV, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/FISH%20TV.png, link=166803
 Nome=Fox Life, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/Fox%20Life.png, link=166816
@@ -72,7 +72,7 @@ Nome=HBO 2, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA
 Nome=HBO Family, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/HBO%20Family.png, link=166819
 Nome=HBO Plus, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/HBO%20Plus.png, link=166820
 Nome=HBO Signature, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/HBO%20Signature.png, link=166821
-Nome=Investigau00e7u00e3o Discovery, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/Investiga%C3%A7%C3%A3o%20Discovery.png, link=166848
+Nome=Investigação Discovery, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/Investiga%C3%A7%C3%A3o%20Discovery.png, link=166848
 Nome=Mais Globosat, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/MAIS%20GLOBO%20SA.png, link=166838
 Nome=Max, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/MAX.png, link=166822
 Nome=Max Prime, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/MAX%20PRIME.png, link=166824
