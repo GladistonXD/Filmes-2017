@@ -1,0 +1,130 @@
+Nome=A&E, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_AE_HD.png, link=241976
+Nome=AMC, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_AMC.png, link=241977
+Nome=ANIMAL PLANET, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Animal_Planet_HD.png, link=241978
+Nome=ARTE 1, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/FR_ARTE_HD.png, link=241979
+Nome=AXN, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Axn_SD.png, link=241980
+Nome=BABY TV, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Baby_HD.png, link=241981
+Nome=BAND CAMPINAS, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Band_Campinas_HD.png, link=241982
+Nome=BAND NEWS, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Band_News_HD.png, link=241983
+Nome=BAND SPORTS, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Band_SPorts_SD.png, link=241984
+Nome=BIS, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Bis_HD.png, link=241985
+Nome=BOOMERANG, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Boomerang_HD.png, link=241986
+Nome=CANAL BRASIL, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Canal_Brasil_HD.png, link=241987
+Nome=CANCAO NOVA, imagem=https://www.lyngsat.com/logo/tv/tt/tv_cancao_nova_pt.png, link=241988
+Nome=CARTOON NETWORK, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Cartoon_Network_HD.png, link=241989
+Nome=CINEMAX, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Cinemax_SD.png, link=241990
+Nome=CNN Internacional, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/LA_CNN_EN_ESPANOL_PHD.png, link=240535
+Nome=COMBATE, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Combate_HD.png, link=241991
+Nome=COMEDY CENTRAL, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Comedy_CEntral_HD.png, link=241992
+Nome=CULTURA, imagem=https://www.lyngsat.com/logo/tv/tt/tv_cultura_br_nacional.png, link=241993
+Nome=CURTA!, imagem=https://www.lyngsat.com/logo/tv/cc/curta_br.png, link=241994
+Nome=DISCOVERY CHANNEL, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Discovery_Channel_HD.png, link=241995
+Nome=DISCOVERY CIVILIZATION, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Discovery_Civilization_HD.png, link=241996
+Nome=DISCOVERY HOME & HEALTH, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Discovery_HH_HD.png, link=241997
+Nome=DISCOVERY KIDS, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Discovery_Kids_HD.png, link=241998
+Nome=DISCOVERY SCIENCE, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Discovery_Science_HD.png, link=241999
+Nome=DISCOVERY THEATER, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Discovery_Theater_HD.png, link=242000
+Nome=DISCOVERY TLC, imagem=https://www.lyngsat.com/logo/tv/tt/tlc_lam.png, link=242001
+Nome=DISCOVERY WORLD, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Discovery_World_HD.png, link=242003
+Nome=DISNEY CHANNEL, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Disney_Channel_HD.png, link=242004
+Nome=DISNEY JUNIOR, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Disney_Jr_HD.png, link=242005
+Nome=DISNEY XD, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Disney_Xd_HD.png, link=242006
+Nome=E!, imagem=http://logo.kll1ll120qazwed.site/logo/2021mixlogo/e.png, link=242007
+Nome=ESPN, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Espn_HD.png, link=242008
+Nome=ESPN BRASIL, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Espn_Brasil_HD.png, link=242009
+Nome=FISH TV, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Fish_TV_SD.png, link=242011
+Nome=FOOD NETWORK, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Food_Network_HD.png, link=242012
+Nome=FOX, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Fox_SD.png, link=242013
+Nome=FOX LIFE, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Fox_Life_HD.png, link=242014
+Nome=FOX SPORTS, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Fox_SPorts_HD.png, link=242017
+Nome=FOX SPORTS 2, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Fox_Sports_2_HD.png, link=242018
+Nome=FUTURA, imagem=https://www.lyngsat.com/logo/tv/cc/canal_futura.png, link=242019
+Nome=FX, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Fx_SD.png, link=242020
+Nome=GLOBO AMAZONAS, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Globo_Manaus_HD.png, link=242021
+Nome=GLOBO BAHIA, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Globo_Manaus_HD.png, link=242022
+Nome=GLOBO BRASILIA, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Globo_Brasilia_HD.png, link=242111
+Nome=GLOBO BRASILIA, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Globo_Manaus_HD.png, link=242023
+Nome=GLOBO EPTV CAMPINAS, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Globo_EPTV_Campinas_SD.png, link=242025
+Nome=GLOBO EPTV RIBEIR, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Globo_EPTV_Campinas_SD.png, link=242026
+Nome=GLOBO EPTV RIBEIR?O PRETO, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Globo_EPTV_Campinas_SD.png, link=242090
+Nome=GLOBO EPTV SAO CARLOS, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Globo_EPTV_Campinas_SD.png, link=242027
+Nome=GLOBO INTERNACIONAL, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Globo_SP_HD.png, link=242028
+Nome=GLOBO MINAS, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Globo_SP_HD.png, link=242029
+Nome=GLOBO NEWS, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Globo_SP_HD.png, link=242030
+Nome=GLOBO NORDESTE, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Globo_SP_HD.png, link=242031
+Nome=GLOBO RBS PORTO ALEGRE, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Globo_RBS_TV_POA_SD.png, link=242032
+Nome=GLOBO RIBEIR, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Globo_RJ_HD.png, link=242033
+Nome=GLOBO RIO GRANDE DO NORTE, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Globo_Minas_SD.png, link=242034
+Nome=GLOBO RJ, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Globo_Minas_SD.png, link=242035
+Nome=GLOBO RPC TV, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Globo_RPC_Paranaense_SD.png, link=242036
+Nome=GLOBO SP, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Globo_Floripa_SD.png, link=242037
+Nome=GLOBO TV BELEM, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Globo_TV_Belem_SD.png, link=242038
+Nome=GLOBO TV TEM SOROCABA, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Globo_Minas_HD.png, link=242039
+Nome=GLOBO TV TRIBUNA SANTOS, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Globo_Minas_HD.png, link=242040
+Nome=GLOBO TV VANGUARDA S.J DOS CAMPOS, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Globo_Brasilia_HD.png, link=242041
+Nome=GLOBOSAT, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Globo_SP_HD.png, link=242043
+Nome=GLOOB, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Gloob_HD.png, link=242044
+Nome=GNT, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Gnt_HD.png, link=242045
+Nome=HBO, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Hbo_HD.png, link=242047
+Nome=HBO 2, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Hbo_2_SD.png, link=242048
+Nome=HBO FAMILY, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Hbo_Family_SD.png, link=242049
+Nome=HBO PLUS, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Hbo_Plus_SD.png, link=242050
+Nome=HBO POP, imagem=https://www.lyngsat.com/logo/tv/hh/hbo-pop-us.png, link=242058
+Nome=HBO SIGNATURE, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Hbo_Signature_SD.png, link=242052
+Nome=HBO XTREME , imagem=https://www.lyngsat.com/logo/tv/hh/hbo-xtreme-us.png, link=242056
+Nome=HISTORIA 2, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_H2_HD.png, link=242046
+Nome=HISTORY CHANNEL, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_History_HD.png, link=242053
+Nome=ID INVESTIGA\\\\u00c7AO, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Id_Discovery_SD.png, link=242054
+Nome=LIFETIME, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Lifetime_SD.png, link=242055
+Nome=MEGAPIX, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Megapix_SD.png, link=242059
+Nome=MTV, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BG_MTV.png, link=242060
+Nome=MTV LIVE, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BG_MTV_Live_HD.png, link=242061
+Nome=MUSIC BOX BRAZIL, imagem=https://www.lyngsat.com/logo/tv/bb/box_brazil_music.png, link=242062
+Nome=NAT GEO KIDS, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Natgeo_Kids_HD.png, link=242063
+Nome=NATGEO WILD, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Natgeo_Wild_HD.png, link=242064
+Nome=NATIONAL GEOGRAPHIC, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Natgeo_HD.png, link=242065
+Nome=NICK JR, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Nick_Jr_HD.png, link=242066
+Nome=NICKELODEON, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Nickelodeon_SD.png, link=242067
+Nome=OFF, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Off_HD.png, link=242068
+Nome=PARAMOUNT CHANNEL, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Paramount_HD.png, link=242069
+Nome=PREMIERE 1, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Premiere_2_HD.png, link=242070
+Nome=PREMIERE 2, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Premiere_7_HD.png, link=242071
+Nome=PREMIERE 3, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Premiere_7_HD.png, link=242072
+Nome=PREMIERE 4, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Premiere_7_HD.png, link=242073
+Nome=PREMIERE 5, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Premiere_7_HD.png, link=242074
+Nome=PREMIERE 6, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Premiere_7_HD.png, link=242075
+Nome=PREMIERE 7, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Premiere_7_HD.png, link=242076
+Nome=PREMIERE 8, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Premiere_7_HD.png, link=242077
+Nome=PREMIERE CLUBES, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Premiere_Clubes_HD.png, link=242078
+Nome=RECORD, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Record_HD.png, link=242079
+Nome=RECORD AMAZONAS, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Record_HD.png, link=242080
+Nome=RECORD CAMPINAS, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Record_HD.png, link=242081
+Nome=RECORD ESP. SANTO, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Record_HD.png, link=242082
+Nome=RECORD MG, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Record_Mg_SD.png, link=242083
+Nome=RECORD NEWS, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Record_News_HD.png, link=242084
+Nome=RECORD NORDESTE, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Record_HD.png, link=242085
+Nome=RECORD SP, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Record_HD.png, link=242086
+Nome=REDE FAMILIA, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Rede_TV_SD.png, link=242087
+Nome=REDE TV, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Rede_TV_HD.png, link=242088
+Nome=REDE VIDA, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Rede_TV_HD.png, link=242089
+Nome=SBT TV CIDADE VERDE PIAUI, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Sbt_Cidade_Verde_HD.png, link=242092
+Nome=SONY, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Sony_Channel_HD.png, link=242093
+Nome=SPACE, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_SPace_HD.png, link=242094
+Nome=SPORTV, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_SPorTV_HD.png, link=242095
+Nome=SPORTV 3, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_SPorTV_3_SD.png, link=242097
+Nome=STUDIO UNIVERSAL, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Studio_Universal_HD.png, link=242098
+Nome=SYFY, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Syfy_HD.png, link=242099
+Nome=TBS, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Tbs_HD.png, link=242100
+Nome=TCM, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Tcm_HD.png, link=242101
+Nome=TELECINE ACTION, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Telecine_Action_HD.png, link=242102
+Nome=TELECINE CULT, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Telecine_Pipoca_HD.png, link=242103
+Nome=TELECINE FUN, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Telecine_Fun_HD.png, link=242104
+Nome=TELECINE PIPOCA, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Telecine_Pipoca_HD.png, link=242105
+Nome=TELECINE PREMIUM, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Telecine_Premium_HD.png, link=242106
+Nome=TELECINE TOUCH, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Telecine_Touch_HD.png, link=242107
+Nome=TNT, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Tnt_HD.png, link=242109
+Nome=TNT Series, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Tnt_Series_HD.png, link=242110
+Nome=TV GAZETA, imagem=https://www.lyngsat.com/logo/tv/tt/tv_gazeta_acre.png, link=242114
+Nome=Tooncast, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Tooncast_HD.png, link=242115
+Nome=UNIVERSAL CHANNEL, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Universal_Channel_SD.png, link=242116
+Nome=WARNER CHANNEL, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Warner_Channel_HD.png, link=242119
