@@ -4,7 +4,6 @@ Nome=ANIMAL PLANET HD, imagem=http://media.c-x-c.media/picons/BR/animalplanet.pn
 Nome=AXN HD, imagem=http://media.c-x-c.media/picons/BR/axn.png, link=47403
 Nome=BAND NEWS HD, imagem=http://media.c-x-c.media/picons/BR/bandnews.png, link=47402
 Nome=BAND SPORTS HD, imagem=http://media.c-x-c.media/picons/BR/bandsports.png, link=47401
-Nome=BBB 22 HD, imagem=http://media.c-x-c.media/picons/BR/bbb.png, link=264637
 Nome=BIS HD, imagem=http://media.c-x-c.media/picons/BR/bis.png, link=47400
 Nome=BOOMERANG HD, imagem=http://media.c-x-c.media/picons/BR/boomerang.png, link=47399
 Nome=CANALASIL, imagem=http://media.c-x-c.media/picons/BR/redebrasil2.png, link=47397
