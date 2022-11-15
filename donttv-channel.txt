@@ -1,0 +1,93 @@
+Nome=A&E HD, imagem=http://media.c-x-c.media/picons/BR/ae.png, link=47407
+Nome=AMC HD, imagem=http://media.c-x-c.media/picons/BR/amc.png, link=47405
+Nome=ANIMAL PLANET HD, imagem=http://media.c-x-c.media/picons/BR/animalplanet.png, link=47404
+Nome=AXN HD, imagem=http://media.c-x-c.media/picons/BR/axn.png, link=47403
+Nome=BAND NEWS HD, imagem=http://media.c-x-c.media/picons/BR/bandnews.png, link=47402
+Nome=BAND SPORTS HD, imagem=http://media.c-x-c.media/picons/BR/bandsports.png, link=47401
+Nome=BBB 22 HD, imagem=http://media.c-x-c.media/picons/BR/bbb.png, link=264637
+Nome=BIS HD, imagem=http://media.c-x-c.media/picons/BR/bis.png, link=47400
+Nome=BOOMERANG HD, imagem=http://media.c-x-c.media/picons/BR/boomerang.png, link=47399
+Nome=CANALASIL, imagem=http://media.c-x-c.media/picons/BR/redebrasil2.png, link=47397
+Nome=CARTOON NETWORK HD, imagem=http://media.c-x-c.media/picons/BR/cartoonnetwork.png, link=47394
+Nome=CINEMAX HD, imagem=http://media.c-x-c.media/picons/BR/cinemax.png, link=47393
+Nome=COMBATE HD, imagem=http://media.c-x-c.media/picons/BR/combate.png, link=47287
+Nome=DISCOVERY CHANNEL HD, imagem=http://media.c-x-c.media/picons/BR/discoverychannel.png, link=47392
+Nome=DISCOVERY HOME &amp; HEALTH HD, imagem=http://media.c-x-c.media/picons/BR/discoveryhomeandhealth.png, link=47389
+Nome=DISCOVERY ID HD, imagem=http://media.c-x-c.media/picons/BR/DiscoveryCivilization.png, link=47391
+Nome=DISCOVERY KIDS HD, imagem=http://media.c-x-c.media/picons/BR/Discovery_Kids.png, link=47388
+Nome=DISCOVERY SCIENCE HD, imagem=http://media.c-x-c.media/picons/BR/DISCOVERY_SCIENCE.png, link=47387
+Nome=DISCOVERY THEATER HD, imagem=http://media.c-x-c.media/picons/BR/Discovery_theater_HD.png, link=47386
+Nome=DISCOVERY TURBO HD, imagem=http://media.c-x-c.media/picons/BR/discoveryturbo.png, link=47385
+Nome=DISCOVERY WORLD HD, imagem=http://media.c-x-c.media/picons/BR/discoveryworld.png, link=47384
+Nome=DISNEY CHANNEL HD, imagem=http://media.c-x-c.media/picons/BR/disneychannel.png, link=47383
+Nome=DISNEY JR HD, imagem=http://media.c-x-c.media/picons/BR/disneyjuniorBR.png, link=47382
+Nome=DISNEY XD HD, imagem=http://media.c-x-c.media/picons/BR/disneyjuniorBR.png, link=47381
+Nome=E! HD, imagem=http://media.c-x-c.media/picons/BR/eentertainment.png, link=47380
+Nome=ESPNASIL HD, imagem=http://media.c-x-c.media/picons/BR/espnbrasil.png, link=47378
+Nome=ESPN HD, imagem=http://media.c-x-c.media/picons/BR/espn.png, link=47377
+Nome=FOOD NETWORK HD, imagem=http://media.c-x-c.media/picons/BR/foodnetwork.png, link=47376
+Nome=FOX SPORTS 1 HD, imagem=http://media.c-x-c.media/picons/BR/foxsports1.png, link=47370
+Nome=FOX SPORTS 2 HD, imagem=http://media.c-x-c.media/picons/BR/foxsports2.png, link=47369
+Nome=FX HD, imagem=http://media.c-x-c.media/picons/BR/fx.png, link=47368
+Nome=GLOBO MINAS HD, imagem=http://media.c-x-c.media/picons/BR/globominas.png, link=47291
+Nome=GLOBO NEWS HD, imagem=http://media.c-x-c.media/picons/BR/globonews.png, link=47366
+Nome=GLOBO NORDESTE, imagem=http://media.c-x-c.media/picons/BR/globonordeste.png, link=47365
+Nome=GLOBO RIO HD, imagem=http://media.c-x-c.media/picons/BR/globorio.png, link=47364
+Nome=GLOOB HD, imagem=http://media.c-x-c.media/picons/BR/gloob.png, link=47362
+Nome=GNT HD, imagem=http://media.c-x-c.media/picons/BR/gnt.png, link=47361
+Nome=H2 HD, imagem=http://media.c-x-c.media/picons/BR/history2hd.png, link=47360
+Nome=HBO 2 HD, imagem=http://media.c-x-c.media/picons/BR/hbo2.png, link=47359
+Nome=HBO FAMILY HD, imagem=http://media.c-x-c.media/picons/BR/HBO_Family.png, link=47358
+Nome=HBO HD, imagem=http://media.c-x-c.media/picons/BR/hbo.png, link=47357
+Nome=HBO PLUS HD, imagem=http://media.c-x-c.media/picons/BR/HBOplus.png, link=47356
+Nome=HBO SIGNATURE HD, imagem=http://media.c-x-c.media/picons/BR/hbosignature.png, link=47355
+Nome=HISTORY HD, imagem=http://media.c-x-c.media/picons/BR/history.png, link=47354
+Nome=LIFETIME HD, imagem=http://media.c-x-c.media/picons/BR/lifetime.png, link=47353
+Nome=MAIS GLOBOSAT HD, imagem=http://media.c-x-c.media/picons/BR/Mais_Globosat.png, link=47352
+Nome=MEGAPIX HD, imagem=http://media.c-x-c.media/picons/BR/megapix.png, link=47346
+Nome=MTV HD, imagem=http://media.c-x-c.media/picons/BR/mtv.png, link=47345
+Nome=MULTISHOW HD, imagem=http://media.c-x-c.media/picons/BR/multishow.png, link=47344
+Nome=NAT GEO HD, imagem=http://media.c-x-c.media/picons/BR/nationalgeographic.png, link=47343
+Nome=NATGEO KIDS HD, imagem=http://media.c-x-c.media/picons/BR/natgeokids.png, link=47342
+Nome=NATGEO WILD HD, imagem=http://media.c-x-c.media/picons/BR/natgeowild.png, link=47341
+Nome=NATIONAL GEOGRAPHIC HD, imagem=http://media.c-x-c.media/picons/BR/nationalgeographic.png, link=47340
+Nome=NICK JR HD, imagem=http://media.c-x-c.media/picons/BR/nickjr.png, link=47339
+Nome=OFF HD, imagem=http://media.c-x-c.media/picons/BR/canaloff.png, link=47337
+Nome=PARAMOUNT HD, imagem=http://media.c-x-c.media/picons/BR/paramountchannel.png, link=47336
+Nome=PREMIERE 1 HD, imagem=http://media.c-x-c.media/picons/BR/premiere.png, link=47335
+Nome=PREMIERE 2 HD, imagem=http://media.c-x-c.media/picons/BR/premiere.png, link=47297
+Nome=PREMIERE 3 HD, imagem=http://media.c-x-c.media/picons/BR/premiere.png, link=47334
+Nome=PREMIERE 4 HD, imagem=http://media.c-x-c.media/picons/BR/premiere.png, link=47333
+Nome=PREMIERE 5 HD, imagem=http://media.c-x-c.media/picons/BR/premiere.png, link=47332
+Nome=PREMIERE 6 HD, imagem=http://media.c-x-c.media/picons/BR/premiere.png, link=47331
+Nome=PREMIERE 7 HD, imagem=http://media.c-x-c.media/picons/BR/premiere.png, link=47330
+Nome=PREMIERE CLUBES HD, imagem=http://media.c-x-c.media/picons/BR/premiere.png, link=47329
+Nome=RECORD HD, imagem=http://media.c-x-c.media/picons/BR/recordtv.png, link=47327
+Nome=RECORD NEWS HD, imagem=http://media.c-x-c.media/picons/BR/recordnews.png, link=47296
+Nome=RECORD RJ HD, imagem=http://media.c-x-c.media/picons/BR/recordnordeste.png, link=47326
+Nome=REDE TV, imagem=http://media.c-x-c.media/picons/BR/redebrasil2.png, link=47325
+Nome=SBT HD, imagem=http://media.c-x-c.media/picons/BR/sbt.png, link=47322
+Nome=SBT SP HD, imagem=http://media.c-x-c.media/picons/BR/sbtnordeste1.png, link=47321
+Nome=SPORTV 1 HD, imagem=http://media.c-x-c.media/picons/BR/sportv.png, link=47317
+Nome=SPORTV 2 HD, imagem=http://media.c-x-c.media/picons/BR/sportv2.png, link=47295
+Nome=SPORTV 3 HD, imagem=http://media.c-x-c.media/picons/BR/sportv3.png, link=47318
+Nome=STAR CHANNEL HD, imagem=http://media.c-x-c.media/picons/BR/fox.png, link=47374
+Nome=STAR HITS 1 HD, imagem=http://media.c-x-c.media/picons/BR/foxpremium1.png, link=47372
+Nome=STAR HITS 2 HD, imagem=http://media.c-x-c.media/picons/BR/foxpremium2.png, link=47371
+Nome=STAR LIFE HD, imagem=http://media.c-x-c.media/picons/BR/foxlife.png, link=47373
+Nome=SYFY HD, imagem=http://media.c-x-c.media/picons/BR/syfy.png, link=47315
+Nome=TBS, imagem=http://media.c-x-c.media/picons/BR/tbs.png, link=47398
+Nome=TELECINE ACTION HD, imagem=http://media.c-x-c.media/picons/BR/tcaction2.png, link=47314
+Nome=TELECINE FUN HD, imagem=http://media.c-x-c.media/picons/BR/tcfun2.png, link=47312
+Nome=TELECINE PIPOCA HD, imagem=http://media.c-x-c.media/picons/BR/tcpipoca.png, link=47311
+Nome=TELECINE PREMIUM HD, imagem=http://media.c-x-c.media/picons/BR/tcpremium.png, link=47310
+Nome=TELECINE TOUCH HD, imagem=http://media.c-x-c.media/picons/BR/tctouch.png, link=47309
+Nome=TLC HD, imagem=http://media.c-x-c.media/picons/BR/tlc.png, link=47307
+Nome=TNT HD, imagem=http://media.c-x-c.media/picons/BR/tnt.png, link=47306
+Nome=TNT SERIES HD, imagem=http://media.c-x-c.media/picons/BR/tntseries.png, link=47305
+Nome=TVASIL HD, imagem=http://media.c-x-c.media/picons/BR/TV_Brasil.png, link=47304
+Nome=TV RECORD, imagem=http://media.c-x-c.media/picons/BR/recordtv.png, link=13178
+Nome=UNIVERSAL CHANNEL HD, imagem=http://media.c-x-c.media/picons/BR/universalchannel.png, link=47301
+Nome=VH1 HD, imagem=http://media.c-x-c.media/picons/BR/vh1megahits.png, link=47300
+Nome=VIVA HD, imagem=http://media.c-x-c.media/picons/BR/viva-clivebesle.png, link=47299
+Nome=WARNER HD, imagem=http://media.c-x-c.media/picons/BR/warnertv.png, link=47298
