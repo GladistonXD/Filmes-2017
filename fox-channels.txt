@@ -1,5 +1,5 @@
 Nome=A&E, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/ae-logo-png-14.png, link=166810
-Nome=NET#A&E ALT, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/ae-logo-png-14.png, link=241976
+No#me=NET#A&E ALT, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/ae-logo-png-14.png, link=241976
 Nome=AXN, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/axn.png, link=166811
 Nome=NET#AMC, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/amc.png, link=241977
 Nome=Animal Planet, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/animalplanet.png, link=166830
