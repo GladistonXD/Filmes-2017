@@ -37,27 +37,27 @@ Nome=FX, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master
 Nome=Fish TV, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/fishtv.png, link=166803
 Nome=Fox Sports, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/FOX_Sports_logo.png, link=166797
 Nome=Fox Sports 2, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/FOX_Sports_logo2.png, link=166796
-Nome=GLOBO AMAZONAS, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/tv_globo_br.png, link=174383
-Nome=GLOBO ANHANGUERA GOIANIA, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/tv_globo_br.png, link=174385
-Nome=GLOBO BRASILIA, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/tv_globo_br.png, link=174387
-Nome=GLOBO CUIABA HD, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/tv_globo_br.png, link=174389
-Nome=GLOBO EPTV CAMPINAS HD, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/tv_globo_br.png, link=174390
-Nome=GLOBO EPTV RIBEIR HD, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/tv_globo_br.png, link=174391
-Nome=GLOBO EPTV Ribeirão PRETO HD, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/tv_globo_br.png, link=174392
-Nome=GLOBO EPTV SAO CARLOS, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/tv_globo_br.png, link=174393
-Nome=GLOBO INTERNACIONAL HD, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/tv_globo_br.png, link=174397
-Nome=GLOBO MINAS HD, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/tv_globo_br.png, link=174399
-Nome=GLOBO NEWS HD, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/newss.png, link=174400
+Nome=Globo Amazonas, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/tv_globo_br.png, link=174383
+Nome=Globo Anhaguera Goiãnia, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/tv_globo_br.png, link=174385
+Nome=Globo Brasilia, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/tv_globo_br.png, link=174387
+Nome=Globo Cuiabá HD, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/tv_globo_br.png, link=174389
+Nome=Globo EPTV Campinas HD, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/tv_globo_br.png, link=174390
+Nome=Globo EPTV Ribeir HD, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/tv_globo_br.png, link=174391
+Nome=Globo EPTV Ribeirão PRETO HD, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/tv_globo_br.png, link=174392
+Nome=Globo EPTV São Carlos, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/tv_globo_br.png, link=174393
+Nome=Globo Internacional HD, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/tv_globo_br.png, link=174397
+Nome=Globo Minas HD, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/tv_globo_br.png, link=174399
+Nome=Globo News HD, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/newss.png, link=174400
 Nome=NET#Globo News HD ALT, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/newss.png, link=242030
 Nome=Globo News SD, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/newss.png, link=166847
-Nome=GLOBO NORDESTE HD, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/tv_globo_br.png, link=174401
-Nome=GLOBO RIBEIR HD, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/tv_globo_br.png, link=174404
-Nome=GLOBO RIO, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/tv_globo_br.png, link=174405
-Nome=GLOBO RPC TV HD, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/tv_globo_br.png, link=174408
-Nome=GLOBO SP FHD, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/tv_globo_br.png, link=174409
-Nome=GLOBO TV BELEM, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/tv_globo_br.png, link=174410
-Nome=GLOBO TV TRIBUNA SANTOS HD, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/tv_globo_br.png, link=174416
-Nome=GLOBO TV VERDES MARES FORTALEZA HD, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/tv_globo_br.png, link=174417
+Nome=Globo Nordeste HD, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/tv_globo_br.png, link=174401
+Nome=Globo Ribeir HD, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/tv_globo_br.png, link=174404
+Nome=Globo Rio, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/tv_globo_br.png, link=174405
+Nome=Globo RPC TV HD, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/tv_globo_br.png, link=174408
+Nome=Globo SP FHD, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/tv_globo_br.png, link=174409
+Nome=Globo TV Belem, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/tv_globo_br.png, link=174410
+Nome=Globo TV Tribuna Santos HD, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/tv_globo_br.png, link=174416
+Nome=Globo TV Verdes Mares Fortaleza HD, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/tv_globo_br.png, link=174417
 Nome=Globo Amazônica HD, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/tv_globo_br.png, link=174384
 Nome=Globo Bahia HD, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/tv_globo_br.png, link=174386
 Nome=Globo Cuaibá, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/tv_globo_br.png, link=174388
