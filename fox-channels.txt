@@ -28,8 +28,7 @@ Nome=Disney Channel, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes
 Nome=Disney Junior, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/disneyjunior.png, link=166815
 Nome=Disney XD, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/disney_xd.png, link=166832
 Nome=E!, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/E!_HD_logo.png, link=166846
-Nome=NET#ESPN, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/ESPN-logo-wordmark.png, link=242008
-Nome=ESPN Brasil Sport, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/ESPN-logo-wordmark.png, link=166794
+Nome=ESPN, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/ESPN-logo-wordmark.png, link=166794
 Nome=NET#Food Network, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/615px-Food_Network_New_Logo.png, link=242012
 Nome=NET#Futura, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Canal_Futura.png, link=242019
 Nome=Star Channel, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/star-channel-us.png, link=166795
