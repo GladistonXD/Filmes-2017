@@ -1,27 +1,40 @@
 Nome=A&E, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/A%26E.png, link=166810
 Nome=AXN, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/AXN.png, link=166811
+Nome=AMC, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_AMC.png, link=241977
 Nome=Animal Planet, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/Animal%20Planet%20HD.png, link=166830
 Nome=Arte 1, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/ARTE%201.png, link=166839
 Nome=Band, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/BAND.png, link=166786
 Nome=Band News, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/BAND%20NEWS.png, link=166812
 Nome=Band Sports, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/BAND%20SPORTS.png, link=166813
+Nome=BIS, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Bis_HD.png, link=241985
 Nome=Boomerang, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/BOOMERANG%20HD.png, link=166787
 Nome=Canal Brasil, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/CANAL%20BRASIL.png, link=166784
+Nome=CANCAO NOVA, imagem=https://www.lyngsat.com/logo/tv/tt/tv_cancao_nova_pt.png, link=241988
 Nome=Canal Sony, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/Canal%20Sony.png, link=166844
 Nome=Cartoon Network, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/Cartoon%20Network.png, link=166831
 Nome=Cinemax, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/CINEMAX.png, link=166783
 Nome=Combate, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/COMBATE.png, link=166788
+Nome=COMEDY CENTRAL, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Comedy_CEntral_HD.png, link=241992
+Nome=CULTURA, imagem=https://www.lyngsat.com/logo/tv/tt/tv_cultura_br_nacional.png, link=241993
+Nome=CURTA!, imagem=https://www.lyngsat.com/logo/tv/cc/curta_br.png, link=241994
 Nome=Discovery Channel, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/DISCOVERY%20CHANNEL.png, link=166789
 Nome=Discovery Civilization, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/DISCOVERY%20CIVILIZATION.png, link=166790
 Nome=Discovery H&H, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/DISCOVERY%20H%26H.png, link=166791
 Nome=Discovery Kids, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/Discovery%20Kids.png, link=166845
 Nome=Discovery Science, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/DISCOVERY%20SCIENCE.png, link=166792
 Nome=Discovery Turbo, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/DISCOVERY%20TURBO.png, link=166793
+Nome=DISCOVERY TLC, imagem=https://www.lyngsat.com/logo/tv/tt/tlc_lam.png, link=242001
+Nome=DISCOVERY WORLD, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Discovery_World_HD.png, link=242003
+Nome=DISNEY CHANNEL, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Disney_Channel_HD.png, link=242004
 Nome=Disney Channel, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/DISNEY%20CHANNEL.png, link=166814
 Nome=Disney Junior, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/Disney%20Junior.png, link=166815
 Nome=Disney XD, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/Disney%20XD.png, link=166832
 Nome=E!, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/E%21.png, link=166846
+Nome=ESPN, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Espn_HD.png, link=242008
 Nome=ESPN Brasil Sport, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/ESPN%20BRASIL%20SPORT.png, link=166794
+Nome=FISH TV, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Fish_TV_SD.png, link=242011
+Nome=FOOD NETWORK, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Food_Network_HD.png, link=242012
+Nome=FUTURA, imagem=https://www.lyngsat.com/logo/tv/cc/canal_futura.png, link=242019
 Nome=Star Channel, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/Fox.png, link=166795
 Nome=FX, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/FX.png, link=166833
 Nome=Fish TV, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/FISH%20TV.png, link=166803
@@ -55,6 +68,7 @@ Nome=Globo Fortaleza HD, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOG
 Nome=Globo Goiãnia TV, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/TV%20Globo.png, link=174396
 Nome=Globo Manaus HD, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/TV%20Globo.png, link=174398
 Nome=Globo News, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/GLOBO%20NEWS.png, link=166847
+Nome=Globo News Alt, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Globo_SP_HD.png, link=242030
 Nome=Globo RBS RS TV FHD, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/GLOBO%20RBS%20PORTO%20ALEGRE.png, link=174403
 Nome=Globo RJ HD, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/GLOBO%20RJ.png, link=174406
 Nome=Globo RPC Paranu00e1 HD, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/GLOBO%20RPC%20TV.png, link=174407
@@ -66,32 +80,67 @@ Nome=Globo TV Tem Bauru HD, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-
 Nome=Globo TV Tem Sorocaba HD, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/GLOBO%20TV%20TEM%20SOROCABA.png, link=174414
 Nome=Globo TV Tribuna HD, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/GLOBO%20TV%20TRIBUNA%20SANTOS.png, link=174415
 Nome=Gloob, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/GLOOB.png, link=166840
+Nome=GNT, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Gnt_HD.png, link=242045
 Nome=H2, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/H2.png, link=166834
 Nome=HBO, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/HBO.png, link=166817
 Nome=HBO 2, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/HBO%202.png, link=166818
 Nome=HBO Family, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/HBO%20Family.png, link=166819
 Nome=HBO Plus, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/HBO%20Plus.png, link=166820
 Nome=HBO Signature, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/HBO%20Signature.png, link=166821
+Nome=HBO XTREME , imagem=https://www.lyngsat.com/logo/tv/hh/hbo-xtreme-us.png, link=242056
+Nome=HISTORIA 2, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_H2_HD.png, link=242046
+Nome=HISTORY CHANNEL, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_History_HD.png, link=242053
+Nome=ID INVESTIGAÇÃO, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Id_Discovery_SD.png, link=242054
+Nome=LIFETIME, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Lifetime_SD.png, link=242055
 Nome=Investigação Discovery, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/Investiga%C3%A7%C3%A3o%20Discovery.png, link=166848
 Nome=Mais Globosat, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/MAIS%20GLOBO%20SA.png, link=166838
 Nome=Max, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/MAX.png, link=166822
 Nome=Max Prime, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/MAX%20PRIME.png, link=166824
 Nome=Max Up, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/Max%20Up.png, link=166823
 Nome=MegaPix, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/MegaPix.png, link=166841
+Nome=MTV, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BG_MTV.png, link=242060
+Nome=MTV LIVE, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BG_MTV_Live_HD.png, link=242061
+Nome=MUSIC BOX BRAZIL, imagem=https://www.lyngsat.com/logo/tv/bb/box_brazil_music.png, link=242062
+Nome=NAT GEO KIDS, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Natgeo_Kids_HD.png, link=242063
+Nome=NATGEO WILD, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Natgeo_Wild_HD.png, link=242064
 Nome=National Geographic, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/NATIONAL%20GEOGRAPHIC.png, link=166805
 Nome=Nick Jr, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/NICK%20JR.png, link=166807
 Nome=Nickelodeon, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/NICKELODEON.png, link=166806
+Nome=OFF, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Off_HD.png, link=242068
 Nome=PFC, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/PFC.png, link=166849
 Nome=PREMIERE CLUBES HD, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/PREMIERE%20CLUBES.png, link=166802
 Nome=Premiere 1 HD, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/PREMIERE%201.png, link=166801
+Nome=Premiere 2, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Premiere_7_HD.png, link=242071
+Nome=Premiere 3, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Premiere_7_HD.png, link=242072
+Nome=Premiere 4, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Premiere_7_HD.png, link=242073
+Nome=Premiere 5, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Premiere_7_HD.png, link=242074
+Nome=Premiere 6, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Premiere_7_HD.png, link=242075
+Nome=Premiere 7, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Premiere_7_HD.png, link=242076
+Nome=Premiere 8, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Premiere_7_HD.png, link=242077
+Nome=RECORD, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Record_HD.png, link=242079
+Nome=RECORD AMAZONAS, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Record_HD.png, link=242080
+Nome=RECORD CAMPINAS, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Record_HD.png, link=242081
+Nome=RECORD ESP. SANTO, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Record_HD.png, link=242082
+Nome=RECORD MG, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Record_Mg_SD.png, link=242083
+Nome=RECORD NEWS, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Record_News_HD.png, link=242084
+Nome=RECORD NORDESTE, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Record_HD.png, link=242085
+Nome=RECORD SP, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Record_HD.png, link=242086
 Nome=Record News, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/RECORD%20NEWS.png, link=166835
+Nome=REDE FAMILIA, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Rede_TV_SD.png, link=242087
+Nome=REDE TV, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Rede_TV_HD.png, link=242088
+Nome=REDE VIDA, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Rede_TV_HD.png, link=242089
+Nome=SBT TV CIDADE VERDE PIAUI, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Sbt_Cidade_Verde_HD.png, link=242092
+Nome=SPACE, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_SPace_HD.png, link=242094
 Nome=SporTV, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/SPORT%20TV%202.png, link=166798
 Nome=SporTV 2, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/SPORT%20TV%202.png, link=166799
 Nome=SporTV 3, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/SPORT%20TV%203.png, link=166800
 Nome=Studio Universal, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/SPORT%20TV.png, link=166850
 Nome=Syfy, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/SYFY.png, link=166842
+Nome=TBS, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Tbs_HD.png, link=242100
 Nome=TCM, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/TCM%20HD.png, link=166836
 Nome=TNT, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/TNT.png, link=166837
+Nome=TNT Series, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Tnt_Series_HD.png, link=242110
+Nome=TV GAZETA, imagem=https://www.lyngsat.com/logo/tv/tt/tv_gazeta_acre.png, link=242114
 Nome=TV Brasil, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/TV%20Brasil.png, link=166782
 Nome=TV Globo, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/TV%20Globo.png, link=174381
 Nome=TV Globo Premium HD, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/TV%20Globo%20Premium.png, link=174382
@@ -104,4 +153,5 @@ Nome=Telecine Touch, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PI
 Nome=The History Channel, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/THE%20HISTORY%20CHANNEL.png, link=166804
 Nome=Tooncast, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/TOOCAST.png, link=166808
 Nome=Universal Channel, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/UNIVERSAL%20CHANNEL.png, link=166809
+Nome=WARNER CHANNEL, imagem=http://logo-sltv.ddns.net/SLTV-LOGOS/icons/all_icons_1/BR_Warner_Channel_HD.png, link=242119
 Nome=Woohoo Brasil, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/WOOHOO%20BRASIL.png, link=166843
