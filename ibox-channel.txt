@@ -1,0 +1,140 @@
+Nome=A&E FHD, imagem=",, link=202573
+Nome=AE HD, imagem=",, link=202630
+Nome=AMC HD, imagem=",, link=202571
+Nome=AXN FHD, imagem=",, link=202569
+Nome=AXN HD, imagem=",, link=202627
+Nome=Animal Planet FHD, imagem=",, link=202572
+Nome=Animal Planet HD, imagem=",, link=202629
+Nome=Arte 1, imagem=",, link=202628
+Nome=Arte 1 HD, imagem=",, link=202570
+Nome=BABY TV HD, imagem=",, link=202568
+Nome=BAND CAMPINAS, imagem=",, link=202567
+Nome=BAND NEWS FHD, imagem=",, link=202566
+Nome=BIS HD, imagem=",, link=202565
+Nome=BOOMERANG HD, imagem=",, link=202564
+Nome=Band News HD, imagem=",, link=202624
+Nome=Band Sport HD, imagem=",, link=202626
+Nome=CARTOON NETWORK HD, imagem=",, link=202562
+Nome=CINEMAX HD, imagem=",, link=202559
+Nome=COMBATE FHD, imagem=",, link=202558
+Nome=COMEDY CENTRAL FHD, imagem=",, link=202557
+Nome=CULTURA HD, imagem=",, link=202556
+Nome=CURTA! HD, imagem=",, link=202555
+Nome=Can, imagem=",, link=202625
+Nome=Canalasil HD, imagem=",, link=202563
+Nome=DISCOVERY CHANNEL HD, imagem=",, link=202554
+Nome=DISCOVERY CIVILIZATION HD, imagem=",, link=202553
+Nome=DISCOVERY HOME & HEALTH FHD, imagem=",, link=202552
+Nome=DISCOVERY KIDS HD, imagem=",, link=202551
+Nome=DISCOVERY SCIENCE HD, imagem=",, link=202550
+Nome=DISCOVERY THEATER HD, imagem=",, link=202548
+Nome=DISCOVERY TLC HD, imagem=",, link=202547
+Nome=DISCOVERY WORLD HD, imagem=",, link=202546
+Nome=DISNEY CHANNEL FHD, imagem=",, link=202545
+Nome=DISNEY Junior, imagem=",, link=202544
+Nome=DISNEY XD HD, imagem=",, link=202543
+Nome=Discovery TV, imagem=",, link=202623
+Nome=Discovery Turbo HD, imagem=",, link=202574
+Nome=E! HD, imagem=",, link=202542
+Nome=ESPN HD, imagem=",, link=202541
+Nome=ESPN2 HD, imagem=",, link=202539
+Nome=ESPNASIL HD, imagem=",, link=202540
+Nome=FISH TV HD, imagem=",, link=202538
+Nome=FOOD NETWORK HD, imagem=",, link=202537
+Nome=FOX HD, imagem=",, link=202536
+Nome=FOX LIFE HD, imagem=",, link=202535
+Nome=FOX PREMIUM 1 HD, imagem=",, link=202534
+Nome=FOX PREMIUM 2 HD, imagem=",, link=202533
+Nome=FOX SPORTS 2 HD, imagem=",, link=202531
+Nome=FOX SPORTS FHD, imagem=",, link=202532
+Nome=FOX Sports 2, imagem=",, link=202620
+Nome=FOX Sports HD, imagem=",, link=202621
+Nome=FUTURA HD, imagem=",, link=202530
+Nome=FX FHD, imagem=",, link=202529
+Nome=Fish TV, imagem=",, link=202622
+Nome=GLOBO AMAZONAS HD, imagem=",, link=202528
+Nome=GLOBO BAHIA FHD, imagem=",, link=202527
+Nome=GLOBO CUIABA HD, imagem=",, link=202526
+Nome=GLOBO EPTV CAMPINAS HD, imagem=",, link=202525
+Nome=GLOBO EPTV RIBEIR, imagem=",, link=202524
+Nome=GLOBO EPTV SAO CARLOS, imagem=",, link=202523
+Nome=GLOBO INTERNACIONAL HD, imagem=",, link=202522
+Nome=GLOBO NEWS FHD, imagem=",, link=202521
+Nome=GLOBO NORDESTE HD, imagem=",, link=202520
+Nome=GLOBO RBS PORTO ALEGRE, imagem=",, link=202519
+Nome=GLOBO RIBEIR HD, imagem=",, link=202518
+Nome=GLOBO RIO GRANDE DO NORTE HD, imagem=",, link=202517
+Nome=GLOBO RJ FHD, imagem=",, link=202516
+Nome=GLOBO RPC TV, imagem=",, link=202515
+Nome=GLOBO SP FHD, imagem=",, link=202514
+Nome=GLOBO TV BELEM, imagem=",, link=202513
+Nome=GLOBO TV TRIBUNA SANTOS, imagem=",, link=202512
+Nome=GLOBO TV VANGUARDA S.J DOS CAMPOS, imagem=",, link=202511
+Nome=GLOBO TV VERDES MARES FORTALEZA HD, imagem=",, link=202510
+Nome=GLOOB FHD, imagem=",, link=202509
+Nome=GNT HD, imagem=",, link=202508
+Nome=Globo MINAS HD, imagem=",, link=202617
+Nome=Globo News, imagem=",, link=202619
+Nome=Globo Nordeste, imagem=",, link=202618
+Nome=Globo RJ, imagem=",, link=202616
+Nome=Globo RJ HD, imagem=",, link=202615
+Nome=Globo SP, imagem=",, link=202614
+Nome=Globo SP HD, imagem=",, link=202613
+Nome=Gloob, imagem=",, link=202612
+Nome=H2 FHD, imagem=",, link=202507
+Nome=HBO 2 HD, imagem=",, link=202505
+Nome=HBO FAMILY HD, imagem=",, link=202504
+Nome=HBO HD, imagem=",, link=202506
+Nome=HBO PLUS FHD, imagem=",, link=202503
+Nome=HBO PLUS HD, imagem=",, link=202502
+Nome=HBO POP HD, imagem=",, link=202497
+Nome=HBO SIGNATURE FHD, imagem=",, link=202501
+Nome=HBO Xtreme FHD, imagem=",, link=202498
+Nome=History FHD, imagem=",, link=202611
+Nome=ID FHD, imagem=",, link=202500
+Nome=LIFETIME HD, imagem=",, link=202499
+Nome=MEGAPIX HD, imagem=",, link=202496
+Nome=MTV, imagem=",, link=202610
+Nome=MTV HD, imagem=",, link=202495
+Nome=MTV LIVE FHD, imagem=",, link=202494
+Nome=MUSIC BOXAZIL, imagem=",, link=202493
+Nome=Mais Globosat HD, imagem=",, link=202609
+Nome=MegaPix, imagem=",, link=202608
+Nome=MegaPix TV, imagem=",, link=202607
+Nome=NAT GEO KIDS HD, imagem=",, link=202492
+Nome=NAT GEO WILD HD, imagem=",, link=202491
+Nome=NATIONAL GEOGRAPHIC HD, imagem=",, link=202490
+Nome=NICK JR HD, imagem=",, link=202489
+Nome=NICKELODEON HD, imagem=",, link=202488
+Nome=PREMIERE 1 HD, imagem=",, link=202581
+Nome=PREMIERE 2 HD, imagem=",, link=202580
+Nome=PREMIERE 3 HD, imagem=",, link=202579
+Nome=PREMIERE 4 HD, imagem=",, link=202578
+Nome=PREMIERE 5 HD, imagem=",, link=202577
+Nome=PREMIERE 6 HD, imagem=",, link=202576
+Nome=PREMIERE 7 HD, imagem=",, link=202575
+Nome=RCTV, imagem=",, link=202606
+Nome=Rede Gospel, imagem=",, link=202604
+Nome=Rede TV, imagem=",, link=202603
+Nome=Redeasil, imagem=",, link=202605
+Nome=SporTV 1, imagem=",, link=202602
+Nome=SporTV 2, imagem=",, link=202601
+Nome=SporTV 3, imagem=",, link=202600
+Nome=Studio Universal HD, imagem=",, link=202585
+Nome=Syfy, imagem=",, link=202599
+Nome=TC Action, imagem=",, link=202598
+Nome=TC Cult, imagem=",, link=202597
+Nome=TC Fun, imagem=",, link=202596
+Nome=TC Pipoca HD, imagem=",, link=202595
+Nome=TLC, imagem=",, link=202591
+Nome=TNT HD, imagem=",, link=202594
+Nome=TV Diario, imagem=",, link=202592
+Nome=TV Gazeta HD, imagem=",, link=202590
+Nome=TV Geral, imagem=",, link=202589
+Nome=TV Globo, imagem=",, link=202588
+Nome=TV Globo Premium, imagem=",, link=202587
+Nome=TVasil Central, imagem=",, link=202593
+Nome=Universal TV, imagem=",, link=202586
+Nome=VH1 Mega Hits, imagem=",, link=202583
+Nome=Warner TV, imagem=",, link=202582
+Nome=Woohoo HD, imagem=",, link=202584
