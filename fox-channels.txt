@@ -26,7 +26,7 @@ Nome=Discovery Kids, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes
 Nome=Discovery Science, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Discovery_Science_Canada.png, link=166792
 Nome=Discovery Turbo, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Discovery_Turbo.png, link=166793
 Nome=NET#Discovery World, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/discoveryworld.png, link=242003
-Nome=Disney Channel, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Disney-Channel.png, link=166814
+No#me=Disney Channel, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Disney-Channel.png, link=166814
 Nome=DONT#Disney Channel, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Disney-Channel.png, link=47383
 Nome=Disney Junior, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/disneyjunior.png, link=166815
 Nome=Disney XD, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/disney_xd.png, link=166832
@@ -123,7 +123,7 @@ Nome=Record News, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-20
 Nome=NET#Rede TV, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/redetv.png, link=242088
 Nome=NET#Rede TV SD, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/redetv.png, link=242087
 Nome=NET#Rede Vida, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/redetv.png, link=242089
-Nome=DONT#SBT HD, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/0_sbt_logo.png, link=47322
+No#me=DONT#SBT HD, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/0_sbt_logo.png, link=47322
 Nome=NET#SBT SD, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/0_sbt_logo.png, link=242092
 Nome=NET#Space, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Space.png, link=242094
 Nome=SporTV, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/SporTV_2_logo_20167.png, link=166798
