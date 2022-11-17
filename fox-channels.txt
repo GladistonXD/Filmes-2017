@@ -142,7 +142,7 @@ Nome=Telecine Fun, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2
 Nome=Telecine Pipoca, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/telecine3.png, link=166851
 Nome=Telecine Premium, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/telecine1.png, link=166828
 Nome=Telecine Touch, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/telecine6.png, link=166829
-Nome=Tooncast, imagem=http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/TOOCAST.png, link=166808
+Nome=Tooncast, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/pic_tooncast.png, link=166808
 Nome=Universal Channel, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Universal_TV_HD_Logo_2018.png, link=166809
 Nome=NET#Warner Channel, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/wb.png, link=242119
 Nome=Woohoo Brasil, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/woohoo.png, link=166843
