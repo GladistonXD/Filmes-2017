@@ -27,6 +27,7 @@ Nome=Discovery Science, imagem=https://raw.githubusercontent.com/GladistonXD/Fil
 Nome=Discovery Turbo, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Discovery_Turbo.png, link=166793
 Nome=NET#Discovery World, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/discoveryworld.png, link=242003
 Nome=Disney Channel, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Disney-Channel.png, link=166814
+Nome=DONT#Disney Channel, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Disney-Channel.png, link=47383
 Nome=Disney Junior, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/disneyjunior.png, link=166815
 Nome=Disney XD, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/disney_xd.png, link=166832
 Nome=E!, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/E!_HD_logo.png, link=166846
@@ -143,7 +144,7 @@ Nome=Telecine Pipoca, imagem=https://raw.githubusercontent.com/GladistonXD/Filme
 Nome=Telecine Premium, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/telecine1.png, link=166828
 Nome=Telecine Touch, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/telecine6.png, link=166829
 Nome=Tooncast, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/pic_tooncast.png, link=166808
-Nome=Uni#versal Channel, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Universal_TV_HD_Logo_2018.png, link=166809
+No#me=Universal Channel, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Universal_TV_HD_Logo_2018.png, link=166809
 Nome=NET#Warner Channel, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/wb.png, link=242119
 Nome=DONT#Warner Channel, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/wb.png, link=47298
 Nome=Woohoo Brasil, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/woohoo.png, link=166843
