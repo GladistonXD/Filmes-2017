@@ -13,7 +13,8 @@ Nome=Canal Brasil, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2
 No#me=NET#Canção Nova, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/cancaonova.png, link=241988
 Nome=Canal Sony, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/canal_sony.png, link=166844
 Nome=Cartoon Network, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/CartoonNetwork.png, link=166831
-Nome=Cinemax, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/cineamaxHD.png, link=166783
+Nome=NET#Cinemax HD, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/cineamaxHD.png, link=242056
+Nome=Cinemax SD, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/cineamaxHD.png, link=166783
 Nome=Combate, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/ufc-combate-png-3.png, link=166788
 Nome=NET#Comedy CentraL, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/osncentral.png, link=241992
 Nome=NET#Cultura, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Cultura.png, link=241993
@@ -85,7 +86,6 @@ Nome=HBO 2, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/mas
 Nome=HBO Plus, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/HBOPLUS.png, link=166820
 Nome=HBO Family, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/HBOFAMILY.png, link=166819
 Nome=HBO Signature, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/hbosig.png, link=166821
-Nome=NET#HBO Xtreme , imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/hboxtreme.png, link=242056
 Nome=History Channel, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/history.png, link=166804
 Nome=H2, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/h2.png, link=166834
 Nome=NET#LifeTime, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/1200px-Lifetime_logo17.png, link=242055
