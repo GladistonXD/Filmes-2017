@@ -16,7 +16,7 @@ Nome=Cartoon Network, imagem=https://raw.githubusercontent.com/GladistonXD/Filme
 Nome=NET#Cinemax HD, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/cineamaxHD.png, link=242056
 Nome=Cinemax SD, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/cineamaxHD.png, link=166783
 Nome=Combate, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/ufc-combate-png-3.png, link=166788
-Nome=NET#Comedy CentraL, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/osncentral.png, link=241992
+Nome=NET#Comedy Central, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/osncentral.png, link=241992
 Nome=NET#Cultura, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Cultura.png, link=241993
 Nome=NET#Curta!, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/curta-png-8.png, link=241994
 Nome=Discovery Channel, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Discovery.png, link=166789
@@ -97,7 +97,8 @@ Nome=NET#MTV, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/m
 Nome=NET#MTV Live, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/mtvlive.png, link=242061
 Nome=NET#Music Box Brazil, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/musicbox.png, link=242062
 Nome=NET#Nat Geo Kids, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/nat-geo-kids-abu-dhabi.png, link=242063
-Nome=NET#Nat Geo Wild, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/natwild.png, link=242064
+No#me=NET#Nat Geo Wild, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/natwild.png, link=242064
+Nome=DONT#Nat Geo Wild, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/natwild.png, link=47341
 Nome=National Geographic, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/natgeo.png, link=166805
 Nome=Nick Jr, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Nick_jr.png, link=166807
 Nome=Nickelodeon, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/NICKELODEON_Logo.png, link=166806
