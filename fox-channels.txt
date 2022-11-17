@@ -94,7 +94,7 @@ Nome=Investigação Discovery, imagem=https://raw.githubusercontent.com/Gladisto
 Nome=Mais Globosat, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/maisss.png, link=166838
 Nome=MegaPix, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/megapix.png, link=166841
 Nome=NET#MTV, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/MTV_Canada_logo.png, link=242060
-Nome=NET#MTV Live, imagem=imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/mtvlive.png, link=242061
+Nome=NET#MTV Live, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/mtvlive.png, link=242061
 Nome=NET#Music Box Brazil, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/musicbox.png, link=242062
 Nome=NET#Nat Geo Kids, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/nat-geo-kids-abu-dhabi.png, link=242063
 Nome=NET#Nat Geo Wild, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/natwild.png, link=242064
