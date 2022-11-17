@@ -123,6 +123,7 @@ Nome=Record News, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-20
 Nome=NET#Rede TV, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/redetv.png, link=242088
 Nome=NET#Rede TV SD, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/redetv.png, link=242087
 Nome=NET#Rede Vida, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/redetv.png, link=242089
+Nome=DONT#SBT HD, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/0_sbt_logo.png, link=47322
 Nome=NET#SBT SD, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/0_sbt_logo.png, link=242092
 Nome=NET#Space, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Space.png, link=242094
 Nome=SporTV, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/SporTV_2_logo_20167.png, link=166798
