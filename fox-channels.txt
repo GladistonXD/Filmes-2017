@@ -10,7 +10,7 @@ Nome=Band Sports, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-20
 Nome=NET#BIS, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/bis.png, link=241985
 Nome=Boomerang, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Boomerang_tv_logo.png, link=166787
 Nome=Canal Brasil, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/canalbra.png, link=166784
-Nome=NET#Canção Nova, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/cancaonova.png, link=241988
+No#me=NET#Canção Nova, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/cancaonova.png, link=241988
 Nome=Canal Sony, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/canal_sony.png, link=166844
 Nome=Cartoon Network, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/CartoonNetwork.png, link=166831
 Nome=Cinemax, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/cineamaxHD.png, link=166783
