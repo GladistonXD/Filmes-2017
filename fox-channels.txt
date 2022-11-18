@@ -82,7 +82,7 @@ Nome=Gloob, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/mas
 Nome=TV Globo, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/tv_globo_br.png, link=174381
 Nome=TV Globo Premium HD, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/tv_globo_br.png, link=174382
 Nome=NET#GNT, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/GNT_HD.png, link=242045
-No#me=HBO, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/hbo.png, link=166817
+Nome=HBO, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/hbo.png, link=166817
 Nome=DONT#HBO, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/hbo.png, link=47357
 Nome=HBO 2, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/hbo2.png, link=166818
 Nome=HBO Plus, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/HBOPLUS.png, link=166820
