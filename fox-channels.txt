@@ -1,3 +1,6 @@
+NET="MDA6MUE6Nzk6NzY6RDg6RjI=#aHR0cDovL2Jlc3R0di5jbHViOjgwODAv%2320"
+DONT="MDA6MUE6Nzk6QUI6QUI6QTg=#aHR0cDovL2RvbnQudC12LmlvLw==%41"
+
 No#me=A&E, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/ae-logo-png-14.png, link=166810
 Nome=DONT#A&E, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/ae-logo-png-14.png, link=47407
 Nome=AXN, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/axn.png, link=166811
