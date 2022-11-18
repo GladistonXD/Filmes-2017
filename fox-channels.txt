@@ -106,7 +106,7 @@ Nome=Nickelodeon, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-20
 Nome=NET#OFF, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/canal_off.png, link=242068
 Nome=PFC, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/pfc.png, link=166849
 Nome=Premiere Clubes HD, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/premiere0.png, link=166802
-Nome=Premiere 1 HD, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/premiere0.png, link=166801
+Nome=Premiere 1, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/premiere0.png, link=166801
 Nome=NET#Premiere 2, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/premiere0.png, link=242071
 Nome=NET#Premiere 3, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/premiere0.png, link=242072
 Nome=NET#Premiere 4, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/premiere0.png, link=242073
@@ -149,5 +149,5 @@ Nome=Telecine Touch, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes
 Nome=Tooncast, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/pic_tooncast.png, link=166808
 No#me=Universal Channel, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Universal_TV_HD_Logo_2018.png, link=166809
 Nome=NET#Warner Channel, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/wb.png, link=242119
-Nome=DONT#Warner Channel, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/wb.png, link=47298
+No#me=DONT#Warner Channel, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/wb.png, link=47298
 Nome=Woohoo Brasil, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/woohoo.png, link=166843
