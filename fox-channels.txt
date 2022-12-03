@@ -11,7 +11,7 @@ Nome=Arte 1, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/ma
 Nome=Band, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/bandhdtv.png, link=166786
 Nome=Band News, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/band_news.png, link=166812
 Nome=Band Sports, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/band_sport.png, link=166813
-Nome=NET#BIS, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/bis.png, link=241985
+No#me=NET#BIS, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/bis.png, link=241985
 Nome=Boomerang, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Boomerang_tv_logo.png, link=166787
 Nome=Canal Brasil, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/canalbra.png, link=166784
 No#me=NET#Canção Nova, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/cancaonova.png, link=241988
