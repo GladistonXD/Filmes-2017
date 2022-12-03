@@ -3,14 +3,14 @@ No#me=AGRO BRAZIL, Link=99969, imagem=https://is4-ssl.mzstatic.com/image/thumb/P
 No#me=ALFA TV, Link=99970, imagem=https://yt3.ggpht.com/ytc/AMLnZu8-ZpujB8GjfOZlaH_bXiWlvHnyj4mXt7WLYgwZSA=s900-c-k-c0x00ffffff-no-rj
 Nome=AMC HD, Link=99971, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/amc.png
 Nome=ANIMAL PLANET HD, Link=99972, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/animalplanet.png
-No#me=ARTE 1 FHD, Link=99973, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Arte-1-Logo-1-1927.png
+Nome=ARTE 1 FHD, Link=99973, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Arte-1-Logo-1-1927.png
 Nome=AXN FHD, Link=99974, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/axn.png
 No#me=BAND CAMPINAS HD, Link=99976, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/bandhdtv.png
 No#me=BAND HD, Link=99977, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/bandhdtv.png
 Nome=BAND NEWS HD, Link=99978, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/band_news.png
 No#me=Band Sport HD, Link=99979, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/band_sport.png
 No#me=BG MUSIC HD, Link=99980, imagem=""
-No#me=BIS FHD, Link=99981, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/bis.png
+Nome=BIS FHD, Link=99981, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/bis.png
 Nome=BOOMERANG FHD, Link=99982, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Boomerang_tv_logo.png
 No#me=BOX TV, Link=99983, imagem=""
 No#me=BULGARIA ON AIR, Link=99984, imagem=""
@@ -128,14 +128,14 @@ Nome=OFF FHD, Link=100094, imagem=https://raw.githubusercontent.com/GladistonXD/
 Nome=PARAMOUNT CHANNEL HD, Link=100095, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/paramount.png
 No#me=PLANETA HD, Link=100096, imagem=""
 Nome=PREMIERE CLUBES HD, Link=100105, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/premiere0.png
-Nome=premier 1 HD, Link=100097, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/premiere0.png
+No#me=premier 1 HD, Link=100097, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/premiere0.png
 Nome=PREMIERE 2 FHD, Link=100099, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/premiere0.png
-Nome=PREMIERE 3 FHD, Link=100100, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/premiere0.png
-Nome=PREMIERE 4 HD, Link=100101, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/premiere0.png
-Nome=PREMIERE 5 HD, Link=100102, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/premiere0.png
-Nome=PREMIERE 6 HD, Link=100103, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/premiere0.png
-Nome=premier 7 HD, Link=100098, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/premiere0.png
-Nome=PREMIERE 8, Link=100104, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/premiere0.png
+No#me=PREMIERE 3 FHD, Link=100100, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/premiere0.png
+No#me=PREMIERE 4 HD, Link=100101, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/premiere0.png
+No#me=PREMIERE 5 HD, Link=100102, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/premiere0.png
+No#me=PREMIERE 6 HD, Link=100103, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/premiere0.png
+No#me=premier 7 HD, Link=100098, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/premiere0.png
+No#me=PREMIERE 8, Link=100104, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/premiere0.png
 Nome=RA TIM BUM HD, Link=100106, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Ratimbum.png
 No#me=RECORD AMAZONAS HD, Link=100107, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Record_TV_HD_.png
 No#me=RECORD CAMPINAS HD, Link=100108, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Record_TV_HD_.png
@@ -186,70 +186,3 @@ Nome=WOHOO FHD, Link=100153, imagem=https://raw.githubusercontent.com/GladistonX
 No#me=WOOHOO HD, Link=100154, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/woohoo.png
 Nome=Warner Bros FHD, Link=100151, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/wb.png
 No#me=ZOOMO FHD, Link=100155, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/ar_zoomoo_m.png
-Nome=A&E, Link=86344, imagem=''
-Nome=ARTE 1, Link=86373, imagem=''
-Nome=AXN, Link=86345, imagem=''
-Nome=Animal Planet, Link=86364, imagem=''
-Nome=Band, Link=86320, imagem=''
-Nome=Band News, Link=86346, imagem=''
-Nome=Band Sports, Link=86347, imagem=''
-Nome=Boomerang, Link=86321, imagem=''
-Nome=Canal Brasil, Link=86318, imagem=''
-Nome=Cartoon Network, Link=86365, imagem=''
-Nome=Cinemax, Link=86317, imagem=''
-Nome=Combate, Link=86322, imagem=''
-Nome=Discovery Channel, Link=86323, imagem=''
-Nome=Discovery Civilization, Link=86324, imagem=''
-Nome=Discovery H&H, Link=86325, imagem=''
-Nome=Discovery Kids, Link=86379, imagem=''
-Nome=Discovery Science, Link=86326, imagem=''
-Nome=Discovery Turbo, Link=86327, imagem=''
-Nome=Disney Channel, Link=86348, imagem=''
-Nome=Disney Junior, Link=86349, imagem=''
-Nome=Disney XD, Link=86366, imagem=''
-Nome=E!, Link=86380, imagem=''
-Nome=ESPN Brasil Sport, Link=86328, imagem=''
-Nome=FOX, Link=86329, imagem=''
-Nome=FX, Link=86367, imagem=''
-Nome=Fish TV, Link=86337, imagem=''
-Nome=Fox Life, Link=86350, imagem=''
-Nome=Globo News, Link=86381, imagem=''
-Nome=Globo SP, Link=86319, imagem=''
-Nome=Gloob, Link=86374, imagem=''
-Nome=H2, Link=86368, imagem=''
-Nome=HBO, Link=86351, imagem=''
-Nome=HBO 2, Link=86352, imagem=''
-Nome=HBO Family, Link=86353, imagem=''
-Nome=HBO Plus, Link=86354, imagem=''
-Nome=HBO Signature, Link=86355, imagem=''
-Nome=Investiga\xc3\xa7\xc3\xa3o Discovery, Link=86382, imagem=''
-Nome=Mais Globosat, Link=86372, imagem=''
-Nome=Max, Link=86356, imagem=''
-Nome=Max Prime, Link=86358, imagem=''
-Nome=Max Up, Link=86357, imagem=''
-Nome=MegaPix, Link=86375, imagem=''
-Nome=National Geographic, Link=86339, imagem=''
-Nome=Nick Jr, Link=86341, imagem=''
-Nome=Nickelodeon, Link=86340, imagem=''
-Nome=PARAMOUNT, Link=86335, imagem=''
-Nome=PFC, Link=86383, imagem=''
-Nome=PREMIERE CLUBES HD, Link=86336, imagem=''
-Nome=Record News, Link=86369, imagem=''
-Nome=Sony, Link=86378, imagem=''
-Nome=SporTV, Link=86332, imagem=''
-Nome=SporTV 2, Link=86333, imagem=''
-Nome=SporTV 3, Link=86334, imagem=''
-Nome=Studio Universal, Link=86384, imagem=''
-Nome=Syfy, Link=86376, imagem=''
-Nome=TCM, Link=86370, imagem=''
-Nome=TNT, Link=86371, imagem=''
-Nome=TV Brasil, Link=86316, imagem=''
-Nome=Telecine Action, Link=86359, imagem=''
-Nome=Telecine Cult, Link=86360, imagem=''
-Nome=Telecine Fun, Link=86361, imagem=''
-Nome=Telecine Premium, Link=86362, imagem=''
-Nome=Telecine Touch, Link=86363, imagem=''
-Nome=The History Channel, Link=86338, imagem=''
-Nome=Tooncast, Link=86342, imagem=''
-Nome=Universal Channel, Link=86343, imagem=''
-Nome=Woohoo Brasil, Link=86377, imagem=''
