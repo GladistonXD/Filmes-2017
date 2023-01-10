@@ -2,7 +2,7 @@ FOX="MDA6MUE6Nzk6QjI6Q0I6RkE="
 NET="MDA6MUE6Nzk6NzY6RDg6RjI=#aHR0cDovL2Jlc3R0di5jbHViOjgwODAv%2320"
 DONT="MDA6MUE6Nzk6QUI6QUI6QTg=#aHR0cDovL2RvbnQudC12LmlvLw==%41"
 
-No#me=A&E, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/ae-logo-png-14.png, link=166810
+Nome=A&E, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/ae-logo-png-14.png, link=166810
 No#me=DONT#A&E, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/ae-logo-png-14.png, link=47407
 Nome=AXN, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/axn.png, link=166811
 No#me=NET#AMC, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/amc.png, link=241977
@@ -55,7 +55,7 @@ Nome=Globo EPTV São Carlos, imagem=https://raw.githubusercontent.com/GladistonX
 Nome=Globo Internacional HD, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/tv_globo_br.png, link=174397
 Nome=Globo Minas HD, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/tv_globo_br.png, link=174399
 Nome=Globo News HD, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/newss.png, link=174400
-Nome=NET#Globo News HD ALT, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/newss.png, link=242030
+No#me=NET#Globo News HD ALT, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/newss.png, link=242030
 Nome=Globo News SD, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/newss.png, link=166847
 Nome=Globo Nordeste HD, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/tv_globo_br.png, link=174401
 Nome=Globo Ribeir HD, imagem=https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/tv_globo_br.png, link=174404
