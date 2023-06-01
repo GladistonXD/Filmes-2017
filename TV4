@@ -104,11 +104,11 @@
 
 <title>[B][COLOR white]A&E[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
 <link>ae<link>
-<thumbnail>https://skyrisk.github.io/brazucaplay/logos/amc.png</thumbnail>
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/ae.png</thumbnail>
 
 <title>[B][COLOR white]AMC[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
 <link>amc<link>
-<thumbnail>https://skyrisk.github.io/brazucaplay/logos/axn.png</thumbnail>
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/amc.png</thumbnail>
 
 <title>[B][COLOR white]AXN[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
 <link>axn<link>
@@ -121,14 +121,6 @@
 <title>[B][COLOR white]STAR CHANNEL[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
 <link>starchannel<link>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/star_channel.png</thumbnail>
-
-<tixtle>[B][COLOR white]STAR HITS 1[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>starhits<link>
-<thumbnail>https://skyrisk.github.io/brazucaplay/logos/star_hits.png</thumbnail>
-
-<tixtle>[B][COLOR white]STAR HITS 2[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>starhits2<link>
-<thumbnail>https://skyrisk.github.io/brazucaplay/logos/star_hits.png</thumbnail>
 
 <title>[B][COLOR white]FX[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
 <link>fx<link>
@@ -238,14 +230,6 @@
 <link>disney<link>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/disney_channel.png</thumbnail>
 
-<tixtle>[B][COLOR white]DISNEY XD[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>disneyxd<link>
-<thumbnail>https://skyrisk.github.io/brazucaplay/logos/disney_xd.png</thumbnail>
-
-<tixtle>[B][COLOR white]DISNEY JUNIOR[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>disneyjr<link>
-<thumbnail>https://skyrisk.github.io/brazucaplay/logos/disney_junior.png</thumbnail>
-
 <title>[B][COLOR white]NICK[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
 <link>nick<link>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/nick.png</thumbnail>
@@ -261,10 +245,6 @@
 <title>[B][COLOR white]GLOOB[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
 <link>gloob<link>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/gloob.png</thumbnail>
-
-<title>[B][COLOR white]TOONCAST[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>tooncast<link>
-<thumbnail>https://skyrisk.github.io/brazucaplay/logos/tooncast.png</thumbnail>
 
 <title>[B][COLOR white]COMEDY CENTRAL[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
 <link>comedycentral<link>
@@ -305,3 +285,15 @@
 <title>[B][COLOR white]TELECINE TOUCH[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
 <link>tctouch<link>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/tc_touch.png</thumbnail>
+
+<title>[B][COLOR white]FOOD NETWORK[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>foodnetwork<link>
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/food_network.png</thumbnail>
+
+<title>[B][COLOR white]SONY[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>sony<link>
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/sony.png</thumbnail>
+
+<title>[B][COLOR white]ID[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>id<link>
+<thumbnail>https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/id.png</thumbnail>
