@@ -174,10 +174,6 @@
 <link>syfy<link>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/syfy.png</thumbnail>
 
-<title>[B][COLOR white]TCM[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>tcm<link>
-<thumbnail>https://skyrisk.github.io/brazucaplay/logos/tcm.png</thumbnail>
-
 <title>[B][COLOR white]TNT[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
 <link>tnt<link>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/tnt.png</thumbnail>
@@ -273,10 +269,6 @@
 <title>[B][COLOR white]GLOBO NEWS[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
 <link>globonews<link>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/globonews.png</thumbnail>
-
-<title>[B][COLOR white]RECORD NEWS[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>recordnews<link>
-<thumbnail>https://skyrisk.github.io/brazucaplay/logos/record_news.png</thumbnail>
 
 <title>[B][COLOR white]TELECINE TOUCH[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
 <link>tctouch<link>
