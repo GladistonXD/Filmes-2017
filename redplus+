@@ -1,784 +1,1149 @@
 Nome: AE HD
 Url: http://212.102.60.39:2200/BRX/AE_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/ae-logo-png-14.png
 Nome: AE HDPLUS
 Url: http://212.102.60.39:2200/BRX/AE_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/ae-logo-png-14.png
 Nome: AE UHD
 Url: http://212.102.60.39:2200/BRX/AE_UHD/index.m3u8?token=null
-Nome: A Planet HD
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/ae-logo-png-14.png
+Nome: Animal Planet HD
 Url: http://212.102.60.39:2200/BRX/A_Planet_HD/index.m3u8?token=null
-Nome: A Planet HDPLUS
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/animalplanet.png
+Nome: Animal Planet HDPLUS
 Url: http://212.102.60.39:2200/BRX/A_Planet_HDPLUS/index.m3u8?token=null
-Nome: A Planet UHD
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/animalplanet.png
+Nome: Animal Planet UHD
 Url: http://212.102.60.39:2200/BRX/A_Planet_UHD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/animalplanet.png
 Nome: AllSports HD
 Url: http://212.102.60.39:2200/BRX/AllSports_HD/index.m3u8?token=null
-Nome: AmazonPrime1 UHD
-Url: http://212.102.60.39:2200/BRX/AmazonPrime1_UHD/index.m3u8?token=null
-Nome: AmazonPrime2 UHD
-Url: http://212.102.60.39:2200/BRX/AmazonPrime2_UHD/index.m3u8?token=null
+Imagem: https://uploaddeimagens.com.br/images/004/525/788/original/allsports.png
 Nome: AMC HD
 Url: http://212.102.60.39:2200/BRX/AMC_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/amc.png
 Nome: AMC HDPLUS
 Url: http://212.102.60.39:2200/BRX/AMC_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/amc.png
 Nome: Aparecida HD
 Url: http://212.102.60.39:2200/BRX/Aparecida_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/rede_aparecida.png
 Nome: Aparecida HDPLUS
 Url: http://212.102.60.39:2200/BRX/Aparecida_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/rede_aparecida.png
 Nome: Arte 1 HD
 Url: http://212.102.60.39:2200/BRX/Arte_1_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Arte-1-Logo-1-1927.png
 Nome: Arte 1 HDPLUS
 Url: http://212.102.60.39:2200/BRX/Arte_1_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Arte-1-Logo-1-1927.png
 Nome: AXN HD
 Url: http://212.102.60.39:2200/BRX/AXN_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/axn.png
 Nome: AXN HDPLUS
 Url: http://212.102.60.39:2200/BRX/AXN_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/axn.png
 Nome: AXN UHD
 Url: http://212.102.60.39:2200/BRX/AXN_UHD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/axn.png
 Nome: BabyTV HD
 Url: http://212.102.60.39:2200/BRX/BabyTV_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/BabyTV.png
 Nome: BabyTV HDPLUS
 Url: http://212.102.60.39:2200/BRX/BabyTV_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/BabyTV.png
 Nome: BabyTV UHD
 Url: http://212.102.60.39:2200/BRX/BabyTV_UHD/index.m3u8?token=null
-Nome: BAND  1 HD
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/BabyTV.png
+Nome: BAND HD
 Url: http://212.102.60.39:2200/BRX/BAND__1_HD/index.m3u8?token=null
-Nome: BAND  2 HDPLUS
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/bandhdtv.png
+Nome: BAND HDPLUS
 Url: http://212.102.60.39:2200/BRX/BAND__2_HDPLUS/index.m3u8?token=null
-Nome: BAND  3 UHD
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/bandhdtv.png
+Nome: BAND UHD
 Url: http://212.102.60.39:2200/BRX/BAND__3_UHD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/bandhdtv.png
 Nome: Band News HDPLUS
 Url: http://212.102.60.39:2200/BRX/Band_News_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/band_news.png
 Nome: Band News UHD
 Url: http://212.102.60.39:2200/BRX/Band_News_UHD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/band_news.png
 Nome: Band Sports HDPLUS
 Url: http://212.102.60.39:2200/BRX/Band_Sports_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/band_sport.png
 Nome: Band Sports UHD
 Url: http://212.102.60.39:2200/BRX/Band_Sports_UHD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/band_sport.png
 Nome: BIS HD
 Url: http://212.102.60.39:2200/BRX/BIS_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/bis.png
 Nome: BIS HDPLUS
 Url: http://212.102.60.39:2200/BRX/BIS_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/bis.png
 Nome: BIS UHD
 Url: http://212.102.60.39:2200/BRX/BIS_UHD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/bis.png
 Nome: Canal Brasil HD
 Url: http://212.102.60.39:2200/BRX/Canal_Brasil_HD/index.m3u8?token=null
+Imagem: https://uploaddeimagens.com.br/images/004/525/790/full/canalbrasil.png
 Nome: Canal Brasil HDPLUS
 Url: http://212.102.60.39:2200/BRX/Canal_Brasil_HDPLUS/index.m3u8?token=null
+Imagem: https://uploaddeimagens.com.br/images/004/525/790/full/canalbrasil.png
 Nome: Canal Brasil UHD
 Url: http://212.102.60.39:2200/BRX/Canal_Brasil_UHD/index.m3u8?token=null
+Imagem: https://uploaddeimagens.com.br/images/004/525/790/full/canalbrasil.png
 Nome: Canal Rural HD
 Url: http://212.102.60.39:2200/BRX/Canal_Rural_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/canalruralb.png
 Nome: Canal Rural HDPLUS
 Url: http://212.102.60.39:2200/BRX/Canal_Rural_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/canalruralb.png
 Nome: Canal Sony HD
 Url: http://212.102.60.39:2200/BRX/Canal_Sony_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/canal_sony.png
 Nome: Canal Sony HDPLUS
 Url: http://212.102.60.39:2200/BRX/Canal_Sony_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/canal_sony.png
 Nome: Canal Sony UHD
 Url: http://212.102.60.39:2200/BRX/Canal_Sony_UHD/index.m3u8?token=null
-Nome: Cancao Nova HD
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/canal_sony.png
+Nome: Canção Nova HD
 Url: http://212.102.60.39:2200/BRX/Cancao_Nova_HD/index.m3u8?token=null
-Nome: Cancao Nova HDPLUS
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/cancaonova.png
+Nome: Canção Nova HDPLUS
 Url: http://212.102.60.39:2200/BRX/Cancao_Nova_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/cancaonova.png
 Nome: Cartoon HD
 Url: http://212.102.60.39:2200/BRX/Cartoon_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/CartoonNetwork.png
 Nome: Cartoon HDPLUS
 Url: http://212.102.60.39:2200/BRX/Cartoon_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/CartoonNetwork.png
 Nome: Cartoon UHD
 Url: http://212.102.60.39:2200/BRX/Cartoon_UHD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/CartoonNetwork.png
 Nome: Cartoonito HD
 Url: http://212.102.60.39:2200/BRX/Cartoonito_HD/index.m3u8?token=null
+Imagem: https://uploaddeimagens.com.br/images/004/525/809/full/cartonito.png
 Nome: Cartoonito HDPLUS
 Url: http://212.102.60.39:2200/BRX/Cartoonito_HDPLUS/index.m3u8?token=null
+Imagem: https://uploaddeimagens.com.br/images/004/525/809/full/cartonito.png
 Nome: Cartoonito UHD
 Url: http://212.102.60.39:2200/BRX/Cartoonito_UHD/index.m3u8?token=null
+Imagem: https://uploaddeimagens.com.br/images/004/525/809/full/cartonito.png
 Nome: ChefeTV HD
 Url: http://212.102.60.39:2200/BRX/ChefeTV_HD/index.m3u8?token=null
+Imagem: https://i.pinimg.com/originals/e6/1f/04/e61f04e6f96a70573a6157f8649626b5.png
 Nome: CineBrasilTV HD
 Url: http://212.102.60.39:2200/BRX/CineBrasilTV_HD/index.m3u8?token=null
+Imagem: https://pbs.twimg.com/profile_images/997985009515380741/zIBl0sTk_400x400.jpg
 Nome: Cinecanal HD
 Url: http://212.102.60.39:2200/BRX/Cinecanal_HD/index.m3u8?token=null
+Imagem: https://i0.wp.com/prensaescenario.com/wp-content/uploads/2013/02/logo_ccmas_final.jpg
 Nome: Cinecanal HDPLUS
 Url: http://212.102.60.39:2200/BRX/Cinecanal_HDPLUS/index.m3u8?token=null
+Imagem: https://i0.wp.com/prensaescenario.com/wp-content/uploads/2013/02/logo_ccmas_final.jpg
 Nome: Cinecanal UHD
 Url: http://212.102.60.39:2200/BRX/Cinecanal_UHD/index.m3u8?token=null
+Imagem: https://i0.wp.com/prensaescenario.com/wp-content/uploads/2013/02/logo_ccmas_final.jpg
 Nome: Cinemax HD
 Url: http://212.102.60.39:2200/BRX/Cinemax_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/cineamaxHD.png
 Nome: Cinemax HDPLUS
 Url: http://212.102.60.39:2200/BRX/Cinemax_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/cineamaxHD.png
 Nome: CNN Brasil HD
 Url: http://212.102.60.39:2200/BRX/CNN_Brasil_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/1200px-CNN_Brasil.png
 Nome: CNN Brasil HDPLUS
 Url: http://212.102.60.39:2200/BRX/CNN_Brasil_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/1200px-CNN_Brasil.png
 Nome: CNT HD
 Url: http://212.102.60.39:2200/BRX/CNT_HD/index.m3u8?token=null
+Imagem: https://pbs.twimg.com/profile_images/1432746490766692355/0IjtkPhC_400x400.jpg
 Nome: Combate HD
 Url: http://212.102.60.39:2200/BRX/Combate_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/ufc-combate-png-3.png
 Nome: Combate HDPLUS
 Url: http://212.102.60.39:2200/BRX/Combate_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/ufc-combate-png-3.png
 Nome: Combate UFC Fight Pass EUA HD
 Url: http://212.102.60.39:2200/BRX/Combate_UFC_Fight_Pass_EUA_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/ufc-combate-png-3.png
 Nome: Combate UHD
 Url: http://212.102.60.39:2200/BRX/Combate_UHD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/ufc-combate-png-3.png
 Nome: Comedy Central HD
 Url: http://212.102.60.39:2200/BRX/Comedy_Central_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/osncentral.png
 Nome: Comedy Central HDPLUS
 Url: http://212.102.60.39:2200/BRX/Comedy_Central_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/osncentral.png
 Nome: Comedy Central UHD
 Url: http://212.102.60.39:2200/BRX/Comedy_Central_UHD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/osncentral.png
 Nome: Conmebol TV 1 HD
 Url: http://212.102.60.39:2200/BRX/Conmebol_TV_1_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/conmebol-tv-br.png
 Nome: Conmebol TV 2 HD
 Url: http://212.102.60.39:2200/BRX/Conmebol_TV_2_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/conmebol-tv-br.png
 Nome: Conmebol TV 3 HD
 Url: http://212.102.60.39:2200/BRX/Conmebol_TV_3_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/conmebol-tv-br.png
 Nome: Conmebol TV 4 HD
 Url: http://212.102.60.39:2200/BRX/Conmebol_TV_4_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/conmebol-tv-br.png
 Nome: Curta HD
 Url: http://212.102.60.39:2200/BRX/Curta_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/curta-png-8.png
 Nome: Curta HDPLUS
 Url: http://212.102.60.39:2200/BRX/Curta_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/curta-png-8.png
 Nome: Curta UHD
 Url: http://212.102.60.39:2200/BRX/Curta_UHD/index.m3u8?token=null
-Nome: Disc HH HD
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/curta-png-8.png
+Nome: Discovery Home & Health HD
 Url: http://212.102.60.39:2200/BRX/Disc_HH_HD/index.m3u8?token=null
-Nome: Disc HH HDPLUS
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/discoreyhh1.png
+Nome: Discovery Home & Health HDPLUS
 Url: http://212.102.60.39:2200/BRX/Disc_HH_HDPLUS/index.m3u8?token=null
-Nome: Disc HH UHD
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/discoreyhh1.png
+Nome: Discovery Home & Health UHD
 Url: http://212.102.60.39:2200/BRX/Disc_HH_UHD/index.m3u8?token=null
-Nome: Disc Kids HD
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/discoreyhh1.png
+Nome: Discovery Kids HD
 Url: http://212.102.60.39:2200/BRX/Disc_Kids_HD/index.m3u8?token=null
-Nome: Disc Kids HDPLUS
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Discovery_kids.png
+Nome: Discovery Kids HDPLUS
 Url: http://212.102.60.39:2200/BRX/Disc_Kids_HDPLUS/index.m3u8?token=null
-Nome: Disc Kids UHD
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Discovery_kids.png
+Nome: Discovery Kids UHD
 Url: http://212.102.60.39:2200/BRX/Disc_Kids_UHD/index.m3u8?token=null
-Nome: Disc Science HD
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Discovery_kids.png
+Nome: Discovery Science HD
 Url: http://212.102.60.39:2200/BRX/Disc_Science_HD/index.m3u8?token=null
-Nome: Disc Science HDPLUS
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Discovery_Science_Canada.png
+Nome: Discovery Science HDPLUS
 Url: http://212.102.60.39:2200/BRX/Disc_Science_HDPLUS/index.m3u8?token=null
-Nome: Disc Science UHD
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Discovery_Science_Canada.png
+Nome: Discovery Science UHD
 Url: http://212.102.60.39:2200/BRX/Disc_Science_UHD/index.m3u8?token=null
-Nome: Disc Theater HD
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Discovery_Science_Canada.png
+Nome: Discovery Theater HD
 Url: http://212.102.60.39:2200/BRX/Disc_Theater_HD/index.m3u8?token=null
-Nome: Disc Theater HDPLUS
+Imagem: https://uploaddeimagens.com.br/images/004/525/856/full/discoverytheater.png
+Nome: Discovery Theater HDPLUS
 Url: http://212.102.60.39:2200/BRX/Disc_Theater_HDPLUS/index.m3u8?token=null
-Nome: Disc Theater UHD
+Imagem: https://uploaddeimagens.com.br/images/004/525/856/full/discoverytheater.png
+Nome: Discovery Theater UHD
 Url: http://212.102.60.39:2200/BRX/Disc_Theater_UHD/index.m3u8?token=null
-Nome: Disc Turbo HD
+Imagem: https://uploaddeimagens.com.br/images/004/525/856/full/discoverytheater.png
+Nome: Discovery Turbo HD
 Url: http://212.102.60.39:2200/BRX/Disc_Turbo_HD/index.m3u8?token=null
-Nome: Disc Turbo HDPLUS
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Discovery_Turbo.png
+Nome: Discovery Turbo HDPLUS
 Url: http://212.102.60.39:2200/BRX/Disc_Turbo_HDPLUS/index.m3u8?token=null
-Nome: Disc Turbo UHD
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Discovery_Turbo.png
+Nome: Discovery Turbo UHD
 Url: http://212.102.60.39:2200/BRX/Disc_Turbo_UHD/index.m3u8?token=null
-Nome: Disc World HD
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Discovery_Turbo.png
+Nome: Discovery World HD
 Url: http://212.102.60.39:2200/BRX/Disc_World_HD/index.m3u8?token=null
-Nome: Disc World HDPLUS
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/discoveryworld.png
+Nome: Discovery World HDPLUS
 Url: http://212.102.60.39:2200/BRX/Disc_World_HDPLUS/index.m3u8?token=null
-Nome: Disc World UHD
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/discoveryworld.png
+Nome: Discovery World UHD
 Url: http://212.102.60.39:2200/BRX/Disc_World_UHD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/discoveryworld.png
 Nome: Discovery Channel HD
 Url: http://212.102.60.39:2200/BRX/Discovery_Channel_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Discovery.png
 Nome: Discovery Channel HDPLUS
 Url: http://212.102.60.39:2200/BRX/Discovery_Channel_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Discovery.png
 Nome: Discovery Channel UHD
 Url: http://212.102.60.39:2200/BRX/Discovery_Channel_UHD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Discovery.png
 Nome: Disney HD
 Url: http://212.102.60.39:2200/BRX/Disney_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Disney-Channel.png
 Nome: Disney HDPLUS
 Url: http://212.102.60.39:2200/BRX/Disney_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Disney-Channel.png
 Nome: Disney UHD
 Url: http://212.102.60.39:2200/BRX/Disney_UHD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Disney-Channel.png
 Nome: DOG TV HD
 Url: http://212.102.60.39:2200/BRX/DOG_TV_HD/index.m3u8?token=null
-Nome: DOG TV HD
-Url: http://212.102.60.39:2200/BRX/DOG_TV_HD/index.m3u8?token=null
+Imagem: https://play-lh.googleusercontent.com/LRYjBlV6a8Wt-sVqWqs8NuK7xpMRVCUIdb-N6EV05JYB3U6RSNUdxDhnX61YVCx0khUV
 Nome: E HD
 Url: http://212.102.60.39:2200/BRX/E_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/E!_HD_logo.png
 Nome: Eptv Campinas HD
 Url: http://212.102.60.39:2200/BRX/Eptv_Campinas_HD/index.m3u8?token=null
+Imagem: https://www.treetech.com.br/wp-content/uploads/2017/10/EPTV.png
 Nome: Eptv Campinas HDPLUS
 Url: http://212.102.60.39:2200/BRX/Eptv_Campinas_HDPLUS/index.m3u8?token=null
+Imagem: https://www.treetech.com.br/wp-content/uploads/2017/10/EPTV.png
 Nome: Eptv Campinas UHD
 Url: http://212.102.60.39:2200/BRX/Eptv_Campinas_UHD/index.m3u8?token=null
+Imagem: https://www.treetech.com.br/wp-content/uploads/2017/10/EPTV.png
 Nome: ESPN EXTRA HD
 Url: http://212.102.60.39:2200/BRX/ESPN_EXTRA_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/ESPN.png
 Nome: ESPN EXTRA HDPLUS
 Url: http://212.102.60.39:2200/BRX/ESPN_EXTRA_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/ESPN.png
 Nome: ESPN EXTRA UHD
 Url: http://212.102.60.39:2200/BRX/ESPN_EXTRA_UHD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/ESPN.png
 Nome: ESPN HD
 Url: http://212.102.60.39:2200/BRX/ESPN_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/ESPN.png
 Nome: ESPN HDPLUS
 Url: http://212.102.60.39:2200/BRX/ESPN_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/ESPN.png
 Nome: ESPN UHD
 Url: http://212.102.60.39:2200/BRX/ESPN_UHD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/ESPN.png
 Nome: ESPN2 HD
 Url: http://212.102.60.39:2200/BRX/ESPN2_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/ESPN.png
 Nome: ESPN2 HDPLUS
 Url: http://212.102.60.39:2200/BRX/ESPN2_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/ESPN.png
 Nome: ESPN2 UHD
 Url: http://212.102.60.39:2200/BRX/ESPN2_UHD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/ESPN.png
 Nome: ESPN3 HD
 Url: http://212.102.60.39:2200/BRX/ESPN3_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/ESPN.png
 Nome: ESPN3 HDPLUS
 Url: http://212.102.60.39:2200/BRX/ESPN3_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/ESPN.png
 Nome: ESPN3 UHD
 Url: http://212.102.60.39:2200/BRX/ESPN3_UHD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/ESPN.png
 Nome: ESPN4 HD
 Url: http://212.102.60.39:2200/BRX/ESPN4_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/ESPN.png
 Nome: ESPN4 HDPLUS
 Url: http://212.102.60.39:2200/BRX/ESPN4_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/ESPN.png
 Nome: ESPN4 UHD
 Url: http://212.102.60.39:2200/BRX/ESPN4_UHD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/ESPN.png
 Nome: FashionTV HD
 Url: http://212.102.60.39:2200/BRX/FashionTV_HD/index.m3u8?token=null
+Imagem: https://is2-ssl.mzstatic.com/image/thumb/Purple116/v4/c6/44/75/c644754c-e9f1-b633-47b2-c6c1ac459f8f/FashionTV_iOS-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 Nome: FilmArts HD
 Url: http://212.102.60.39:2200/BRX/FilmArts_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/film-arts.png
 Nome: FilmArts HDPLUS
 Url: http://212.102.60.39:2200/BRX/FilmArts_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/film-arts.png
 Nome: Fish Tv HD
 Url: http://212.102.60.39:2200/BRX/Fish_Tv_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/fishtv.png
 Nome: Fish Tv HDPLUS
 Url: http://212.102.60.39:2200/BRX/Fish_Tv_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/fishtv.png
 Nome: Fish Tv UHD
 Url: http://212.102.60.39:2200/BRX/Fish_Tv_UHD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/fishtv.png
 Nome: Fish Tv UHD
 Url: http://212.102.60.39:2200/BRX/Fish_Tv_UHD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/fishtv.png
 Nome: Food Network HD
 Url: http://212.102.60.39:2200/BRX/Food_Network_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/615px-Food_Network_New_Logo.png
 Nome: Food Network HDPLUS
 Url: http://212.102.60.39:2200/BRX/Food_Network_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/615px-Food_Network_New_Logo.png
 Nome: Food Network UHD
 Url: http://212.102.60.39:2200/BRX/Food_Network_UHD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/615px-Food_Network_New_Logo.png
 Nome: FOX NEWS HD
 Url: http://212.102.60.39:2200/BRX/FOX_NEWS_HD/index.m3u8?token=null
-Nome: FOX Sports2 HD
+Imagem: https://images.sftcdn.net/images/t_app-icon-m/p/19678994-9781-11e6-b978-3d0701f8b8a8/2697466923/fox-news-logo
+Nome: FOX Sports 2 HD
 Url: http://212.102.60.39:2200/BRX/FOX_Sports2_HD/index.m3u8?token=null
-Nome: FOX Sports2 HDPLUS
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/FOX_Sports_logo2.png
+Nome: FOX Sports 2 HDPLUS
 Url: http://212.102.60.39:2200/BRX/FOX_Sports2_HDPLUS/index.m3u8?token=null
-Nome: FOX Sports2 UHD
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/FOX_Sports_logo2.png
+Nome: FOX Sports 2 UHD
 Url: http://212.102.60.39:2200/BRX/FOX_Sports2_UHD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/FOX_Sports_logo2.png
 Nome: Futura HD
 Url: http://212.102.60.39:2200/BRX/Futura_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Canal_Futura.png
 Nome: Futura HDPLUS
 Url: http://212.102.60.39:2200/BRX/Futura_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Canal_Futura.png
 Nome: Futura UHD
 Url: http://212.102.60.39:2200/BRX/Futura_UHD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Canal_Futura.png
 Nome: FX HD
 Url: http://212.102.60.39:2200/BRX/FX_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/FXHD.png
 Nome: FX HDPLUS
 Url: http://212.102.60.39:2200/BRX/FX_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/FXHD.png
 Nome: FX UHD
 Url: http://212.102.60.39:2200/BRX/FX_UHD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/FXHD.png
 Nome: Globo Anhanguera Goiania HD
 Url: http://212.102.60.39:2200/BRX/Globo_Anhanguera_Goiania_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Logo-tv-globo-2015.png
 Nome: Globo Anhanguera Goiania HDPLUS
 Url: http://212.102.60.39:2200/BRX/Globo_Anhanguera_Goiania_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Logo-tv-globo-2015.png
 Nome: Globo Anhanguera Goiania UHD
 Url: http://212.102.60.39:2200/BRX/Globo_Anhanguera_Goiania_UHD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Logo-tv-globo-2015.png
 Nome: Globo Brasilia HD
 Url: http://212.102.60.39:2200/BRX/Globo_Brasilia_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Logo-tv-globo-2015.png
 Nome: Globo Brasilia HDPLUS
 Url: http://212.102.60.39:2200/BRX/Globo_Brasilia_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Logo-tv-globo-2015.png
 Nome: Globo Brasilia UHD
 Url: http://212.102.60.39:2200/BRX/Globo_Brasilia_UHD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Logo-tv-globo-2015.png
 Nome: Globo Minas HD
 Url: http://212.102.60.39:2200/BRX/Globo_Minas_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Logo-tv-globo-2015.png
 Nome: Globo Minas HDPLUS
 Url: http://212.102.60.39:2200/BRX/Globo_Minas_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Logo-tv-globo-2015.png
 Nome: Globo Minas UHD
 Url: http://212.102.60.39:2200/BRX/Globo_Minas_UHD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Logo-tv-globo-2015.png
 Nome: Globo Nordeste HD
 Url: http://212.102.60.39:2200/BRX/Globo_Nordeste_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Logo-tv-globo-2015.png
 Nome: Globo Nordeste HDPLUS
 Url: http://212.102.60.39:2200/BRX/Globo_Nordeste_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Logo-tv-globo-2015.png
 Nome: Globo NSC Floripa HD
 Url: http://212.102.60.39:2200/BRX/Globo_NSC_Floripa_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Logo-tv-globo-2015.png
 Nome: Globo RBS Poa HD
 Url: http://212.102.60.39:2200/BRX/Globo_RBS_Poa_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Logo-tv-globo-2015.png
 Nome: Globo RBS Poa HDPLUS
 Url: http://212.102.60.39:2200/BRX/Globo_RBS_Poa_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Logo-tv-globo-2015.png
 Nome: Globo RBS Poa UHD
 Url: http://212.102.60.39:2200/BRX/Globo_RBS_Poa_UHD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Logo-tv-globo-2015.png
 Nome: Globo RJ HD
 Url: http://212.102.60.39:2200/BRX/Globo_RJ_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Logo-tv-globo-2015.png
 Nome: Globo RJ HDPLUS
 Url: http://212.102.60.39:2200/BRX/Globo_RJ_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Logo-tv-globo-2015.png
 Nome: Globo RJ UHD
 Url: http://212.102.60.39:2200/BRX/Globo_RJ_UHD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Logo-tv-globo-2015.png
 Nome: Globo Rpc Curitiba HD
 Url: http://212.102.60.39:2200/BRX/Globo_Rpc_Curitiba_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Logo-tv-globo-2015.png
 Nome: Globo Rpc Curitiba HDPLUS
 Url: http://212.102.60.39:2200/BRX/Globo_Rpc_Curitiba_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Logo-tv-globo-2015.png
 Nome: Globo Rpc Curitiba UHD
 Url: http://212.102.60.39:2200/BRX/Globo_Rpc_Curitiba_UHD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Logo-tv-globo-2015.png
 Nome: Globo Rpc Foz UHD
 Url: http://212.102.60.39:2200/BRX/Globo_Rpc_Foz_UHD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Logo-tv-globo-2015.png
 Nome: Globo SP  UMA HORA DE ATRASO
 Url: http://212.102.60.39:2200/BRX/Globo_SP__UMA_HORA_DE_ATRASO/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Logo-tv-globo-2015.png
 Nome: Globo SP HD
 Url: http://212.102.60.39:2200/BRX/Globo_SP_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Logo-tv-globo-2015.png
 Nome: Globo SP HDPLUS
 Url: http://212.102.60.39:2200/BRX/Globo_SP_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Logo-tv-globo-2015.png
 Nome: Globo SP UHD
 Url: http://212.102.60.39:2200/BRX/Globo_SP_UHD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Logo-tv-globo-2015.png
 Nome: Globo Tv Amazonas HD
 Url: http://212.102.60.39:2200/BRX/Globo_Tv_Amazonas_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Logo-tv-globo-2015.png
 Nome: Globo Tv Amazonas HDPLUS
 Url: http://212.102.60.39:2200/BRX/Globo_Tv_Amazonas_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Logo-tv-globo-2015.png
 Nome: Globo Tv Amazonas UHD
 Url: http://212.102.60.39:2200/BRX/Globo_Tv_Amazonas_UHD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Logo-tv-globo-2015.png
 Nome: Globo Tv Bahia HD
 Url: http://212.102.60.39:2200/BRX/Globo_Tv_Bahia_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Logo-tv-globo-2015.png
 Nome: Globo Tv Bahia HDPLUS
 Url: http://212.102.60.39:2200/BRX/Globo_Tv_Bahia_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Logo-tv-globo-2015.png
 Nome: Globo Tv Tem Bauru HD
 Url: http://212.102.60.39:2200/BRX/Globo_Tv_Tem_Bauru_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Logo-tv-globo-2015.png
 Nome: Globo Tv Tem Sorocaba HD
 Url: http://212.102.60.39:2200/BRX/Globo_Tv_Tem_Sorocaba_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Logo-tv-globo-2015.png
 Nome: Globo Tv Tribuna Santos HD
 Url: http://212.102.60.39:2200/BRX/Globo_Tv_Tribuna_Santos_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Logo-tv-globo-2015.png
 Nome: Globo Tv Vanguarda SJ HD
 Url: http://212.102.60.39:2200/BRX/Globo_Tv_Vanguarda_SJ_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Logo-tv-globo-2015.png
 Nome: Globo Verdes Mares HD
 Url: http://212.102.60.39:2200/BRX/Globo_Verdes_Mares_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Logo-tv-globo-2015.png
 Nome: Globo Verdes Mares HDPLUS
 Url: http://212.102.60.39:2200/BRX/Globo_Verdes_Mares_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Logo-tv-globo-2015.png
 Nome: GloboNews HD
 Url: http://212.102.60.39:2200/BRX/GloboNews_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Logo-tv-globo-2015.png
 Nome: GloboNews HDPLUS
 Url: http://212.102.60.39:2200/BRX/GloboNews_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Logo-tv-globo-2015.png
 Nome: GloboNews UHD
 Url: http://212.102.60.39:2200/BRX/GloboNews_UHD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Logo-tv-globo-2015.png
 Nome: Globo Tv Gazeta Vitoria HD-br
 Url: http://212.102.60.39:2200/BRX/Globo_Tv_Gazeta_Vitoria_HD-br/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Logo-tv-globo-2015.png
 Nome: Gloob HD
 Url: http://212.102.60.39:2200/BRX/Gloob_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/gloob.PNG
 Nome: Gloob HDPLUS
 Url: http://212.102.60.39:2200/BRX/Gloob_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/gloob.PNG
 Nome: Gloob UHD
 Url: http://212.102.60.39:2200/BRX/Gloob_UHD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/gloob.PNG
 Nome: Gloobinho HD
 Url: http://212.102.60.39:2200/BRX/Gloobinho_HD/index.m3u8?token=null
+Imagem: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdi1uXYUw_1FGWGa9F1rbt-jbwJIqInSvDIOaL9tu_rl7k-nsNIXavkD5y-XV0xRcyN5E&usqp=CAU
 Nome: Gloobinho HDPLUS
 Url: http://212.102.60.39:2200/BRX/Gloobinho_HDPLUS/index.m3u8?token=null
-Nome: Gloob UHD
-Url: http://212.102.60.39:2200/BRX/Gloob_UHD/index.m3u8?token=null
+Imagem: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdi1uXYUw_1FGWGa9F1rbt-jbwJIqInSvDIOaL9tu_rl7k-nsNIXavkD5y-XV0xRcyN5E&usqp=CAU
 Nome: GNT HD
 Url: http://212.102.60.39:2200/BRX/GNT_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/GNT_HD.png
 Nome: GNT HDPLUS
 Url: http://212.102.60.39:2200/BRX/GNT_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/GNT_HD.png
 Nome: GNT UHD
 Url: http://212.102.60.39:2200/BRX/GNT_UHD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/GNT_HD.png
 Nome: H2 HD
 Url: http://212.102.60.39:2200/BRX/H2_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/h2.png
 Nome: H2 HDPLUS
 Url: http://212.102.60.39:2200/BRX/H2_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/h2.png
 Nome: HBO Family HD
 Url: http://212.102.60.39:2200/BRX/HBO_Family_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/HBOFAMILY.png
 Nome: HBO Family HDPLUS
 Url: http://212.102.60.39:2200/BRX/HBO_Family_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/HBOFAMILY.png
 Nome: HBO Family UHD
 Url: http://212.102.60.39:2200/BRX/HBO_Family_UHD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/HBOFAMILY.png
 Nome: HBO Mundi HD
 Url: http://212.102.60.39:2200/BRX/HBO_Mundi_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/hbomundi1.png
 Nome: HBO Mundi HDPLUS
 Url: http://212.102.60.39:2200/BRX/HBO_Mundi_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/hbomundi1.png
 Nome: HBO Mundi UHD
 Url: http://212.102.60.39:2200/BRX/HBO_Mundi_UHD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/hbomundi1.png
 Nome: HBO Plus HD
 Url: http://212.102.60.39:2200/BRX/HBO_Plus_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/HBOPLUS.png
 Nome: HBO Plus HDPLUS
 Url: http://212.102.60.39:2200/BRX/HBO_Plus_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/HBOPLUS.png
 Nome: HBO Plus UHD
 Url: http://212.102.60.39:2200/BRX/HBO_Plus_UHD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/HBOPLUS.png
 Nome: HBO POP HD
 Url: http://212.102.60.39:2200/BRX/HBO_POP_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/hbopop1.png
 Nome: HBO POP HDPLUS
 Url: http://212.102.60.39:2200/BRX/HBO_POP_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/hbopop1.png
 Nome: HBO POP UHD
 Url: http://212.102.60.39:2200/BRX/HBO_POP_UHD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/hbopop1.png
 Nome: HBO Signature HD
 Url: http://212.102.60.39:2200/BRX/HBO_Signature_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/hbosig.png
 Nome: HBO Signature HDPLUS
 Url: http://212.102.60.39:2200/BRX/HBO_Signature_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/hbosig.png
 Nome: HBO Signature UHD
 Url: http://212.102.60.39:2200/BRX/HBO_Signature_UHD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/hbosig.png
 Nome: HBO Xtreme HD
 Url: http://212.102.60.39:2200/BRX/HBO_Xtreme_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/hboxtreme.png
 Nome: HBO Xtreme HDPLUS
 Url: http://212.102.60.39:2200/BRX/HBO_Xtreme_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/hboxtreme.png
 Nome: HBO Xtreme UHD
 Url: http://212.102.60.39:2200/BRX/HBO_Xtreme_UHD/index.m3u8?token=null
-Nome: HBO1 HD
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/hboxtreme.png
+Nome: HBO HD
 Url: http://212.102.60.39:2200/BRX/HBO1_HD/index.m3u8?token=null
-Nome: HBO1 HDPLUS
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/hbo.png
+Nome: HBO HDPLUS
 Url: http://212.102.60.39:2200/BRX/HBO1_HDPLUS/index.m3u8?token=null
-Nome: HBO1 UHD
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/hbo.png
+Nome: HBO UHD
 Url: http://212.102.60.39:2200/BRX/HBO1_UHD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/hbo.png
 Nome: HBO2 HD
 Url: http://212.102.60.39:2200/BRX/HBO2_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/hbo2.png
 Nome: HBO2 HDPLUS
 Url: http://212.102.60.39:2200/BRX/HBO2_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/hbo2.png
 Nome: HBO2 UHD
 Url: http://212.102.60.39:2200/BRX/HBO2_UHD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/hbo2.png
 Nome: HGTV HD
 Url: http://212.102.60.39:2200/BRX/HGTV_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/HGTV.png
 Nome: HGTV HDPLUS
 Url: http://212.102.60.39:2200/BRX/HGTV_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/HGTV.png
 Nome: HGTV UHD
 Url: http://212.102.60.39:2200/BRX/HGTV_UHD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/HGTV.png
 Nome: History HD
 Url: http://212.102.60.39:2200/BRX/History_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/history.png
 Nome: History HDPLUS
 Url: http://212.102.60.39:2200/BRX/History_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/history.png
 Nome: History UHD
 Url: http://212.102.60.39:2200/BRX/History_UHD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/history.png
 Nome: ID HD
 Url: http://212.102.60.39:2200/BRX/ID_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/id.png
 Nome: ID HDPLUS
 Url: http://212.102.60.39:2200/BRX/ID_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/id.png
 Nome: ID UHD
 Url: http://212.102.60.39:2200/BRX/ID_UHD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/id.png
 Nome: Jovem Pan News HD
 Url: http://212.102.60.39:2200/BRX/Jovem_Pan_News_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/jovem-pan-news-br.png
 Nome: Jovem Pan News HDPLUS
 Url: http://212.102.60.39:2200/BRX/Jovem_Pan_News_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/jovem-pan-news-br.png
 Nome: Lifetime HD
 Url: http://212.102.60.39:2200/BRX/Lifetime_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/1200px-Lifetime_logo17.png
 Nome: Lifetime HDPLUS
 Url: http://212.102.60.39:2200/BRX/Lifetime_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/1200px-Lifetime_logo17.png
 Nome: Like HD
 Url: http://212.102.60.39:2200/BRX/Like_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/like1.png
 Nome: Like HDPLUS
 Url: http://212.102.60.39:2200/BRX/Like_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/like1.png
 Nome: Loading TV HD
 Url: http://212.102.60.39:2200/BRX/Loading_TV_HD/index.m3u8?token=null
+Imagem: https://uploaddeimagens.com.br/images/004/525/913/original/loagingtv.png
 Nome: Megapix HD
 Url: http://212.102.60.39:2200/BRX/Megapix_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/megapix.png
 Nome: Megapix HDPLUS
 Url: http://212.102.60.39:2200/BRX/Megapix_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/megapix.png
 Nome: Megapix UHD
 Url: http://212.102.60.39:2200/BRX/Megapix_UHD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/megapix.png
 Nome: Modo Viagem HD
 Url: http://212.102.60.39:2200/BRX/Modo_Viagem_HD/index.m3u8?token=null
+Imagem: https://yt3.googleusercontent.com/ytc/AGIKgqPlAJ7b0WXFdBHElBEdtn4Ux614t3Et4AMJqJP1=s900-c-k-c0x00ffffff-no-rj
 Nome: Modo Viagem HDPLUS
 Url: http://212.102.60.39:2200/BRX/Modo_Viagem_HDPLUS/index.m3u8?token=null
+Imagem: https://yt3.googleusercontent.com/ytc/AGIKgqPlAJ7b0WXFdBHElBEdtn4Ux614t3Et4AMJqJP1=s900-c-k-c0x00ffffff-no-rj
 Nome: Modo Viagem UHD
 Url: http://212.102.60.39:2200/BRX/Modo_Viagem_UHD/index.m3u8?token=null
+Imagem: https://yt3.googleusercontent.com/ytc/AGIKgqPlAJ7b0WXFdBHElBEdtn4Ux614t3Et4AMJqJP1=s900-c-k-c0x00ffffff-no-rj
 Nome: MTV 00 HD
 Url: http://212.102.60.39:2200/BRX/MTV_00_HD/index.m3u8?token=null
+Imagem: https://yt3.googleusercontent.com/rYDUvJgOVELMg4lk8VHKBCBS5OyxFf69yPaUiSVUkGEIEUPgh3Uab8ZBXC9SWkop5lSICyO7l3w=s900-c-k-c0x00ffffff-no-rj
 Nome: MTV 00 HDPLUS
 Url: http://212.102.60.39:2200/BRX/MTV_00_HDPLUS/index.m3u8?token=null
+Imagem: https://yt3.googleusercontent.com/rYDUvJgOVELMg4lk8VHKBCBS5OyxFf69yPaUiSVUkGEIEUPgh3Uab8ZBXC9SWkop5lSICyO7l3w=s900-c-k-c0x00ffffff-no-rj
 Nome: MTV HD
 Url: http://212.102.60.39:2200/BRX/MTV_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/MTV_Canada_logo.png
 Nome: MTV HDPLUS
 Url: http://212.102.60.39:2200/BRX/MTV_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/MTV_Canada_logo.png
 Nome: MTV UHD
 Url: http://212.102.60.39:2200/BRX/MTV_UHD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/MTV_Canada_logo.png
 Nome: Multishow HD
 Url: http://212.102.60.39:2200/BRX/Multishow_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/MULTISHOW.png
 Nome: Multishow HDPLUS
 Url: http://212.102.60.39:2200/BRX/Multishow_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/MULTISHOW.png
 Nome: Multishow UHD
 Url: http://212.102.60.39:2200/BRX/Multishow_UHD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/MULTISHOW.png
 Nome: Music Box Brasil HD
 Url: http://212.102.60.39:2200/BRX/Music_Box_Brasil_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/musicbox.png
 Nome: Music Box Brasil HDPLUS
 Url: http://212.102.60.39:2200/BRX/Music_Box_Brasil_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/musicbox.png
 Nome: Music Box Brasil UHD
 Url: http://212.102.60.39:2200/BRX/Music_Box_Brasil_UHD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/musicbox.png
 Nome: NatGeo HD
 Url: http://212.102.60.39:2200/BRX/NatGeo_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/natgeo.png
 Nome: NatGeo HDPLUS
 Url: http://212.102.60.39:2200/BRX/NatGeo_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/natgeo.png
 Nome: NatGeo UHD
 Url: http://212.102.60.39:2200/BRX/NatGeo_UHD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/natgeo.png
 Nome: NHK HD
 Url: http://212.102.60.39:2200/BRX/NHK_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/nhk.png
 Nome: Nick HD
 Url: http://212.102.60.39:2200/BRX/Nick_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/NICKELODEON_Logo.png
 Nome: Nick HDPLUS
 Url: http://212.102.60.39:2200/BRX/Nick_HDPLUS/index.m3u8?token=null
-Nome: Nick Jr HD
-Url: http://212.102.60.39:2200/BRX/Nick_Jr_HD/index.m3u8?token=null
-Nome: Nick Jr HDPLUS
-Url: http://212.102.60.39:2200/BRX/Nick_Jr_HDPLUS/index.m3u8?token=null
-Nome: Nick Jr UHD
-Url: http://212.102.60.39:2200/BRX/Nick_Jr_UHD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/NICKELODEON_Logo.png
 Nome: Nick UHD
 Url: http://212.102.60.39:2200/BRX/Nick_UHD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/NICKELODEON_Logo.png
+Nome: Nick Jr HD
+Url: http://212.102.60.39:2200/BRX/Nick_Jr_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Nick_jr.png
+Nome: Nick Jr HDPLUS
+Url: http://212.102.60.39:2200/BRX/Nick_Jr_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Nick_jr.png
+Nome: Nick Jr UHD
+Url: http://212.102.60.39:2200/BRX/Nick_Jr_UHD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Nick_jr.png
 Nome: Novo Tempo HD
 Url: http://212.102.60.39:2200/BRX/Novo_Tempo_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/navo_tempo.png
 Nome: Novo Tempo HDPLUS
 Url: http://212.102.60.39:2200/BRX/Novo_Tempo_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/navo_tempo.png
 Nome: Off HD
 Url: http://212.102.60.39:2200/BRX/Off_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/canal_off.png
 Nome: Off HDPLUS
 Url: http://212.102.60.39:2200/BRX/Off_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/canal_off.png
 Nome: Off UHD
 Url: http://212.102.60.39:2200/BRX/Off_UHD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/canal_off.png
 Nome: Paramount Network HD
 Url: http://212.102.60.39:2200/BRX/Paramount_Network_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/paramount.png
 Nome: Paramount Network HDPLUS
 Url: http://212.102.60.39:2200/BRX/Paramount_Network_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/paramount.png
 Nome: Paramount Network UHD
 Url: http://212.102.60.39:2200/BRX/Paramount_Network_UHD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/paramount.png
 Nome: Pocoyo HD 24 hrs
 Url: http://212.102.60.39:2200/BRX/Pocoyo_HD_24_hrs/index.m3u8?token=null
+Imagem: https://fontmeme.com/images/pocoyo-logo-font.png
 Nome: Premiere 1 HD
 Url: http://212.102.60.39:2200/BRX/Premiere_1_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/premiere0.png
 Nome: Premiere 1 HDPLUS
 Url: http://212.102.60.39:2200/BRX/Premiere_1_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/premiere0.png
 Nome: Premiere 1 UHD
 Url: http://212.102.60.39:2200/BRX/Premiere_1_UHD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/premiere0.png
 Nome: Premiere 2 HDPLUS
 Url: http://212.102.60.39:2200/BRX/Premiere_2_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/premiere0.png
 Nome: Premiere 2 UHD
 Url: http://212.102.60.39:2200/BRX/Premiere_2_UHD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/premiere0.png
 Nome: Premiere 3 HDPLUS
 Url: http://212.102.60.39:2200/BRX/Premiere_3_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/premiere0.png
 Nome: Premiere 3 UHD
 Url: http://212.102.60.39:2200/BRX/Premiere_3_UHD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/premiere0.png
 Nome: Premiere 4 HDPLUS
 Url: http://212.102.60.39:2200/BRX/Premiere_4_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/premiere0.png
 Nome: Premiere 4 UHD
 Url: http://212.102.60.39:2200/BRX/Premiere_4_UHD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/premiere0.png
 Nome: Premiere 5 HDPLUS
 Url: http://212.102.60.39:2200/BRX/Premiere_5_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/premiere0.png
 Nome: Premiere 5 UHD
 Url: http://212.102.60.39:2200/BRX/Premiere_5_UHD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/premiere0.png
 Nome: Premiere 6 HDPLUS
 Url: http://212.102.60.39:2200/BRX/Premiere_6_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/premiere0.png
 Nome: Premiere 6 UHD
 Url: http://212.102.60.39:2200/BRX/Premiere_6_UHD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/premiere0.png
 Nome: Premiere 7 HDPLUS
 Url: http://212.102.60.39:2200/BRX/Premiere_7_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/premiere0.png
 Nome: Premiere 7 UHD
 Url: http://212.102.60.39:2200/BRX/Premiere_7_UHD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/premiere0.png
 Nome: PrimeBox HD
 Url: http://212.102.60.39:2200/BRX/PrimeBox_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Prime_Box_Brazil.png
 Nome: PrimeBox HDPLUS
 Url: http://212.102.60.39:2200/BRX/PrimeBox_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Prime_Box_Brazil.png
 Nome: PrimeBox UHD
 Url: http://212.102.60.39:2200/BRX/PrimeBox_UHD/index.m3u8?token=null
-Nome: Radio Gaucha AM
-Url: http://212.102.60.39:2200/BRX/Radio_Gaucha_AM/FM/index.m3u8?token=null
-Nome: Radio Jovem Pan Fm
-Url: http://212.102.60.39:2200/BRX/Radio_Jovem_Pan_Fm/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Prime_Box_Brazil.png
 Nome: RBI HD
 Url: http://212.102.60.39:2200/BRX/RBI_HD/index.m3u8?token=null
+Imagem: https://uploaddeimagens.com.br/images/004/525/937/full/rbi.png
 Nome: Record News HD
 Url: http://212.102.60.39:2200/BRX/Record_News_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Record_News.png
 Nome: Record News HDPLUS
 Url: http://212.102.60.39:2200/BRX/Record_News_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Record_News.png
 Nome: Record News UHD
 Url: http://212.102.60.39:2200/BRX/Record_News_UHD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Record_News.png
 Nome: Record Tv HD
 Url: http://212.102.60.39:2200/BRX/Record_Tv_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Record_TV_HD_.png
 Nome: Record Tv HDPLUS
 Url: http://212.102.60.39:2200/BRX/Record_Tv_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Record_TV_HD_.png
 Nome: Record Tv UHD
 Url: http://212.102.60.39:2200/BRX/Record_Tv_UHD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Record_TV_HD_.png
 Nome: Rede Seculo 21 HD
 Url: http://212.102.60.39:2200/BRX/Rede_Seculo_21_HD/index.m3u8?token=null
+Imagem: https://pbs.twimg.com/profile_images/794572766779424772/gDVIqqGP_400x400.jpg
 Nome: Rede Vida HD
 Url: http://212.102.60.39:2200/BRX/Rede_Vida_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Rede_Vida_logo.png
 Nome: Rede Vida HDPLUS
 Url: http://212.102.60.39:2200/BRX/Rede_Vida_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Rede_Vida_logo.png
 Nome: RedeTV HD
 Url: http://212.102.60.39:2200/BRX/RedeTV_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/redetv.png
 Nome: RedeTV HDPLUS
 Url: http://212.102.60.39:2200/BRX/RedeTV_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/redetv.png
 Nome: RedeTV UHD
 Url: http://212.102.60.39:2200/BRX/RedeTV_UHD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/redetv.png
 Nome: RetroCartoon HD
 Url: http://212.102.60.39:2200/BRX/RetroCartoon_HD/index.m3u8?token=null
+Imagem: https://uploaddeimagens.com.br/images/004/525/946/full/retro.png
 Nome: RIT TV HD
 Url: http://212.102.60.39:2200/BRX/RIT_TV_HD/index.m3u8?token=null
+Imagem: https://yt3.googleusercontent.com/MaVPp9mWx1wRr3EnlKftZ16KlVocDNWEGH_WBmJJ-ihruJX_76pMfRO2-Clj1fgmmEb5oN14_fg=s900-c-k-c0x00ffffff-no-rj
 Nome: SBT REDE MASSA UHD
 Url: http://212.102.60.39:2200/BRX/SBT_REDE_MASSA_UHD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/0_sbt_logo.png
 Nome: SBT HD
 Url: http://212.102.60.39:2200/BRX/SBT_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/0_sbt_logo.png
 Nome: SBT HDPLUS
 Url: http://212.102.60.39:2200/BRX/SBT_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/0_sbt_logo.png
 Nome: SBT UHD
 Url: http://212.102.60.39:2200/BRX/SBT_UHD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/0_sbt_logo.png
 Nome: SexyKpop HD
 Url: http://212.102.60.39:2200/BRX/SexyKpop_HD/index.m3u8?token=null
+Imagem: https://yt3.ggpht.com/ytc/AMLnZu_xex0udPTCKQ77xshT-k0AJ_zCMJC31NaWiYMP=s900-c-k-c0x00ffffff-no-rj
 Nome: ShopTime HD
 Url: http://212.102.60.39:2200/BRX/ShopTime_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/shoptime.png
 Nome: Sic HD
 Url: http://212.102.60.39:2200/BRX/Sic_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/SIC_Internacional.png
 Nome: Sic HDPLUS
 Url: http://212.102.60.39:2200/BRX/Sic_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/SIC_Internacional.png
 Nome: Smithsonian HD
 Url: http://212.102.60.39:2200/BRX/Smithsonian_HD/index.m3u8?token=null
+Imagem: https://www.iarpccollaborations.org/uploads/cms/images/si_hmsg_alternate_clr.png
 Nome: Smithsonian HDPLUS
 Url: http://212.102.60.39:2200/BRX/Smithsonian_HDPLUS/index.m3u8?token=null
+Imagem: https://www.iarpccollaborations.org/uploads/cms/images/si_hmsg_alternate_clr.png
 Nome: Space HD
 Url: http://212.102.60.39:2200/BRX/Space_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Space.png
 Nome: Space HDPLUS
 Url: http://212.102.60.39:2200/BRX/Space_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Space.png
 Nome: Space UHD
 Url: http://212.102.60.39:2200/BRX/Space_UHD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Space.png
 Nome: SporTV 1 HD
 Url: http://212.102.60.39:2200/BRX/SporTV_1_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/1280px-SporTV_2017_logo.png
 Nome: SporTV 1 HDPLUS
 Url: http://212.102.60.39:2200/BRX/SporTV_1_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/1280px-SporTV_2017_logo.png
 Nome: SporTV 1 UHD
 Url: http://212.102.60.39:2200/BRX/SporTV_1_UHD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/1280px-SporTV_2017_logo.png
 Nome: SporTV 2 HD
 Url: http://212.102.60.39:2200/BRX/SporTV_2_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Sportv2.png
 Nome: SporTV 2 HDPLUS
 Url: http://212.102.60.39:2200/BRX/SporTV_2_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Sportv2.png
 Nome: SporTV 2 UHD
 Url: http://212.102.60.39:2200/BRX/SporTV_2_UHD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Sportv2.png
 Nome: SporTV 3 HD
 Url: http://212.102.60.39:2200/BRX/SporTV_3_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/1280px-SporTV_2017_logo.png
 Nome: SporTV 3 HDPLUS
 Url: http://212.102.60.39:2200/BRX/SporTV_3_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/1280px-SporTV_2017_logo.png
 Nome: SporTV 3 UHD
 Url: http://212.102.60.39:2200/BRX/SporTV_3_UHD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/1280px-SporTV_2017_logo.png
 Nome: Star Channel HD
 Url: http://212.102.60.39:2200/BRX/Star_Channel_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/star-channel-us.png
 Nome: Star Channel HDPLUS
 Url: http://212.102.60.39:2200/BRX/Star_Channel_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/star-channel-us.png
 Nome: Star Channel UHD
 Url: http://212.102.60.39:2200/BRX/Star_Channel_UHD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/star-channel-us.png
 Nome: Studio HD
 Url: http://212.102.60.39:2200/BRX/Studio_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/studiouni.png
 Nome: Studio HDPLUS
 Url: http://212.102.60.39:2200/BRX/Studio_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/studiouni.png
 Nome: Studio UHD
 Url: http://212.102.60.39:2200/BRX/Studio_UHD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/studiouni.png
 Nome: Syfy HD
 Url: http://212.102.60.39:2200/BRX/Syfy_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/syfy.png
 Nome: Syfy HDPLUS
 Url: http://212.102.60.39:2200/BRX/Syfy_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/syfy.png
 Nome: Syfy UHD
 Url: http://212.102.60.39:2200/BRX/Syfy_UHD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/syfy.png
 Nome: TBS HD
 Url: http://212.102.60.39:2200/BRX/TBS_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/TBS.png
 Nome: TBS HDPLUS
 Url: http://212.102.60.39:2200/BRX/TBS_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/TBS.png
 Nome: TBS UHD
 Url: http://212.102.60.39:2200/BRX/TBS_UHD/index.m3u8?token=null
-Nome: TC Action HD
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/TBS.png
+Nome: TeleCine Action HD
 Url: http://212.102.60.39:2200/BRX/TC_Action_HD/index.m3u8?token=null
-Nome: TC Action HDPLUS
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/telecine2.png
+Nome: TeleCine Action HDPLUS
 Url: http://212.102.60.39:2200/BRX/TC_Action_HDPLUS/index.m3u8?token=null
-Nome: TC Action UHD
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/telecine2.png
+Nome: TeleCine Action UHD
 Url: http://212.102.60.39:2200/BRX/TC_Action_UHD/index.m3u8?token=null
-Nome: TC Cult HD
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/telecine2.png
+Nome: TeleCine Cult HD
 Url: http://212.102.60.39:2200/BRX/TC_Cult_HD/index.m3u8?token=null
-Nome: TC Cult HDPLUS
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/telecine4.png
+Nome: TeleCine Cult HDPLUS
 Url: http://212.102.60.39:2200/BRX/TC_Cult_HDPLUS/index.m3u8?token=null
-Nome: TC Cult UHD
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/telecine4.png
+Nome: TeleCine Cult UHD
 Url: http://212.102.60.39:2200/BRX/TC_Cult_UHD/index.m3u8?token=null
-Nome: TC Fun HD
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/telecine4.png
+Nome: TeleCine Fun HD
 Url: http://212.102.60.39:2200/BRX/TC_Fun_HD/index.m3u8?token=null
-Nome: TC Fun HDPLUS
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/telecine5.png
+Nome: TeleCine Fun HDPLUS
 Url: http://212.102.60.39:2200/BRX/TC_Fun_HDPLUS/index.m3u8?token=null
-Nome: TC Fun UHD
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/telecine5.png
+Nome: TeleCine Fun UHD
 Url: http://212.102.60.39:2200/BRX/TC_Fun_UHD/index.m3u8?token=null
-Nome: TC Pipoca HD
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/telecine5.png
+Nome: TeleCine Pipoca HD
 Url: http://212.102.60.39:2200/BRX/TC_Pipoca_HD/index.m3u8?token=null
-Nome: TC Pipoca HDPLUS
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/telecine3.png
+Nome: TeleCine Pipoca HDPLUS
 Url: http://212.102.60.39:2200/BRX/TC_Pipoca_HDPLUS/index.m3u8?token=null
-Nome: TC Pipoca UHD
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/telecine3.png
+Nome: TeleCine Pipoca UHD
 Url: http://212.102.60.39:2200/BRX/TC_Pipoca_UHD/index.m3u8?token=null
-Nome: TC Premium HD
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/telecine3.png
+Nome: TeleCine Premium HD
 Url: http://212.102.60.39:2200/BRX/TC_Premium_HD/index.m3u8?token=null
-Nome: TC Premium HDPLUS
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/telecine1.png
+Nome: TeleCine Premium HDPLUS
 Url: http://212.102.60.39:2200/BRX/TC_Premium_HDPLUS/index.m3u8?token=null
-Nome: TC Premium UHD
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/telecine1.png
+Nome: TeleCine Premium UHD
 Url: http://212.102.60.39:2200/BRX/TC_Premium_UHD/index.m3u8?token=null
-Nome: TC Touch HD
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/telecine1.png
+Nome: TeleCine Touch HD
 Url: http://212.102.60.39:2200/BRX/TC_Touch_HD/index.m3u8?token=null
-Nome: TC Touch HDPLUS
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/telecine6.png
+Nome: TeleCine Touch HDPLUS
 Url: http://212.102.60.39:2200/BRX/TC_Touch_HDPLUS/index.m3u8?token=null
-Nome: TC Touch UHD
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/telecine6.png
+Nome: TeleCine Touch UHD
 Url: http://212.102.60.39:2200/BRX/TC_Touch_UHD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/telecine6.png
 Nome: TCM HD
 Url: http://212.102.60.39:2200/BRX/TCM_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/tcm.png
 Nome: TCM HDPLUS
 Url: http://212.102.60.39:2200/BRX/TCM_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/tcm.png
 Nome: TCM UHD
 Url: http://212.102.60.39:2200/BRX/TCM_UHD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/tcm.png
 Nome: TERRA VIVA HD
 Url: http://212.102.60.39:2200/BRX/TERRA_VIVA_HD/index.m3u8?token=null
+Imagem: https://telaviva.com.br/wp-content/uploads/2015/03/terraviva.jpg
 Nome: TLC HD
 Url: http://212.102.60.39:2200/BRX/TLC_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/TLClogo.png
 Nome: TLC HDPLUS
 Url: http://212.102.60.39:2200/BRX/TLC_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/TLClogo.png
 Nome: TLC UHD
 Url: http://212.102.60.39:2200/BRX/TLC_UHD/index.m3u8?token=null
-Nome: TLC UHD
-Url: http://212.102.60.39:2200/BRX/TLC_UHD/index.m3u8?token=null
-Nome: TNT  1 HD
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/TLClogo.png
+Nome: TNT 1 HD
 Url: http://212.102.60.39:2200/BRX/TNT__1_HD/index.m3u8?token=null
-Nome: TLC UHD
-Url: http://212.102.60.39:2200/BRX/TLC_UHD/index.m3u8?token=null
-Nome: TLC UHD
-Url: http://212.102.60.39:2200/BRX/TLC_UHD/index.m3u8?token=null
-Nome: TNT  2 HDPLUS
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/tnt.png
+Nome: TNT 2 HDPLUS
 Url: http://212.102.60.39:2200/BRX/TNT__2_HDPLUS/index.m3u8?token=null
-Nome: TNT  3 UHD
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/tnt.png
+Nome: TNT 3 UHD
 Url: http://212.102.60.39:2200/BRX/TNT__3_UHD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/tnt.png
 Nome: TNT Series HD
 Url: http://212.102.60.39:2200/BRX/TNT_Series_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/TNT_Serie_HD_Logo_.png
 Nome: TNT Series HDPLUS
 Url: http://212.102.60.39:2200/BRX/TNT_Series_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/TNT_Serie_HD_Logo_.png
 Nome: TNT Series UHD
 Url: http://212.102.60.39:2200/BRX/TNT_Series_UHD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/TNT_Serie_HD_Logo_.png
 Nome: Tooncast HD
 Url: http://212.102.60.39:2200/BRX/Tooncast_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/pic_tooncast.png
 Nome: Tooncast HDPLUS
 Url: http://212.102.60.39:2200/BRX/Tooncast_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/pic_tooncast.png
 Nome: Tooncast UHD
 Url: http://212.102.60.39:2200/BRX/Tooncast_UHD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/pic_tooncast.png
 Nome: Travel Box Brazil HD
 Url: http://212.102.60.39:2200/BRX/Travel_Box_Brazil_HD/index.m3u8?token=null
+Imagem: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhEARe3x3oD-adnAnyQkQb2LHSxLL0MDcwYfh14uNGNzni7PSI0YQftyPyRGfyzlrYE3A&usqp=CAU
 Nome: TruTV HD
 Url: http://212.102.60.39:2200/BRX/TruTV_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/tru_tv_br.png
 Nome: TV A Critica
 Url: http://212.102.60.39:2200/BRX/TV_A_Critica/index.m3u8?token=null
+Imagem: https://upload.wikimedia.org/wikipedia/pt/thumb/8/8d/Logotipo_da_TV_A_Cr%C3%ADtica_%282017%E2%80%932019%29.png/200px-Logotipo_da_TV_A_Cr%C3%ADtica_%282017%E2%80%932019%29.png
 Nome: Tv Brasil
 Url: http://212.102.60.39:2200/BRX/Tv_Brasil/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/TV_Brasil.png
 Nome: TV Evangelizar HD
 Url: http://212.102.60.39:2200/BRX/TV_Evangelizar_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/tv_evangelizar_br.png
 Nome: Tv Gazeta HD
 Url: http://212.102.60.39:2200/BRX/Tv_Gazeta_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Gazeta.PNG
 Nome: Tv Pai Eterno HD
 Url: http://212.102.60.39:2200/BRX/Tv_Pai_Eterno_HD/index.m3u8?token=null
+Imagem: https://media.licdn.com/dms/image/C560BAQH-en4lGkj-7Q/company-logo_200_200/0/1563805450273?e=2147483647&v=beta&t=X2oMTzsJLV02h3Fu6V94Rdy84njwsfMYa7XnUXbxFgw
 Nome: TV WA HD
 Url: http://212.102.60.39:2200/BRX/TV_WA_HD/index.m3u8?token=null
+Imagem: https://upload.wikimedia.org/wikipedia/pt/archive/0/0f/20210207032111%21LogoTVWA.png
 Nome: TV5 HD
 Url: http://212.102.60.39:2200/BRX/TV5_HD/index.m3u8?token=null
+Imagem: https://static.wikia.nocookie.net/russel/images/3/32/5_Alternative_Logo_2019.png/revision/latest/scale-to-width-down/250?cb=20190221095501
 Nome: TVE HD
 Url: http://212.102.60.39:2200/BRX/TVE_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/TVE.png
 Nome: Universal TV HD
 Url: http://212.102.60.39:2200/BRX/Universal_TV_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Universal_TV_HD_Logo_2018.png
 Nome: Universal TV HDPLUS
 Url: http://212.102.60.39:2200/BRX/Universal_TV_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Universal_TV_HD_Logo_2018.png
 Nome: Universal TV UHD
 Url: http://212.102.60.39:2200/BRX/Universal_TV_UHD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Universal_TV_HD_Logo_2018.png
 Nome: Urban Sports HD
 Url: http://212.102.60.39:2200/BRX/Urban_Sports_HD/index.m3u8?token=null
+Imagem: https://s2-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/761/500/original/1616171296475.jpeg
 Nome: Viva HD
 Url: http://212.102.60.39:2200/BRX/Viva_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/viva.png
 Nome: Viva HDPLUS
 Url: http://212.102.60.39:2200/BRX/Viva_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/viva.png
 Nome: Viva UHD
 Url: http://212.102.60.39:2200/BRX/Viva_UHD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/viva.png
 Nome: Warner HD
 Url: http://212.102.60.39:2200/BRX/Warner_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/wb.png
 Nome: Warner HDPLUS
 Url: http://212.102.60.39:2200/BRX/Warner_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/wb.png
 Nome: Warner UHD
 Url: http://212.102.60.39:2200/BRX/Warner_UHD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/wb.png
 Nome: Woohoo HD
 Url: http://212.102.60.39:2200/BRX/Woohoo_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/woohoo.png
 Nome: Woohoo HDPLUS
 Url: http://212.102.60.39:2200/BRX/Woohoo_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/woohoo.png
