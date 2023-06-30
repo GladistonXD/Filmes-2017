@@ -339,7 +339,7 @@ Url: http://212.102.60.39:2200/BRX/ESPN_EXTRA_UHD/index.m3u8?token=null
 Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/ESPN.png
 Nome: FashionTV HD
 Url: http://212.102.60.39:2200/BRX/FashionTV_HD/index.m3u8?token=null
-Imagem: https://is2-ssl.mzstatic.com/image/thumb/Purple116/v4/c6/44/75/c644754c-e9f1-b633-47b2-c6c1ac459f8f/FashionTV_iOS-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/fashiontv.png
 Nome: Film&Arts HD
 Url: http://212.102.60.39:2200/BRX/FilmArts_HD/index.m3u8?token=null
 Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/film-arts.png
@@ -364,16 +364,16 @@ Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens
 Nome: Food Network 4K
 Url: http://212.102.60.39:2200/BRX/Food_Network_UHD/index.m3u8?token=null
 Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/615px-Food_Network_New_Logo.png
-Nome: FOX News HD
+Nome: Fox News HD
 Url: http://212.102.60.39:2200/BRX/FOX_NEWS_HD/index.m3u8?token=null
 Imagem: https://images.sftcdn.net/images/t_app-icon-m/p/19678994-9781-11e6-b978-3d0701f8b8a8/2697466923/fox-news-logo
-Nome: FOX Sports 2 HD
+Nome: Fox Sports 2 HD
 Url: http://212.102.60.39:2200/BRX/FOX_Sports2_HD/index.m3u8?token=null
 Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/FOX_Sports_logo2.png
-Nome: FOX Sports 2 HD+
+Nome: Fox Sports 2 HD+
 Url: http://212.102.60.39:2200/BRX/FOX_Sports2_HDPLUS/index.m3u8?token=null
 Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/FOX_Sports_logo2.png
-Nome: FOX Sports 2 4K
+Nome: Fox Sports 2 4K
 Url: http://212.102.60.39:2200/BRX/FOX_Sports2_UHD/index.m3u8?token=null
 Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/FOX_Sports_logo2.png
 Nome: Futura HD
