@@ -22,12 +22,6 @@ Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens
 Nome: AMC HD+
 Url: http://212.102.60.39:2200/BRX/AMC_HDPLUS/index.m3u8?token=null
 Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/amc.png
-Nome: Aparecida HD
-Url: http://212.102.60.39:2200/BRX/Aparecida_HD/index.m3u8?token=null
-Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/rede_aparecida.png
-Nome: Aparecida HD+
-Url: http://212.102.60.39:2200/BRX/Aparecida_HDPLUS/index.m3u8?token=null
-Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/rede_aparecida.png
 Nome: Arte1 HD
 Url: http://212.102.60.39:2200/BRX/Arte_1_HD/index.m3u8?token=null
 Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Arte-1-Logo-1-1927.png
@@ -46,6 +40,12 @@ Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens
 Nome: AllSports HD
 Url: http://212.102.60.39:2200/BRX/AllSports_HD/index.m3u8?token=null
 Imagem: https://uploaddeimagens.com.br/images/004/525/788/original/allsports.png
+Nome: Aparecida HD
+Url: http://212.102.60.39:2200/BRX/Aparecida_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/rede_aparecida.png
+Nome: Aparecida HD+
+Url: http://212.102.60.39:2200/BRX/Aparecida_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/rede_aparecida.png
 Nome: BabyTV HD
 Url: http://212.102.60.39:2200/BRX/BabyTV_HD/index.m3u8?token=null
 Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/BabyTV.png
@@ -439,13 +439,13 @@ Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens
 Nome: Globo NSC Floripa HD
 Url: http://212.102.60.39:2200/BRX/Globo_NSC_Floripa_HD/index.m3u8?token=null
 Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Logo-tv-globo-2015.png
-Nome: Globo RBS Poa HD
+Nome: Globo RBS Porto Alegre HD
 Url: http://212.102.60.39:2200/BRX/Globo_RBS_Poa_HD/index.m3u8?token=null
 Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Logo-tv-globo-2015.png
-Nome: Globo RBS Poa HD+
+Nome: Globo RBS Porto Alegre HD+
 Url: http://212.102.60.39:2200/BRX/Globo_RBS_Poa_HDPLUS/index.m3u8?token=null
 Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Logo-tv-globo-2015.png
-Nome: Globo RBS Poa 4K
+Nome: Globo RBS Porto Alegre 4K
 Url: http://212.102.60.39:2200/BRX/Globo_RBS_Poa_UHD/index.m3u8?token=null
 Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Logo-tv-globo-2015.png
 Nome: Globo RJ HD
@@ -469,7 +469,7 @@ Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens
 Nome: Globo RPC Foz 4K
 Url: http://212.102.60.39:2200/BRX/Globo_Rpc_Foz_UHD/index.m3u8?token=null
 Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Logo-tv-globo-2015.png
-Nome: Globo SP  UMA HORA DE ATRASO
+Nome: Globo SP UMA HORA DE ATRASO HD
 Url: http://212.102.60.39:2200/BRX/Globo_SP__UMA_HORA_DE_ATRASO/index.m3u8?token=null
 Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Logo-tv-globo-2015.png
 Nome: Globo SP HD
@@ -481,31 +481,31 @@ Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens
 Nome: Globo SP 4K
 Url: http://212.102.60.39:2200/BRX/Globo_SP_UHD/index.m3u8?token=null
 Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Logo-tv-globo-2015.png
-Nome: Globo Tv Amazonas HD
+Nome: Globo TV Amazonas HD
 Url: http://212.102.60.39:2200/BRX/Globo_Tv_Amazonas_HD/index.m3u8?token=null
 Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Logo-tv-globo-2015.png
-Nome: Globo Tv Amazonas HD+
+Nome: Globo TV Amazonas HD+
 Url: http://212.102.60.39:2200/BRX/Globo_Tv_Amazonas_HDPLUS/index.m3u8?token=null
 Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Logo-tv-globo-2015.png
-Nome: Globo Tv Amazonas 4K
+Nome: Globo TV Amazonas 4K
 Url: http://212.102.60.39:2200/BRX/Globo_Tv_Amazonas_UHD/index.m3u8?token=null
 Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Logo-tv-globo-2015.png
-Nome: Globo Tv Bahia HD
+Nome: Globo TV Bahia HD
 Url: http://212.102.60.39:2200/BRX/Globo_Tv_Bahia_HD/index.m3u8?token=null
 Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Logo-tv-globo-2015.png
-Nome: Globo Tv Bahia HD+
+Nome: Globo TV Bahia HD+
 Url: http://212.102.60.39:2200/BRX/Globo_Tv_Bahia_HDPLUS/index.m3u8?token=null
 Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Logo-tv-globo-2015.png
-Nome: Globo Tv Tem Bauru HD
+Nome: Globo TV Tem Bauru HD
 Url: http://212.102.60.39:2200/BRX/Globo_Tv_Tem_Bauru_HD/index.m3u8?token=null
 Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Logo-tv-globo-2015.png
-Nome: Globo Tv Tem Sorocaba HD
+Nome: Globo TV Tem Sorocaba HD
 Url: http://212.102.60.39:2200/BRX/Globo_Tv_Tem_Sorocaba_HD/index.m3u8?token=null
 Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Logo-tv-globo-2015.png
-Nome: Globo Tv Tribuna Santos HD
+Nome: Globo TV Tribuna Santos HD
 Url: http://212.102.60.39:2200/BRX/Globo_Tv_Tribuna_Santos_HD/index.m3u8?token=null
 Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Logo-tv-globo-2015.png
-Nome: Globo Tv Vanguarda SJ HD
+Nome: Globo TV Vanguarda SJ HD
 Url: http://212.102.60.39:2200/BRX/Globo_Tv_Vanguarda_SJ_HD/index.m3u8?token=null
 Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Logo-tv-globo-2015.png
 Nome: Globo Verdes Mares HD
@@ -739,13 +739,13 @@ Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens
 Nome: Nick 4K
 Url: http://212.102.60.39:2200/BRX/Nick_UHD/index.m3u8?token=null
 Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/NICKELODEON_Logo.png
-Nome: Nick Jr HD
+Nome: Nick JR HD
 Url: http://212.102.60.39:2200/BRX/Nick_Jr_HD/index.m3u8?token=null
 Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Nick_jr.png
-Nome: Nick Jr HD+
+Nome: Nick JR HD+
 Url: http://212.102.60.39:2200/BRX/Nick_Jr_HDPLUS/index.m3u8?token=null
 Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Nick_jr.png
-Nome: Nick Jr 4K
+Nome: Nick JR 4K
 Url: http://212.102.60.39:2200/BRX/Nick_Jr_UHD/index.m3u8?token=null
 Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Nick_jr.png
 Nome: Novo Tempo HD
@@ -841,13 +841,13 @@ Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens
 Nome: Record News 4K
 Url: http://212.102.60.39:2200/BRX/Record_News_UHD/index.m3u8?token=null
 Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Record_News.png
-Nome: Record Tv HD
+Nome: Record TV HD
 Url: http://212.102.60.39:2200/BRX/Record_Tv_HD/index.m3u8?token=null
 Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Record_TV_HD_.png
-Nome: Record Tv HD+
+Nome: Record TV HD+
 Url: http://212.102.60.39:2200/BRX/Record_Tv_HDPLUS/index.m3u8?token=null
 Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Record_TV_HD_.png
-Nome: Record Tv 4K
+Nome: Record TV 4K
 Url: http://212.102.60.39:2200/BRX/Record_Tv_UHD/index.m3u8?token=null
 Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Record_TV_HD_.png
 Nome: Rede Seculo 21 HD
@@ -913,28 +913,28 @@ Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens
 Nome: Space 4K
 Url: http://212.102.60.39:2200/BRX/Space_UHD/index.m3u8?token=null
 Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Space.png
-Nome: SporTV 1 HD
+Nome: SporTV HD
 Url: http://212.102.60.39:2200/BRX/SporTV_1_HD/index.m3u8?token=null
 Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/SporTV_2_logo_20167.png
-Nome: SporTV 1 HD+
+Nome: SporTV HD+
 Url: http://212.102.60.39:2200/BRX/SporTV_1_HDPLUS/index.m3u8?token=null
 Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/SporTV_2_logo_20167.png
-Nome: SporTV 1 4K
+Nome: SporTV 4K
 Url: http://212.102.60.39:2200/BRX/SporTV_1_UHD/index.m3u8?token=null
 Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/SporTV_2_logo_20167.png
-Nome: SporTV 2 HD
+Nome: SporTV2 HD
 Url: http://212.102.60.39:2200/BRX/SporTV_2_HD/index.m3u8?token=null
 Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Sportv2.png
-Nome: SporTV 2 HD+
+Nome: SporTV2 HD+
 Url: http://212.102.60.39:2200/BRX/SporTV_2_HDPLUS/index.m3u8?token=null
 Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Sportv2.png
-Nome: SporTV 2 4K
+Nome: SporTV2 4K
 Url: http://212.102.60.39:2200/BRX/SporTV_2_UHD/index.m3u8?token=null
 Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Sportv2.png
-Nome: SporTV 3 HD
+Nome: SporTV3 HD
 Url: http://212.102.60.39:2200/BRX/SporTV_3_HD/index.m3u8?token=null
 Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/SporTV3.png
-Nome: SporTV 3 HD+
+Nome: SporTV3 HD+
 Url: http://212.102.60.39:2200/BRX/SporTV_3_HDPLUS/index.m3u8?token=null
 Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/SporTV3.png
 Nome: SporTV 3 4K
@@ -976,6 +976,15 @@ Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens
 Nome: TBS 4K
 Url: http://212.102.60.39:2200/BRX/TBS_UHD/index.m3u8?token=null
 Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/TBS.png
+Nome: TeleCine Premium HD
+Url: http://212.102.60.39:2200/BRX/TC_Premium_HD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/telecine1.png
+Nome: TeleCine Premium HD+
+Url: http://212.102.60.39:2200/BRX/TC_Premium_HDPLUS/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/telecine1.png
+Nome: TeleCine Premium 4K
+Url: http://212.102.60.39:2200/BRX/TC_Premium_UHD/index.m3u8?token=null
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/telecine1.png
 Nome: TeleCine Action HD
 Url: http://212.102.60.39:2200/BRX/TC_Action_HD/index.m3u8?token=null
 Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/telecine2.png
@@ -1012,15 +1021,6 @@ Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens
 Nome: TeleCine Pipoca 4K
 Url: http://212.102.60.39:2200/BRX/TC_Pipoca_UHD/index.m3u8?token=null
 Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/telecine3.png
-Nome: TeleCine Premium HD
-Url: http://212.102.60.39:2200/BRX/TC_Premium_HD/index.m3u8?token=null
-Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/telecine1.png
-Nome: TeleCine Premium HD+
-Url: http://212.102.60.39:2200/BRX/TC_Premium_HDPLUS/index.m3u8?token=null
-Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/telecine1.png
-Nome: TeleCine Premium 4K
-Url: http://212.102.60.39:2200/BRX/TC_Premium_UHD/index.m3u8?token=null
-Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/telecine1.png
 Nome: TeleCine Touch HD
 Url: http://212.102.60.39:2200/BRX/TC_Touch_HD/index.m3u8?token=null
 Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/telecine6.png
@@ -1051,13 +1051,13 @@ Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens
 Nome: TLC 4K
 Url: http://212.102.60.39:2200/BRX/TLC_UHD/index.m3u8?token=null
 Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/TLClogo.png
-Nome: TNT 1 HD
+Nome: TNT HD
 Url: http://212.102.60.39:2200/BRX/TNT__1_HD/index.m3u8?token=null
 Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/tnt.png
-Nome: TNT 2 HD+
+Nome: TNT HD+
 Url: http://212.102.60.39:2200/BRX/TNT__2_HDPLUS/index.m3u8?token=null
 Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/tnt.png
-Nome: TNT 3 4K
+Nome: TNT 4K
 Url: http://212.102.60.39:2200/BRX/TNT__3_UHD/index.m3u8?token=null
 Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/tnt.png
 Nome: TNT Series HD
@@ -1087,16 +1087,16 @@ Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens
 Nome: TV A Critica
 Url: http://212.102.60.39:2200/BRX/TV_A_Critica/index.m3u8?token=null
 Imagem: https://upload.wikimedia.org/wikipedia/pt/thumb/8/8d/Logotipo_da_TV_A_Cr%C3%ADtica_%282017%E2%80%932019%29.png/200px-Logotipo_da_TV_A_Cr%C3%ADtica_%282017%E2%80%932019%29.png
-Nome: Tv Brasil
+Nome: TV Brasil
 Url: http://212.102.60.39:2200/BRX/Tv_Brasil/index.m3u8?token=null
 Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/TV_Brasil.png
 Nome: TV Evangelizar HD
 Url: http://212.102.60.39:2200/BRX/TV_Evangelizar_HD/index.m3u8?token=null
 Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/tv_evangelizar_br.png
-Nome: Tv Gazeta HD
+Nome: TV Gazeta HD
 Url: http://212.102.60.39:2200/BRX/Tv_Gazeta_HD/index.m3u8?token=null
 Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Gazeta.PNG
-Nome: Tv Pai Eterno HD
+Nome: TV Pai Eterno HD
 Url: http://212.102.60.39:2200/BRX/Tv_Pai_Eterno_HD/index.m3u8?token=null
 Imagem: https://media.licdn.com/dms/image/C560BAQH-en4lGkj-7Q/company-logo_200_200/0/1563805450273?e=2147483647&v=beta&t=X2oMTzsJLV02h3Fu6V94Rdy84njwsfMYa7XnUXbxFgw
 Nome: TV WA HD
@@ -1110,13 +1110,13 @@ Url: http://212.102.60.39:2200/BRX/TVE_HD/index.m3u8?token=null
 Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/TVE.png
 Nome: Universal TV HD
 Url: http://212.102.60.39:2200/BRX/Universal_TV_HD/index.m3u8?token=null
-Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Universal_TV_HD_Logo_2018.png
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/universaltv.png
 Nome: Universal TV HD+
 Url: http://212.102.60.39:2200/BRX/Universal_TV_HDPLUS/index.m3u8?token=null
-Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Universal_TV_HD_Logo_2018.png
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/universaltv.png
 Nome: Universal TV 4K
 Url: http://212.102.60.39:2200/BRX/Universal_TV_UHD/index.m3u8?token=null
-Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/Universal_TV_HD_Logo_2018.png
+Imagem: https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/universaltv.png
 Nome: Urban Sports HD
 Url: http://212.102.60.39:2200/BRX/Urban_Sports_HD/index.m3u8?token=null
 Imagem: https://s2-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/761/500/original/1616171296475.jpeg
