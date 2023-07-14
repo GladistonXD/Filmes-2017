@@ -15,7 +15,7 @@
 </item>
 <item>
 <item><title>[B][COLOR white]1MUSIC[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>http://1music.hu/1music.m3u8|Referer=http://1music.hu/live&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36</link>
+<lin#k>http://1music.hu/1music.m3u8|Referer=http://1music.hu/live&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36</link>
 <thumbnail>https://pbs.twimg.com/profile_images/1236985735099662349/ZQJwrETH_400x400.jpg</thumbnail>
 </item>
 <item>
@@ -41,7 +41,7 @@
 </item>
 <item>
 <item><title>[B][COLOR white]DEEJAY TV[/COLOR] [COLOR lime]SD[/COLOR][/B]</title>
-<link>https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/chunklist_b2816000.m3u8</link>
+<link>https://streamcdnb4-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/chunklist_b3297989.m3u8</link>
 <thumbnail>https://mytuner.global.ssl.fastly.net/media/tvos_radios/p6XeFjfDZh.jpg</thumbnail>
 </item>
 
@@ -52,7 +52,7 @@
 </item>
 <item>
 <item><title>[B][COLOR white]COMPANY TV[/COLOR] [COLOR lime]SD[/COLOR][/B]</title>
-<link>http://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_360p/playlist.m3u8</link>
+<link>https://company.fluid.stream/CompanyTV/smil:Company_ALL.smil/chunklist_w1514998532_b2128000_slita.m3u8</link>
 <thumbnail>https://cdn-profiles.tunein.com/s16195/images/logod.png</thumbnail>
 </item>
 
@@ -73,12 +73,12 @@
 </item>
 <item>
 <item><title>[B][COLOR white]RADIO M2O[/COLOR] [COLOR lime]SD[/COLOR][/B]</title>
-<link>https://streamcdnd2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b2816000.m3u8</link>
+<link>https://streamcdnb2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b2265257.m3u8</link>
 <thumbnail>https://static-media.streema.com/media/cache/47/12/471277eb24aab6e2f6e5cf3608b4ee2c.jpg</thumbnail>
 </item>
 <item>
 <item><title>[B][COLOR white]RADIO CAPITAL[/COLOR] [COLOR lime]SD[/COLOR][/B]</title>
-<link>https://streamcdnd1-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/chunklist_b2304000.m3u8</link>
+<link>https://streamcdnb1-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/chunklist_b2304000.m3u8</link>
 <thumbnail>https://mytuner.global.ssl.fastly.net/media/tvos_radios/FmNGaY8AN4.jpg</thumbnail>
 </item>
 <item>
@@ -93,7 +93,7 @@
 </item>
 <item>
 <item><title>[B][COLOR white]RADIO ITALIA TV[/COLOR] [COLOR lime]HD+[/COLOR][/B]</title>
-<link>http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8?sd=10&rebase=on</link>
+<link>https://radioitaliatv.akamaized.net/hls/live/2093117-b/RadioitaliaTV/stream03/streamPlaylist.m3u8</link>
 <thumbnail>https://logos-download.com/wp-content/uploads/2017/12/Radio_Italia_logo-700x700.png</thumbnail>
 </item>
 
@@ -111,7 +111,7 @@
 </item>
 <item>
 <item><title>[B][COLOR white]RADIO U TV[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>https://cdnlive.radiou.com/LS-ATL-43240-1/tracks-v1a1/mono.m3u8</link>
+<link>https://1826200335.rsc.cdn77.org/1826200335/tracks-v1a1/mono.m3u8</link>
 <thumbnail>https://radiou.com/wp-content/uploads/2014/07/LogoFullsize140724-300x300.jpg</thumbnail>
 </item>
 <item>
@@ -136,7 +136,7 @@
 <thumbnail>https://i1.sndcdn.com/artworks-000122130329-brysnm-t500x500.jpg</thumbnail>
 </item>
 <item>
-<item><title>[B][COLOR white]ROCKTV[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<item><ti#tle>[B][COLOR white]ROCKTV[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/chunklist_w91075036_b1600000.m3u8?publisher=83</link>
 <thumbnail>http://db.radioline.fr/pictures/radio_52a9118394d09b5398fc5995c0f1140c/logo200.jpg?size=200</thumbnail>
 </item>
