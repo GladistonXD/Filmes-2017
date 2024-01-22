@@ -10,7 +10,7 @@
 </item>
 <item>
 <item><title>[B][COLOR white]RADIO MONTE CARLOS ALT[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>https://live3.msr.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(bb)/manifest.mpd</link>
+<link>https://live03-col.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/manifest_hr.mpd</link>
 <thumbnail>https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/MonteCarlos.png</thumbnail>
 </item>
 <item>
@@ -63,7 +63,7 @@
 </item>
 <item>
 <item><title>[B][COLOR white]VIRGIN TV ROCK[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>https://live3.msr.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(ew)/manifest.mpd</link>
+<link>https://live03-col.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/manifest_hr.mpd</link>
 <thumbnail>https://raw.githubusercontent.com/GladistonXD/Filmes-2017/master/imagens/VirginTV.png</thumbnail>
 </item>
 <item>
